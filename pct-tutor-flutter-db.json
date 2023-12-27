@@ -1,0 +1,2010 @@
+{
+  "category" : [
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Designs.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Marken.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Urheberrechtlich geschützte Werke.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Erfindungen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Anmeldungen zum Schutz von Erfindungen können nach #linkpct#ar3|Artikel 3 (1) PCT#endlink# in jedem der Vertragsstaaten als internationale Anmeldungen im Sinne dieses Vertrags [des PCT] eingereicht werden.",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Archimedes|Archimedes#endlink# möchte von Ihnen wissen, was als internationale Anmeldung wirksam eingereicht werden kann. Was werden Sie antworten?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 3 Abs. 1"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Zeichnungen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Ausführungsbeispiele.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Marken.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Urheberrechtlich geschützte Werke.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Einen Antrag.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Einen Beschreibung.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Eine Zusammenfassung.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Wenigstens einen Anspruch.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Nach #linkpct#ar3|Artikel 3 (2) PCT#endlink# hat eine internationale Anmeldung in der in diesem Vertrag und der Ausführungsordnung festgelegten Form einen Antrag, eine Beschreibung, einen oder mehrere Ansprüche, eine oder mehrere Zeichnungen (soweit erforderlich) und eine Zusammenfassung zu enthalten. Dabei ist darauf hinzuweisen, dass die Zeichnungen nur optional (soweit erforderlich!) sind. Ausführungsbeispiele sind nicht erwähnt.",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Demokrit|Demokrit#endlink# hat gehört, dass eine vollständige Anmeldung lediglich etwas aufweisen müsse, das den Anschein einer Beschreibung aufweist. Was muss eine internationale Anmeldung aufweisen?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 3 Abs. 2"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Ja, es stehen Merkmale aus den gesamten Anmeldeunterlagen zur Verfügung.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Nein, weil Merkmale zum Einschränken des Hauptanspruchs (Anspruchs 1) nur aus den Unteransprüchen verwendet werden dürfen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Ja, allerdings muss das Merkmal auch in die Beschreibung aufgenommen werden, damit der Anspruch durch die Beschreibung gestützt wird.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Nein, weil die Zusammenfassung lediglich der technischen Information dient.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Nach #linkpct#ar3|Artikel 3 (3) PCT#endlink# dient die Zusammenfassung ausschließlich der technischen Information und kann nicht für andere Zwecke, insbesondere nicht für die Bestimmung des Umfangs des begehrten Schutzes herangezogen werden. Sie kann also auch nicht verwendet werden, um die Ansprüche einzuschränken oder die Beschreibung zu ergänzen.",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Thales|Thales#endlink# hat eine internationale Anmeldung eingereicht. Dabei hat er in Anspruch 1 den Begriff Thaleskreis verwendet, der nur in der Zusammenfassung darauf verweist, dass eine Seite der Durchmesser des Umkreises ist. Im Laufe des Prüfungsverfahrens möchte er dieses Merkmal verwenden. Ist das möglich?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 3 Abs. 3"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Benennungsstaaten.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Benennungsländer.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Bestimmungsländer.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Bestimmungsstaaten.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Gemäß #linkpct#a4|Artikel 4 (1) PCT#endlink# ist im Antrag die Bestimmung des Vertragsstaats oder der Vertragsstaaten, in denen Schutz für die Erfindung auf der Grundlage der internationalen Anmeldung begehrt wird (“Bestimmungsstaaten”), vorzunehmen; dabei werden diese als Bestimmungsstaaten definiert.",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Erasistratos|Erasistratos#endlink# möchte von Ihnen wissen, wie die Länder genannt werden, in denen Schutz für die Erfindung auf der Grundlage der internationalen Anmeldung ersucht wird?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 4 Abs. 1 Bestimmungsstaaten"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Den Namen des Erfinders und andere den Erfinder betreffende vorgeschriebene Angaben.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Die Unterschrift des Anmelders oder Vertreters.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Eine Liste über die dem Antrag beigefügten Anlagen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ein Gesuch auf Behandlung der internationalen Anmeldung nach dem PCT.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Die Bestimmung des Vertragsstaats oder der Vertragsstaaten, in denen Schutz für die Erfindung auf der Grundlage der internationalen Anmeldung begehrt wird.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Den Namen des Anmelders und (soweit vorhanden) des Anwalts sowie andere diese Personen betreffende vorgeschriebene Angaben.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Die Bezeichnung der Erfindung.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkpct#a4|Artikel 4 (1) PCT#endlink# gibt vor, dass der Antrag\n\ni) ein Gesuch auf Behandlung der internationalen Anmeldung nach diesem Vertrag;\nii) die Bestimmung des Vertragsstaats oder der Vertragsstaaten, in denen Schutz für die Erfindung auf der Grundlage der internationalen Anmeldung begehrt wird (“Bestimmungsstaaten”); \niii) den Namen des Anmelders und (soweit vorhanden) des Anwalts sowie andere diese Personen betreffende vorgeschriebene Angaben;\niv) die Bezeichnung der Erfindung;\n \nenthalten muss. Die Nennung des Namens der Erfinder ist nur vorzunehmen, wenn das nationale Recht mindestens eines Bestimmungsstaats verlangt, daß diese Angaben im Zeitpunkt der nationalen Anmeldung eingereicht werden. Damit ist diese Angabe nicht in jedem Fall erforderlich. Die Unterschrift des Anmelders oder Vertreters oder eine Liste der Anlagen fnden sich nicht in Art. 4 PCT.\n",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Zenon_von_Sidon|Zenon von Sidon#endlink# hat eine internationale Anmeldung eingereicht. Er ist sich jetzt aber nicht mehr sicher, ob sein Antrag alle erforderlichen Angaben enthält. Was muss ein Antrag nach dem PCT in jedem Fall enthalten?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 4 Abs. 1 Bestimmungsstaaten"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Theon muss für jeden Bestimmungsstaat die gewünschte Schutzrechtsart (hier: Patent) angeben.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Theon kann für alle Bestimmungsstaaten die gewünschte Schutzrechtsart (hier: Patent) auf einmal angeben, wenn sie für alle Bestimmungsstaaten gleich ist.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Nichts. Es gibt im PCT nur Patente als mögliche Schutzrechtsarten.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Nichts. Eine Bestimmung bedeutet automatisch, daß das Schutzbegehren auf die Erteilung eines Patents in dem oder für den Bestimmungsstaat gerichtet ist.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkpct#a4|Artikel 4 (1) PCT#endlink# gibt vor, dass der Antrag\n\ni) ein Gesuch auf Behandlung der internationalen Anmeldung nach diesem Vertrag;\nii) die Bestimmung des Vertragsstaats oder der Vertragsstaaten, in denen Schutz für die Erfindung auf der Grundlage der internationalen Anmeldung begehrt wird (“Bestimmungsstaaten”); \niii) den Namen des Anmelders und (soweit vorhanden) des Anwalts sowie andere diese Personen betreffende vorgeschriebene Angaben;\niv) die Bezeichnung der Erfindung;\n \nenthalten muss. Die Nennung des Namens der Erfinder ist nur vorzunehmen, wenn das nationale Recht mindestens eines Bestimmungsstaats verlangt, daß diese Angaben im Zeitpunkt der nationalen Anmeldung eingereicht werden. Damit ist diese Angabe nicht in jedem Fall erforderlich. Die Unterschrift des Anmelders oder Vertreters oder eine Liste der Anlagen fnden sich nicht in Art. 4 PCT.\n",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Theon_von_Alexandria|Theon von Alexandria#endlink# möchte über eine internationale Anmeldung  in mehreren Ländern Patente erhalten. Gebrauchsmuster interessieren ihn nicht. Welche Angaben muss der Antrag enthalten, damit er sein Ziel erreicht?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 4 Abs. 3"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Die internationale Anmeldung gilt als nicht eingereicht.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Die internationale Anmeldung gilt als zurückgenommen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Falls die Erfinderbenennung innerhalb von 18 Monaten nach der Einreichung der internationalen Anmeldung nachgereicht wird hat die Nichtnennung keine Konsequenzen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Die Folgen richten sich nach den Bestimmungen der Bestimmungsstaaten. Bei Bestimmungsstaaten, die keine Angaben erfordern, hat die Nichtnennung also keine Folgen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkpct#a4|Artikel 4 (1) PCT#endlink# gibt vor, dass der Antrag\n\ni) ein Gesuch auf Behandlung der internationalen Anmeldung nach diesem Vertrag;\nii) die Bestimmung des Vertragsstaats oder der Vertragsstaaten, in denen Schutz für die Erfindung auf der Grundlage der internationalen Anmeldung begehrt wird (“Bestimmungsstaaten”); \niii) den Namen des Anmelders und (soweit vorhanden) des Anwalts sowie andere diese Personen betreffende vorgeschriebene Angaben;\niv) die Bezeichnung der Erfindung;\n \nenthalten muss. Die Nennung des Namens der Erfinder ist nur vorzunehmen, wenn das nationale Recht mindestens eines Bestimmungsstaats verlangt, daß diese Angaben im Zeitpunkt der nationalen Anmeldung eingereicht werden. Damit ist diese Angabe nicht in jedem Fall erforderlich. Die Unterschrift des Anmelders oder Vertreters oder eine Liste der Anlagen fnden sich nicht in Art. 4 PCT.\n",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Pythagoras|Pythagoras#endlink# hat eine internationale Anmeldung eingereicht, allerdings vergessen, sich als Erfinder zu benennen. Jetzt möchte er von Ihnen wissen, welche Konsequenzen das hat. ",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 4 Abs. 3"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Die Beschreibung muss wenigstens so viel von der Erfindung offenbaren, dass sie den Anschein einer Beschreibung erweckt.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Die Beschreibung muss die Ansprüche wiedergeben.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Die Erfindung ist in allen wesentlichen Merkmalen deutlich und vollständig zu offenbaren. ",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Die Erfindung so deutlich und vollständig zu offenbaren, daß ein Fachmann sie danach ausführen kann. ",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "In der Beschreibung ist nach #linkpct#a5|Artikel 5 PCT#endlink# die Erfindung so deutlich und vollständig zu offenbaren, daß ein Fachmann sie danach ausführen kann. ",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Geminos_von_Rhodos|Geminos von Rhodos#endlink# ist wie viele Mathematiker etwas wortfaul. Er möchte daher wissen, welche Anforderungen an die Beschreibung gestellt werden, die er so kurz wie möglich halten möchte. ",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 5"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Die Ansprüche müssen die Beschreibung stützen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Die Ansprüche müssen alle Merkmale angeben, die für eine Nacharbeitbarkeit der Erfindung wesentlich sind.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Der Anspruch oder die Ansprüche haben den Gegenstand anzugeben, für den Schutz begehrt wird. ",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Die Ansprüche sind klar und knapp zu fassen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Der Anspruch oder die Ansprüche haben gemäß #linkpct#a6|Artikel 6 PCT#endlink# den Gegenstand anzugeben, für den Schutz begehrt wird. Die Ansprüche sind klar und knapp zu fassen. Sie müssen in vollem Umfang durch die Beschreibung gestützt werden und nicht umgekehrt, wie in den Lösungen vorgeschlagen.  ",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Pythagoras|Pythagoras#endlink# fragt Sie um Rat, was alles in die Ansprüche einer internationalen Anmeldung zu schreiben sei.",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 6"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Zeichnungen sind erforderlich, wennder Gegenstand der Erfindung eine Vorrichtung ist.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Zeichnungen sind immer erforderlich.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Zeichnungen sind erforderlich, wenn der Gegenstand der Erfindung Zeichnungen ermöglicht.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Zeichnungen sind erforderlich, wenn sie für das Verständnis der Erfindung notwendig sind.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Zeichnungen sind erforderlich, wenn die Erfindung aber ihrer Art nach der Erläuterung durch Zeichnungen zugänglich ist und ein Bestimmungsamt verlangt, daß der Anmelder solche Zeichnungen innerhalb einer vorgeschriebenen Frist nachreicht.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Zeichnungen sind gemäß #linkpct#a7|Artikel 7 (1) PCT#endlink# erforderlich, wenn sie für das Verständnis der Erfindung notwendig sind oder gemäß #linkpct#a7|Artikel 7 (2) ii PCT#endlink# die Erfindung ihrer Art nach der Erläuterung durch Zeichnungen zugänglich ist und ein Bestimmungsamt verlangt, daß der Anmelder solche Zeichnungen innerhalb einer vorgeschriebenen Frist nachreicht..",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Serenus_von_Antinoupolis|Serenus von Antinoupolis#endlink# hat Zylinderschnitte geübt und möchte darauf eine internationale Anmeldung einreichen. Er mag die kürzlich aufgekommene Technik der Zeichnungen aber nicht besonders und möchte daher wissen, ob und wann eine internationale Anmeldung Zeichnungen aufweisen müsse?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 7 (1) u. (2) ii"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Nein, Zeichnungen dürfen nur beigefügt werden, wenn sie für das Verständnis der Erfindung notwendig sind.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Ja, Zeichnungen sind immer erforderlich.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Ja. Ist die Erfindung  ihrer Art nach der Erläuterung durch Zeichnungen zugänglich, so muss der Anmelder solche Zeichnungen bei Einreichung der internationalen Anmeldung beifügen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ja. Ist die Erfindung ihrer Art nach der Erläuterung durch Zeichnungen zugänglich, so kann der Anmelder solche Zeichnungen bei Einreichung der internationalen Anmeldung beifügen.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Sind Zeichnungen für das Verständnis der Erfindung nicht notwendig, ist die Erfindung aber ihrer Art nach der Erläuterung durch Zeichnungen zugänglich, so kann der Anmelder nach #linkpct#a7|Artikel 7 (2) i PCT#endlink# solche Zeichnungen bei Einreichung der internationalen Anmeldung beifügen.",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Thymaridas_von_Paros|Thymaridas von Paros#endlink# hat sich mit linearen Gleichungssystemen beschäftigt und die sogenannte „Blume von Thymaridas“ entwickelt. Auch wenn es für das Verständnis seiner Erfindung nicht notwendig ist möchte er seiner internationalen Anmeldung Zeichnungen beifügen. Darf er das?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 7 (2) i"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Nein, nur die erste Anmeldung einer Idee kann als internationale Anmeldung eingereicht werden.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Ja, eine in Griechenland eingereichte Anmeldung ist immer auch eine internationale Anmeldung.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Ja, wenn die internationale Anmeldung eine Erklärung enthält, mit der eine zulässige Priorität beansprucht wird.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ja. Wenn die internationale Anmeldung den Zeitrang der griechischen Anmeldung erhalten soll muss sie eine Erklärung enthalten, mit der eine zulässige Priorität beansprucht wird.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Gemäß #linkpct#a8|Artikel 8 (1) PCT#endlink# kann die internationale Anmeldung eine Erklärung der in der Ausführungsordnung näher bestimmten Art enthalten, mit der die Priorität einer oder mehrerer in einem oder für einen Mitgliedstaat der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums eingereichter früherer Anmeldungen beansprucht wird. Die Inanspruchnahme einer Priorität ist aber nur zur Sicherung des Zeitrangs der früheren Anmeldung erforderlich.",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Bion_von_Abdera|Bion von Abdera#endlink# möchte sein Verfahren zur Berechnung der Tageslänge in möglichst vielen Ländern schützen lassen. Allerdings hat er bereits vor vier Monaten in Griechenland eine Anmeldung eingereicht. Kann Bion seine Idee noch international schützen lassen? ",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 8 (1)"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Ja, die Frist beträgt achtzehn Monate nach Einreichung der prioritätsbegründenden Anmeldung.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Ja, der PCT-Vertrag enthält keine Frist.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Nein, die Frist beträgt sechs Monate nach Einreichung der prioritätsbegründenden Anmeldung.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ja, die Frist beträgt zwölf Monate nach Einreichung der prioritätsbegründenden Anmeldung.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Gemäß #linkpct#a8|Artikel 8 (2)a) PCT#endlink# richten sich - vorbehaltlich des Buchstaben b - Voraussetzungen und Wirkung einer nach Absatz 1 abgegebenen Prioritätserklärung nach Artikel 4 der Stockholmer Fassung der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums. In diesem ist eine Frist von 12 Monaten für Erfindungspatente (die hier zutreffend ist) und 6 Monate für Marken und Designs vorgegeben. Dioskurides hat demnach zwölf Monate Zeit zur Einreichung einer internationalen Anmeldung unter Inanspruchnahme einer Priorität.",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Pedanios_Dioskurides|Pedanios Dioskurides#endlink# hat vor neun Monaten ein Arzneimittel erfunden und in Italien, wo er gerade auf Reisen ist, beim italienischen Patentamt als Patentanmeldung eingereicht. Er möchte jetzt eine internationale Patentanmeldung einreichen. Geht das unter Inanspruchnahme der Priorität der italienischen Patentanmelung?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 8 (2)a)"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Jeder.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Jeder Staatsangehörige eines Vertragsstaats.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Jeder, der in einem Vertragsstaat seinen Sitz hat.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Jeder, der in einem Vertragsstaat seinen Wohnsitz hat.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Jeder Staatsangehörige eines Vertragsstaats sowie jeder, der in einem Vertragsstaat seinen Sitz oder Wohnsitz hat, kann gemäß #linkpct#a9|Artikel 9 (1) PCT#endlink# eine internationale Anmeldung einreichen. ",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Hipparchos_(Astronom)|Hipparchos#endlink# hat Längen- und Breitengrade verschiedener Orte und Länder ermittelt und interessiert sich nun dafür, wen seiner Freunde er für einen Club internationaler Patentanmelder gewinnen kann. Dazu möchte er von Ihnen wissen, wer berechtigt ist, internationale Anmeldungen einzureichen.",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 9 (1)"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Bei jedem Patentamt eines Vertragsstaates.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Bei jedem Patentamt eines Vertragsstaates, in dem eine der offiziellen Sprachen des PCT Amtssprache ist.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            },
+            {
+              "text_de" : "Bei jedem Anmeldeamt.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Bei dem vorgeschriebenen Anmeldeamt.",
+              "text_en" : "translate",
+              "text_fr" : "traduire"
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Die internationale Anmeldung ist nach #linkpct#a10|Artikel 10 PCT#endlink# bei dem vorgeschriebenen Anmeldeamt einzureichen, das sie entsprechend diesem Vertrag und der Ausführungsordnung überprüft und bearbeitet.",
+          "explanation_en" : "translate",
+          "explanation_fr" : "traduire",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Ktesibios|Ktesibios#endlink# hat eine Wasserorgel entwickelt und möchte darauf eine internationale Anmeldunge richten. Wo kann er die internationale Anmeldung einreichen?",
+          "text_en" : "translate",
+          "text_fr" : "traduire",
+          "normen" : "PCT Art. 10"
+        }
+      ],
+      "info_de" : "Grundlagen des PCT-Anmeldeverfahrens",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Internationale Anmeldung",
+      "name_en" : "International application",
+      "name_fr" : "Demande internationale",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #date#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Internationale Recherche",
+      "name_en" : "International research",
+      "name_fr" : "Recherche internationale",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Internationale vorläufige Prüfung",
+      "name_en" : "International preliminary examination",
+      "name_fr" : "Examen préliminaire international",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Gemeinsame Bestimmungen",
+      "name_en" : "Common regulations",
+      "name_fr" : "Règles communes",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Technische Dienste",
+      "name_en" : "Technical services",
+      "name_fr" : "Services techniques",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Verwaltungsbestimmungen",
+      "name_en" : "Règles administratives",
+      "name_fr" : "Administrative regulations",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Streitigkeiten",
+      "name_en" : "Litigation",
+      "name_fr" : "Litiges",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Revision und Änderungen",
+      "name_en" : "Revision and amendments",
+      "name_fr" : "Révision et amendements",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Fristen",
+      "name_en" : "Terms",
+      "name_fr" : "Dates limites",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Gebühren",
+      "name_en" : "Fees",
+      "name_fr" : "Frais",
+      "version" : 1
+    },
+    {
+      "cases" : [
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#5#enddate# zugestellt.",
+              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#5#enddate#.",
+              "text_fr" : "Comme la fin de la règle des 10 jours est un samedi, le message est considéré comme délivré le #date#5#enddate#."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #date#6#enddate# unterbrochen.",
+              "text_en" : "The proceedings are interrupted with effect from #date#6#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #date#6#enddate#."
+            },
+            {
+              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#7#enddate# obsolet.",
+              "text_en" : "Upon reopening of the case, the #date#7#enddate# notice is obsolete.",
+              "text_fr" : "En cas de reprise de la procédure, la communication du #date#7#enddate# est obsolète."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
+              "text_fr" : "Il n'y a pas de frais à payer pour l'interruption de la procédure."
+            },
+            {
+              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#8#enddate# unterbrochen.",
+              "text_en" : "The procedure is interrupted with effect from #startdate#8#enddate#.",
+              "text_fr" : "La procédure est interrompue à compter du #startdate#8#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-2MM|+6DD",
+            "startdate",
+            "startdate|-6MM|+11DD",
+            "startdate|-2MM|+4DD",
+            "startdate|-6MM|+1DD",
+            "startdate|-3MM|+25DD",
+            "startdate|-6MM|+10DD"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#9#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#2#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to weekend days. Thus, the communication shall be deemed to have been served on #date#9#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative, which according to #linkepc#r142|Rule 142 (1) EPC#endlink# causes the interruption. It is therefore interrupted with effect from #date#2#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr" : "Conformément à la règle #linkepc#r126|règle 126(2) CBE#endlink#, la lettre est réputée notifiée le dixième jour suivant sa remise au prestataire de services postaux. Il n'est pas tenu compte des jours de week-end. La communication est donc réputée notifiée le #date#9#enddate#.\n\nLa procédure est interrompue avec effet à la date de survenance de l'événement, en l'occurrence le décès du mandataire, qui provoque l'interruption conformément à la #linkepc#r142|règle 142(1) CBE#endlink#. Il est donc interrompu avec effet à compter du #date#2#enddate#.\n\nLes taxes pour une requête en interruption de la procédure ne sont pas comprises dans la CBE.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time limit. On #date#1#enddate# the representative of Leyster dies. The EPO was informed about this on #date#2#enddate#, therefore on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# a inventé une gomme et a déposé une demande de brevet EP-1 à ce sujet. En date du #date#0#enddate#, une invitation au titre de l'article 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, raison pour laquelle il est décidé le #date#3#enddate# de suspendre la procédure. Le #date#4#enddate#, l'OEB a été informé par Leyster de la désignation d'un nouveau mandataire. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 erst nach der Einreichung von EP-2 veröffentlicht wurde. ",
+              "text_en" : "EP-1 is not novelty-destroying to EP-2 because EP-1 was published after EP-2 was filed. ",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 a été publié après le dépôt de EP-2. "
+            },
+            {
+              "text_de" : "EP-1 ist nicht neuheitsschädlich für EP-2, weil EP-1 nicht alle Ansprüche von EP-2 offenbart.",
+              "text_en" : "EP-1 is not novelty-defeating to EP-2 because EP-1 does not disclose all of the claims of EP-2.",
+              "text_fr" : "EP-1 n'est pas préjudiciable à la nouveauté de EP-2, car EP-1 ne divulgue pas toutes les revendications de EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "EP-1 ist neuheitsschädlicher Stand der Technik für Anspruch 1 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            },
+            {
+              "text_de" : "EP-1 ist kein neuheitsschädlicher Stand der Technik für Anspruch 2 von EP-2.",
+              "text_en" : "EP-1 is novelty-defeating prior art for claim 1 of EP-2.",
+              "text_fr" : "EP-1 est un état de la technique préjudiciable à la nouveauté pour la revendication 1 de EP-2."
+            }
+          ],
+          "beginning" : [
+            "-7DD|WE|-18MM",
+            "-7DD|TU"
+          ],
+          "date" : [
+            "beginning[0]",
+            "beginning[1]",
+            "beginning[0]|+17MM"
+          ],
+          "deadline" : [
+            "+2MM",
+            "+5DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Gemäß #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# bilden auch europäische Patentanmeldungen wie EP-1 Stand der Technik in Bezug auf Neuheit, wenn sie nachveröffentlicht sind. Um neuheitsschädlich für ein Patent zu sein ist es ausreichend, wenn einer der nebengeordneten Ansprüche, insbesondere Anspruch 1, neuheitsschädlich vorweggenommen ist. EP-1 ist neuheitsschädlich für Anspruch 1 der EP-2, nicht aber für die Unteransprüche.",
+          "explanation_en" : "According to #linkepc#ar54|Article 54 (3) EPC#endlink#, European patent applications such as EP-1 also constitute prior art with respect to novelty if they are post-published. To be novelty-defective for a patent, it is sufficient if one of the subsidiary claims, in particular claim 1, is novelty-defective anticipating. EP-1 is novelty-destroying for claim 1 of EP-2, but not for the subclaims.",
+          "explanation_fr" : "Selon #linkepc#ar54|article 54(3) CBE#endlink#, les demandes de brevet européen telles que EP-1 constituent également un état de la technique en termes de nouveauté si elles sont republiées. Pour être préjudiciable à la nouveauté d'un brevet, il suffit qu'une des revendications secondaires, en particulier la revendication 1, soit anticipée de manière préjudiciable à la nouveauté. EP-1 est préjudiciable à la nouveauté pour la revendication 1 de EP-2, mais pas pour les sous-revendications.",
+          "startdate" : "MO|-7DD",
+          "text_de" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate# , offengelegt. Vor vier Wochen, am #date#2#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+          "text_en" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows in the figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate# . Four weeks ago, on #date#2#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This claims in claim 1 the improvements to the door as also shown in EP-1. Subclaims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé ce qu'on appelle l'appareil de Golgi. Il a déposé une demande de brevet européen EP-1 il y a un peu plus de dix-huit mois, le #date#0#enddate#. Celle-ci montre dans les figures son appareil complet dans tous ses détails, en particulier le cadre et une porte. Mais seul le cadre est revendiqué et décrit dans la description. EP-1 a été publiée jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate# , donc avant la publication de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci revendique, dans la revendication 1, les améliorations de la porte telles qu'elles sont également illustrées dans EP-1. Dans les sous-revendications 2 à 5, elle revendique des aménagements qui ont été développés depuis le dépôt de EP-1. Laquelle des affirmations suivantes est correcte ?"
+        }
+      ],
+      "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
+      "info_en" : "Representation before the bodies of the European Patent Office.",
+      "info_fr" : "La représentation devant les organes de l'Office européen des brevets.",
+      "name_de" : "Schlußbestimmungen",
+      "name_en" : "Final regulations",
+      "name_fr" : "Règles finales",
+      "version" : 1
+    }
+  ],
+  "global" : {
+    "appinfo_de" : "Dies ist die Beschreibung der Activity <<info>> .Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren.",
+    "appinfo_en" : "This is the description of the activity <<info>> .But one day a small line of dummy text, her name was Lorem Ipsum, decided to go out into the wide grammar. The great Oxmox advised her against it, because it was teeming with nasty commas, wild question marks and sneaky semicolons, but the little blind text was not deterred.",
+    "appinfo_fr" : "Voici la description de l'activité <<info>>. Un jour, une petite ligne de texte aveugle, qui s'appelait Lorem Ipsum, décida de partir à la découverte de la vaste grammaire. Le grand Oxmox lui déconseilla de le faire, car il regorgeait de virgules maléfiques, de points d'interrogation sauvages et de sémicules sournois, mais le petit texte aveugle ne se laissa pas décourager.",
+    "appversion" : 1.001,
+    "linkappeal" : "http://www.epo.org/law-practice/case-law-appeals/recent/",
+    "linkepc" : "http://www.epo.org/law-practice/legal-texts/html/epc/2016/",
+    "linkgl" : "http://www.epo.org/law-practice/legal-texts/html/guidelines/",
+    "linkwiki" : "https://de.wikipedia.org/wiki/"
+  }
+}
