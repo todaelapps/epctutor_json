@@ -3,56 +3,56 @@
     {
       "cases" : [
         {
-          "answers_false" : [
-            {
-              "text_de" : "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #startdate#-6MM|+11DD#enddate# zugestellt.",
-              "text_en" : "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #startdate#-6MM|+11DD#enddate#.",
-              "text_fr" : "Étant donné qu'il y a un samedi à la fin de la règle des 10 jours, la notification est considérée comme remise le #startdate#-6MM|+11DD#enddate#."
-            },
-            {
-              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#-2MM|+4DD#enddate# unterbrochen.",
-              "text_en" : "The procedure is interrupted with effect from #startdate#-2MM|+4DD#enddate#.",
-              "text_fr" : "La procédure est interrompue avec effet à partir de #startdate#-2MM|+4DD#enddate#."
-            },
-            {
-              "text_de" : "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #startdate#-6MM|+1DD#enddate# obsolet.",
-              "text_en" : "When the procedure is resumed, the notification of #startdate#-6MM|+1DD#enddate# is obsolete.",
-              "text_fr" : "Lorsque la procédure est reprise, la notification de #startdate#-6MM|+1DD#enddate# est obsolète."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
-              "text_en" : "No fee has to be paid for the interruption of the proceedings.",
-              "text_fr" : "Aucun droit n'est à payer pour l'interruption de la procédure."
-            },
-            {
-              "text_de" : "Das Verfahren ist mit Wirkung vom #startdate#-3MM|+25DD#enddate# unterbrochen.",
-              "text_en" : "The procedure is interrupted with effect from #startdate#-3MM|+25DD#enddate#.",
-              "text_fr" : "La procédure est interrompue avec effet à partir de #startdate#-3MM|+25DD#enddate#."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #startdate#-6MM|+10DD#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #startdate#-3MM|+25DD#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
-          "explanation_en" : "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to days that fall on the weekend. Thus, the communication shall be deemed to have been served on #startdate#-6MM|+10DD#enddate#.\r\n\r\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative due to the death of the representative, which causes the interruption according to #linkepc#r142|Rule 142 (1) EPC#endlink#. Thus, it is interrupted with immediate effect from #startdate#-3MM|+25DD#enddate#.\r\n\nFees for a request for interruption of proceedings are not included in the EPC.",
-          "explanation_fr" : "Les taxes pour une demande d'interruption de procédure ne sont pas incluses dans la CPE.",
-          "id" : 0,
-          "id_old" : 3,
-          "normen" : "todo",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #startdate#-6MM|+1DD#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #startdate#-3MM|+25DD#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #startdate#-2MM|+4DD#enddate# informiert, weswegen am #startdate#-2MM|+6DD#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #startdate##enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
-          "text_en" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #startdate#-6MM|+1DD#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time period. On #startdate#-3MM|+25DD#enddate# the representative of Leyster dies. The EPO was informed of this on #startdate#-2MM|+4DD#enddate#, so on #startdate#-2MM|+6DD#enddate# it was decided to interrupt the proceedings. On #startdate##enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
-          "text_fr" : "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invente une gomme et dépose une demande de brevet EP-1 la concernant. Le #startdate#-6MM|+1DD#enddate#, une invitation au titre de l'art. 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #startdate#-3MM|+25DD#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #startdate#-2MM|+4DD#enddate#, aussi le #startdate#-2MM|+6DD#enddate# il est décidé d'interrompre la procédure. Le jour #startdate##enddate# l'OEB a été informé par Leyster de la nomination d'un nouveau mandataire. Quelle est la situation juridique ?"
-        },
+			"answers_false": [
+				{
+					"text_de": "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#6#enddate# zugestellt.",
+					"text_en": "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#6#enddate#.",
+					"text_fr": "Étant donné qu'il y a un samedi à la fin de la règle des 10 jours, la notification est considérée comme remise le #date#6#enddate#."
+				},
+				{
+					"text_de": "Das Verfahren ist mit Wirkung vom #date#2#enddate# unterbrochen.",
+					"text_en": "The procedure is interrupted with effect from #date#2#enddate#.",
+					"text_fr": "La procédure est interrompue avec effet à partir de #date#2#enddate#."
+				},
+				{
+					"text_de": "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#0#enddate# obsolet.",
+					"text_en": "When the procedure is resumed, the notification of #date#2#enddate# is obsolete.",
+					"text_fr": "Lorsque la procédure est reprise, la notification de #date#0#enddate# est obsolète."
+				}
+			],
+			"answers_true": [
+				{
+					"text_de": "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+					"text_en": "No fee has to be paid for the interruption of the proceedings.",
+					"text_fr": "Aucun droit n'est à payer pour l'interruption de la procédure."
+				},
+				{
+					"text_de": "Das Verfahren ist mit Wirkung vom #date#1#enddate# unterbrochen.",
+					"text_en": "The procedure is interrupted with effect from #date#1#enddate#.",
+					"text_fr": "La procédure est interrompue avec effet à partir de #date#1#enddate#."
+				}
+			],
+			"beginning": [
+				"-2MM"
+			],
+			"date": [
+				"MO"
+			],
+			"deadline": [
+				"+2MM"
+			],
+			"difficulty": "2",
+			"explanation_de": "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#5#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#1#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+			"explanation_en": "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to days that fall on the weekend. Thus, the communication shall be deemed to have been served on #date#5#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative due to the death of the representative, which causes the interruption according to #linkepc#r142|Rule 142 (1) EPC#endlink#. Thus, it is interrupted with immediate effect from #date#1#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+			"explanation_fr": "Les taxes pour une demande d'interruption de procédure ne sont pas incluses dans la CPE.",
+			"id": 0,
+			"id_old": 3,
+			"normen": "todo",
+			"startdate": "MO",
+			"text_de": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+			"text_en": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time period. On #date#1#enddate# the representative of Leyster dies. The EPO was informed of this on #date#2#enddate#, so on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+			"text_fr": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invente une gomme et dépose une demande de brevet EP-1 la concernant. Le #date#0#enddate#, une invitation au titre de l'art. 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, aussi le #date#3#enddate# il est décidé d'interrompre la procédure. Le jour #date#4#enddate# l'OEB a été informé par Leyster de la nomination d'un nouveau mandataire. Quelle est la situation juridique ?"
+		},
         {
           "answers_false" : [
             {
