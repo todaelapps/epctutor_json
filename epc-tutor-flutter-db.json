@@ -36,7 +36,13 @@
 				"-2MM"
 			],
 			"date": [
-				"MO"
+				"#startdate#-6MM|+1DD#enddate#",
+				"#startdate#-3MM|+25DD#enddate#",
+				"#startdate#-2MM|+4DD#enddate#",
+				"#startdate#-2MM|+6DD#enddate#",
+				"#startdate##enddate#",
+				"#startdate#-6MM|+10DD#enddate#",
+				"#startdate#-6MM|+11DD#enddate#"
 			],
 			"deadline": [
 				"+2MM"
