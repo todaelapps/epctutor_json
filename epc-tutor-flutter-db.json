@@ -3,813 +3,813 @@
     {
       "cases" : [
         {
-			"answers_false": [
-				{
-					"text_de": "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#6#enddate# zugestellt.",
-					"text_en": "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#6#enddate#.",
-					"text_fr": "Étant donné qu'il y a un samedi à la fin de la règle des 10 jours, la notification est considérée comme remise le #date#6#enddate#."
-				},
-				{
-					"text_de": "Das Verfahren ist mit Wirkung vom #date#2#enddate# unterbrochen.",
-					"text_en": "The procedure is interrupted with effect from #date#2#enddate#.",
-					"text_fr": "La procédure est interrompue avec effet à partir de #date#2#enddate#."
-				},
-				{
-					"text_de": "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#0#enddate# obsolet.",
-					"text_en": "When the procedure is resumed, the notification of #date#2#enddate# is obsolete.",
-					"text_fr": "Lorsque la procédure est reprise, la notification de #date#0#enddate# est obsolète."
-				}
-			],
-			"answers_true": [
-				{
-					"text_de": "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
-					"text_en": "No fee has to be paid for the interruption of the proceedings.",
-					"text_fr": "Aucun droit n'est à payer pour l'interruption de la procédure."
-				},
-				{
-					"text_de": "Das Verfahren ist mit Wirkung vom #date#1#enddate# unterbrochen.",
-					"text_en": "The procedure is interrupted with effect from #date#1#enddate#.",
-					"text_fr": "La procédure est interrompue avec effet à partir de #date#1#enddate#."
-				}
-			],
-			"beginning": [
-				"-2MM"
-			],
-			"date": [
-				"startdate|-6MM|+1DD",
-				"startdate|-3MM|+25DD",
-				"startdate|-2MM|+4DD",
-				"startdate|-2MM|+6DD",
-				"startdate",
-				"startdate|-6MM|+10DD",
-				"startdate|-6MM|+11DD"
-			],
-			"deadline": [
-				"+2MM"
-			],
-			"difficulty": "2",
-			"explanation_de": "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#5#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#1#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
-			"explanation_en": "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to days that fall on the weekend. Thus, the communication shall be deemed to have been served on #date#5#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative due to the death of the representative, which causes the interruption according to #linkepc#r142|Rule 142 (1) EPC#endlink#. Thus, it is interrupted with immediate effect from #date#1#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
-			"explanation_fr": "Les taxes pour une demande d'interruption de procédure ne sont pas incluses dans la CPE.",
-			"id": 0,
-			"id_old": 3,
-			"normen": "todo",
-			"startdate": "MO",
-			"text_de": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
-			"text_en": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time period. On #date#1#enddate# the representative of Leyster dies. The EPO was informed of this on #date#2#enddate#, so on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
-			"text_fr": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invente une gomme et dépose une demande de brevet EP-1 la concernant. Le #date#0#enddate#, une invitation au titre de l'art. 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, aussi le #date#3#enddate# il est décidé d'interrompre la procédure. Le jour #date#4#enddate# l'OEB a été informé par Leyster de la nomination d'un nouveau mandataire. Quelle est la situation juridique ?"
-		},
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Für eine wirksame Vertretung durch von Nassau-Siegen muss beim EPA eine unterzeichneet Vollmacht vorliegen.",
-              "text_en" : "For effective representation by von Nassau-Siegen, a signed power of attorney must be on file with the EPO.",
-              "text_fr" : "Pour une représentation efficace par von Nassau-Siegen, une procuration signée doit être déposée auprès de l'OEB."
-            },
-            {
-              "text_de" : "Für die Registrierung eiens Vertreterwechsels ist eine Verwaltungsgebühr zu entrichten.",
-              "text_en" : "An administrative fee must be paid for the registration of a change of representative.",
-              "text_fr" : "Une taxe administrative doit être payée pour l'enregistrement d'un changement de représentant."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "De Dominici muss sich nicht vertreten lassen.",
-              "text_en" : "De Dominici does not need to be represented.",
-              "text_fr" : "De Dominici n'a pas besoin d'être représenté."
-            },
-            {
-              "text_de" : "Falls de Dominici zur zugelassenenen Vertreterin Ehrenstrahl aus einer anderen Sozietät wechselt muss Ehrenstrahl keine Vollmacht vorlegen, wenn von Nassau-Siegen über den Vertreterwechsel informiert.",
-              "text_en" : "If de Dominici changes to Ehrenstrahl, the professional representative from another firm, Ehrenstrahl does not have to submit a power of attorney if informed by Nassau-Siegen about the change of representative.",
-              "text_fr" : "Si de Dominici change à Ehrenstrahl, le représentant professionnel d'un autre cabinet, Ehrenstrahl ne doit pas soumettre une procuration s'il est informé par Nassau-Siegen du changement de représentant."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Nach #linkepc#ar133|Artikel 133 (1) und (2) EPÜ#endlink# muss sich de Dominici nicht vertreten lassen, da sie ihren Sitz in einem Vertragsstaat hat. Falls sie sich aber vertreten lässt gilt für die erste Vertreterin/den ersten Vertreter der Grundsatz der Selbsternennung. Gemäß Artikel 1 (1) und (2) des Beschlusses der Präsidentin des EPA vom 12. Juli 2007, Sonderausgabe 3 zum ABl. EPA 2007, L.1 benötigt der jeweils nachfolgende Vertreter dann keine Vollmacht, wenn die vorherige Vertreterin/der vorherige Vertreter das Erlöschen der eigenen Vertretungsmacht angezeigt wird.\n\nDie Registrierung eines Vertreterwechsels kostet keine Gebühren.\n",
-          "explanation_en" : "There is no fee for registering a change of representative.",
-          "explanation_fr" : "L'enregistrement d'un changement de représentant est gratuit.",
-          "id" : 1,
-          "id_old" : 4,
-          "normen" : "todo",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Maria_de_Dominici|Maria de Dominici#endlink# hat ihren Wohnsitz auf Malta und wirksam eine europäische Patentanmeldung EP-1 eingereicht. SIe möchte die zugelassene Vertreterin #linkwiki# Ernestine_Charlotte_von_Nassau-Siegen| Ernestine Charlotte von Nassau-Siegen#endlink# bestellen. Sollte ihr dieser nicht gefallen möchte sie zu #linkwiki#Anna_Maria_Ehrenstrahl|Anna Maria Ehrenstrahl#endlink# wechseln. Welche der Antworten ist richtig?",
-          "text_en" : "#linkwiki#Maria_de_Dominici|Maria de Dominici#endlink# resides in Malta and effectively filed a European patent application EP-1. She would like to appoint the professional representative #linkwiki# Ernestine_Charlotte_von_Nassau-Siegen| Ernestine Charlotte von Nassau-Siegen#endlink#. If she does not like the service of her,  von Nassau-Siegen would like to change to #linkwiki#Anna_Maria_Ehrenstrahl|Anna Maria Ehrenstrahl#endlink#. Which of the answers is correct?",
-          "text_fr" : "#linkwiki#Maria_de_Dominici|Maria de Dominici#endlink# réside à Malte et a effectivement déposé une demande de brevet européen EP-1. Elle souhaite désigner le mandataire agréé #linkwiki# Ernestine_Charlotte_von_Nassau-Siegen| Ernestine Charlotte von Nassau-Siegen#endlink#. Si elle n'aime pas son service, Mme von Nassau-Siegen aimerait changer pour #linkwiki#Anna_Maria_Ehrenstrahl|Anna Maria Ehrenstrahl#endlink#. Laquelle de ces réponses est correcte ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Michelangelo kann einen deutschen Patentanwalt beauftragen, da diese kostengünstiger sind als italienische Patentanwälte.",
-              "text_en" : "Michelangelo can hire a German patent attorney because they are less expensive than Italian patent attorneys.",
-              "text_fr" : "Michelangelo peut engager un conseil en brevets allemand parce qu'il est moins cher que les conseils en brevets italiens."
-            },
-            {
-              "text_de" : "Michelangelo kann einen Patentanwalt auf dem Land oder in einer Kleinstadt beauftragen, da diese kostengünstiger sind als Patentanwälte in Großstädten.",
-              "text_en" : "Michelangelo may hire a patent attorney in a rural area or small town because they are less expensive than patent attorneys in larger cities.",
-              "text_fr" : "Michelangelo peut engager un conseil en brevets dans une zone rurale ou une petite ville parce qu'ils sont moins chers que les conseils en brevets dans les grandes villes."
-            },
-            {
-              "text_de" : "Michelangelo kann einen Rechtsanwalt mit der Vertretung beauftragen. Da diese selten vor dem Europäischen Patentamt vertreten gewähren sie üblicherweise einen Rabatt.",
-              "text_en" : "Michelangelo can hire a lawyer to represent him. Since they rarely represent before the European Patent Office, they usually grant a discount.",
-              "text_fr" : "Michelangelo peut engager un avocat pour le représenter. Comme ils représentent rarement devant l'Office européen des brevets, ils accordent généralement une remise."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Michelangelo kann die Anmeldung EP-1 selbst einreichen und so die Vertretungskosten sparen.",
-              "text_en" : "Michelangelo can file the EP-1 application himself and save on representation costs.",
-              "text_fr" : "Michelangelo peut déposer la demande EP-1 lui-même et économiser sur les frais de représentation."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Michelangelo muss sich gemäß #linkepc#ar133|Artikel 133 (1) EPÜ#endlink# nicht vertreten lassen. Dies ist unabhängig davon, ob die spekulativen Annahmen über Kosten zutreffen oder nicht, jedenfalls die kostengünstigste Lösung.  Auch kann er die Anmeldung selbst einreichen, um Kosten zu sparen.",
-          "explanation_en" : "Michelangelo does not have to be represented according to #linkepc#ar133|Article 133 (1) EPC#endlink#. This is in any case the least expensive solution, regardless of whether the speculative assumptions about costs are correct or not.  Also, he may file the application himself to save costs.",
-          "explanation_fr" : "Michel-Ange ne doit pas être représenté conformément à l'article 133, paragraphe 1, de la CBE. C'est en tout cas la solution la moins coûteuse, que les hypothèses spéculatives sur les coûts soient correctes ou non.  En outre, il peut déposer lui-même la demande pour économiser des frais.",
-          "id" : 2,
-          "id_old" : 5,
-          "normen" : "Regel 133 1 keine Verpflichtung zur Vertretung",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Michelangelo|Michelangelo#endlink# ist ein italienischer Erfinder mit Wohnsitz in Italien. Er hat ein Werkzeug zur Erstellung von Skulpturen geschaffen und möchte dieses in einer europäischen Patentanmeldung EP-1 anmelden. Da er momentan knapp bei Kasse ist soll das ganze möglichst kostengünstig erfolgen. Wie kann er vorgehen?",
-          "text_en" : "#linkwiki#Michelangelo|Michelangelo#endlink# is an Italian inventor residing in Italy. He has created a tool for sculpting Statues and wants to register it in a European patent application EP-1. Since he is currently short of money, the whole thing should be done as inexpensively as possible. How can he proceed?",
-          "text_fr" : "#linkwiki#Michelangelo|Michelangelo#endlink# est un inventeur italien résidant en Italie. Il a créé un outil pour sculpter des statues et souhaite l'enregistrer dans une demande de brevet européen EP-1. Comme il est actuellement à court d'argent, l'ensemble doit être réalisé à un coût aussi faible que possible. Comment peut-il procéder ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Die Comedian Harmonists können eine Aussetzung des Verfahrens beantragen, bis sie mal wieder für einen Auftritt nach Deutschland kommen. Sie können dann in dieser Zeit das Prüfungsverfahren komprimiert zu Ende führen.",
-              "text_en" : "The Comedian Harmonists can apply for a suspension of the procedure until they come back to Germany for a performance. They can then expedite the examination procedure during this time.",
-              "text_fr" : "Les Comedian Harmonists peuvent demander une suspension de la procédure jusqu'à leur retour en Allemagne pour une représentation. Ils peuvent alors accélérer la procédure d'examen pendant cette période."
-            },
-            {
-              "text_de" : "Die Comedian Harmonists können kann sich von ihrem Freund, dem US Patent Agent Henry Kutcher, vertreten lassen. Dieser arbeitet zu einem Freundschaftspreis für sie.",
-              "text_en" : "The Comedian Harmonists can be represented by their friend, US Patent Agent Henry Kutcher. The latter works for them at a reasonable price.",
-              "text_fr" : "Les Comedian Harmonists peuvent être représentés par leur ami, l'agent de brevets américain Henry Kutcher. Ce dernier travaille pour eux à un prix raisonnable."
-            },
-            {
-              "text_de" : "Die Comedian Harmonists können sich im Anmeldeverfahren vor dem Europäischen Patentamt selbst vertreten und so die Vertretungskosten sparen.",
-              "text_en" : "The Comedian Harmonists can represent themselves in the application procedure before the European Patent Office thus saving on representation costs.",
-              "text_fr" : "Les Comedian Harmonists peuvent se représenter eux-mêmes dans la procédure de demande auprès de l'Office européen des brevets, ce qui permet d'économiser les frais de représentation."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Die Comedian Harmonists können die Anmeldung EP-1 selbst einreichen und so die Kosten dieser Handlung sparen.",
-              "text_en" : "The Comedian Harmonists can file the EP-1 application themselves and save on the cost of this act.",
-              "text_fr" : "Les Comedian Harmonists peuvent déposer eux-mêmes la demande EP-1 et économiser sur le coût de cet acte."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Die Comedian Harmonists müssen sich gemäß #linkepc#ar133|Artikel 133 (2) EPÜ#endlink# vertreten lassen, da ihr Wohnsitz in keinem Vertragsstaat liegt. Eine Ausnahme existiert für das Einreichen der Anmeldung selbst (#linkepc#ar133|Artikel 133 (2) EPÜ#endlink#). Vertreten kann aber nur ein zugelassener Vertreter vor dem EPA. Eine Zulassung für ein nationales Patentamt, auch nicht bei einem Vertragsstaat, ist nicht ausreichend.",
-          "explanation_en" : "The Comedian Harmonists must be represented according to #linkepc#ar133|Article 133 (2) EPC#endlink#, since their residence is not in any contracting state. An exception exists for filing the application (#linkepc#ar133|Article 133 (2) EPC#endlink#). However, only a professional representative can represent before the EPO. Admission to a national patent office, even within a contracting state, is not sufficient.",
-          "explanation_fr" : "Les Comedian Harmonists doivent être représentés conformément à #linkepc#ar133|Article 133 (2) CBE#endlink#, puisque leur résidence ne se trouve dans aucun Etat contractant. Une exception existe pour le dépôt de la demande (#linkepc#ar133|Article 133 (2) CBE#endlink#). Cependant, seul un mandataire agréé peut représenter devant l'OEB. L'admission à un office national des brevets, même au sein d'un Etat contractant, n'est pas suffisante.",
-          "id" : 3,
-          "id_old" : 6,
-          "normen" : "Regel 133 2 Vertretung bei keinem Sitz/Wohnsitz",
-          "startdate" : "MO",
-          "text_de" : "Die #linkwiki#Comedian_Harmonists|Comedian Harmonists#endlink# sind eine in den USA wohnhafte Musikgruppe deutscher Musiker. Die Mitgleider hatten zusammen eine Idee für ein Aufnahmeverfahren für Lieder gehabt. Dieses soll in einer europäischen Patentanmeldung EP-1 angemeldet werden. Da sie momentan knapp bei Kasse sind soll das ganze möglichst kostengünstig erfolgen. Wie kann sie vorgehen?",
-          "text_en" : "The #linkwiki#Comedian_Harmonists|Comedian Harmonists#endlink# are a musical group of German musicians residing in the United States. Together, the members have had an idea for a method for recording music. This is to be registered in a European patent application EP-1. Since they are currently short of money, the whole thing should be done as inexpensively as possible. How can they proceed?",
-          "text_fr" : "Les #linkwiki#Comedian_Harmonists|Comedian Harmonists#endlink# sont un groupe musical composé de musiciens allemands résidant aux États-Unis. Ensemble, les membres ont eu l'idée d'une méthode d'enregistrement de la musique. Celle-ci doit être enregistrée dans une demande de brevet européen EP-1. Comme ils sont actuellement à court d'argent, l'ensemble doit être réalisé à un coût aussi faible que possible. Comment peuvent-ils procéder ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Da Vinci muss sich beim epi (Institut der beim europäischen Patentamt zugelassenen Vertreter) registrieren lassen, damit er vertreten darf.",
-              "text_en" : "Da Vinci must register with EPI (Institute of Professional Representatives before the European Patent Office) to be allowed to represent.",
-              "text_fr" : "Da Vinci doit s'inscrire auprès de l'EPI (Institut des mandataires agréés auprès de l'Office européen des brevets) pour être autorisé à représenter."
-            },
-            {
-              "text_de" : "Da Vinci muss die europäische Eignungsprüfung ablegen, damit er vertreten darf.",
-              "text_en" : "Da Vinci must pass the European Qualifying Examination to be allowed to represent.",
-              "text_fr" : "Da Vinci doit réussir l'examen de qualification européen pour être autorisé à représenter."
-            },
-            {
-              "text_de" : "Da Vinci muss bei der Klecks Ltd. angestellt sein. Er erfüllt damit alle Voraussetzungen und kann vertreten.",
-              "text_en" : "Da Vinci must be employed by Klecks Ltd. He therefore fulfills all requirements and can represent.",
-              "text_fr" : "De Vinci doit être employé par Klecks Ltd. Il remplit donc toutes les conditions et peut représenter."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Da Vinci muss zusätzlich zur Voraussetzung, dass er Angestellter der Klecks Ltd. ist, die ihren Wohnsitz in einem Vertragsstaat hat, auch noch eine Vollmacht erhalten.",
-              "text_en" : "Da Vinci must also obtain a power of attorney in addition to the requirement that he be an employee of Klecks Ltd. which is domiciled in a Contracting State.",
-              "text_fr" : "De Vinci doit également obtenir une procuration en plus de l'exigence d'être un employé de Klecks Ltd. qui est domiciliée dans un État contractant."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Da Vinci kann kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# die Klecks Ltd. vertreten, wenn a) diese den Sitz in einem Vertragssaat hat, b) er ihr Angestellter ist und c) er eine Vollmacht besitzt. Die Punkte a) und b) sind erfüllt, eine Vollmacht ist noch auszustellen.",
-          "explanation_en" : "Da Vinci can represent Klecks Ltd. according to #linkepc#ar133|Article 133 (3) EPC#endlink# if a) the latter has its seat in a contracting state, b) he is its employee and c) he has a power of attorney. Points a) and b) are fulfilled, a power of attorney still has to be issued.",
-          "explanation_fr" : "De Vinci peut représenter Klecks Ltd. selon #linkepc#ar133|Article 133 (3) CBE#endlink# si a) cette dernière a son siège dans un état contractant, b) il est son employé et c) il dispose d'une procuration. Les points a) et b) sont remplis, il faut encore établir une procuration.",
-          "id" : 4,
-          "id_old" : 7,
-          "normen" : "Regel 133 3 Vertretung durch Angestellten",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Leonardo_da_Vinci|Leonardo da Vinci#endlink# ist ein italienischer Künstler und Wissenschaftler. Er ist beim Pinselhersteller Klecks Ltd. mit Sitz in Paris/Frankreich angestellt. Nach der Einreichung einer europäischen Anmeldung EP-1 auf die Klecks Ltd. sucht diese jemanden, der sie im Verfahren vor dem europäischen Patentamt vertritt. Da Vinci bietet sich an, tätig zu werden. Was muss er beachten?",
-          "text_en" : "#linkwiki#Leonardo_da_Vinci|Leonardo da Vinci#endlink# is an Italian artist and scientist. He is employed by Klecks Ltd, a brush manufacturer based in Paris, France.  After filing a European application EP-1 for Klecks Ltd., the latter is looking for someone to represent them in the proceedings before the European Patent Office. Da Vinci offers to become active. What does he have to consider?",
-          "text_fr" : "#linkwiki#Leonardo_da_Vinci|Leonardo da Vinci#endlink# est un artiste et un scientifique italien. Il est employé par Klecks Ltd, un fabricant de pinceaux basé à Paris, en France.  Après avoir déposé une demande européenne EP-1 pour Klecks Ltd, ce dernier cherche quelqu'un pour le représenter dans la procédure devant l'Office européen des brevets. Da Vinci propose de devenir actif. Que doit-il envisager ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Bruces Arbeitgeber hat seinen Sitz in einem Vertragsstaat und er hat eine Vollmacht. Er kann Hopper daher vertreten.",
-              "text_en" : "Bruce's employer is located in a Contracting State and he has power of attorney. He can therefore represent Hopper.",
-              "text_fr" : "L'employeur de Bruce est situé dans un État contractant et il a une procuration. Il peut donc représenter Hopper."
-            },
-            {
-              "text_de" : "Bruce muss von Hopper eine Vollmacht erhalten, dann kann er Hopper vertreten.",
-              "text_en" : "Bruce needs to get a power of attorney from Hopper, before he can represent him.",
-              "text_fr" : "Bruce doit obtenir une procuration de Hopper, avant de pouvoir le représenter."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Bruce muss die europäische Eignungsprüfung ablegen, damit er Hopper und andere außer seinem Arbeitgeber vertreten darf.",
-              "text_en" : "Bruce must pass the European Qualifying Exam to be allowed to represent Hopper and others besides his employer.",
-              "text_fr" : "Bruce doit réussir l'examen de qualification européen pour être autorisé à représenter Hopper et d'autres personnes que son employeur."
-            },
-            {
-              "text_de" : "Bruce kann Hopper nicht vertreten, da Bruce nicht bei Hopper angestellt ist.",
-              "text_en" : "Bruce cannot represent Hopper since he is not employed by Hopper.",
-              "text_fr" : "Bruce ne peut pas représenter Hopper puisqu'il n'est pas employé par Hopper."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Bruce kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# Hopper nicht vertreten, da er weder a) sein Angestellter ist noch b) Hopper seinen Wohnsitz in einem Vertragsstaat hat. Sollte eraber die Europäische Eignungsprüfung bestehen und sich als zugelassener Vertreter registrieren kann er Hopper vertreten. Natürlich wird niemand darauf warten, dass eine jahrelange Ausbildung absolviert wird. Dies kann aber illustrieren, dass keine andere Möglichkeit besteht. ",
-          "explanation_en" : "Bruce cannot represent Hopper under #linkepc#ar133|Article 133 (3) EPC#endlink# due to the fact that he is neither a) his employee nor b) Hopper is domiciled in a Contracting State. However, should he pass the European Qualifying Examination and register as a professional representative, he can represent Hopper. Of course, no one would want to wait for years of training to be completed; however, this can illustrate that there is no other possibility.",
-          "explanation_fr" : "Bruce ne peut pas représenter Hopper en vertu de l'article 133 (3) de la CBE, étant donné qu'il n'est ni a) son employé ni b) Hopper n'est domicilié dans un État contractant. Toutefois, s'il réussit l'examen européen de qualification et s'inscrit comme mandataire agréé, il peut représenter Hopper. Bien sûr, personne ne souhaite attendre des années de formation ; cependant, cela peut illustrer qu'il n'y a pas d'autre possibilité.",
-          "id" : 5,
-          "id_old" : 8,
-          "normen" : "Regel 133 3 keine Vertretung durch Nicht-Angestellten",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Patrick_Henry_Bruce|Patrick Henry Bruce#endlink# ist in einem Immobilienbüro mit Sitz in Paris/Frankreich angestellt. Bruce hat auch eine Vollmacht seiner Firma zur Vertretung, aber keine Eignungsprüfung abgelegt. Der US-Amerikaner #linkwiki#Edward_Hopper|Edward Hopper#endlink#, wohnhaft in New York/USA, den er von früher kennt, bittet Bruce, ihn vor dem EPA zu vertreten. Was muss Bruce beachten?",
-          "text_en" : "#linkwiki#Patrick_Henry_Bruce|Patrick Henry Bruce#endlink# is employed by a real estate agency based in Paris, France. Bruce also has a power of attorney from his company to represent them, but has not taken a proficiency exam. The US-American #linkwiki#Edward_Hopper|Edward Hopper#endlink#, resident in New York/USA, whom he has known from before, asks Bruce to represent him before the EPO. What does Bruce have to consider?",
-          "text_fr" : "#linkwiki#Patrick_Henry_Bruce|Patrick Henry Bruce#endlink# est employé par une agence immobilière basée à Paris, France. Bruce dispose également d'une procuration de son entreprise pour les représenter, mais n'a pas passé d'examen de compétence. L'Américain #linkwiki#Edward_Hopper|Edward Hopper#endlink#, résidant à New York/USA, qu'il a connu auparavant, demande à Bruce de le représenter devant l'OEB. Que doit prendre en compte Bruce ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Die Klein AG hat ihren Sitz in einem Vertragsstaat und Buri hat eine Vollmacht. Er kann auch die Groß Ltd. daher vertreten.",
-              "text_en" : "Klein Ltd. has its registered office in a Contracting State and Buri has power of attorney. He can therefore also represent Groß Ltd.",
-              "text_fr" : "Klein Ltd. a son siège dans un État contractant et Buri a une procuration. Il peut donc également représenter la société Groß Ltd."
-            },
-            {
-              "text_de" : "Buri benötigt eine Freigabe der Klein AG und eine zusätzliche Vollmacht der Groß Ltd..",
-              "text_en" : "Buri needs a release from Klein AG and an additional power of attorney from Groß Ltd.",
-              "text_fr" : "Buri a besoin d'une décharge de Klein AG et d'une procuration supplémentaire de Groß Ltd."
-            },
-            {
-              "text_de" : "Buri benötigt eine zusätzliche Vollmacht der Groß Ltd..",
-              "text_en" : "Buri needs an additional power of attorney from Grand Ltd.",
-              "text_fr" : "Buri a besoin d'une procuration supplémentaire de Grand Ltd."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Buri kann die Groß Ltd. nicht vertreten.",
-              "text_en" : "Buri cannot represent Groß Ltd.",
-              "text_fr" : "Buri ne peut pas représenter Groß Ltd."
-            },
-            {
-              "text_de" : "Buri kann EP-1 beim Europäischen Patentamt einreichen.",
-              "text_en" : "Buri may file EP-1 with the European Patent Office.",
-              "text_fr" : "Buri peut déposer le document EP-1 auprès de l'Office européen des brevets."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Buri kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# nur eine (natürliche oder juristische) Person mit Sitz in einem Vertragsstaat vertreten. Buri kann aber EP-1 einreichen, da es zur Einreichung einer Anmeldung keiner Vertretung bedarf.",
-          "explanation_en" : "According to #linkepc#ar133|Article 133 (3) EPC#endlink#, Buri can only represent a (natural or legal) person having its seat in a Contracting State. However, Buri can file EP-1 as no representation is required to file an application.",
-          "explanation_fr" : "Selon #linkepc#ar133|Article 133 (3) CBE#endlink#, Buri ne peut représenter qu'une personne (physique ou morale) ayant son siège dans un Etat contractant. Cependant, Buri peut déposer EP-1 car aucune représentation n'est requise pour déposer une demande.",
-          "id" : 6,
-          "id_old" : 9,
-          "normen" : "Artikel 133 3 iVm Art 133 2 keine Vertretung durch Nicht-Angestellten-100%-Tochter",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Max_Buri|Max Buri#endlink# ist Angestellter der Klein AG mit Sitz in Basel/Schweiz. Die Klein AG ist eine hundertprozentige Tochter der Groß Ltd. mit Sitz in New York/USA. Er hat auch eine Vollmacht der Klein AG, diese vor dem Europäischen Patentamt zu vertreten. Er ist aber weder zugelassener Vertreter noch Rechtsanwalt. Wie kann Buri die Groß Ltd. bei der Einreichung und Anmeldeverfahren einer europäischen Patentanmeldung EP-1 vertreten?",
-          "text_en" : "#linkwiki#Max_Buri|Max Buri#endlink# is an employee of Klein AG, based in Basel,Switzerland. Klein AG is a wholly owned subsidiary of Groß Ltd. based in New York,USA. He also has a power of attorney from Klein AG to represent them before the European Patent Office. However, he is neither a professional representative, nor a lawyer. How can Buri represent Groß Ltd. in the filing and prosecution of a European patent application EP-1?",
-          "text_fr" : "#linkwiki#Max_Buri|Max Buri#endlink# est un employé de Klein AG, basée à Bâle, en Suisse. Klein AG est une filiale à 100 % de Groß Ltd., dont le siège est à New York, aux États-Unis. Il dispose également d'une procuration de Klein AG pour la représenter devant l'Office européen des brevets. Cependant, il n'est ni un mandataire agréé, ni un avocat. Comment Buri peut-il représenter Groß Ltd. dans le dépôt et la poursuite d'une demande de brevet européen EP-1 ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Kandinsky und Marc gelten zusammen als Vertreter.",
-              "text_en" : "Kandinsky and Marc together are considered representatives.",
-              "text_fr" : "Kandinsky et Marc sont considérés ensemble comme des représentants."
-            },
-            {
-              "text_de" : "Weder Kandinsky oder Marc sind zugelassene Verteter. Sie können den jeweils anderen daher nicht vertreten und müssen daher einen zugelassenen Vertreter bestellen.",
-              "text_en" : "Neither Kandinsky nor Marc is authorized as a representative.  Therefore, they cannot represent the other and must appoint a professional to represent them.",
-              "text_fr" : "Ni Kandinsky ni Marc n'ont de mandat de représentation.  Ils ne peuvent donc pas représenter l'autre et doivent désigner un professionnel pour les représenter."
-            },
-            {
-              "text_de" : "Marc gilt als Vertreter.",
-              "text_en" : "Marc is considered a representative.",
-              "text_fr" : "Marc est considéré comme un représentant."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Kandinsky gilt als Vertreter.",
-              "text_en" : "Kandinsky is considered a representative.",
-              "text_fr" : "Kandinsky est considéré comme un représentant."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Wird eine europäische Patentanmeldung von mehreren Personen eingereicht und ist im Antrag auf Erteilung eines europäischen Patents kein gemeinsamer Vertreter bezeichnet, so gilt der Anmelder, der im Antrag als Erster genannt ist, als gemeinsamer Vertreter. Gemäß #linkepc#r151|Artikel 151 (1) EPÜ#endlink# kann nur eine (natürliche oder juristische) Person mit Sitz in einem Vertragsstaat vertreten. Dies ist hier gegeben.",
-          "explanation_en" : "If a European patent application is filed by several persons and no common representative is designated in the request for the grant of a European patent, the applicant who is named first in the request shall be deemed to be the common representative. According to #linkepc#r151|Article 151 (1) EPC#endlink# only one (natural or legal) person having his seat in a Contracting State may represent. This is given here.",
-          "explanation_fr" : "Si une demande de brevet européen est déposée par plusieurs personnes et qu'aucun mandataire commun n'est désigné dans la requête en délivrance d'un brevet européen, le demandeur qui est nommé en premier dans la requête est réputé être le mandataire commun. Selon #linkepc#r151|Article 151 (1) CBE#endlink#, seule une personne (physique ou morale) ayant son siège dans un Etat contractant peut représenter. Ceci est donné ici.",
-          "id" : 7,
-          "id_old" : 323,
-          "normen" : "Regel 151 (1) Vertretung über Reihenfolge",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Franz_Marc|Franz Marc#endlink# und #linkwiki#Wassily_Kandinsky|Wassily Kandinsky#endlink# haben zusammen eine Druckmaschine erfunden und eine darauf gerichtete Europäische Patentanmeldung EP-1 eingereicht. Da Kandinsky der erste im Alphabet ist ist er auch als erster Anmelder genannt. Beide sind momentan wohnhaft in München. Sie haben vergessen einen gemeinsamen Vertreter anzugeben. Wie ist die Vertreterregelung?",
-          "text_en" : "#linkwiki#Franz_Marc|Franz Marc#endlink# and #linkwiki#Wassily_Kandinsky|Wassily Kandinsky#endlink# have invented together a printing machine and filed a European patent application EP-1 directed to it. Since Kandinsky is the first in the alphabet, he is also named as the first applicant. Both currently reside in Munich. They have forgotten to indicate a common representative. What is the representative regulation?",
-          "text_fr" : "#linkwiki#Franz_Marc|Franz Marc#endlink# et #linkwiki#Wassily_Kandinsky|Wassily Kandinsky#endlink# ont inventé ensemble une machine à imprimer et déposé une demande de brevet européen EP-1 la concernant. Comme Kandinsky est le premier de l'alphabet, il est également désigné comme premier demandeur. Tous deux résident actuellement à Munich. Ils ont oublié d'indiquer un mandataire commun. Quel est le règlement sur le mandataire ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Bierstadt und Lessing gelten zusammen als Vertreter.",
-              "text_en" : "Bierstadt and Lessing together are considered representatives.",
-              "text_fr" : "Bierstadt et Lessing sont considérés ensemble comme des représentants."
-            },
-            {
-              "text_de" : "Lessing gilt als Vertreter.",
-              "text_en" : "Lessing is considered a representative.",
-              "text_fr" : "Lessing est considéré comme un représentant."
-            },
-            {
-              "text_de" : "Bierstadt gilt als Vertreter.",
-              "text_en" : "Bierstadt is considered a representative.",
-              "text_fr" : "Bierstadt est considéré comme un représentant."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Bierstadt ist verpflichtet, einen Vertreter zu bestellen. Sobald er ihn bestellt hat gilt dieser dann als gemeinsamer Vertreter.",
-              "text_en" : "Bierstadt is obliged to appoint a representative. As soon as he has appointed him, this representative will then be deemed the joint representative.",
-              "text_fr" : "Bierstadt est obligé de désigner un représentant. Dès qu'il l'aura désigné, ce représentant sera alors considéré comme le représentant commun."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Wird eine europäische Patentanmeldung von mehreren Personen eingereicht und ist im Antrag auf Erteilung eines europäischen Patents kein gemeinsamer Vertreter bezeichnet, so gilt der Anmelder, der im Antrag als Erster genannt ist, als gemeinsamer Vertreter. Ist einer der Anmelder jedoch verpflichtet, einen zugelassenen Vertreter zu bestellen, so gilt dieser Vertreter als gemeinsamer Vertreter, sofern nicht der im Antrag als Erster genannte Anmelder einen zugelassenen Vertreter bestellt hat, siehe #linkepc#r151|Artikel 151 (1) EPÜ#endlink#. Lessing hat keinen Vertreter bestellt und Bierstadt benötigt einen Vertreter. Somit ist der Vertreter von Bierstadt der gemeinsame Vertreter.",
-          "explanation_en" : "If a European patent application is filed by several persons and no common representative is designated in the request for grant of a European patent, the applicant who is named first in the request will be considered the common representative. However, if one of the applicants is required to appoint a professional representative, that representative shall be deemed  the common representative unless the applicant first named in the request has appointed a professional representative, see #linkepc#r151|Article 151 (1) EPC#endlink#. Lessing has not appointed a representative and Bierstadt needs a representative. Thus, Bierstadt's representative is the common representative.",
-          "explanation_fr" : "Si une demande de brevet européen est déposée par plusieurs personnes et qu'aucun mandataire commun n'est désigné dans la requête en délivrance d'un brevet européen, le demandeur qui est nommé en premier dans la requête sera considéré comme le mandataire commun. Toutefois, si l'un des demandeurs est tenu de désigner un mandataire agréé, ce dernier sera considéré comme le mandataire commun, à moins que le demandeur nommé en premier dans la requête n'ait désigné un mandataire agréé, voir #linkepc#r151|Article 151 (1) CBE#endlink#. Lessing n'a pas désigné de représentant et Bierstadt a besoin d'un représentant. Ainsi, le représentant de Bierstadt est le représentant commun.",
-          "id" : 8,
-          "id_old" : 324,
-          "normen" : "Regel 151 (1) Vertretung mehrere Anmelder wenn einer Vertreter haben muss",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Albert_Bierstadt|Albert Bierstadt#endlink# ist ein amerikanischer Erfinder, der nach einem Deutschland-Aufenthalt wieder in die USA gezogen ist. Er hat zusammen mit #linkwiki#Carl_Friedrich_Lessing|Carl Friedrich Lessing#endlink# aus Düsseldorf ein Verfahren zur Herstellung besonders leuchtender Farben entwickelt und eine darauf gerichtete Europäische Patentanmeldung EP-1 eingereicht. Da Lessing größere Anteile an der Entwicklung hatte ist ist er auch als erster Anmelder genannt. Sie haben vergessen einen gemeinsamen Vertreter anzugeben. Wie ist die Vertreterregelung?",
-          "text_en" : "#linkwiki#Albert_Bierstadt|Albert Bierstadt#endlink# is an American inventor who has moved back to the United States after living in Germany. Together with #linkwiki#Carl_Friedrich_Lessing|Carl Friedrich Lessing#endlink# from Düsseldorf, he developed a process for the production of particularly bright colors and filed a European patent application EP-1 directed to it. Since Lessing had a larger share in the development, he has also been named as the first applicant. They have forgotten to indicate a common representative. What is the representative regulation?",
-          "text_fr" : "#linkwiki#Albert_Bierstadt|Albert Bierstadt#endlink# est un inventeur américain qui est revenu aux Etats-Unis après avoir vécu en Allemagne. Avec #linkwiki#Carl_Friedrich_Lessing|Carl Friedrich Lessing#endlink# de Düsseldorf, il a développé un procédé pour la production de couleurs particulièrement vives et a déposé une demande de brevet européen EP-1 le concernant. Comme Lessing avait une part plus importante dans le développement, il a également été désigné comme premier déposant. Ils ont oublié d'indiquer un mandataire commun. Qu'est-ce que le règlement sur le mandataire ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Da sich alle Anmelder vertreten lassen müssen entscheidet das Los, wer der gemeinsame Vertreter ist.",
-              "text_en" : "Since all applicants must be represented, the decision as to whom is the joint representative will be made by drawing lots.",
-              "text_fr" : "Étant donné que tous les demandeurs doivent être représentés, la décision concernant le mandataire commun sera prise par tirage au sort."
-            },
-            {
-              "text_de" : "Derjenige Vertreter, der sich als erster zum gemeinsamen Vertreter ernennt, ist der gemeinsame Vertreter.",
-              "text_en" : "The first representative to become the joint representative shall be the joint representative.",
-              "text_fr" : "Le premier représentant à devenir le représentant commun est le représentant commun."
-            },
-            {
-              "text_de" : "Alle Vertreter gelten als gemeinsame Vertreter.",
-              "text_en" : "All representatives shall be deemed joint representatives.",
-              "text_fr" : "Tous les représentants sont considérés comme des représentants communs."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Der Vertreter von Cole gilt als gemeinsamer Vertreter, da Cole der erstgenannte Anmelder ist.",
-              "text_en" : "Cole's representative is considered a common representative due to the fact that Cole is the first named applicant.",
-              "text_fr" : "Le représentant de Cole est considéré comme un représentant commun en raison du fait que Cole est le premier demandeur nommé."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Wird eine europäische Patentanmeldung von mehreren Personen eingereicht und ist im Antrag auf Erteilung eines europäischen Patents kein gemeinsamer Vertreter bezeichnet, und ist einer der Anmelder jedoch verpflichtet, einen zugelassenen Vertreter zu bestellen, so gilt dieser Vertreter als gemeinsamer Vertreter, sofern nicht der im Antrag als Erster genannte Anmelder einen zugelassenen Vertreter bestellt hat, siehe #linkepc#r151|Artikel 151 (1) EPÜ#endlink#. Da Cole einen Vertreter bestellt hat und er der als Erste genannte ist, ist sein Vertreter der gemeinsame Vertreter.",
-          "explanation_en" : "If a European patent application is filed by several persons and no common representative is designated in the request for grant of a European patent, but one of the applicants is required to appoint a professional representative, this representative will be considered the common representative unless the applicant first named in the request has appointed a professional representative, see #linkepc#r151|Article 151 (1) EPC#endlink#. Since Cole has appointed a representative and is the first named, his representative is the common representative.",
-          "explanation_fr" : "Si une demande de brevet européen est déposée par plusieurs personnes et qu'aucun mandataire commun n'est désigné dans la requête en délivrance d'un brevet européen, mais que l'un des demandeurs est tenu de désigner un mandataire agréé, ce mandataire sera considéré comme le mandataire commun, à moins que le demandeur cité en premier dans la requête n'ait désigné un mandataire agréé, voir #linkepc#r151|Article 151 (1) CBE#endlink#. Puisque Cole a désigné un représentant et qu'il est le premier nommé, son représentant est le représentant commun.",
-          "id" : 9,
-          "id_old" : 325,
-          "normen" : "Regel 151 (1) Vertretung mehrere Anmelder wenn einer Vertreter haben muss",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Thomas_Cole|Thomas Cole#endlink#, #linkwiki#Asher_Brown_Durand|Asher Brown Durand#endlink# und #linkwiki#Frederic_Edwin_Church|Frederic Edwin Church#endlink# sind amerikanische Erfinder. Sie haben ein Verfahren zur Herstellung von Naturfarben entwickelt und eine darauf gerichtete Europäische Patentanmeldung EP-1 eingereicht, wobei ihre Nennung der Reihenfolge in dieser Angabe entspricht. Sie sind zwar gut bekannt, es hat sich aber jeder einen eigenen zugelassenen Vertreter genommen. Sie haben dabei aber vergessen einen gemeinsamen Vertreter anzugeben. Wie ist die Vertreterregelung?",
-          "text_en" : "#linkwiki#Thomas_Cole|Thomas Cole#endlink#, #linkwiki#Asher_Brown_Durand|Asher Brown Durand#endlink# and #linkwiki#Frederic_Edwin_Church|Frederic Edwin Church#endlink# are American inventors. They have developed a process for the production of natural dyes and have filed a European patent application EP-1 directed to it, their citation corresponding to the order in this specification. Even though they are well known, they have each taken their own professional representative. However, they forgot to indicate a common representative. What is the representative arrangement?",
-          "text_fr" : "#linkwiki#Thomas_Cole|Thomas Cole#endlink#, #linkwiki#Asher_Brown_Durand|Asher Brown Durand#endlink# et #linkwiki#Frederic_Edwin_Church|Frederic Edwin Church#endlink# sont des inventeurs américains. Ils ont mis au point un procédé de production de colorants naturels et ont déposé une demande de brevet européen EP-1 le concernant, leur citation correspondant à l'ordre de la présente spécification. Bien qu'ils soient connus, ils ont pris chacun leur propre mandataire agréé. Cependant, elles ont oublié d'indiquer un mandataire commun. Quel est le mode de représentation ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Reinhold Lepsius gilt als Vertreter.",
-              "text_en" : "Reinhold Lepsius is considered a representative.",
-              "text_fr" : "Reinhold Lepsius est considéré comme un représentant."
-            },
-            {
-              "text_de" : "Sabine Lepsius gilt als Vertreterin.",
-              "text_en" : "Sabine Lepsius is considered a representative.",
-              "text_fr" : "Sabine Lepsius est considérée comme une représentante."
-            },
-            {
-              "text_de" : "Beide Anmelder gelten als gemeinsame Vertreter.",
-              "text_en" : "Both applicants are considered joint representatives.",
-              "text_fr" : "Les deux demandeurs sont considérés comme des représentants conjoints."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Es lässt sich kein Vertreter festlegen. Das Europäische Patentamt fordert das Ehepaar Lepsius daher auf, einen Vertreter zu benennen. ",
-              "text_en" : "No representative can be appointed. The European Patent Office therefore requests Mr. and Mrs. Lepsius to appoint a representative.",
-              "text_fr" : "Aucun représentant ne peut être désigné. L'Office européen des brevets demande donc à M. et Mme Lepsius de désigner un mandataire."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Wird eine europäische Patentanmeldung übernommen und ist weder ein Vertreter benannt noch eine Anwendung von #linkepc#r151|Artikel 151 (1) EPÜ#endlink# möglich fordert das Europäische Patentamt gemäß #linkepc#r151|Artikel 151 (2) EPÜ#endlink# die Anmelder auf, innerhalb einer zu bestimmenden Frist einen gemeinsamen Vertreter zu bestellen. Da aus den geschilderten Einzelheiten kein Vertreter ermittelbar ist fordert das Europäische Patentamt zur Benennung eines gemeinsamen Vertreters auf.",
-          "explanation_en" : "If a European patent application is accepted and neither a representative is appointed nor an application of #linkepc#r151|Article 151 (1) EPC#endlink# is possible, the European Patent Office requests according to #linkepc#r151|Article 151 (2) EPC#endlink# the applicants to appoint a common representative within a predetermined period. Since no representative has been determined from the details described, the European Patent Office reserves the right to appoint a common representative.",
-          "explanation_fr" : "Si une demande de brevet européen est acceptée et qu'aucun mandataire n'est désigné ou qu'une application de l'article 151 (1) CBE#endlink# est possible, l'Office européen des brevets demande aux demandeurs, conformément à l'article 151 (2) CBE#endlink#, de désigner un mandataire commun dans un délai déterminé. Comme aucun mandataire n'a été déterminé à partir des détails décrits, l'Office européen des brevets se réserve le droit de désigner un mandataire commun.",
-          "id" : 10,
-          "id_old" : 326,
-          "normen" : "Regel 151 (2) Aufforderung Vertreterbenennung",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Sabine_Lepsius|Sabine Lepsius#endlink# und #linkwiki#Reinhold_Lepsius|Reinhold Lepsius#endlink# aus Berlin haben von einem Bekannten eine Patentanmeldung EP-1 übernommen. Dies wird dem Europäischen Patentamt mitgeteilt und die benötigten Papiere werden vorgelegt. Wie ist die Vertreterregelung?",
-          "text_en" : "#linkwiki#Sabine_Lepsius|Sabine Lepsius#endlink# and #linkwiki#Reinhold_Lepsius|Reinhold Lepsius#endlink# from Berlin have taken over a patent application EP-1 from an acquaintance. This will be communicated to the European Patent Office and the required papers will be submitted. What is the representative regulation?",
-          "text_fr" : "#linkwiki#Sabine_Lepsius|Sabine Lepsius#endlink# et #linkwiki#Reinhold_Lepsius|Reinhold Lepsius#endlink# de Berlin ont repris une demande de brevet EP-1 d'une connaissance. Ceci sera communiqué à l'Office européen des brevets et les documents requis seront soumis. Quel est le règlement de représentation ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Die Patentanmeldung EP-1 gilt als zurückgenommen.",
-              "text_en" : "The patent application EP-1 is considered withdrawn.",
-              "text_fr" : "La demande de brevet EP-1 est considérée comme retirée."
-            },
-            {
-              "text_de" : "Die Anmeldung wird auf den ursprünglichen Anmelder und Vertreter rückübertragen.",
-              "text_en" : "The application is transferred back to the original applicant and representative.",
-              "text_fr" : "La demande est retransférée au demandeur initial et à son représentant."
-            },
-            {
-              "text_de" : "Die Patentanmeldung EP-1 gilt als erloschen.",
-              "text_en" : "The patent application EP-1 is considered to have lapsed.",
-              "text_fr" : "La demande de brevet EP-1 est considérée comme caduque."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Das Europäische Patentamt legt einen Vertreter fest.  ",
-              "text_en" : "The European Patent Office shall appoint a representative.",
-              "text_fr" : "L'Office européen des brevets désigne un représentant."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Wird auf Auforderung des Europäischen Patentamtes kein Vertreter benannt legt das Europäische Patentamt gemäß #linkepc#r151|Artikel 151 (2) EPÜ#endlink# einen gemeinsamen Vertreter fest. Es handelt sich dabei nicht um einen zugelassenen Vertreter, sondern um einen der Anmelder.",
-          "explanation_en" : "If no representative is appointed upon request of the European Patent Office, the European Patent Office shall appoint a common representative according to #linkepc#r151|Article 151 (2) EPC#endlink#. This is not a professional representative, but one of the applicants.",
-          "explanation_fr" : "Si aucun mandataire n'est désigné sur requête de l'Office européen des brevets, l'Office européen des brevets désigne un mandataire commun conformément à #linkepc#r151|Article 151 (2) CBE#endlink#. Il ne s'agit pas d'un mandataire agréé, mais d'un des demandeurs.",
-          "id" : 11,
-          "id_old" : 327,
-          "normen" : "Regel 151 (2) Festlegung Vertreter",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Rosa_Bonheur|Rosa Bonheur#endlink# und ihr Bruder Auguste Bonheur aus Paris haben von einer Freundin eine Patentanmeldung EP-1 über ein Pferdegeschirr übernommen. Dies wird dem Europäischen Patentamt mitgeteilt und die benötigten Papiere werden vorgelegt. Da kein Vertreter benannt wurde und auch nicht ermittelbar ist fordert das Europäische Patentamt die Geschwister auf, innerhalb einer gegebenen Frist einen gemeinsamen Vertreter zu benennen. Da Rosa eine Ausstellung vorbereitet und Auguste auf Reisen ist, um Landschaften zu malen, verstreicht die Frist unbeachtet. Wie ist die Rechtslage?",
-          "text_en" : "#linkwiki#Rosa_Bonheur|Rosa Bonheur#endlink# and her brother Auguste Bonheur from Paris have taken over a patent application EP-1 from a friend regarding a horse harness. This is reported to the European Patent Office and the required papers are submitted. Since no representative has been named and cannot be found, the European Patent Office asks the siblings to name a joint representative within a given period. Since Rosa is preparing an exhibition and Auguste is traveling to paint landscapes, the deadline passes unheeded. What is the legal situation?",
-          "text_fr" : "#linkwiki#Rosa_Bonheur|Rosa Bonheur#endlink# et son frère Auguste Bonheur de Paris ont repris une demande de brevet EP-1 d'un ami concernant un harnais pour chevaux. Cette demande est signalée à l'Office européen des brevets et les documents requis sont soumis. Comme aucun mandataire n'a été désigné et ne peut être trouvé, l'Office européen des brevets demande aux frères et sœurs de désigner un mandataire commun dans un délai donné. Comme Rosa prépare une exposition et qu'Auguste est en voyage pour peindre des paysages, le délai passe sans être respecté. Quelle est la situation juridique ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Van Hemessens Arbeitgeber hat seinen Sitz in einem Vertragsstaat und van Hemessen hat eine Vollmacht. Sie kann daher vertreten.",
-              "text_en" : "Van Hemessen's employer has its registered office in a Contracting State and van Hemessen has a power of attorney. She can therefore represent.",
-              "text_fr" : "L'employeur de Van Hemessen a son siège social dans un État contractant et Van Hemessen a une procuration. Elle peut donc représenter."
-            },
-            {
-              "text_de" : "Van Hemessen muss von der Big AG eine zusätzliche Vollmacht erhalten.",
-              "text_en" : "Van Hemessen must obtain additional authority from Big AG.",
-              "text_fr" : "Van Hemessen doit obtenir une autorisation supplémentaire de Big AG."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Van Hemessen kann EP-1 einreichen.",
-              "text_en" : "Van Hemessen can submit EP-1.",
-              "text_fr" : "Van Hemessen peut soumettre EP-1."
-            },
-            {
-              "text_de" : "Van Hemessen kann die Big AG nicht vertreten, da diese keinen Sitz in einem Vertragsstaat hat.",
-              "text_en" : "Van Hemessen cannot represent Big AG because it does not have a registered office in a Contracting State.",
-              "text_fr" : "Van Hemessen ne peut pas représenter Big AG parce qu'elle n'a pas de siège social dans un État contractant."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Van Hemessen kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# nur eine (natürliche oder juristische) Person mit Sitz in einem Vertragsstaat vertreten. Dies gilt unabhängig davon, ob der Arbeitgeber von Van Hemessen Mitanmelder ist oder nicht. Einthoven kann aber EP-1 einreichen, da es zur Einreichung einer Anmeldung keiner Vertretung bedarf.",
-          "explanation_en" : "According to #linkepc#ar133|Article 133 (3) EPC#endlink#, Van Hemessen can only represent a (natural or legal) person having its seat in a Contracting State. This is true whether or not Van Hemessen's employer is a co-applicant. Einthoven may, however, file EP-1, since no representation is required to file an application.",
-          "explanation_fr" : "Selon #linkepc#ar133|Article 133 (3) CBE#endlink#, Van Hemessen ne peut représenter qu'une personne (physique ou morale) ayant son siège dans un Etat contractant. Ceci est vrai que l'employeur de Van Hemessen soit ou non un codemandeur. Einthoven peut cependant déposer EP-1, car aucune représentation n'est requise pour déposer une demande.",
-          "id" : 12,
-          "id_old" : 10,
-          "normen" : "Regel 133 3 Vertretung durch Angestellten, Firma Mitanmelder 2. Anmelder Vertretungszwang",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Catarina_van_Hemessen|Catarina van Hemessen#endlink# ist Angestellte der Lütt AG mit Sitz in Antwerpen/Niederlande. Die Lütt AG ist eine hundertprozentige Tochter der Big AG mit Sitz in Los Angeles/USA. Sie hat auch eine Vollmacht der Lütt AG, diese vor dem Europäischen Patentamt zu vertreten. Sie ist aber weder zugelassene Vertreterin noch Rechtsanwältin. Da in einer Erfindungsmeldung Erfinder beider Firmen auftreten, soll diese mit beiden Firmen als gleichberechtigten Anmeldern beim Europäischen Patentamt als europäische Patentanmeldung EP-1 eingereicht werden. In welcher Konstellation kann van Hemessen im Verfahren der Patentanmeldung EP-1 vertreten?",
-          "text_en" : "#linkwiki#Catarina_van_Hemessen|Catarina van Hemessen#endlink# is an employee of Lütt AG based in Antwerp,Netherlands.  Lütt AG is a wholly owned subsidiary of Big AG with its registered office in Los Angeles,USA. She also has a power of attorney from Lütt AG to represent the latter before the European Patent Office. However, she is neither a professional representative nor a lawyer. Since inventors of both companies appear in an invention disclosure, it is to be filed with the European Patent Office as a European patent application EP-1 with both companies as equal applicants. In which constellation can van Hemessen represent in the EP-1 patent application procedure?",
-          "text_fr" : "#linkwiki#Catarina_van_Hemessen|Catarina van Hemessen#endlink# est une employée de Lütt AG basée à Anvers, Pays-Bas.  Lütt AG est une filiale à 100 % de Big AG dont le siège social est situé à Los Angeles, aux États-Unis. Elle dispose également d'une procuration de Lütt AG pour représenter cette dernière devant l'Office européen des brevets. Toutefois, elle n'est ni mandataire agréé ni avocat. Étant donné que les inventeurs des deux sociétés apparaissent dans une divulgation d'invention, celle-ci doit être déposée auprès de l'Office européen des brevets en tant que demande de brevet européen EP-1, les deux sociétés étant des demandeurs égaux. Dans quelle constellation van Hemessen peut-elle représenter dans la procédure de demande de brevet EP-1 ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Bilińska kann EP-1 nicht vertreten, da die Groß AG nicht ihr Arbeitgeber ist.",
-              "text_en" : "Bilińska cannot represent EP-1 because Groß AG is not her employer.",
-              "text_fr" : "Bilińska ne peut pas représenter EP-1 car Groß AG n'est pas son employeur."
-            },
-            {
-              "text_de" : "Bilińska muss von der Groß AG eine zusätzliche Vollmacht erhalten, da die Firmen nicht verbunden sind.",
-              "text_en" : "Bilińska must receive an additional power of attorney from Groß AG, as the companies are not affiliated.",
-              "text_fr" : "Bilińska doit recevoir une procuration supplémentaire de Groß AG, car les sociétés ne sont pas affiliées."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Die Klein AG muss gemeinsamer Verteter sein.",
-              "text_en" : "Klein AG must be a joint representative.",
-              "text_fr" : "Klein AG doit être un représentant commun."
-            },
-            {
-              "text_de" : "Bilińska kann die Klein AG vertreten. Die Groß AG hat ihren Sitz in einem Vertragsstaat und benötigt keinen Vertreter.",
-              "text_en" : "Bilińska may represent Klein AG. Groß AG has its registered office in a Contracting State and does not require a representative.",
-              "text_fr" : "Bilińska peut représenter Klein AG. Groß AG a son siège social dans un État contractant et n'a pas besoin de représentant."
-            },
-            {
-              "text_de" : "Die Klein AG kann als erster Anmelder genannt sein. Dann ist sie automatisch Vertreterin der Anmeldung EP-1.",
-              "text_en" : "Klein AG may be named as the first applicant. Then it automatically becomes the representative of the EP-1 application.",
-              "text_fr" : "Klein AG peut être désignée comme le premier demandeur. Elle devient alors automatiquement le mandataire de la demande EP-1."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "3",
-          "explanation_de" : "Bilińska kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# nur die Klein AG vertreten. Wenn diese bei einer Gemeinschaftsanmeldung EP-1 der gemeinsame Verteter ist, kann Bilińska EP-1 vertreten. Gemeinsamer Verteter wird die Klein AG gemäß #linkepc#r151|Regel 151 (1) EPÜ#endlink#, wenn sie die erstgenannte Person im Formblatt des Erteilungsantrags ist oder explizit als gemeinsamer Verteter genannt wird. Die Konstellation \n- Arbeitgeber mit Sitz in Vertragsstaat, \n- Mitanmelder mit Sitz in Vertragsstaat und \n- Arbeitgeber Vertreter der Anmeldung \nist die einzige, in der ein Vertreter nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# eine Anmeldung vertreten kann, in der andere Firmen als der Arbeitgeber Mitanmelder sind.",
-          "explanation_en" : "is the only one in whom a representative under #linkepc#ar133|Article 133 (3) EPC#endlink# may represent an application in which companies other than the employer are co-applicants.",
-          "explanation_fr" : "est la seule dans laquelle un mandataire selon #linkepc#ar133|Article 133 (3) CBE#endlink# peut représenter une demande dans laquelle des entreprises autres que l'employeur sont co-demandeurs.",
-          "id" : 13,
-          "id_old" : 11,
-          "normen" : "Artikel 133 3 Vertretung durch Angestellten, mehrere Firmen Anmelder",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Anna_Bilińska|Anna Bilińska#endlink# ist Angestellte der Klein AG mit Sitz in Warschau/Polen. Die Klein AG ist eine hundertprozentige Tochter der Groß AG mit Sitz in Krakau/Polen. Sie hat auch eine Vollmacht der Klein AG, diese vor dem Europäischen Patentamt zu vertreten. SIe ist aber weder zugelassene Vertreterin noch Rechtsanwältin. Da in einer Erfindungsmeldung Erfinder beider Firmen auftreten, soll diese mit beiden Firmen als gleichberechtigten Anmeldern beim Europäischen Patentamt als europäische Patentanmeldung EP-1 eingereicht werden. In welcher Konstellation kann Bilińska im Anmeldeverfahren die EP-1 vertreten?",
-          "text_en" : "#linkwiki#Anna_Bilińska|Anna Bilińska#endlink# is an employee of Klein AG, based in Warsaw, Poland. Klein AG is a wholly owned subsidiary of Groß AG with its registered office in Krakow, Poland. She also has a power of attorney from Klein AG to represent the company before the European Patent Office. However, she is neither a professional representative nor a lawyer. Since inventors of both companies appear in an invention disclosure, it is to be filed with the European Patent Office as a European patent application EP-1 with both companies as equal applicants. In which constellation can Bilińska represent EP-1 in the application procedure?",
-          "text_fr" : "#linkwiki#Anna_Bilińska|Anna Bilińska#endlink# est une employée de Klein AG, basée à Varsovie, en Pologne. Klein AG est une filiale à 100 % de Groß AG dont le siège social est situé à Cracovie, en Pologne. Elle dispose également d'une procuration de Klein AG pour représenter la société devant l'Office européen des brevets. Toutefois, elle n'est ni un mandataire agréé ni un avocat. Étant donné que les inventeurs des deux sociétés apparaissent dans une divulgation d'invention, celle-ci doit être déposée auprès de l'Office européen des brevets en tant que demande de brevet européen EP-1, les deux sociétés étant des demandeurs égaux. Dans quelle constellation Bilińska peut-elle représenter EP-1 dans la procédure de demande ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Der Antrag ist zulässig, weil Moser ohne Vollmacht vertreten hat.",
-              "text_en" : "The motion is admissible because Moser represented without authority.",
-              "text_fr" : "La motion est admissible parce que Moser a représenté sans autorité."
-            },
-            {
-              "text_de" : "Der Antrag ist begründet, da das Europäische Patentamt getäuscht worden ist.",
-              "text_en" : "The request is well-founded as the European Patent Office has been deceived.",
-              "text_fr" : "Cette demande est fondée, car l'Office européen des brevets a été trompé."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Der Antrag ist, die Zulässigkeit unterstellt, unbegründet, weil Kauffmann die Rücknahme der Vollmacht nicht dem Europäischen Patentamt angezeigt hat.",
-              "text_en" : "Assuming the request is admissible, it is unfounded because Kauffmann did not notify the European Patent Office of the withdrawal of the power of attorney.",
-              "text_fr" : "A supposer que la requête soit recevable, elle n'est pas fondée car Kauffmann n'a pas notifié à l'Office européen des brevets le retrait de la procuration."
-            },
-            {
-              "text_de" : "Der Antrag auf Wiedereinsetzung ist unzulässig, da keine Frist versäumt worden ist.",
-              "text_en" : "The application for reinstatement is inadmissible because no deadline has been missed.",
-              "text_fr" : "La demande de réintégration est irrecevable car aucun délai n'a été dépassé."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Nach #linkepc#r152|Regel 152 (8) EPÜ#endlink# gilt ein Vertreter so lange als bevollmächtigt, bis das Erlöschen seiner Vollmacht dem Europäischen Patentamt angezeigt worden ist. Für das Europäische Patentamt ist Moser also weiterhin Vertreterin im Verfahren der EP-1. Ein Antrag auf Wiedereinsetzung in den vorigen Stand ist daher unzulässig und unbegründet. Ob Ansprüche von Kauffmann gegen Moser bestehen ist dagegen eine zivilrechtliche und ggf. standesrechtliche Frage. Sie berührt das Verfahren vor dem Europäischen Patentamt nicht.",
-          "explanation_en" : "According to #linkepc#r152|Rule 152 (8) EPC#endlink# a representative is deemed to be authorized unless the European Patent Office has been notified of the termination of his authorization. Thus, for the European Patent Office, Moser continues to be the representative in the EP-1 proceedings. A request for restitutio in integrum is therefore inadmissible and unfounded. Whether Kauffmann has claims against Moser, on the other hand, is a question of civil law and, if applicable, of professional ethics. It does not affect the proceedings before the European Patent Office.",
-          "explanation_fr" : "Selon la #linkepc#r152|Règle 152 (8) CBE#endlink# un mandataire est réputé être autorisé à moins que l'Office européen des brevets n'ait été notifié de la fin de son autorisation. Ainsi, pour l'Office européen des brevets, Moser continue à être le mandataire dans la procédure EP-1. Une requête en restitutio in integrum est donc irrecevable et infondée. En revanche, la question de savoir si Kauffmann a des prétentions à l'encontre de Moser est une question de droit civil et, le cas échéant, d'éthique professionnelle. Elle n'a aucune incidence sur la procédure devant l'Office européen des brevets.",
-          "id" : 14,
-          "id_old" : 12,
-          "normen" : "Regel 152 8 Vertretung bis Rücknahme",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Mary_Moser|Mary Moser#endlink# ist zugelassene Vertreterin und vertritt #linkwiki#Angelika_Kauffmann|Angelika Kauffmann#endlink# in einem Anmeldeverfahren vor dem Europäischen Patentamt. Da sie sich verkrachen erklärt Kauffmann ihrer Vertreterin, dass sie die Vollmacht zurückziehe. Da Moser bereits eine fällige Bescheidserwiderung erstellt hat, reicht sie diese trotzdem noch ein. Da sie lustlos verfasst war sieht sich der Prüfer veranlasst, die Patentanmeldung zurückzuweisen. Als Kauffmann den Zurückweisungsbeschluss erhält ist sie außer sich und nimmt eine elektronische Akteneinsicht vor. Sie findet heraus, dass Moser die Eingabe nach der Rücknahme der Vollmacht ihr gegenüber eingereicht hat. Sie stellt daher beim Europäischen Patentamt einen Antrag auf Wiedereinsetzung in den vorigen Stand. Wird dem Antrag stattgegeben?",
-          "text_en" : "#linkwiki#Mary_Moser|Mary Moser#endlink# is a professional representative for #linkwiki#Angelika_Kauffmann|Angelika Kauffmann#endlink# in an application procedure before the European Patent Office. As they quarrel, Kauffmann tells her representative that she is withdrawing the power of attorney. Since Moser has already drafted a statement of opposition that is due, she still files it. Since it was written in a lackadaisical manner, the examiner deems  it necessary to reject the patent application. When Kauffmann receives the rejection decision, she becomes furious and starts an electronic file inspection. She finds out that Moser filed the application after withdrawing the power of attorney against her. She therefore files a request with the European Patent Office for reinstatement in the previous state of affairs. Is the request granted?",
-          "text_fr" : "#linkwiki#Mary_Moser|Mary Moser#endlink# est un représentant professionnel pour #linkwiki#Angelika_Kauffmann|Angelika Kauffmann#endlink# dans une procédure de demande devant l'Office européen des brevets. Alors qu'ils se disputent, Kauffmann annonce à son représentant qu'elle retire la procuration. Comme Moser a déjà rédigé une déclaration d'opposition qui est due, elle la dépose quand même. Comme elle a été rédigée de manière peu rigoureuse, l'examinateur juge nécessaire de rejeter la demande de brevet. Lorsque Kauffmann reçoit la décision de rejet, elle est furieuse et commence une inspection électronique du dossier. Elle découvre que Moser a déposé la demande après avoir retiré la procuration qu'il lui avait donnée. Elle dépose donc une requête auprès de l'Office européen des brevets pour être rétablie dans l'état antérieur des choses. Cette requête est-elle acceptée ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Das Europäische Patentamt kann eine allgemeine Vollmacht ausstellen, die Gentileschi zur Vertretung jedes Mandanten berechtigt.",
-              "text_en" : "The European Patent Office may issue a general power of attorney authorizing Gentileschi to represent any client.",
-              "text_fr" : "L'Office européen des brevets peut délivrer une procuration générale autorisant Gentileschi à représenter tout client."
-            },
-            {
-              "text_de" : "Das Europäische Patentamt kann auf die Vollmacht verzichten, wenn Gentileschi eine große Arbeitslast nachweist.",
-              "text_en" : "The European Patent Office may waive the power of attorney if Gentileschi demonstrates a heavy workload.",
-              "text_fr" : "L'Office européen des brevets peut renoncer à la procuration si Mme Gentileschi fait preuve d'une charge de travail importante."
-            },
-            {
-              "text_de" : "Gentileschi kann sich eine allgemeine Vollmacht für alle Mandanten ausstellen.",
-              "text_en" : "Gentileschi can issue himself a general power of attorney for all clients.",
-              "text_fr" : "Gentileschi peut se donner une procuration générale pour tous les clients."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Gentileschi kann sich von den Mandanten jeweils eine allgemeine Vollmacht ausstellen lassen, dann benötigt sie nur eine pro Mandant.",
-              "text_en" : "Gentileschi can have the clients each issue a general power of attorney, in which case she only needs one per client.",
-              "text_fr" : "Mme Gentileschi peut demander à chacun de ses clients d'établir une procuration générale, auquel cas elle n'a besoin que d'une seule procuration par client."
-            },
-            {
-              "text_de" : "Die Mandanten können die Vollmachten für Gentileschi einreichen.",
-              "text_en" : "Clients may file proxies on Gentileschi's behalf.",
-              "text_fr" : "Les clients peuvent déposer des procurations au nom de Gentileschi."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Die Beteiligten können nach #linkepc#r152|Regel 152 (4) EPÜ#endlink# allgemeine Vollmachten einreichen, die einen Vertreter zur Vertretung in allen Patentangelegenheiten bevollmächtigen. Ausgestellt werden kann sie natürlich nur vom jeweiligen Mandanten selbst.",
-          "explanation_en" : "According to #linkepc#r152|Rule 152 (4) EPC#endlink#, parties may file general powers of attorney authorizing a representative to represent them in all patent matters. Of course, it can only be issued by the respective client itself.",
-          "explanation_fr" : "Selon la #linkepc#r152|Règle 152 (4) CBE#endlink#, les parties peuvent déposer des procurations générales autorisant un mandataire à les représenter dans toutes les affaires de brevets. Bien sûr, il ne peut être délivré que par le client respectif lui-même.",
-          "id" : 15,
-          "id_old" : 328,
-          "normen" : "Regel 152 4 allgemeine Vollmacht",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Artemisia_Gentileschi|Artemisia Gentileschi#endlink# ist zugelassene Verteterin. Sie hat mehrere größere Mandanten, die sie jeweils in einer Vielzahl an Verfahren vertritt. Was kann sie veranlassen, um die Bearbeitung der Vollmachten zu vereinfachen?",
-          "text_en" : "#linkwiki#Artemisia_Gentileschi|Artemisia Gentileschi#endlink# is an admitted representative. She has several major clients, each of whom she represents in a variety of proceedings. What can she do to facilitate the processing of powers of attorney?",
-          "text_fr" : "#linkwiki#Artemisia_Gentileschi|Artemisia Gentileschi#endlink# est un représentant agréé. Elle a plusieurs clients importants, qu'elle représente dans diverses procédures. Que peut-elle faire pour faciliter le traitement des procurations ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Nur Dou oder Bol.",
-              "text_en" : "Only Dou or Bol.",
-              "text_fr" : "Seulement Dou ou Bol."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Dou.",
-              "text_en" : "Dou.",
-              "text_fr" : "Dou."
-            },
-            {
-              "text_de" : "Flinck.",
-              "text_en" : "Flinck.",
-              "text_fr" : "Flinck."
-            },
-            {
-              "text_de" : "Jeder Anwalt der Kanzlei kann vertreten.",
-              "text_en" : "Any attorney in the firm can represent.",
-              "text_fr" : "Tout avocat du cabinet peut représenter."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Nach #linkepc#r152|Regel 152 (11) EPÜ#endlink# gilt die Bevollmächtigung eines Zusammenschlusses von Vertretern als Bevollmächtigung für jeden Vertreter, der den Nachweis erbringt, dass er in diesem Zusammenschluss tätig ist. Damit kann jeder zugelassene Vertreter der Kanzlei vertreten, insbesondere Dou und Flinck. Eine Einschränkung auf die Inhaber gibt es dagegen nicht.",
-          "explanation_en" : "According to #linkepc#r152|Rule 152 (11) EPC#endlink#, the authorization of an association of representatives is deemed authorized for any representative, so long that evidence of being active in that association can be provided. Thus, any professional representative of the firm may represent, in particular Dou and Flinck. On the other hand, there is no restriction to holders.",
-          "explanation_fr" : "Selon la #linkepc#r152|Règle 152 (11) CBE#endlink#, le pouvoir d'une association de représentants est réputé autorisé pour tout représentant, pour autant que la preuve de son activité au sein de cette association puisse être apportée. Ainsi, tout représentant professionnel du cabinet peut représenter, notamment Dou et Flinck. En revanche, il n'y a aucune restriction pour les titulaires.",
-          "id" : 16,
-          "id_old" : 13,
-          "normen" : "Regel 152 11 Vertretung durch Zusammenschluss",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Gerard_Dou|Gerard Dou#endlink#, #linkwiki#Ferdinand_Bol|Ferdinand Bol#endlink#, #linkwiki#Willem_Drost|Willem Drost#endlink# und #linkwiki#Govaert_Flinck|Govaert Flinck#endlink# sind Anwälte in der Kanzlei DouBol und alle zugelassene Verteter. Dou und Bol sind Inhaber der Kanzlei, Drost und Flinck Angestellte. Für die Europäische Patentanmeldung EP-1 hat die Kanzlei eine Vollmacht erhalten. Wer kann im Verfahren vor dem Europäischen Patentamt vertreten?",
-          "text_en" : "#linkwiki#Gerard_Dou|Gerard Dou#endlink#, #linkwiki#Ferdinand_Bol|Ferdinand Bol#endlink#, #linkwiki#Willem_Drost|Willem Drost#endlink# and #linkwiki#Govaert_Flinck|Govaert Flinck#endlink# are attorneys in the DouBol law firm and are all licensed representatives. Dou and Bol are co-owners of the firm, Drost and Flinck are employees. The firm has received a power of attorney for the European patent application EP-1. Who can represent in the proceedings before the European Patent Office?",
-          "text_fr" : "#linkwiki#Gerard_Dou|Gerard Dou#endlink#, #linkwiki#Ferdinand_Bol|Ferdinand Bol#endlink#, #linkwiki#Willem_Drost|Willem Drost#endlink# et #linkwiki#Govaert_Flinck|Govaert Flinck#endlink# sont des avocats du cabinet DouBol et sont tous des représentants agréés. Dou et Bol sont copropriétaires du cabinet, Drost et Flinck sont des employés. Le cabinet a reçu une procuration pour la demande de brevet européen EP-1. Qui peut représenter dans la procédure devant l'Office européen des brevets ?"
-        }
+          "answers_false": [
+              {
+                  "text_de": "Da am Ende der 10-Tage-Regel ein Samstag ist, gilt die Mitteilung als am #date#6#enddate# zugestellt.",
+                  "text_en": "Since there is a Saturday at the end of the 10-day rule, the notice is considered delivered on #date#6#enddate#.",
+                  "text_fr": "Étant donné qu'il y a un samedi à la fin de la règle des 10 jours, la notification est considérée comme remise le #date#6#enddate#."
+              },
+              {
+                  "text_de": "Das Verfahren ist mit Wirkung vom #date#2#enddate# unterbrochen.",
+                  "text_en": "The procedure is interrupted with effect from #date#2#enddate#.",
+                  "text_fr": "La procédure est interrompue avec effet à partir de #date#2#enddate#."
+              },
+              {
+                  "text_de": "Bei Wiederaufnahme des Verfahrens ist die Mitteilung vom #date#0#enddate# obsolet.",
+                  "text_en": "When the procedure is resumed, the notification of #date#2#enddate# is obsolete.",
+                  "text_fr": "Lorsque la procédure est reprise, la notification de #date#0#enddate# est obsolète."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Es muss keine Gebühr für die Unterbrechung des Verfahrens gezahlt werden.",
+                  "text_en": "No fee has to be paid for the interruption of the proceedings.",
+                  "text_fr": "Aucun droit n'est à payer pour l'interruption de la procédure."
+              },
+              {
+                  "text_de": "Das Verfahren ist mit Wirkung vom #date#1#enddate# unterbrochen.",
+                  "text_en": "The procedure is interrupted with effect from #date#1#enddate#.",
+                  "text_fr": "La procédure est interrompue avec effet à partir de #date#1#enddate#."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "startdate|-6MM|+1DD",
+              "startdate|-3MM|+25DD",
+              "startdate|-2MM|+4DD",
+              "startdate|-2MM|+6DD",
+              "startdate",
+              "startdate|-6MM|+10DD",
+              "startdate|-6MM|+11DD"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Gemäß Regel #linkepc#r126|Regel 126 (2) EPÜ#endlink# gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt. Dabei wird auf Wochenendtage nicht geachtet. Die Mitteilung gilt also als am #date#5#enddate# zugestellt.\n\nDas Verfahren wird mit Wirkung vom Tag des Eintritts des Ereignisses unterbrochen, in diesem Fall der Tod des Vertreters, das gemäß #linkepc#r142|Regel 142 (1) EPÜ#endlink# die Unterbrechung verursacht. Es ist also mit Wirkung vom #date#1#enddate# unterbrochen.\n\nGebühren für einen Antrag auf Unterbrechung des Verfahrens sind nicht im EPÜ enthalten.",
+          "explanation_en": "According to Rule #linkepc#r126|Rule 126 (2) EPC#endlink# the letter is considered delivered on the tenth day after delivery to the postal service provider. No consideration is given to days that fall on the weekend. Thus, the communication shall be deemed to have been served on #date#5#enddate#.\n\nThe procedure is interrupted with effect from the date of the occurrence of the event, in this case the death of the representative due to the death of the representative, which causes the interruption according to #linkepc#r142|Rule 142 (1) EPC#endlink#. Thus, it is interrupted with immediate effect from #date#1#enddate#.\n\nFees for a request for interruption of proceedings are not included in the EPC.",
+          "explanation_fr": "Les taxes pour une demande d'interruption de procédure ne sont pas incluses dans la CPE.",
+          "id": 0,
+          "id_old": 3,
+          "normen": "todo",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# hat einen Radierer erfunden und eine darauf gerichtete Patentanmeldung EP-1 eingereicht. Mit Datum vom #date#0#enddate# wurde für EP-1 eine Aufforderung nach Art. 94(3) EPÜ mit einer viermonatigen Frist erlassen. Am #date#1#enddate# stirbt der Vertreter von Leyster. Darüber wurde das EPA am #date#2#enddate# informiert, weswegen am #date#3#enddate# beschlossen wurde, das Verfahren zu unterbrechen. Am #date#4#enddate# wurde das EPA von Leyster über die Bestellung eines neuen Vertreters informiert. Wie ist die Rechtslage?",
+          "text_en": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invented an eraser and filed a patent application EP-1 directed to it. On #date#0#enddate#, an invitation under Art. 94(3) EPC was issued for EP-1 with a four-month time period. On #date#1#enddate# the representative of Leyster dies. The EPO was informed of this on #date#2#enddate#, so on #date#3#enddate# it was decided to interrupt the proceedings. On #date#4#enddate# the EPO was informed by Leyster about the appointment of a new representative. What is the legal situation?",
+          "text_fr": "#linkwiki#Judith_Leyster|Judith Leyster#endlink# invente une gomme et dépose une demande de brevet EP-1 la concernant. Le #date#0#enddate#, une invitation au titre de l'art. 94(3) CBE a été émise pour EP-1 avec un délai de quatre mois. Le #date#1#enddate#, le mandataire de Leyster décède. L'OEB en est informé le #date#2#enddate#, aussi le #date#3#enddate# il est décidé d'interrompre la procédure. Le jour #date#4#enddate# l'OEB a été informé par Leyster de la nomination d'un nouveau mandataire. Quelle est la situation juridique ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Für eine wirksame Vertretung durch von Nassau-Siegen muss beim EPA eine unterzeichneet Vollmacht vorliegen.",
+                  "text_en": "For effective representation by von Nassau-Siegen, a signed power of attorney must be on file with the EPO.",
+                  "text_fr": "Pour une représentation efficace par von Nassau-Siegen, une procuration signée doit être déposée auprès de l'OEB."
+              },
+              {
+                  "text_de": "Für die Registrierung eiens Vertreterwechsels ist eine Verwaltungsgebühr zu entrichten.",
+                  "text_en": "An administrative fee must be paid for the registration of a change of representative.",
+                  "text_fr": "Une taxe administrative doit être payée pour l'enregistrement d'un changement de représentant."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "De Dominici muss sich nicht vertreten lassen.",
+                  "text_en": "De Dominici does not need to be represented.",
+                  "text_fr": "De Dominici n'a pas besoin d'être représenté."
+              },
+              {
+                  "text_de": "Falls de Dominici zur zugelassenenen Vertreterin Ehrenstrahl aus einer anderen Sozietät wechselt muss Ehrenstrahl keine Vollmacht vorlegen, wenn von Nassau-Siegen über den Vertreterwechsel informiert.",
+                  "text_en": "If de Dominici changes to Ehrenstrahl, the professional representative from another firm, Ehrenstrahl does not have to submit a power of attorney if informed by Nassau-Siegen about the change of representative.",
+                  "text_fr": "Si de Dominici change à Ehrenstrahl, le représentant professionnel d'un autre cabinet, Ehrenstrahl ne doit pas soumettre une procuration s'il est informé par Nassau-Siegen du changement de représentant."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Nach #linkepc#ar133|Artikel 133 (1) und (2) EPÜ#endlink# muss sich de Dominici nicht vertreten lassen, da sie ihren Sitz in einem Vertragsstaat hat. Falls sie sich aber vertreten lässt gilt für die erste Vertreterin/den ersten Vertreter der Grundsatz der Selbsternennung. Gemäß Artikel 1 (1) und (2) des Beschlusses der Präsidentin des EPA vom 12. Juli 2007, Sonderausgabe 3 zum ABl. EPA 2007, L.1 benötigt der jeweils nachfolgende Vertreter dann keine Vollmacht, wenn die vorherige Vertreterin/der vorherige Vertreter das Erlöschen der eigenen Vertretungsmacht angezeigt wird.\n\nDie Registrierung eines Vertreterwechsels kostet keine Gebühren.\n",
+          "explanation_en": "There is no fee for registering a change of representative.",
+          "explanation_fr": "L'enregistrement d'un changement de représentant est gratuit.",
+          "id": 1,
+          "id_old": 4,
+          "normen": "todo",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Maria_de_Dominici|Maria de Dominici#endlink# hat ihren Wohnsitz auf Malta und wirksam eine europäische Patentanmeldung EP-1 eingereicht. Sie möchte die zugelassene Vertreterin #linkwiki# Ernestine_Charlotte_von_Nassau-Siegen| Ernestine Charlotte von Nassau-Siegen#endlink# bestellen. Sollte ihr diese nicht gefallen möchte sie zu #linkwiki#Anna_Maria_Ehrenstrahl|Anna Maria Ehrenstrahl#endlink# wechseln. Welche der Antworten ist richtig?",
+          "text_en": "#linkwiki#Maria_de_Dominici|Maria de Dominici#endlink# resides in Malta and effectively filed a European patent application EP-1. She would like to appoint the professional representative #linkwiki# Ernestine_Charlotte_von_Nassau-Siegen| Ernestine Charlotte von Nassau-Siegen#endlink#. If she does not like the service of her,  von Nassau-Siegen would like to change to #linkwiki#Anna_Maria_Ehrenstrahl|Anna Maria Ehrenstrahl#endlink#. Which of the answers is correct?",
+          "text_fr": "#linkwiki#Maria_de_Dominici|Maria de Dominici#endlink# réside à Malte et a effectivement déposé une demande de brevet européen EP-1. Elle souhaite désigner le mandataire agréé #linkwiki# Ernestine_Charlotte_von_Nassau-Siegen| Ernestine Charlotte von Nassau-Siegen#endlink#. Si elle n'aime pas son service, Mme von Nassau-Siegen aimerait changer pour #linkwiki#Anna_Maria_Ehrenstrahl|Anna Maria Ehrenstrahl#endlink#. Laquelle de ces réponses est correcte ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Michelangelo kann einen deutschen zugelassenen Vertreter beauftragen, da diese kostengünstiger sind als italienische zugelassene Vertreter.",
+                  "text_en": "Michelangelo can hire a German professional representative because they are less expensive than Italian professional representatives.",
+                  "text_fr": "Michelangelo peut engager un conseil en brevets allemand parce qu'il est moins cher que les conseils en brevets italiens."
+              },
+              {
+                  "text_de": "Michelangelo kann einen zugelassenen Vertreter auf dem Land oder in einer Kleinstadt beauftragen, da diese kostengünstiger sind als zugelassene Vertreter in Großstädten.",
+                  "text_en": "Michelangelo may hire a professional representative in a rural area or small town because they are less expensive than professional representatives in larger cities.",
+                  "text_fr": "Michelangelo peut engager un conseil en brevets dans une zone rurale ou une petite ville parce qu'ils sont moins chers que les conseils en brevets dans les grandes villes."
+              },
+              {
+                  "text_de": "Michelangelo kann einen Rechtsanwalt mit der Vertretung beauftragen. Da diese selten vor dem Europäischen Patentamt vertreten gewähren sie üblicherweise einen Rabatt.",
+                  "text_en": "Michelangelo can hire a lawyer to represent him. Since they rarely represent before the European Patent Office, they usually grant a discount.",
+                  "text_fr": "Michelangelo peut engager un avocat pour le représenter. Comme ils représentent rarement devant l'Office européen des brevets, ils accordent généralement une remise."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Michelangelo kann die Anmeldung EP-1 selbst einreichen und so die Vertretungskosten sparen.",
+                  "text_en": "Michelangelo can file the EP-1 application himself and save on representation costs.",
+                  "text_fr": "Michelangelo peut déposer la demande EP-1 lui-même et économiser sur les frais de représentation."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "1",
+          "explanation_de": "Michelangelo muss sich gemäß #linkepc#ar133|Artikel 133 (1) EPÜ#endlink# nicht vertreten lassen. Dies ist unabhängig davon, ob die spekulativen Annahmen über Kosten zutreffen oder nicht, jedenfalls die kostengünstigste Lösung.  Auch kann er die Anmeldung selbst einreichen, um Kosten zu sparen.",
+          "explanation_en": "Michelangelo does not have to be represented according to #linkepc#ar133|Article 133 (1) EPC#endlink#. This is in any case the least expensive solution, regardless of whether the speculative assumptions about costs are correct or not.  Also, he may file the application himself to save costs.",
+          "explanation_fr": "Michel-Ange ne doit pas être représenté conformément à l'article 133, paragraphe 1, de la CBE. C'est en tout cas la solution la moins coûteuse, que les hypothèses spéculatives sur les coûts soient correctes ou non.  En outre, il peut déposer lui-même la demande pour économiser des frais.",
+          "id": 2,
+          "id_old": 5,
+          "normen": "Regel 133 1 keine Verpflichtung zur Vertretung",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Michelangelo|Michelangelo#endlink# ist ein italienischer Erfinder mit Wohnsitz in Italien. Er hat ein Werkzeug zur Erstellung von Skulpturen geschaffen und möchte dieses in einer europäischen Patentanmeldung EP-1 anmelden. Da er momentan knapp bei Kasse ist soll das ganze möglichst kostengünstig erfolgen. Wie kann er vorgehen?",
+          "text_en": "#linkwiki#Michelangelo|Michelangelo#endlink# is an Italian inventor residing in Italy. He has created a tool for sculpting Statues and wants to register it in a European patent application EP-1. Since he is currently short of money, the whole thing should be done as inexpensively as possible. How can he proceed?",
+          "text_fr": "#linkwiki#Michelangelo|Michelangelo#endlink# est un inventeur italien résidant en Italie. Il a créé un outil pour sculpter des statues et souhaite l'enregistrer dans une demande de brevet européen EP-1. Comme il est actuellement à court d'argent, l'ensemble doit être réalisé à un coût aussi faible que possible. Comment peut-il procéder ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Die Comedian Harmonists können eine Aussetzung des Verfahrens beantragen, bis sie mal wieder für einen Auftritt nach Deutschland kommen. Sie können dann in dieser Zeit das Prüfungsverfahren komprimiert zu Ende führen.",
+                  "text_en": "The Comedian Harmonists can apply for a suspension of the procedure until they come back to Germany for a performance. They can then expedite the examination procedure during this time.",
+                  "text_fr": "Les Comedian Harmonists peuvent demander une suspension de la procédure jusqu'à leur retour en Allemagne pour une représentation. Ils peuvent alors accélérer la procédure d'examen pendant cette période."
+              },
+              {
+                  "text_de": "Die Comedian Harmonists können kann sich von ihrem Freund, dem US Patent Agent Henry Kutcher, vertreten lassen. Dieser arbeitet zu einem Freundschaftspreis für sie.",
+                  "text_en": "The Comedian Harmonists can be represented by their friend, US Patent Agent Henry Kutcher. The latter works for them at a reasonable price.",
+                  "text_fr": "Les Comedian Harmonists peuvent être représentés par leur ami, l'agent de brevets américain Henry Kutcher. Ce dernier travaille pour eux à un prix raisonnable."
+              },
+              {
+                  "text_de": "Die Comedian Harmonists können sich im Anmeldeverfahren vor dem Europäischen Patentamt selbst vertreten und so die Vertretungskosten sparen.",
+                  "text_en": "The Comedian Harmonists can represent themselves in the application procedure before the European Patent Office thus saving on representation costs.",
+                  "text_fr": "Les Comedian Harmonists peuvent se représenter eux-mêmes dans la procédure de demande auprès de l'Office européen des brevets, ce qui permet d'économiser les frais de représentation."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Die Comedian Harmonists können die Anmeldung EP-1 selbst einreichen und so die Kosten dieser Handlung sparen.",
+                  "text_en": "The Comedian Harmonists can file the EP-1 application themselves and save on the cost of this act.",
+                  "text_fr": "Les Comedian Harmonists peuvent déposer eux-mêmes la demande EP-1 et économiser sur le coût de cet acte."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "1",
+          "explanation_de": "Die Comedian Harmonists müssen sich gemäß #linkepc#ar133|Artikel 133 (2) EPÜ#endlink# vertreten lassen, da ihr Wohnsitz in keinem Vertragsstaat liegt. Eine Ausnahme existiert für das Einreichen der Anmeldung selbst (#linkepc#ar133|Artikel 133 (2) EPÜ#endlink#). Vertreten kann aber nur ein zugelassener Vertreter vor dem EPA. Eine Zulassung für ein nationales Patentamt, auch nicht bei einem Vertragsstaat, ist nicht ausreichend.",
+          "explanation_en": "The Comedian Harmonists must be represented according to #linkepc#ar133|Article 133 (2) EPC#endlink#, since their residence is not in any contracting state. An exception exists for filing the application (#linkepc#ar133|Article 133 (2) EPC#endlink#). However, only a professional representative can represent before the EPO. Admission to a national patent office, even within a contracting state, is not sufficient.",
+          "explanation_fr": "Les Comedian Harmonists doivent être représentés conformément à #linkepc#ar133|Article 133 (2) CBE#endlink#, puisque leur résidence ne se trouve dans aucun Etat contractant. Une exception existe pour le dépôt de la demande (#linkepc#ar133|Article 133 (2) CBE#endlink#). Cependant, seul un mandataire agréé peut représenter devant l'OEB. L'admission à un office national des brevets, même au sein d'un Etat contractant, n'est pas suffisante.",
+          "id": 3,
+          "id_old": 6,
+          "normen": "Regel 133 2 Vertretung bei keinem Sitz/Wohnsitz",
+          "startdate": "MO",
+          "text_de": "Die #linkwiki#Comedian_Harmonists|Comedian Harmonists#endlink# sind eine in den USA wohnhafte Musikgruppe deutscher Musiker. Die Mitgleider hatten zusammen eine Idee für ein Aufnahmeverfahren für Lieder gehabt. Dieses soll in einer europäischen Patentanmeldung EP-1 angemeldet werden. Da sie momentan knapp bei Kasse sind soll das ganze möglichst kostengünstig erfolgen. Wie kann sie vorgehen?",
+          "text_en": "The #linkwiki#Comedian_Harmonists|Comedian Harmonists#endlink# are a musical group of German musicians residing in the United States. Together, the members have had an idea for a method for recording music. This is to be registered in a European patent application EP-1. Since they are currently short of money, the whole thing should be done as inexpensively as possible. How can they proceed?",
+          "text_fr": "Les #linkwiki#Comedian_Harmonists|Comedian Harmonists#endlink# sont un groupe musical composé de musiciens allemands résidant aux États-Unis. Ensemble, les membres ont eu l'idée d'une méthode d'enregistrement de la musique. Celle-ci doit être enregistrée dans une demande de brevet européen EP-1. Comme ils sont actuellement à court d'argent, l'ensemble doit être réalisé à un coût aussi faible que possible. Comment peuvent-ils procéder ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Da Vinci muss sich beim epi (Institut der beim europäischen Patentamt zugelassenen Vertreter) registrieren lassen, damit er vertreten darf.",
+                  "text_en": "Da Vinci must register with EPI (Institute of Professional Representatives before the European Patent Office) to be allowed to represent.",
+                  "text_fr": "Da Vinci doit s'inscrire auprès de l'EPI (Institut des mandataires agréés auprès de l'Office européen des brevets) pour être autorisé à représenter."
+              },
+              {
+                  "text_de": "Da Vinci muss die europäische Eignungsprüfung ablegen, damit er vertreten darf.",
+                  "text_en": "Da Vinci must pass the European Qualifying Examination to be allowed to represent.",
+                  "text_fr": "Da Vinci doit réussir l'examen de qualification européen pour être autorisé à représenter."
+              },
+              {
+                  "text_de": "Da Vinci muss bei der Klecks Ltd. angestellt sein. Er erfüllt damit alle Voraussetzungen und kann vertreten.",
+                  "text_en": "Da Vinci must be employed by Klecks Ltd. He therefore fulfills all requirements and can represent.",
+                  "text_fr": "De Vinci doit être employé par Klecks Ltd. Il remplit donc toutes les conditions et peut représenter."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Da Vinci muss zusätzlich zur Voraussetzung, dass er Angestellter der Klecks Ltd. ist, die ihren Wohnsitz in einem Vertragsstaat hat, auch noch eine Vollmacht erhalten.",
+                  "text_en": "Da Vinci must also obtain a power of attorney in addition to the requirement to be an employee of Klecks Ltd. which has its principal place of business in a Contracting State.",
+                  "text_fr": "De Vinci doit également obtenir une procuration en plus de l'exigence d'être un employé de Klecks Ltd. qui est domiciliée dans un État contractant."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "1",
+          "explanation_de": "Da Vinci kann kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# die Klecks Ltd. vertreten, wenn a) diese den Sitz in einem Vertragssaat hat, b) er ihr Angestellter ist und c) er eine Vollmacht besitzt. Die Punkte a) und b) sind erfüllt, eine Vollmacht ist noch auszustellen.",
+          "explanation_en": "Da Vinci can represent Klecks Ltd. according to #linkepc#ar133|Article 133 (3) EPC#endlink# if a) the latter has its prinipal place of business in a contracting state, b) he is its employee and c) he has a power of attorney. Points a) and b) are fulfilled, a power of attorney still has to be issued.",
+          "explanation_fr": "De Vinci peut représenter Klecks Ltd. selon #linkepc#ar133|Article 133 (3) CBE#endlink# si a) cette dernière a son siège dans un état contractant, b) il est son employé et c) il dispose d'une procuration. Les points a) et b) sont remplis, il faut encore établir une procuration.",
+          "id": 4,
+          "id_old": 7,
+          "normen": "Regel 133 3 Vertretung durch Angestellten",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Leonardo_da_Vinci|Leonardo da Vinci#endlink# ist ein italienischer Künstler und Wissenschaftler. Er ist beim Pinselhersteller Klecks Ltd. mit Sitz in Paris/Frankreich angestellt. Nach der Einreichung einer europäischen Anmeldung EP-1 auf die Klecks Ltd. sucht diese jemanden, der sie im Verfahren vor dem europäischen Patentamt vertritt. Da Vinci bietet sich an, tätig zu werden. Was muss er beachten?",
+          "text_en": "#linkwiki#Leonardo_da_Vinci|Leonardo da Vinci#endlink# is an Italian artist and scientist. He is employed by Klecks Ltd, a brush manufacturer based in Paris, France.  After filing a European application EP-1 for Klecks Ltd., the latter is looking for someone to represent them in the proceedings before the European Patent Office. Da Vinci offers to become active. What does he have to consider?",
+          "text_fr": "#linkwiki#Leonardo_da_Vinci|Leonardo da Vinci#endlink# est un artiste et un scientifique italien. Il est employé par Klecks Ltd, un fabricant de pinceaux basé à Paris, en France.  Après avoir déposé une demande européenne EP-1 pour Klecks Ltd, ce dernier cherche quelqu'un pour le représenter dans la procédure devant l'Office européen des brevets. Da Vinci propose de devenir actif. Que doit-il envisager ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Bruces Arbeitgeber hat seinen Sitz in einem Vertragsstaat und er hat eine Vollmacht. Er kann Hopper daher vertreten.",
+                  "text_en": "Bruce's employer is located in a Contracting State and he has power of attorney. He can therefore represent Hopper.",
+                  "text_fr": "L'employeur de Bruce est situé dans un État contractant et il a une procuration. Il peut donc représenter Hopper."
+              },
+              {
+                  "text_de": "Bruce muss von Hopper eine Vollmacht erhalten, dann kann er Hopper vertreten.",
+                  "text_en": "Bruce needs to get a power of attorney from Hopper, before he can represent him.",
+                  "text_fr": "Bruce doit obtenir une procuration de Hopper, avant de pouvoir le représenter."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Bruce muss die europäische Eignungsprüfung ablegen, damit er Hopper und andere außer seinem Arbeitgeber vertreten darf.",
+                  "text_en": "Bruce must pass the European Qualifying Examination to be allowed to represent Hopper and others besides his employer.",
+                  "text_fr": "Bruce doit réussir l'examen de qualification européen pour être autorisé à représenter Hopper et d'autres personnes que son employeur."
+              },
+              {
+                  "text_de": "Bruce kann Hopper nicht vertreten, da Bruce nicht bei Hopper angestellt ist.",
+                  "text_en": "Bruce cannot represent Hopper since he is not employed by Hopper.",
+                  "text_fr": "Bruce ne peut pas représenter Hopper puisqu'il n'est pas employé par Hopper."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "1",
+          "explanation_de": "Bruce kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# Hopper nicht vertreten, da er weder a) sein Angestellter ist noch b) Hopper seinen Wohnsitz in einem Vertragsstaat hat. Sollte er aber die Europäische Eignungsprüfung bestehen und sich als zugelassener Vertreter registrieren kann er Hopper vertreten. Natürlich wird niemand darauf warten, dass eine jahrelange Ausbildung absolviert wird. Dies kann aber illustrieren, dass keine andere Möglichkeit besteht. ",
+          "explanation_en": "Bruce cannot represent Hopper under #linkepc#ar133|Article 133 (3) EPC#endlink# due to the fact that he is neither a) his employee nor b) Hopper is domiciled in a Contracting State. However, should he pass the European Qualifying Examination and register as a professional representative, he can represent Hopper. Of course, no one would want to wait for years of training to be completed; however, this can illustrate that there is no other possibility.",
+          "explanation_fr": "Bruce ne peut pas représenter Hopper en vertu de l'article 133 (3) de la CBE, étant donné qu'il n'est ni a) son employé ni b) Hopper n'est domicilié dans un État contractant. Toutefois, s'il réussit l'examen européen de qualification et s'inscrit comme mandataire agréé, il peut représenter Hopper. Bien sûr, personne ne souhaite attendre des années de formation ; cependant, cela peut illustrer qu'il n'y a pas d'autre possibilité.",
+          "id": 5,
+          "id_old": 8,
+          "normen": "Regel 133 3 keine Vertretung durch Nicht-Angestellten",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Patrick_Henry_Bruce|Patrick Henry Bruce#endlink# ist in einem Immobilienbüro mit Sitz in Paris/Frankreich angestellt. Bruce hat auch eine Vollmacht seiner Firma zur Vertretung, aber keine Europäische Eignungsprüfung abgelegt. Der US-Amerikaner #linkwiki#Edward_Hopper|Edward Hopper#endlink#, wohnhaft in New York/USA, den er von früher kennt, bittet Bruce, ihn vor dem EPA zu vertreten. Was muss Bruce beachten?",
+          "text_en": "#linkwiki#Patrick_Henry_Bruce|Patrick Henry Bruce#endlink# is employed by a real estate agency based in Paris, France. Bruce also has a power of attorney from his company to represent them, but has not passed the European qualifying examination. The US-American #linkwiki#Edward_Hopper|Edward Hopper#endlink#, resident in New York/USA, whom he has known from before, asks Bruce to represent him before the EPO. What does Bruce have to consider?",
+          "text_fr": "#linkwiki#Patrick_Henry_Bruce|Patrick Henry Bruce#endlink# est employé par une agence immobilière basée à Paris, France. Bruce dispose également d'une procuration de son entreprise pour les représenter, mais n'a pas passé d'examen de compétence. L'Américain #linkwiki#Edward_Hopper|Edward Hopper#endlink#, résidant à New York/USA, qu'il a connu auparavant, demande à Bruce de le représenter devant l'OEB. Que doit prendre en compte Bruce ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Die Klein AG hat ihren Sitz in einem Vertragsstaat und Buri hat eine Vollmacht. Er kann auch die Groß Ltd. daher vertreten.",
+                  "text_en": "Klein Ltd. has its principal place of business in a Contracting State and Buri has authorisation. He can therefore also represent Groß Ltd.",
+                  "text_fr": "Klein Ltd. a son siège dans un État contractant et Buri a une procuration. Il peut donc également représenter la société Groß Ltd."
+              },
+              {
+                  "text_de": "Buri benötigt eine Freigabe der Klein AG und eine zusätzliche Vollmacht der Groß Ltd..",
+                  "text_en": "Buri needs a release from Klein AG and an additional authorisation from Groß Ltd.",
+                  "text_fr": "Buri a besoin d'une décharge de Klein AG et d'une procuration supplémentaire de Groß Ltd."
+              },
+              {
+                  "text_de": "Buri benötigt eine zusätzliche Vollmacht der Groß Ltd..",
+                  "text_en": "Buri needs an additional authorisation from Groß Ltd.",
+                  "text_fr": "Buri a besoin d'une procuration supplémentaire de Grand Ltd."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Buri kann die Groß Ltd. nicht vertreten.",
+                  "text_en": "Buri cannot represent Groß Ltd.",
+                  "text_fr": "Buri ne peut pas représenter Groß Ltd."
+              },
+              {
+                  "text_de": "Buri kann EP-1 beim Europäischen Patentamt einreichen.",
+                  "text_en": "Buri may file EP-1 with the European Patent Office.",
+                  "text_fr": "Buri peut déposer le document EP-1 auprès de l'Office européen des brevets."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Buri kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# nur eine (natürliche oder juristische) Person mit Sitz in einem Vertragsstaat vertreten. Buri kann aber EP-1 einreichen, da es zur Einreichung einer Anmeldung keiner Vertretung bedarf.",
+          "explanation_en": "According to #linkepc#ar133|Article 133 (3) EPC#endlink#, Buri can only represent a (natural or legal) person having its seat in a Contracting State. However, Buri can file EP-1 as no representation is required to file an application.",
+          "explanation_fr": "Selon #linkepc#ar133|Article 133 (3) CBE#endlink#, Buri ne peut représenter qu'une personne (physique ou morale) ayant son siège dans un Etat contractant. Cependant, Buri peut déposer EP-1 car aucune représentation n'est requise pour déposer une demande.",
+          "id": 6,
+          "id_old": 9,
+          "normen": "Artikel 133 3 iVm Art 133 2 keine Vertretung durch Nicht-Angestellten-100%-Tochter",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Max_Buri|Max Buri#endlink# ist Angestellter der Klein AG mit Sitz in Basel/Schweiz. Die Klein AG ist eine hundertprozentige Tochter der Groß Ltd. mit Sitz in New York/USA. Er hat auch eine Vollmacht der Klein AG, diese vor dem Europäischen Patentamt zu vertreten. Er ist aber weder zugelassener Vertreter noch Rechtsanwalt. Wie kann Buri die Groß Ltd. bei der Einreichung und Anmeldeverfahren einer europäischen Patentanmeldung EP-1 vertreten?",
+          "text_en": "#linkwiki#Max_Buri|Max Buri#endlink# is an employee of Klein AG, based in Basel,Switzerland. Klein AG is a wholly owned subsidiary of Groß Ltd. based in New York,USA. He also has a power of attorney from Klein AG to represent them before the European Patent Office. However, he is neither a professional representative, nor a lawyer. How can Buri represent Groß Ltd. in the filing and prosecution of a European patent application EP-1?",
+          "text_fr": "#linkwiki#Max_Buri|Max Buri#endlink# est un employé de Klein AG, basée à Bâle, en Suisse. Klein AG est une filiale à 100 % de Groß Ltd., dont le siège est à New York, aux États-Unis. Il dispose également d'une procuration de Klein AG pour la représenter devant l'Office européen des brevets. Cependant, il n'est ni un mandataire agréé, ni un avocat. Comment Buri peut-il représenter Groß Ltd. dans le dépôt et la poursuite d'une demande de brevet européen EP-1 ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Kandinsky und Marc gelten zusammen als Vertreter.",
+                  "text_en": "Kandinsky and Marc together are deemed to be the representatives.",
+                  "text_fr": "Kandinsky et Marc sont considérés ensemble comme des représentants."
+              },
+              {
+                  "text_de": "Weder Kandinsky oder Marc sind zugelassene Verteter. Sie können den jeweils anderen daher nicht vertreten und müssen daher einen zugelassenen Vertreter bestellen.",
+                  "text_en": "Neither Kandinsky nor Marc is authorized as a professional representative.  Therefore, they cannot represent the other and must appoint a professional representative to represent them.",
+                  "text_fr": "Ni Kandinsky ni Marc n'ont de mandat de représentation.  Ils ne peuvent donc pas représenter l'autre et doivent désigner un professionnel pour les représenter."
+              },
+              {
+                  "text_de": "Marc gilt als gemeinsamer Vertreter.",
+                  "text_en": "Marc is deemed to be the common representative.",
+                  "text_fr": "Marc est considéré comme un représentant."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Kandinsky gilt als gemeinsamer Vertreter.",
+                  "text_en": "Kandinsky is deemed to be the common representative.",
+                  "text_fr": "Kandinsky est considéré comme un représentant."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Wird eine europäische Patentanmeldung von mehreren Personen eingereicht und ist im Antrag auf Erteilung eines europäischen Patents kein gemeinsamer Vertreter bezeichnet, so gilt der Anmelder, der im Antrag als Erster genannt ist, als gemeinsamer Vertreter. Gemäß #linkepc#r151|Artikel 151 (1) EPÜ#endlink# kann nur eine (natürliche oder juristische) Person mit Sitz in einem Vertragsstaat vertreten. Dies ist hier gegeben.",
+          "explanation_en": "If a European patent application is filed by several persons and no common representative is named in the request for the grant of a European patent, the applicant first named in the request shall be deemed to be the common representative. According to #linkepc#r151|Article 151 (1) EPC#endlink# only one (natural or legal) person having his seat in a Contracting State may represent. This is given here.",
+          "explanation_fr": "Si une demande de brevet européen est déposée par plusieurs personnes et qu'aucun mandataire commun n'est désigné dans la requête en délivrance d'un brevet européen, le demandeur qui est nommé en premier dans la requête est réputé être le mandataire commun. Selon #linkepc#r151|Article 151 (1) CBE#endlink#, seule une personne (physique ou morale) ayant son siège dans un Etat contractant peut représenter. Ceci est donné ici.",
+          "id": 7,
+          "id_old": 323,
+          "normen": "Regel 151 (1) Vertretung über Reihenfolge",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Franz_Marc|Franz Marc#endlink# und #linkwiki#Wassily_Kandinsky|Wassily Kandinsky#endlink# haben zusammen eine Druckmaschine erfunden und eine darauf gerichtete Europäische Patentanmeldung EP-1 eingereicht. Da Kandinsky der erste im Alphabet ist ist er auch als erster Anmelder genannt. Beide sind momentan wohnhaft in München. Sie haben vergessen einen gemeinsamen Vertreter anzugeben. Wie ist die Vertreterregelung?",
+          "text_en": "#linkwiki#Franz_Marc|Franz Marc#endlink# and #linkwiki#Wassily_Kandinsky|Wassily Kandinsky#endlink# have invented together a printing machine and filed a European patent application EP-1 directed to it. Since Kandinsky is the first in the alphabet, he is also named as the first applicant. Both currently reside in Munich. They have forgotten to indicate a common representative. What is the representative regulation?",
+          "text_fr": "#linkwiki#Franz_Marc|Franz Marc#endlink# et #linkwiki#Wassily_Kandinsky|Wassily Kandinsky#endlink# ont inventé ensemble une machine à imprimer et déposé une demande de brevet européen EP-1 la concernant. Comme Kandinsky est le premier de l'alphabet, il est également désigné comme premier demandeur. Tous deux résident actuellement à Munich. Ils ont oublié d'indiquer un mandataire commun. Quel est le règlement sur le mandataire ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Bierstadt und Lessing gelten zusammen als Vertreter.",
+                  "text_en": "Bierstadt and Lessing together are deemd to be representatives.",
+                  "text_fr": "Bierstadt et Lessing sont considérés ensemble comme des représentants."
+              },
+              {
+                  "text_de": "Lessing gilt als Vertreter.",
+                  "text_en": "Lessing is deemed to be the common representative.",
+                  "text_fr": "Lessing est considéré comme un représentant."
+              },
+              {
+                  "text_de": "Bierstadt gilt als Vertreter.",
+                  "text_en": "Bierstadt is deemed to be the common representative.",
+                  "text_fr": "Bierstadt est considéré comme un représentant."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Bierstadt ist verpflichtet, einen Vertreter zu bestellen. Sobald er ihn bestellt hat gilt dieser dann als gemeinsamer Vertreter.",
+                  "text_en": "Bierstadt is obliged to appoint a representative. As soon as he has appointed him or her, this representative will then be deemed the common representative.",
+                  "text_fr": "Bierstadt est obligé de désigner un représentant. Dès qu'il l'aura désigné, ce représentant sera alors considéré comme le représentant commun."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Wird eine europäische Patentanmeldung von mehreren Personen eingereicht und ist im Antrag auf Erteilung eines europäischen Patents kein gemeinsamer Vertreter bezeichnet, so gilt der Anmelder, der im Antrag als Erster genannt ist, als gemeinsamer Vertreter. Ist einer der Anmelder jedoch verpflichtet, einen zugelassenen Vertreter zu bestellen, so gilt dieser Vertreter als gemeinsamer Vertreter, sofern nicht der im Antrag als Erster genannte Anmelder einen zugelassenen Vertreter bestellt hat, siehe #linkepc#r151|Artikel 151 (1) EPÜ#endlink#. Lessing hat keinen Vertreter bestellt und Bierstadt benötigt einen Vertreter. Somit ist der Vertreter von Bierstadt der gemeinsame Vertreter.",
+          "explanation_en": "If a European patent application is filed by several persons and no common representative is named in the request for grant of a European patent, the applicant first named in the request will be considered the common representative. However, if one of the applicants is obliged to appoint a professional representative, this representative shall be deemed to be the common representative unless the applicant first named in the request has appointed a professional representative, see #linkepc#r151|Article 151 (1) EPC#endlink#. Lessing has not appointed a representative and Bierstadt needs a representative. Thus, Bierstadt's representative is the common representative.",
+          "explanation_fr": "Si une demande de brevet européen est déposée par plusieurs personnes et qu'aucun mandataire commun n'est désigné dans la requête en délivrance d'un brevet européen, le demandeur qui est nommé en premier dans la requête sera considéré comme le mandataire commun. Toutefois, si l'un des demandeurs est tenu de désigner un mandataire agréé, ce dernier sera considéré comme le mandataire commun, à moins que le demandeur nommé en premier dans la requête n'ait désigné un mandataire agréé, voir #linkepc#r151|Article 151 (1) CBE#endlink#. Lessing n'a pas désigné de représentant et Bierstadt a besoin d'un représentant. Ainsi, le représentant de Bierstadt est le représentant commun.",
+          "id": 8,
+          "id_old": 324,
+          "normen": "Regel 151 (1) Vertretung mehrere Anmelder wenn einer Vertreter haben muss",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Albert_Bierstadt|Albert Bierstadt#endlink# ist ein amerikanischer Erfinder, der nach einem Deutschland-Aufenthalt wieder in die USA gezogen ist. Er hat zusammen mit #linkwiki#Carl_Friedrich_Lessing|Carl Friedrich Lessing#endlink# aus Düsseldorf ein Verfahren zur Herstellung besonders leuchtender Farben entwickelt und eine darauf gerichtete Europäische Patentanmeldung EP-1 eingereicht. Da Lessing größere Anteile an der Entwicklung hatte ist ist er auch als erster Anmelder genannt. Sie haben vergessen einen gemeinsamen Vertreter anzugeben. Wie ist die Vertreterregelung?",
+          "text_en": "#linkwiki#Albert_Bierstadt|Albert Bierstadt#endlink# is an American inventor who has moved back to the United States after living in Germany. Together with #linkwiki#Carl_Friedrich_Lessing|Carl Friedrich Lessing#endlink# from Düsseldorf, he developed a process for the production of particularly bright colors and filed a European patent application EP-1 directed to it. Since Lessing had a larger share in the development, he has also been named as the first applicant. They have forgotten to name a common representative. What is the representative regulation?",
+          "text_fr": "#linkwiki#Albert_Bierstadt|Albert Bierstadt#endlink# est un inventeur américain qui est revenu aux Etats-Unis après avoir vécu en Allemagne. Avec #linkwiki#Carl_Friedrich_Lessing|Carl Friedrich Lessing#endlink# de Düsseldorf, il a développé un procédé pour la production de couleurs particulièrement vives et a déposé une demande de brevet européen EP-1 le concernant. Comme Lessing avait une part plus importante dans le développement, il a également été désigné comme premier déposant. Ils ont oublié d'indiquer un mandataire commun. Qu'est-ce que le règlement sur le mandataire ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Da sich alle Anmelder vertreten lassen müssen entscheidet das Los, wer der gemeinsame Vertreter ist.",
+                  "text_en": "Since all applicants must be represented, the decision as to whom is the common representative will be made by drawing lots.",
+                  "text_fr": "Étant donné que tous les demandeurs doivent être représentés, la décision concernant le mandataire commun sera prise par tirage au sort."
+              },
+              {
+                  "text_de": "Derjenige Vertreter, der sich als erster zum gemeinsamen Vertreter ernennt, ist der gemeinsame Vertreter.",
+                  "text_en": "The first representative to become the common representative shall be the common representative.",
+                  "text_fr": "Le premier représentant à devenir le représentant commun est le représentant commun."
+              },
+              {
+                  "text_de": "Alle Vertreter gelten als gemeinsame Vertreter.",
+                  "text_en": "All representatives shall be deemed to be common representatives.",
+                  "text_fr": "Tous les représentants sont considérés comme des représentants communs."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Der Vertreter von Cole gilt als gemeinsamer Vertreter, da Cole der erstgenannte Anmelder ist.",
+                  "text_en": "Cole's representative is deemed to be the common representative due to the fact that Cole is the first named applicant.",
+                  "text_fr": "Le représentant de Cole est considéré comme un représentant commun en raison du fait que Cole est le premier demandeur nommé."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Wird eine europäische Patentanmeldung von mehreren Personen eingereicht und ist im Antrag auf Erteilung eines europäischen Patents kein gemeinsamer Vertreter bezeichnet, und ist einer der Anmelder jedoch verpflichtet, einen zugelassenen Vertreter zu bestellen, so gilt dieser Vertreter als gemeinsamer Vertreter, sofern nicht der im Antrag als Erster genannte Anmelder einen zugelassenen Vertreter bestellt hat, siehe #linkepc#r151|Artikel 151 (1) EPÜ#endlink#. Da Cole einen Vertreter bestellt hat und er der als Erste genannte ist, ist sein Vertreter der gemeinsame Vertreter.",
+          "explanation_en": "If a European patent application is filed by several persons and no common representative is named in the request for grant of a European patent, but one of the applicants is obliged to appoint a professional representative, this representative will be deemd to be the common representative unless the applicant first named in the request has appointed a professional representative, see #linkepc#r151|Article 151 (1) EPC#endlink#. Since Cole has appointed a representative and is the first named, his representative is the common representative.",
+          "explanation_fr": "Si une demande de brevet européen est déposée par plusieurs personnes et qu'aucun mandataire commun n'est désigné dans la requête en délivrance d'un brevet européen, mais que l'un des demandeurs est tenu de désigner un mandataire agréé, ce mandataire sera considéré comme le mandataire commun, à moins que le demandeur cité en premier dans la requête n'ait désigné un mandataire agréé, voir #linkepc#r151|Article 151 (1) CBE#endlink#. Puisque Cole a désigné un représentant et qu'il est le premier nommé, son représentant est le représentant commun.",
+          "id": 9,
+          "id_old": 325,
+          "normen": "Regel 151 (1) Vertretung mehrere Anmelder wenn einer Vertreter haben muss",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Thomas_Cole|Thomas Cole#endlink#, #linkwiki#Asher_Brown_Durand|Asher Brown Durand#endlink# und #linkwiki#Frederic_Edwin_Church|Frederic Edwin Church#endlink# sind amerikanische Erfinder. Sie haben ein Verfahren zur Herstellung von Naturfarben entwickelt und eine darauf gerichtete Europäische Patentanmeldung EP-1 eingereicht, wobei ihre Nennung der Reihenfolge in dieser Angabe entspricht. Sie sind zwar gut miteinander bekannt, es hat sich aber jeder einen eigenen zugelassenen Vertreter genommen. Sie haben dabei aber vergessen einen gemeinsamen Vertreter anzugeben. Wie ist die Vertreterregelung?",
+          "text_en": "#linkwiki#Thomas_Cole|Thomas Cole#endlink#, #linkwiki#Asher_Brown_Durand|Asher Brown Durand#endlink# and #linkwiki#Frederic_Edwin_Church|Frederic Edwin Church#endlink# are American inventors. They have developed a process for the production of natural dyes and have filed a European patent application EP-1 directed to it, their citation corresponding to the order in this specification. Even though they are well acquainted with each other, they have each taken their own professional representative. However, they forgot to indicate a common representative. What is the representative arrangement?",
+          "text_fr": "#linkwiki#Thomas_Cole|Thomas Cole#endlink#, #linkwiki#Asher_Brown_Durand|Asher Brown Durand#endlink# et #linkwiki#Frederic_Edwin_Church|Frederic Edwin Church#endlink# sont des inventeurs américains. Ils ont mis au point un procédé de production de colorants naturels et ont déposé une demande de brevet européen EP-1 le concernant, leur citation correspondant à l'ordre de la présente spécification. Bien qu'ils soient connus, ils ont pris chacun leur propre mandataire agréé. Cependant, elles ont oublié d'indiquer un mandataire commun. Quel est le mode de représentation ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Reinhold Lepsius gilt als Vertreter.",
+                  "text_en": "Reinhold Lepsius is deemed to be the common representative.",
+                  "text_fr": "Reinhold Lepsius est considéré comme un représentant."
+              },
+              {
+                  "text_de": "Sabine Lepsius gilt als Vertreterin.",
+                  "text_en": "Sabine Lepsius is deemed to be the common representative.",
+                  "text_fr": "Sabine Lepsius est considérée comme une représentante."
+              },
+              {
+                  "text_de": "Beide Anmelder gelten als gemeinsame Vertreter.",
+                  "text_en": "Both applicants are deemed to be the common representatives.",
+                  "text_fr": "Les deux demandeurs sont considérés comme des représentants conjoints."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Es lässt sich kein Vertreter festlegen. Das Europäische Patentamt fordert das Ehepaar Lepsius daher auf, einen Vertreter zu benennen. ",
+                  "text_en": "No representative can be appointed. The European Patent Office therefore invites Mr. and Mrs. Lepsius to appoint a common representative.",
+                  "text_fr": "Aucun représentant ne peut être désigné. L'Office européen des brevets demande donc à M. et Mme Lepsius de désigner un mandataire."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Wird eine europäische Patentanmeldung übernommen und ist weder ein Vertreter benannt noch eine Anwendung von #linkepc#r151|Artikel 151 (1) EPÜ#endlink# möglich fordert das Europäische Patentamt gemäß #linkepc#r151|Artikel 151 (2) EPÜ#endlink# die Anmelder auf, innerhalb einer zu bestimmenden Frist einen gemeinsamen Vertreter zu bestellen. Da aus den geschilderten Einzelheiten kein Vertreter ermittelbar ist fordert das Europäische Patentamt zur Benennung eines gemeinsamen Vertreters auf.",
+          "explanation_en": "If a European patent application is transferred to more than one person, and such persons have neither appointed a common representative, nor an application of #linkepc#r151|Article 151 (1) EPC#endlink# is possible, the European Patent Office requests according to #linkepc#r151|Article 151 (2) EPC#endlink# the applicants to appoint a common representative within a predetermined period. Since no professional representative has been appointed according to the details described, the European Patent Office invites right to appoint a common representative.",
+          "explanation_fr": "Si une demande de brevet européen est acceptée et qu'aucun mandataire n'est désigné ou qu'une application de l'article 151 (1) CBE#endlink# est possible, l'Office européen des brevets demande aux demandeurs, conformément à l'article 151 (2) CBE#endlink#, de désigner un mandataire commun dans un délai déterminé. Comme aucun mandataire n'a été déterminé à partir des détails décrits, l'Office européen des brevets se réserve le droit de désigner un mandataire commun.",
+          "id": 10,
+          "id_old": 326,
+          "normen": "Regel 151 (2) Aufforderung Vertreterbenennung",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Sabine_Lepsius|Sabine Lepsius#endlink# und #linkwiki#Reinhold_Lepsius|Reinhold Lepsius#endlink# aus Berlin haben von einem Bekannten eine Patentanmeldung EP-1 übernommen. Dies wurde dem Europäischen Patentamt mitgeteilt und die benötigten Papiere wurden vorgelegt. Wie ist die Vertreterregelung?",
+          "text_en": "#linkwiki#Sabine_Lepsius|Sabine Lepsius#endlink# and #linkwiki#Reinhold_Lepsius|Reinhold Lepsius#endlink# from Berlin have taken over a patent application EP-1 from an acquaintance. This has been communicated to the European Patent Office and the required papers have been submitted. What is the representative regulation?",
+          "text_fr": "#linkwiki#Sabine_Lepsius|Sabine Lepsius#endlink# et #linkwiki#Reinhold_Lepsius|Reinhold Lepsius#endlink# de Berlin ont repris une demande de brevet EP-1 d'une connaissance. Ceci sera communiqué à l'Office européen des brevets et les documents requis seront soumis. Quel est le règlement de représentation ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Die Patentanmeldung EP-1 gilt als zurückgenommen.",
+                  "text_en": "The patent application EP-1 is deemed to be withdrawn.",
+                  "text_fr": "La demande de brevet EP-1 est considérée comme retirée."
+              },
+              {
+                  "text_de": "Die Anmeldung wird auf den ursprünglichen Anmelder und Vertreter rückübertragen.",
+                  "text_en": "The application is transferred back to the original applicant and representative.",
+                  "text_fr": "La demande est retransférée au demandeur initial et à son représentant."
+              },
+              {
+                  "text_de": "Die Patentanmeldung EP-1 gilt als erloschen.",
+                  "text_en": "The patent application EP-1 is considered to have lapsed.",
+                  "text_fr": "La demande de brevet EP-1 est considérée comme caduque."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Das Europäische Patentamt legt einen Vertreter fest.  ",
+                  "text_en": "The European Patent Office shall appoint a representative.",
+                  "text_fr": "L'Office européen des brevets désigne un représentant."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Wird auf Auforderung des Europäischen Patentamtes kein Vertreter benannt legt das Europäische Patentamt gemäß #linkepc#r151|Artikel 151 (2) EPÜ#endlink# einen gemeinsamen Vertreter fest. Es handelt sich dabei nicht um einen zugelassenen Vertreter, sondern um einen der Anmelder.",
+          "explanation_en": "If no representative is appointed upon request of the European Patent Office, the European Patent Office shall appoint a common representative according to #linkepc#r151|Article 151 (2) EPC#endlink#. This is not a professional representative, but one of the applicants.",
+          "explanation_fr": "Si aucun mandataire n'est désigné sur requête de l'Office européen des brevets, l'Office européen des brevets désigne un mandataire commun conformément à #linkepc#r151|Article 151 (2) CBE#endlink#. Il ne s'agit pas d'un mandataire agréé, mais d'un des demandeurs.",
+          "id": 11,
+          "id_old": 327,
+          "normen": "Regel 151 (2) Festlegung Vertreter",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Rosa_Bonheur|Rosa Bonheur#endlink# und ihr Bruder Auguste Bonheur aus Paris haben von einer Freundin eine Patentanmeldung EP-1 über ein Pferdegeschirr übernommen. Dies wird dem Europäischen Patentamt mitgeteilt und die benötigten Papiere werden vorgelegt. Da kein Vertreter benannt wurde und auch nicht ermittelbar ist fordert das Europäische Patentamt die Geschwister auf, innerhalb einer gegebenen Frist einen gemeinsamen Vertreter zu benennen. Da Rosa eine Ausstellung vorbereitet und Auguste auf Reisen ist, um Landschaften zu malen, verstreicht die Frist unbeachtet. Wie ist die Rechtslage?",
+          "text_en": "#linkwiki#Rosa_Bonheur|Rosa Bonheur#endlink# and her brother Auguste Bonheur from Paris have taken over a patent application EP-1 from a friend regarding a horse harness. This is reported to the European Patent Office and the required papers are submitted. Since no representative has been named and cannot be found, the European Patent Office asks the siblings to name a common representative within a given period. Since Rosa is preparing an exhibition and Auguste is traveling to paint landscapes, the deadline passes unheeded. What is the legal situation?",
+          "text_fr": "#linkwiki#Rosa_Bonheur|Rosa Bonheur#endlink# et son frère Auguste Bonheur de Paris ont repris une demande de brevet EP-1 d'un ami concernant un harnais pour chevaux. Cette demande est signalée à l'Office européen des brevets et les documents requis sont soumis. Comme aucun mandataire n'a été désigné et ne peut être trouvé, l'Office européen des brevets demande aux frères et sœurs de désigner un mandataire commun dans un délai donné. Comme Rosa prépare une exposition et qu'Auguste est en voyage pour peindre des paysages, le délai passe sans être respecté. Quelle est la situation juridique ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Van Hemessens Arbeitgeber hat seinen Sitz in einem Vertragsstaat und van Hemessen hat eine Vollmacht. Sie kann daher vertreten.",
+                  "text_en": "Van Hemessen's employer has its registered office in a Contracting State and van Hemessen has an authorisation. She can therefore always represent in the EP-1 proceedings.",
+                  "text_fr": "L'employeur de Van Hemessen a son siège social dans un État contractant et Van Hemessen a une procuration. Elle peut donc représenter."
+              },
+              {
+                  "text_de": "Van Hemessen muss von der Big AG eine zusätzliche Vollmacht erhalten.",
+                  "text_en": "Van Hemessen must obtain an additional authorisation from Big AG.",
+                  "text_fr": "Van Hemessen doit obtenir une autorisation supplémentaire de Big AG."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Van Hemessen kann EP-1 einreichen.",
+                  "text_en": "Van Hemessen can submit EP-1.",
+                  "text_fr": "Van Hemessen peut soumettre EP-1."
+              },
+              {
+                  "text_de": "Van Hemessen kann die Big AG nicht vertreten, da diese keinen Sitz in einem Vertragsstaat hat.",
+                  "text_en": "Van Hemessen cannot represent Big AG because it does not have a registered office in a Contracting State.",
+                  "text_fr": "Van Hemessen ne peut pas représenter Big AG parce qu'elle n'a pas de siège social dans un État contractant."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "1",
+          "explanation_de": "Van Hemessen kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# nur eine (natürliche oder juristische) Person mit Sitz in einem Vertragsstaat vertreten. Dies gilt unabhängig davon, ob der Arbeitgeber von Van Hemessen Mitanmelder ist oder nicht. Einthoven kann aber EP-1 einreichen, da es zur Einreichung einer Anmeldung keiner Vertretung bedarf.",
+          "explanation_en": "According to #linkepc#ar133|Article 133 (3) EPC#endlink#, Van Hemessen can only represent a (natural or legal) person having its seat in a Contracting State. This is true whether or not Van Hemessen's employer is a co-applicant. Einthoven may, however, file EP-1, since no representation is required to file an application.",
+          "explanation_fr": "Selon #linkepc#ar133|Article 133 (3) CBE#endlink#, Van Hemessen ne peut représenter qu'une personne (physique ou morale) ayant son siège dans un Etat contractant. Ceci est vrai que l'employeur de Van Hemessen soit ou non un codemandeur. Einthoven peut cependant déposer EP-1, car aucune représentation n'est requise pour déposer une demande.",
+          "id": 12,
+          "id_old": 10,
+          "normen": "Regel 133 3 Vertretung durch Angestellten, Firma Mitanmelder 2. Anmelder Vertretungszwang",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Catarina_van_Hemessen|Catarina van Hemessen#endlink# ist Angestellte der Lütt AG mit Sitz in Antwerpen/Niederlande. Die Lütt AG ist eine hundertprozentige Tochter der Big AG mit Sitz in Los Angeles/USA. Sie hat auch eine Vollmacht der Lütt AG, diese vor dem Europäischen Patentamt zu vertreten. Sie ist aber weder zugelassene Vertreterin noch Rechtsanwältin. Da in einer Erfindungsmeldung Erfinder beider Firmen auftreten, soll diese mit beiden Firmen als gleichberechtigten Anmeldern beim Europäischen Patentamt als europäische Patentanmeldung EP-1 eingereicht werden. In welcher Konstellation kann van Hemessen im Verfahren der Patentanmeldung EP-1 handeln?",
+          "text_en": "#linkwiki#Catarina_van_Hemessen|Catarina van Hemessen#endlink# is an employee of Lütt AG based in Antwerp,Netherlands.  Lütt AG is a wholly owned subsidiary of Big AG with its registered office in Los Angeles,USA. She also has an authorisation from Lütt AG to represent the latter before the European Patent Office. However, she is neither a professional representative nor a lawyer. Since inventors of both companies appear in an invention disclosure, it is to be filed with the European Patent Office as a European patent application EP-1 with both companies as equal applicants. In which constellation can van Hemessen act in the EP-1 patent application procedure?",
+          "text_fr": "#linkwiki#Catarina_van_Hemessen|Catarina van Hemessen#endlink# est une employée de Lütt AG basée à Anvers, Pays-Bas.  Lütt AG est une filiale à 100 % de Big AG dont le siège social est situé à Los Angeles, aux États-Unis. Elle dispose également d'une procuration de Lütt AG pour représenter cette dernière devant l'Office européen des brevets. Toutefois, elle n'est ni mandataire agréé ni avocat. Étant donné que les inventeurs des deux sociétés apparaissent dans une divulgation d'invention, celle-ci doit être déposée auprès de l'Office européen des brevets en tant que demande de brevet européen EP-1, les deux sociétés étant des demandeurs égaux. Dans quelle constellation van Hemessen peut-elle représenter dans la procédure de demande de brevet EP-1 ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Bilińska kann EP-1 nicht vertreten, da die Groß AG nicht ihr Arbeitgeber ist.",
+                  "text_en": "Bilińska cannot represent EP-1 because Groß AG is not her employer.",
+                  "text_fr": "Bilińska ne peut pas représenter EP-1 car Groß AG n'est pas son employeur."
+              },
+              {
+                  "text_de": "Bilińska muss von der Groß AG eine zusätzliche Vollmacht erhalten, da die Firmen nicht verbunden sind.",
+                  "text_en": "Bilińska must receive an additional authorisation from Groß AG, as the companies are not affiliated.",
+                  "text_fr": "Bilińska doit recevoir une procuration supplémentaire de Groß AG, car les sociétés ne sont pas affiliées."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Die Klein AG muss gemeinsamer Verteter sein.",
+                  "text_en": "Klein AG must be the common representative.",
+                  "text_fr": "Klein AG doit être un représentant commun."
+              },
+              {
+                  "text_de": "Bilińska kann die Klein AG vertreten. Die Groß AG hat ihren Sitz in einem Vertragsstaat und benötigt keinen Vertreter.",
+                  "text_en": "Bilińska may represent Klein AG. Groß AG has its registered office in a Contracting State and does not require a representative.",
+                  "text_fr": "Bilińska peut représenter Klein AG. Groß AG a son siège social dans un État contractant et n'a pas besoin de représentant."
+              },
+              {
+                  "text_de": "Die Klein AG kann als erster Anmelder genannt sein. Dann ist sie automatisch Vertreterin der Anmeldung EP-1.",
+                  "text_en": "Klein AG must be named as the first applicant. Then it automatically becomes the representative of the EP-1 application.",
+                  "text_fr": "Klein AG peut être désignée comme le premier demandeur. Elle devient alors automatiquement le mandataire de la demande EP-1."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "3",
+          "explanation_de": "Bilińska kann nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# nur die Klein AG vertreten. Wenn diese bei einer Gemeinschaftsanmeldung EP-1 der gemeinsame Verteter ist, kann Bilińska EP-1 vertreten. Gemeinsamer Verteter wird die Klein AG gemäß #linkepc#r151|Regel 151 (1) EPÜ#endlink#, wenn sie die erstgenannte Person im Formblatt des Erteilungsantrags ist oder explizit als gemeinsamer Verteter genannt wird. Die Konstellation \n- Arbeitgeber mit Sitz in Vertragsstaat, \n- Mitanmelder mit Sitz in Vertragsstaat und \n- Arbeitgeber Vertreter der Anmeldung \nist die einzige, in der ein Vertreter nach #linkepc#ar133|Artikel 133 (3) EPÜ#endlink# eine Anmeldung vertreten kann, in der andere Firmen als der Arbeitgeber Mitanmelder sind.",
+          "explanation_en": "This is the only case in which a representative under #linkepc#ar133|Article 133 (3) EPC#endlink# may represent an application in which companies other than the employer are co-applicants.",
+          "explanation_fr": "est la seule dans laquelle un mandataire selon #linkepc#ar133|Article 133 (3) CBE#endlink# peut représenter une demande dans laquelle des entreprises autres que l'employeur sont co-demandeurs.",
+          "id": 13,
+          "id_old": 11,
+          "normen": "Artikel 133 3 Vertretung durch Angestellten, mehrere Firmen Anmelder",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Anna_Bilińska|Anna Bilińska#endlink# ist Angestellte der Klein AG mit Sitz in Warschau/Polen. Die Klein AG ist eine hundertprozentige Tochter der Groß AG mit Sitz in Krakau/Polen. Sie hat auch eine Vollmacht der Klein AG, diese vor dem Europäischen Patentamt zu vertreten. Sie ist aber weder zugelassene Vertreterin noch Rechtsanwältin. Da in einer Erfindungsmeldung Erfinder beider Firmen auftreten, soll diese mit beiden Firmen als gleichberechtigten Anmeldern beim Europäischen Patentamt als europäische Patentanmeldung EP-1 eingereicht werden. In welcher Konstellation kann Bilińska im Anmeldeverfahren die EP-1 handeln?",
+          "text_en": "#linkwiki#Anna_Bilińska|Anna Bilińska#endlink# is an employee of Klein AG, based in Warsaw, Poland. Klein AG is a wholly owned subsidiary of Groß AG with its registered office in Krakow, Poland. She also has a power of attorney from Klein AG to represent the company before the European Patent Office. However, she is neither a professional representative nor a lawyer. Since inventors of both companies appear in an invention disclosure, it is to be filed with the European Patent Office as a European patent application EP-1 with both companies as equal applicants. In which constellation can Bilińska act in the application procedure?",
+          "text_fr": "#linkwiki#Anna_Bilińska|Anna Bilińska#endlink# est une employée de Klein AG, basée à Varsovie, en Pologne. Klein AG est une filiale à 100 % de Groß AG dont le siège social est situé à Cracovie, en Pologne. Elle dispose également d'une procuration de Klein AG pour représenter la société devant l'Office européen des brevets. Toutefois, elle n'est ni un mandataire agréé ni un avocat. Étant donné que les inventeurs des deux sociétés apparaissent dans une divulgation d'invention, celle-ci doit être déposée auprès de l'Office européen des brevets en tant que demande de brevet européen EP-1, les deux sociétés étant des demandeurs égaux. Dans quelle constellation Bilińska peut-elle représenter EP-1 dans la procédure de demande ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Der Antrag ist zulässig, weil Moser ohne Vollmacht vertreten hat.",
+                  "text_en": "The motion is admissible because Moser represented without authorisation.",
+                  "text_fr": "La motion est admissible parce que Moser a représenté sans autorité."
+              },
+              {
+                  "text_de": "Der Antrag ist begründet, da das Europäische Patentamt getäuscht worden ist.",
+                  "text_en": "The request is allowable as the European Patent Office has been deceived.",
+                  "text_fr": "Cette demande est fondée, car l'Office européen des brevets a été trompé."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Der Antrag ist, die Zulässigkeit unterstellt, unbegründet, weil Kauffmann die Rücknahme der Vollmacht nicht dem Europäischen Patentamt angezeigt hat.",
+                  "text_en": "Assuming the request is admissible, it is not allowable because Kauffmann did not notify the European Patent Office of the withdrawal of the authorisation.",
+                  "text_fr": "A supposer que la requête soit recevable, elle n'est pas fondée car Kauffmann n'a pas notifié à l'Office européen des brevets le retrait de la procuration."
+              },
+              {
+                  "text_de": "Der Antrag auf Wiedereinsetzung ist unzulässig, da keine Frist versäumt worden ist.",
+                  "text_en": "The application for re-establishment of rights is inadmissible because no deadline has been missed.",
+                  "text_fr": "La demande de réintégration est irrecevable car aucun délai n'a été dépassé."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "2",
+          "explanation_de": "Nach #linkepc#r152|Regel 152 (8) EPÜ#endlink# gilt ein Vertreter so lange als bevollmächtigt, bis das Erlöschen seiner Vollmacht dem Europäischen Patentamt angezeigt worden ist. Für das Europäische Patentamt ist Moser also weiterhin Vertreterin im Verfahren der EP-1. Ein Antrag auf Wiedereinsetzung in den vorigen Stand ist daher unzulässig und unbegründet. Ob Ansprüche von Kauffmann gegen Moser bestehen ist dagegen eine zivilrechtliche und ggf. standesrechtliche Frage. Sie berührt das Verfahren vor dem Europäischen Patentamt nicht.",
+          "explanation_en": "According to #linkepc#r152|Rule 152 (8) EPC#endlink# a representative is deemed to be authorized unless the European Patent Office has been notified of the termination of his authorization. Thus, for the European Patent Office, Moser continues to be the representative in the EP-1 proceedings. A request for re-establishment of rights is therefore inadmissible and not allowable. Whether Kauffmann has claims against Moser, on the other hand, is a question of civil law and, if applicable, of professional ethics. It does not affect the proceedings before the European Patent Office.",
+          "explanation_fr": "Selon la #linkepc#r152|Règle 152 (8) CBE#endlink# un mandataire est réputé être autorisé à moins que l'Office européen des brevets n'ait été notifié de la fin de son autorisation. Ainsi, pour l'Office européen des brevets, Moser continue à être le mandataire dans la procédure EP-1. Une requête en restitutio in integrum est donc irrecevable et infondée. En revanche, la question de savoir si Kauffmann a des prétentions à l'encontre de Moser est une question de droit civil et, le cas échéant, d'éthique professionnelle. Elle n'a aucune incidence sur la procédure devant l'Office européen des brevets.",
+          "id": 14,
+          "id_old": 12,
+          "normen": "Regel 152 8 Vertretung bis Rücknahme",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Mary_Moser|Mary Moser#endlink# ist zugelassene Vertreterin und vertritt #linkwiki#Angelika_Kauffmann|Angelika Kauffmann#endlink# in einem Anmeldeverfahren vor dem Europäischen Patentamt. Da sie sich verkrachen erklärt Kauffmann ihrer Vertreterin, dass sie die Vollmacht zurückziehe. Da Moser bereits eine fällige Bescheidserwiderung erstellt hat, reicht sie diese trotzdem noch ein. Da sie lustlos verfasst war sieht sich der Prüfer veranlasst, die Patentanmeldung zurückzuweisen. Als Kauffmann den Zurückweisungsbeschluss erhält ist sie außer sich und nimmt eine elektronische Akteneinsicht vor. Sie findet heraus, dass Moser die Eingabe nach der Rücknahme der Vollmacht ihr gegenüber eingereicht hat. Sie stellt daher beim Europäischen Patentamt einen Antrag auf Wiedereinsetzung in den vorigen Stand. Wird dem Antrag stattgegeben?",
+          "text_en": "#linkwiki#Mary_Moser|Mary Moser#endlink# is a professional representative for #linkwiki#Angelika_Kauffmann|Angelika Kauffmann#endlink# in an application procedure before the European Patent Office. As they quarrel, Kauffmann tells her representative that she is withdrawing the power of attorney. Since Moser has already drafted a statement of opposition that is due, she still files it. Since it was written in a lackadaisical manner, the examiner deems  it necessary to reject the patent application. When Kauffmann receives the rejection decision, she becomes furious and starts an electronic file inspection. She finds out that Moser filed the application after withdrawing the authorisation against her. She therefore files a request with the European Patent Office to have her rights re-established. Is the request granted?",
+          "text_fr": "#linkwiki#Mary_Moser|Mary Moser#endlink# est un représentant professionnel pour #linkwiki#Angelika_Kauffmann|Angelika Kauffmann#endlink# dans une procédure de demande devant l'Office européen des brevets. Alors qu'ils se disputent, Kauffmann annonce à son représentant qu'elle retire la procuration. Comme Moser a déjà rédigé une déclaration d'opposition qui est due, elle la dépose quand même. Comme elle a été rédigée de manière peu rigoureuse, l'examinateur juge nécessaire de rejeter la demande de brevet. Lorsque Kauffmann reçoit la décision de rejet, elle est furieuse et commence une inspection électronique du dossier. Elle découvre que Moser a déposé la demande après avoir retiré la procuration qu'il lui avait donnée. Elle dépose donc une requête auprès de l'Office européen des brevets pour être rétablie dans l'état antérieur des choses. Cette requête est-elle acceptée ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Das Europäische Patentamt kann eine allgemeine Vollmacht ausstellen, die Gentileschi zur Vertretung jedes Mandanten berechtigt.",
+                  "text_en": "The European Patent Office may issue a general authorisation authorizing Gentileschi to represent any client.",
+                  "text_fr": "L'Office européen des brevets peut délivrer une procuration générale autorisant Gentileschi à représenter tout client."
+              },
+              {
+                  "text_de": "Das Europäische Patentamt kann auf die Vollmacht verzichten, wenn Gentileschi eine große Arbeitslast nachweist.",
+                  "text_en": "The European Patent Office may waive the authorisation if Gentileschi demonstrates a heavy workload.",
+                  "text_fr": "L'Office européen des brevets peut renoncer à la procuration si Mme Gentileschi fait preuve d'une charge de travail importante."
+              },
+              {
+                  "text_de": "Gentileschi kann sich eine allgemeine Vollmacht für alle Mandanten ausstellen.",
+                  "text_en": "Gentileschi can issue herself a general authorisation for all clients.",
+                  "text_fr": "Gentileschi peut se donner une procuration générale pour tous les clients."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Gentileschi kann sich von den Mandanten jeweils eine allgemeine Vollmacht ausstellen lassen, dann benötigt sie nur eine pro Mandant.",
+                  "text_en": "Gentileschi can have the clients each issue a general authorisation, in which case she only needs one per client.",
+                  "text_fr": "Mme Gentileschi peut demander à chacun de ses clients d'établir une procuration générale, auquel cas elle n'a besoin que d'une seule procuration par client."
+              },
+              {
+                  "text_de": "Die Mandanten können die Vollmachten für Gentileschi einreichen.",
+                  "text_en": "Clients may file the authorisations on Gentileschi's behalf.",
+                  "text_fr": "Les clients peuvent déposer des procurations au nom de Gentileschi."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "1",
+          "explanation_de": "Die Beteiligten können nach #linkepc#r152|Regel 152 (4) EPÜ#endlink# allgemeine Vollmachten einreichen, die einen Vertreter zur Vertretung in allen Patentangelegenheiten bevollmächtigen. Ausgestellt werden kann sie natürlich nur vom jeweiligen Mandanten selbst.",
+          "explanation_en": "According to #linkepc#r152|Rule 152 (4) EPC#endlink#, parties may file general authorisations authorizing a representative to represent them in all patent matters. Of course, it can only be issued by the respective client itself.",
+          "explanation_fr": "Selon la #linkepc#r152|Règle 152 (4) CBE#endlink#, les parties peuvent déposer des procurations générales autorisant un mandataire à les représenter dans toutes les affaires de brevets. Bien sûr, il ne peut être délivré que par le client respectif lui-même.",
+          "id": 15,
+          "id_old": 328,
+          "normen": "Regel 152 4 allgemeine Vollmacht",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Artemisia_Gentileschi|Artemisia Gentileschi#endlink# ist zugelassene Verteterin. Sie hat mehrere größere Mandanten, die sie jeweils in einer Vielzahl an Verfahren vertritt. Was kann sie veranlassen, um die Bearbeitung der Vollmachten zu vereinfachen?",
+          "text_en": "#linkwiki#Artemisia_Gentileschi|Artemisia Gentileschi#endlink# is a professional representative. She has several major clients, each of whom she represents in a variety of proceedings. What can she do to facilitate the processing of authorisations?",
+          "text_fr": "#linkwiki#Artemisia_Gentileschi|Artemisia Gentileschi#endlink# est un représentant agréé. Elle a plusieurs clients importants, qu'elle représente dans diverses procédures. Que peut-elle faire pour faciliter le traitement des procurations ?"
+      },
+      {
+          "answers_false": [
+              {
+                  "text_de": "Nur Dou oder Bol.",
+                  "text_en": "Only Dou or Bol.",
+                  "text_fr": "Seulement Dou ou Bol."
+              }
+          ],
+          "answers_true": [
+              {
+                  "text_de": "Dou.",
+                  "text_en": "Dou.",
+                  "text_fr": "Dou."
+              },
+              {
+                  "text_de": "Flinck.",
+                  "text_en": "Flinck.",
+                  "text_fr": "Flinck."
+              },
+              {
+                  "text_de": "Jeder Anwalt der Kanzlei kann vertreten.",
+                  "text_en": "Any attorney in the firm can represent.",
+                  "text_fr": "Tout avocat du cabinet peut représenter."
+              }
+          ],
+          "beginning": [
+              "-2MM"
+          ],
+          "date": [
+              "MO"
+          ],
+          "deadline": [
+              "+2MM"
+          ],
+          "difficulty": "1",
+          "explanation_de": "Nach #linkepc#r152|Regel 152 (11) EPÜ#endlink# gilt die Bevollmächtigung eines Zusammenschlusses von Vertretern als Bevollmächtigung für jeden Vertreter, der den Nachweis erbringt, dass er in diesem Zusammenschluss tätig ist. Damit kann jeder zugelassene Vertreter der Kanzlei vertreten, insbesondere Dou und Flinck. Eine Einschränkung auf die Inhaber gibt es dagegen nicht.",
+          "explanation_en": "According to #linkepc#r152|Rule 152 (11) EPC#endlink#, the authorisation of an association of representatives is deemed to be an authorisation of any representative, who can provide evidence that he practises within that association. Thus, any professional representative of the firm may represent, in particular Dou and Flinck. On the other hand, there is no restriction to owners.",
+          "explanation_fr": "Selon la #linkepc#r152|Règle 152 (11) CBE#endlink#, le pouvoir d'une association de représentants est réputé autorisé pour tout représentant, pour autant que la preuve de son activité au sein de cette association puisse être apportée. Ainsi, tout représentant professionnel du cabinet peut représenter, notamment Dou et Flinck. En revanche, il n'y a aucune restriction pour les titulaires.",
+          "id": 16,
+          "id_old": 13,
+          "normen": "Regel 152 11 Vertretung durch Zusammenschluss",
+          "startdate": "MO",
+          "text_de": "#linkwiki#Gerard_Dou|Gerard Dou#endlink#, #linkwiki#Ferdinand_Bol|Ferdinand Bol#endlink#, #linkwiki#Willem_Drost|Willem Drost#endlink# und #linkwiki#Govaert_Flinck|Govaert Flinck#endlink# sind Anwälte in der Kanzlei DouBol und alle zugelassene Verteter. Dou und Bol sind Inhaber der Kanzlei, Drost und Flinck Angestellte. Für die Europäische Patentanmeldung EP-1 hat die Kanzlei eine Vollmacht erhalten. Wer kann im Verfahren vor dem Europäischen Patentamt vertreten?",
+          "text_en": "#linkwiki#Gerard_Dou|Gerard Dou#endlink#, #linkwiki#Ferdinand_Bol|Ferdinand Bol#endlink#, #linkwiki#Willem_Drost|Willem Drost#endlink# and #linkwiki#Govaert_Flinck|Govaert Flinck#endlink# are attorneys in the DouBol law firm and are all professional representatives. Dou and Bol are co-owners of the firm, Drost and Flinck are employees. The firm has received an authorisation for the European patent application EP-1. Who can represent in the proceedings before the European Patent Office?",
+          "text_fr": "#linkwiki#Gerard_Dou|Gerard Dou#endlink#, #linkwiki#Ferdinand_Bol|Ferdinand Bol#endlink#, #linkwiki#Willem_Drost|Willem Drost#endlink# et #linkwiki#Govaert_Flinck|Govaert Flinck#endlink# sont des avocats du cabinet DouBol et sont tous des représentants agréés. Dou et Bol sont copropriétaires du cabinet, Drost et Flinck sont des employés. Le cabinet a reçu une procuration pour la demande de brevet européen EP-1. Qui peut représenter dans la procédure devant l'Office européen des brevets ?"
+      }
       ],
       "info_de" : "Die Vertretung vor den Organen des Europäischen Patentamts.",
       "info_en" : "Representation before the bodies of the European Patent Office.",
