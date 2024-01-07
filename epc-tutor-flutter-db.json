@@ -851,7 +851,8 @@
             "-12MM"
           ],
           "date" : [
-            "MO"
+            "startdate|-12MM",
+            "startdate|+12MM|+1DD"
           ],
           "deadline" : [
             "+12MM|+1DD"
@@ -864,9 +865,9 @@
           "id_old" : 16,
           "normen" : "",
           "startdate" : "MO",
-          "text_de" : "#linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# hat eine US-amerikanische Patentanmeldung US-1 betreffend eine Spezialnahrung als erste Anmeldung wirksam am #beginning#0#enddate# eingereicht. Am #deadline#0#enddate# reicht Whipple unter Inanspruchnahme der Priorität aus US-1 eine europäische Patentanmeldung EP-2 ein. Diese ist inhaltsgleich zu US-1. Welche der folgenden Aussagen ist wahr?",
-          "text_en" : "#linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# filed a U.S. patent application US-1 relating to a specialty food as the first application effective on #beginning#0#enddate#. On #deadline#0#enddate# Whipple files a European patent application EP-2 claiming priority from US-1. This is identical in content to US-1. Which of the following statements is true?",
-          "text_fr" : "#linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# a déposé une demande de brevet américain US-1 relative à une spécialité alimentaire comme première demande effective le #beginning#0#enddate#. Le #deadline#0#enddate# Whipple dépose une demande de brevet européen EP-2 revendiquant la priorité de US-1. Le contenu de cette demande est identique à celui de US-1. Laquelle des affirmations suivantes est vraie ?"
+          "text_de" : "#linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# hat eine US-amerikanische Patentanmeldung US-1 betreffend eine Spezialnahrung als erste Anmeldung wirksam am #date#0#enddate# eingereicht. Am #date#1#enddate# reicht Whipple unter Inanspruchnahme der Priorität aus US-1 eine europäische Patentanmeldung EP-2 ein. Diese ist inhaltsgleich zu US-1. Welche der folgenden Aussagen ist wahr?",
+          "text_en" : "#linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# filed a U.S. patent application US-1 relating to a specialty food as the first application effective on #date#0#enddate#. On #date#1#enddate# Whipple files a European patent application EP-2 claiming priority from US-1. This is identical in content to US-1. Which of the following statements is true?",
+          "text_fr" : "#linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# a déposé une demande de brevet américain US-1 relative à une spécialité alimentaire comme première demande effective le #date#0#enddate#. Le #date#1#enddate# Whipple dépose une demande de brevet européen EP-2 revendiquant la priorité de US-1. Le contenu de cette demande est identique à celui de US-1. Laquelle des affirmations suivantes est vraie ?"
         },
         {
           "answers_false" : [
