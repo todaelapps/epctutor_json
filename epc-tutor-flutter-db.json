@@ -6333,6 +6333,418 @@
           "text_de" : "#linkwiki#Jacobus_Henricus_van_’t_Hoff|Jacobus Henricus van ’t Hoff#endlink# verwendet für Versuche über den osmotischen Druck semipermeable Membranen von #linkwiki#Moritz_Traube|Moritz Traube#endlink#. ’t Hoff hat bei einem Besuch Traubes herausgefunden, dass Traube am #startdate##enddate# eine Patentanmeldung EP-1 eingereicht hat. Beim Lesen der Post seines Besuchers fand er einen Erteilungsbeschluss vom #beginning#0|-6MM|-10DD#enddate#. Auch hat er mitbekommen, dass Traube alle Anforderungen wie bspw. die Bezahlung der Erteilungsgebühr erfüllt hat. Der Hinweis auf die Veröffentlichung des europäischen Patentes EP-1 wurde daraufhin am #beginning#0#enddate# veröffentlicht. ’t Hoff möchte Traube einen Streich spielen und ihn durch das Einlegen eines Einspruchs ärgern. Welches Ereignis löste den Beginn der Einspruchsfrist aus?",
           "text_en" : "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# uses semipermeable membranes from #linkwiki#Moritz_Traube|Moritz Traube#endlink# for experiments on osmotic pressure. while visiting Traube, 't Hofffound that Traube had filed a patent application EP-1 on #startdate##enddate#. Reading his visitor's mail, he also uncovered a grant decision dated #beginning#0|-6MM|-10DD#enddate#. and noticed that Traube had fulfilled all the requirements, such as paying the grant fee. The notice of publication of the European patent EP-1 was then published on #beginning#0#enddate#. 't Hoff is jealous of Traube and has decided to file an opposition. Which event therefore triggers the start of the opposition period?",
           "text_fr" : "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# utilise des membranes semi-perméables de #linkwiki#Moritz_Traube|Moritz Traube#endlink# pour des expériences sur la pression osmotique. Lors d'une visite chez Traube, 't Hoff découvre que Traube a déposé une demande de brevet EP-1 le #startdate##enddate#. En lisant le courrier de son visiteur, il a également découvert une décision de subvention datée du #beginning#0|-6MM|-10DD#enddate#. et a constaté que Traube avait rempli toutes les conditions, comme le paiement de la taxe de subvention. L'avis de publication du brevet européen EP-1 a ensuite été publié le #beginning#0#enddate#. 't Hoff est jaloux de Traube et a décidé de former une opposition. Quel événement déclenche donc le début du délai d'opposition ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Pierre Curie.",
+              "text_en" : "Pierre Curie.",
+              "text_fr" : "Pierre Curie."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Marie Curie.",
+              "text_en" : "Marie Curie.",
+              "text_fr" : "Marie Curie."
+            },
+            {
+              "text_de" : "Henri Becquerel.",
+              "text_en" : "Henri Becquerel.",
+              "text_fr" : "Henri Becquerel."
+            },
+            {
+              "text_de" : "Eugène Cariot.",
+              "text_en" : "Eugène Cariot.",
+              "text_fr" : "Eugène Cariot."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Dem Wortlaut von #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# nach kann jedermann Einspruch gegen ein Patent einlegen. Als Ausnahme ist aber der Patentinhaber anzusehen. Dafür gibt es zwei Gründe. Einerseits ist das Einspruchsverfahren ein zweiseitiges Verfahren, bei dem nicht eine Partei beide Rollen übernehmen kann. Andererseits steht dem Patentinhaber daher exklusiv ein Beschränkungs- und Widerrufsverfahren zur Verfügung. Jedermann in #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# ist also jedermann außer dem Patentinhaber. ",
+          "explanation_en" : "According to the wording of #linkepc#ar99|Article 99 (1) EPC#endlink# anyone can file an opposition against a patent. However, the patentee is to be regarded as an exception. There are two reasons for this. On the one hand, the opposition procedure is a two-sided procedure in which one party cannot take both roles. On the other hand, the patent owner has exclusive access to limitation and revocation proceedings. Everyone in #linkepc#ar99|Article 99 (1) EPC#endlink# means everyone except the patentee.",
+          "explanation_fr" : "Selon le libellé de #linkepc#ar99|Article 99 (1) CBE#endlink#, toute personne peut former une opposition contre un brevet. Toutefois, le titulaire du brevet doit être considéré comme une exception. Il y a deux raisons à cela. D'une part, la procédure d'opposition est une procédure bilatérale dans laquelle une partie ne peut pas jouer les deux rôles. D'autre part, le titulaire du brevet a un accès exclusif aux procédures de limitation et de révocation. Tout le monde dans #linkepc#ar99|Article 99 (1) CBE#endlink# signifie tout le monde sauf le breveté.",
+          "id" : 131,
+          "id_old" : 83,
+          "normen" : "Artikel 99 TM jedermann ",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Marie_Curie|Marie Curie#endlink# hat einen Strahlenerzeuger entwickelt. Ihr Ehemann #linkwiki#Pierre_Curie|Pierre Curie#endlink# hat die Idee mit ihrer Zustimmung auf sich als europäische Patentanmeldung angemeldet, sie ist als Erfinderin genannt. Im Nachgang wurde dafür das europäische Patent EP-1 erteilt. Die Curies haben neuen Stand der Technik gefunden und meinen, dass der zugesprochene Schutz zu weitreichend ist. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# hat bei der Entwicklung mitgearbeitet und kennt den technischen Hintergrund. Zum patentierten Gegenstand hat er allerdings nicht beigetragen. Auch er meint, dass der erteilt Schutz zu weitreichend ist. Eugène Cariot ist ein Angestellter von Pierre Curie. Er mag generell keine Patente. Wer kann gegen EP-1 Einspruch einlegen?",
+          "text_en" : "#linkwiki#Marie_Curie|Marie Curie#endlink# developed a radiation generator. Her husband #linkwiki#Pierre_Curie|Pierre Curie#endlink#, took it upon himself to file her idea as a European patent application with her consent, naming her the inventor. Subsequently, the European patent EP-1 was granted for it. The Curies have found new prior art and feel that the protection awarded is too broad. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# has participated in the development and knows the technical background; however, he did not contribute to the patented subject matter. He also thinks that the protection granted is too far-reaching. Eugène Cariot is an employee of Pierre Curie. He does not like patents in general. Who can file an opposition against EP-1?",
+          "text_fr" : "#linkwiki#Marie_Curie|Marie Curie#endlink# a mis au point un générateur de rayonnement. Son mari, #linkwiki#Pierre_Curie|Pierre Curie#endlink#, a pris l'initiative de déposer son idée sous forme de demande de brevet européen avec son consentement, en la nommant inventrice. Par la suite, le brevet européen EP-1 lui a été accordé. Les Curie ont trouvé de nouvelles antériorités et estiment que la protection accordée est trop large. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# a participé au développement et connaît le contexte technique ; cependant, il n'a pas contribué à l'objet breveté. Il estime également que la protection accordée est trop étendue. Eugène Cariot est un employé de Pierre Curie. Il n'aime pas les brevets en général. Qui peut former une opposition contre EP-1 ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Am #deadline#0|-2MM#enddate#.",
+              "text_en" : "On #deadline#0|-2MM#enddate#.",
+              "text_fr" : "Le jour de la #deadline#0|-2MM#enddate#."
+            },
+            {
+              "text_de" : "Am #deadline#0|-1MM#enddate#.",
+              "text_en" : "On #deadline#0|-1MM#enddate#.",
+              "text_fr" : "Le jour de la #deadline#0|-1MM#enddate#."
+            },
+            {
+              "text_de" : "Am #deadline#0|+1MM#enddate#.",
+              "text_en" : "On #deadline#0|+1MM#enddate#.",
+              "text_fr" : "Le jour de la #deadline#0|+1MM#enddate#."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Am #deadline#0#enddate#.",
+              "text_en" : "On #deadline#0#enddate#.",
+              "text_fr" : "Le #deadline#0#enddate#."
+            }
+          ],
+          "beginning" : [
+            "+1DD"
+          ],
+          "date" : [
+            "MO|-6MM|+12DD"
+          ],
+          "deadline" : [
+            "+9MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Die Frist zur Einlegung eines Einspruchs endet gemäß #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# 9 Monate nach der Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents. ",
+          "explanation_en" : "According to #linkepc#ar99|Article 99 (1) EPC#endlink#, the period for filing an opposition ends 9 months after the publication of the mention of the grant of the European patent.",
+          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (1) CBE#endlink#, le délai pour former une opposition prend fin 9 mois après la publication de la mention de la délivrance du brevet européen.",
+          "id" : 132,
+          "id_old" : 84,
+          "normen" : "Artikel 99 TM Frist",
+          "startdate" : "MO|-6MM|+12DD",
+          "text_de" : "#linkwiki#Emil_Fischer|Emil Fischer#endlink# hat ein Verfahren zur Erzeugung von Zucker gefunden. Zu seinem Leidwesen recherchiert er ein Patent EP-1, dessen Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt am #beginning#0#enddate# erfolgte. Das von ihm angestrebte Verfahren fällt in den Schutzbereich von EP-1, weswegen er gerne Einspruch gegen EP-1 einlegen möchte. Wann endet die Einspruchsfrist? ",
+          "text_en" : "#linkwiki#Emil_Fischer|Emil Fischer#endlink# has found a process for producing sugar. To his chagrin, he researches a patent EP-1, whose publication of the reference to the grant of the European patent in the European Patent Bulletin took place on #beginning#0#enddate#. The process he is seeking falls within the scope of protection of EP-1, which is why he would like to file an opposition against EP-1. When does the opposition period end?",
+          "text_fr" : "#linkwiki#Emil_Fischer|Emil Fischer#endlink# a trouvé un procédé pour produire du sucre. À son grand dam, il fait des recherches sur un brevet EP-1, dont la publication de la référence à la délivrance du brevet européen dans le Bulletin européen des brevets a eu lieu le #beginning#0#enddate#. Le procédé qu'il recherche entre dans le champ de protection de EP-1, c'est pourquoi il souhaite former une opposition contre EP-1. Quand le délai d'opposition prend-il fin ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Bei einem der nationalen Patentämter eines Vertragsstaates.",
+              "text_en" : "At one of the national patent offices of a Contracting State.",
+              "text_fr" : "auprès de l'un des offices nationaux des brevets d'un État contractant."
+            },
+            {
+              "text_de" : "Bei jeder Zweigstelle des europäischen Patentamtes.",
+              "text_en" : "At any branch of the European Patent Office.",
+              "text_fr" : "Dans n'importe quelle agence de l'Office européen des brevets."
+            },
+            {
+              "text_de" : "Beim europäischen Patentamt in Brüssel.",
+              "text_en" : "At the European Patent Office in Brussels.",
+              "text_fr" : "A l'Office européen des brevets à Bruxelles."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Beim europäischen Patentamt in Berlin.",
+              "text_en" : "At the European Patent Office in Berlin.",
+              "text_fr" : "A l'Office européen des brevets à Berlin."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Die Möglichkeiten werden in der nächsten Aufgabe aufgelöst.",
+          "explanation_en" : "The possibilities will be resolved in the next task.",
+          "explanation_fr" : "Les possibilités seront résolues dans la tâche suivante.",
+          "id" : 133,
+          "id_old" : 85,
+          "normen" : "Artikel 99 TM EPA, Regel 2, ",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# ist hat ein Verfahren zum Lösen von Salzen in Wasser gefunden. Bei Recherchen stößt er auf ein europäisches Patent EP-1, das ein Verfahren zur Konservierung von Schmetterlingen schützt. Arrhenius möchte das Verfahren nutzen und daher Einspruch gegen EP-1 einlegen. Wo kann der Einspruch unter anderem wirksam eingelegt werden? ",
+          "text_en" : "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# has found a process for dissolving salts in water. While researching this, he comes across a European patent EP-1 that protects a process for preserving butterflies. Arrhenius wants to use this process and therefore files an opposition to EP-1. Where can the opposition be effectively filed, among other places?",
+          "text_fr" : "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# a trouvé un procédé pour dissoudre les sels dans l'eau. Au cours de ses recherches, il tombe sur un brevet européen EP-1 qui protège un procédé de conservation des papillons. Arrhenius veut utiliser ce procédé et forme donc une opposition à EP-1. Où l'opposition peut-elle être effectivement déposée, entre autres ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Ausschließlich beim europäischen Patentamt in München.",
+              "text_en" : "Exclusively at the European Patent Office in Munich.",
+              "text_fr" : "En exclusivité à l'Office européen des brevets à Munich."
+            },
+            {
+              "text_de" : "Beim europäischen Patentamt in Wien.",
+              "text_en" : "At the European Patent Office in Vienna.",
+              "text_fr" : "A l'Office européen des brevets à Vienne."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Beim europäischen Patentamt in München.",
+              "text_en" : "At the European Patent Office in Munich.",
+              "text_fr" : "A l'Office européen des brevets à Munich."
+            },
+            {
+              "text_de" : "Beim europäischen Patentamt in Den Haag.",
+              "text_en" : "At the European Patent Office in The Hague.",
+              "text_fr" : "A l'Office européen des brevets à La Haye."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Der Einspruchsschriftssatz ist nach #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# beim europäischen Patentamt einzureichen.  #linkepc#r2|Regel 2 EPÜ#endlink# legt dabei i.V.m. dem Amtsblatt 2017, A11 als zulässige Stellen München (Isargebäude und Pschorrhöfe), Den Haag und Berlin fest.",
+          "explanation_en" : "The opposition brief shall be filed with the European Patent Office in accordance with #linkepc#ar99|Article 99 (1) EPC#endlink#.  #linkepc#r2|Rule 2 EPC#endlink# specifies, in conjunction with the Official Journal 2017, A11 as admissible locations Munich (Isar building and Pschorrhöfe), The Hague and Berlin.",
+          "explanation_fr" : "Le mémoire d'opposition est déposé auprès de l'Office européen des brevets conformément à #linkepc#ar99|Article 99 (1) CBE#endlink#.  #linkepc#r2|Règle 2 CBE#endlink# précise, en liaison avec le Journal officiel 2017, A11 comme lieux admissibles Munich (bâtiment Isar et Pschorrhöfe), La Haye et Berlin.",
+          "id" : 134,
+          "id_old" : 85,
+          "normen" : "Artikel 99 TM EPA, Regel 2, ",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#William_Jacob_Holland|William Jacob Holland#endlink# ist ein niederländischer Geistlicher und Naturwissenschaftler, der sich sehr für Schmetterlinge interessiert. Bei Recherchen stößt er auf ein europäisches Patent EP-1, das Verfahren zur Konservierung von Schmetterlingen schützt. Auch Holland möchte das Verfahren nutzen und daher Einspruch gegen EP-1 einlegen. Nach Berlin möchte er aber nicht fahren. Wo kann der Einspruch wirksam eingelegt werden? ",
+          "text_en" : "#linkwiki#William_Jacob_Holland|William Jacob Holland#endlink# is a Dutch clergyman and natural scientist who is very interested in butterflies. While doing research, he comes across a European patent EP-1 that protects processes for preserving butterflies. Holland would also like to use the process and would therefore like to file an opposition to EP-1. However, he does not want to go to Berlin. Where can the opposition be effectively filed?",
+          "text_fr" : "#linkwiki#William_Jacob_Holland|William Jacob Holland#endlink# est un ecclésiastique et un spécialiste des sciences naturelles néerlandais qui s'intéresse beaucoup aux papillons. En faisant des recherches, il tombe sur un brevet européen EP-1 qui protège des procédés de conservation des papillons. Holland aimerait également utiliser ce procédé et souhaite donc former une opposition à EP-1. Cependant, il ne veut pas se rendre à Berlin. Où l'opposition peut-elle être efficacement formée ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Wenn Ramsay die Einspruchsgebühr erst in einer Woche bezahlt wird ein Zuschlag von 50% fällig.",
+              "text_en" : "If Ramsay does not pay the appeal fee for another week, a 50% surcharge will be applied.",
+              "text_fr" : "Si Ramsay ne paie pas la taxe d'appel avant une semaine, une surtaxe de 50 % sera appliquée."
+            },
+            {
+              "text_de" : "Wenn Ramsay die Einspruchsgebühr nicht bezahlt, schickt das Europäische Patetamt eine Erinnerung. Er muss dann innerhalb einer vom Amt gesetzten Frist die Gebühr entrichten.",
+              "text_en" : "If Ramsay does not pay the opposition fee, the European Patent Office will send a reminder. He must then pay the fee within the time limit set by the Office.",
+              "text_fr" : "Si Ramsay ne paie pas la taxe d'opposition, l'Office européen des brevets lui envoie un rappel. Il doit alors payer la taxe dans le délai fixé par l'Office."
+            },
+            {
+              "text_de" : "Wenn Ramsay die Einspruchsgebühr nicht bezahlt, schickt das Europäische Patetamt eine Mitteilung, in der die Möglichkeit einer Weiterbehandlung gegeben wird. Er muss dann innerhalb von zwei Monaten die Einspruchsgebühr und die Weiterbehandlungsgebühr entrichten.",
+              "text_en" : "If Ramsay does not pay the opposition fee, the European Patents Office will send a notice, giving the option of further processing. He must then pay the opposition fee and the further treatment fee within two months.",
+              "text_fr" : "Si Ramsay ne paie pas la taxe d'opposition, l'Office européen des brevets lui enverra un avis lui donnant la possibilité de poursuivre le traitement. Il devra alors payer la taxe d'opposition et la taxe de poursuite du traitement dans un délai de deux mois."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Wenn die Einspruchsgebühr erst in einer Woche bezahlt wird, gilt der Einspruch als nicht eingelegt.",
+              "text_en" : "If the objection fee is paid by the end of next week, the objection will be considered not filed.",
+              "text_fr" : "Si la taxe d'opposition est payée avant la fin de la semaine prochaine, l'opposition sera considérée comme non déposée."
+            }
+          ],
+          "beginning" : [
+            "-9MM"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+9MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Die Frist zur Einlegung eines Einspruchs endet gemäß #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# 9 Monate nach der Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents. In dieser Zeit muss auch die Einspruchsgebühr bezahlt sein. ",
+          "explanation_en" : "According to #linkepc#ar99|Article 99 (1) EPC#endlink#, the period for filing an opposition ends 9 months after the publication of the mention of the grant of the European patent. During this time, the opposition fee must also be paid.",
+          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (1) CBE#endlink#, le délai pour former une opposition prend fin 9 mois après la publication de la mention de la délivrance du brevet européen. Pendant cette période, la taxe d'opposition doit également être payée.",
+          "id" : 135,
+          "id_old" : 86,
+          "normen" : "Artikel 99 TM Gebühr",
+          "startdate" : "",
+          "text_de" : "#linkwiki#William_Ramsay|William Ramsay#endlink# leitet die Produktion einer Firma, die Gase erzeugt. V.a. die Edelgase Helium und Argon werden in Flaschen abgefüllt und verkauft. Er entdeckt ein Patent EP-1, das seinen Arbeitgeber stört. Er will deswegen Einspruch einlegen. Die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt erfolgte am #beginning#0#enddate#. Ramsay hat bereits einen Einspruchsschriftsatz fristgerecht eingereicht. Heute, am #deadline#0#enddate#, bespricht er mit seiner Anwältin den Fall und erwähnt, dass er die Einspruchsgebühr noch nicht bezahlt hat und er dies nächste Woche nachholen möchte. Was wird die Anwältin antworten?",
+          "text_en" : "#linkwiki#William_Ramsay|William Ramsay#endlink# manages the production of a company that produces gases. It is here that the noble gases helium and argon are bottled and sold. He discovers a patent EP-1 which disturbs his employer. He wants to file an opposition because of it. The notice of the grant of the European patent was published in the European Patent Bulletin on #beginning#0#enddate#. Ramsay has already filed a notice of opposition in due time. Today, on #deadline#0#enddate#, he discusses the case with his attorney and mentions that he has not yet paid the opposition fee and would like to do by next week. What will the lawyer reply?",
+          "text_fr" : "#linkwiki#William_Ramsay|William Ramsay#endlink# gère la production d'une entreprise qui produit des gaz. C'est là que sont mis en bouteille et vendus les gaz nobles que sont l'hélium et l'argon. Il découvre un brevet EP-1 qui dérange son employeur. Il veut faire une opposition à cause de cela. L'avis de délivrance du brevet européen a été publié dans le Bulletin européen des brevets le #beginning#0#enddate#. Ramsay a déjà déposé un avis d'opposition en temps voulu. Aujourd'hui, le #deadline#0#enddate#, il discute de l'affaire avec son avocat et mentionne qu'il n'a pas encore payé la taxe d'opposition et qu'il aimerait le faire d'ici la semaine prochaine. Que répondra l'avocat ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Durch die Einschränkung auf ein Land können die Gebühren gesenkt werden.",
+              "text_en" : "By limiting the fees to one country, the fees can be reduced.",
+              "text_fr" : "En limitant les frais à un seul pays, les frais peuvent être réduits."
+            },
+            {
+              "text_de" : "Wenn nur gegen den deutschen Anteil eingesprochen wird muss der Einspruch auf deutsch verfasst sein.",
+              "text_en" : "If only the German part is objected to, the objection must be written in German.",
+              "text_fr" : "Si seule la partie allemande fait l'objet d'une objection, celle-ci doit être rédigée en allemand."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Der Einspruch erfasst das europäische Patent für alle Vertragsstaaten, in denen es Wirkung hat.",
+              "text_en" : "The opposition covers the European patent for all Contracting States in which it has an effect.",
+              "text_fr" : "L'opposition couvre le brevet européen pour tous les États contractants dans lesquels il a un effet."
+            },
+            {
+              "text_de" : "Es gibt nur eine einzige, feststehende Einspruchsgebühr.",
+              "text_en" : "There is only one fixed opposition fee.",
+              "text_fr" : "Il n'y a qu'une seule taxe d'opposition fixe."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Gemäß #linkepc#ar99|Artikel 99 (2) EPÜ#endlink# erfasst der Einspruch das europäische Patent für alle Vertragsstaaten, in denen es Wirkung hat. ",
+          "explanation_en" : "According to #linkepc#ar99|Article 99 (2) EPC#endlink#, the opposition covers the European patent for all Contracting States in which it has an effect.",
+          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (2) CBE#endlink#, l'opposition couvre le brevet européen pour tous les Etats contractants dans lesquels elle a un effet.",
+          "id" : 136,
+          "id_old" : 87,
+          "normen" : "Artikel 99 (2) TM Vertragsstaaten ",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# hat die sogenannte Indigosynthese, ein Verfahren zur Herstellung der tiefblauen Verbindung Indigo, entwickelt. Zur Finanzierung seines Instituts verkauft er das Indigo. Kurze Zeit nach der Erteilung tritt der Inhaber eines europäischen Patentes EP-1 an ihn heran und fragt an, ob er zur Herstellung eine von ihm patentierte Substanz verwende. Von Baeyer geht zum Anwalt und lässt sich beraten. Nach Durchsicht des Standes der Technik sieht der Anwalt gute Erfolgsaussichten bei Einlegung eines Einspruchs. Von Baeyer erklärt, nur gegen den deutschen Teil von EP-1 Einspruch einlegen zu wollen, die anderen Länder störten ihn nicht. Was wird der Anwalt antworten?",
+          "text_en" : "#linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# developed the so-called indigo synthesis, a process for producing the deep blue compound indigo. To finance his institute, he sells the indigo. Shortly after it is granted, the owner of a European patent EP-1 approaches him and asks if von Baeyer has been using a substance patented by him for its production. Reluctant to respond, Von Baeyer goes to a lawyer for advice. After reviewing the prior art, the lawyer suggests filing an opposition and sees good prospects of success from this. Von Baeyer explains that he only wants to file an opposition against the German part of EP-1; the other countries are not relevant to him. How will the lawyer answer?",
+          "text_fr" : "#linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# a mis au point la synthèse dite de l'indigo, un procédé de production du composé bleu foncé qu'est l'indigo. Pour financer son institut, il vend l'indigo. Peu de temps après, le propriétaire d'un brevet européen EP-1 l'approche et lui demande si von Baeyer a utilisé une substance brevetée par lui pour sa production. Réticent à répondre, Von Baeyer demande conseil à un avocat. Après avoir examiné l'état de la technique, l'avocat suggère de former une opposition et y voit de bonnes chances de succès. Von Baeyer explique qu'il ne veut former une opposition que contre la partie allemande de EP-1 ; les autres pays ne le concernent pas. Que va répondre l'avocat ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Julius Tafel.",
+              "text_en" : "Julius Tafel.",
+              "text_fr" : "Julius Tafel."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Eduard Buchner nimmt als Patentinhaber teil.",
+              "text_en" : "Eduard Buchner participates as patent holder.",
+              "text_fr" : "Eduard Buchner participe en tant que titulaire du brevet."
+            },
+            {
+              "text_de" : "Adolf von Baeyer",
+              "text_en" : "Adolf von Baeyer",
+              "text_fr" : "Adolf von Baeyer"
+            },
+            {
+              "text_de" : "Friedrich Althoff.",
+              "text_en" : "Friedrich Althoff.",
+              "text_fr" : "Friedrich Althoff."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Gemäß #linkepc#ar99|Artikel 99 (3) EPÜ#endlink# sind der Patentinhaber und die Einsprechenden am Einspruchsverfahren beteiligt. Da die Einspruchsfrist abgelaufen ist, kann Julius Tafel nicht mehr als Einsprechender am Verfahren teilnehmen. Buchner und Althoff sind dagegen beide Einsprechende beteiligt, eine Rangfolge existiert nicht.",
+          "explanation_en" : "According to #linkepc#ar99|Article 99 (3) EPC#endlink#, the patent proprietor and the opponents are involved in the opposition proceedings. Since the opposition period has expired, Julius Tafel can no longer participate in the proceedings as an opponent. Buchner and Althoff, on the other hand, are both opponents, so no ranking exists.",
+          "explanation_fr" : "Selon l'article 99 (3) CBE#endlink#, le titulaire du brevet et les opposants sont impliqués dans la procédure d'opposition. Le délai d'opposition ayant expiré, Julius Tafel ne peut plus participer à la procédure en tant qu'opposant. Buchner et Althoff, en revanche, sont tous deux opposants, il n'y a donc pas de classement.",
+          "id" : 137,
+          "id_old" : 88,
+          "normen" : "Artikel 99 (3) TM Parteien ",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Eduard_Buchner|Eduard Buchner#endlink# hat ein Verfahren zur zellfreien Gärung in einem europäischen Patent EP-1 patentiert bekommen. Gegen dieses Patent hat sein einstiger Mentor #linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# innerhalb der abgelaufenen Einspruchsfrist eingesprochen. Zwar innerhalb der Einspruchsfrist, aber erst als Zweiter hat #linkwiki#Friedrich_Althoff|Friedrich Althoff#endlink# eingesprochen. Da von Baeyer immer an Geldknappheit leidet sagt nach Beginn des Einspruchsverfahrens #linkwiki#Julius_Tafel_(Chemiker)|Julius Tafel#endlink# zu, am Einspruch teilzunehmen und im eigenen Namen einen Anwalt zu entsenden. Wer nimmt am Einspruchsverfahren teil?",
+          "text_en" : "#linkwiki#Eduard_Buchner|Eduard Buchner#endlink# has patented a process for cell-free fermentation in a European patent EP-1. Against this patent his former mentor #linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# filed an opposition within the opposition period. The period has expired in the meanwhile. Even though he was within the opposition period, but only as a second #linkwiki#Friedrich_Althoff|Friedrich Althoff#endlink# has also filed an opposition. Since von Baeyer always suffers from lack of money, after the start of the opposition proceedings #linkwiki#Julius_Tafel_(chemist)|Julius Tafel#endlink# agrees to participate in the opposition and to send a lawyer on his own behalf. Who participates in the opposition proceedings?",
+          "text_fr" : "#linkwiki#Eduard_Buchner|Eduard Buchner#endlink# a breveté un procédé de fermentation sans cellules dans un brevet européen EP-1. Contre ce brevet, son ancien mentor #linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# a déposé une opposition dans le délai d'opposition. Le délai a expiré entre-temps. Même s'il était dans le délai d'opposition, mais seulement en tant que second, #linkwiki#Friedrich_Althoff|Friedrich Althoff#endlink# a également formé une opposition. Comme von Baeyer souffre toujours d'un manque d'argent, après le début de la procédure d'opposition, #linkwiki#Julius_Tafel_(chimiste)|Julius Tafel#endlink# accepte de participer à l'opposition et d'envoyer un avocat en son nom propre. Qui participe à la procédure d'opposition ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Die Einspruchsabteilung wird EP-1 wegen mangelnder Klarheit von Anspruch 1 widerrufen.",
+              "text_en" : "The opposition division will revoke EP-1 for lack of clarity found in claim 1.",
+              "text_fr" : "La division d'opposition révoquera EP-1 pour le manque de clarté de la revendication 1."
+            },
+            {
+              "text_de" : "Die Einspruchsabteilung wird EP-1 wegen Uneinheitlichkeit widerrufen.",
+              "text_en" : "The opposition division will revoke EP-1 for inconsistency.",
+              "text_fr" : "La division d'opposition révoquera l'EP-1 pour incohérence."
+            },
+            {
+              "text_de" : "Die Einspruchsabteilung wird EP-1 wegen fehlender moralischer Eignung widerrufen.",
+              "text_en" : "The opposition division will revoke EP-1 on grounds of a lack of moral fitness.",
+              "text_fr" : "La division d'opposition révoquera EP-1 pour cause de manque d'aptitude morale."
+            },
+            {
+              "text_de" : "Die Einspruchsabteilung wird EP-1 wegen eines unklaren Schutzumfangs in Bezug auf Figur 3 widerrufen.",
+              "text_en" : "The opposition division will revoke EP-1 because of an unclear scope of protection with respect to figure 3.",
+              "text_fr" : "La division d'opposition révoque EP-1 en raison d'une étendue de la protection peu claire en ce qui concerne la figure 3."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkepc#ar100|Artikel 100 EPÜ#endlink# zählt die Einspruchsgründe abschließend auf. Dies sind mangelnde Patentierbarkeit nach den Artikeln #linkepc#ar52|Artikel 52 EPÜ#endlink# bis #linkepc#ar57|Artikel 57 EPÜ#endlink#, mangelnde Ausführbarkeit und unzulässige Erweiterung. Andere Einspruchsgründe, z.B. wie die in der Aufgabe genannten, existieren nicht.",
+          "explanation_en" : "#linkepc#ar100|Article 100 EPC#endlink# lists the grounds for opposition exhaustively. These include lack of patentability according to #linkepc#ar52|Article 52 EPC#endlink# to #linkepc#ar57|Article 57 EPC#endlink#, lack of practicability and inadmissible extension. Other grounds for opposition, e.g. such as those mentioned in the task, do not exist.",
+          "explanation_fr" : "Le document #linkepc#ar100|Article 100 CBE#endlink# énumère de manière exhaustive les motifs d'opposition. Ceux-ci incluent le manque de brevetabilité selon les articles #linkepc#ar52|Article 52 CBE#endlink# à #linkepc#ar57|Article 57 CBE#endlink#, le manque de praticabilité et l'extension inadmissible. D'autres motifs d'opposition, tels que ceux mentionnés dans la tâche, n'existent pas.",
+          "id" : 138,
+          "id_old" : 90,
+          "normen" : "Artikel 100 TM nur",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Henri_Moissan|Henri Moissan#endlink# hat ein Verfahren zur Herstellung von reinem Fluor entwickelt. Die dabei eingesetzte Vorrichtung ist, wie er harausgefunden hat, durch ein gerade erteiltes europäisches Patent EP-1 geschützt. Moissan möchte daher EP-1 angreifen. In seinem Einspruchsschriftsatz begründet er den Widerruf von EP-1 damit, dass der Gegenstand von Anspruch 1 unklar sei. Auch sei die Patentierung einer derartigen Vorrichtung moralisch nicht tragbar, da die Erzeugung von Fluor zur Erhaltung der Gesundheit vieler Menschen wesentlich sei. Weiterhin sei die Erfindung nicht einheitlich, insbesondere seien zwei nebengeordnete Vorrichtungsansprüche enthalten. Zusätzlich zeige Figur 3 einen Gegenstand, der von Anspruch 1 nicht mehr abgedeckt werde. Gehen sie davon aus, dass Anspruch 1 unklar ist, moralisch problematisch, uneinheitlich und Figur 3 nicht mehr zum erteilten Schutzumfang von EP-1 gehört. Wie wird die Einspruchsabteilung entscheiden, wenn vom Patentinhaber kein anderer Anspruchssatz eingereicht wird?",
+          "text_en" : "#linkwiki#Henri_Moissan|Henri Moissan#endlink# has developed a process for the production of pure fluorine. The device used in this process, as he has since discovered, is protected by a recently granted European patent EP-1. Moissan therefore wishes to object to EP-1. In his opposition brief, he justifies revocation of EP-1 on the grounds that the subject matter of claim 1 is unclear. He also argues that patenting such a device is morally unsupportable, since the generation of fluorine is essential to maintaining the health of many people. Furthermore, the invention was not unitary, and in particular, two subsidiary device claims were included. In addition, Figure 3 shows an object that is no longer covered by claim 1. Assuming that claim 1 is ambiguous, morally problematic, inconsistent, and that figure 3 is no longer within the granted scope of protection of EP-1, how will the opposition division decide if no other set of claims is filed by the patentee?",
+          "text_fr" : "#linkwiki#Henri_Moissan|Henri Moissan#endlink# a mis au point un procédé de production de fluor pur. Le dispositif utilisé dans ce procédé, comme il l'a découvert depuis, est protégé par un brevet européen EP-1 récemment délivré. Moissan souhaite donc faire opposition à EP-1. Dans son mémoire d'opposition, il justifie la révocation du EP-1 par le fait que l'objet de la revendication 1 n'est pas clair. Il fait également valoir que le brevetage d'un tel dispositif est moralement insupportable, la production de fluor étant essentielle au maintien de la santé de nombreuses personnes. En outre, l'invention n'est pas unitaire, et en particulier, deux revendications subsidiaires de dispositif ont été incluses. En outre, la figure 3 montre un objet qui n'est plus couvert par la revendication 1. En supposant que la revendication 1 est ambiguë, moralement problématique, incohérente, et que la figure 3 ne fait plus partie de l'étendue de la protection accordée par EP-1, comment la division d'opposition décidera-t-elle si aucun autre jeu de revendications n'est déposé par le breveté ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Mangelnde Neuheit.",
+              "text_en" : "Lack of novelty.",
+              "text_fr" : "Manque de nouveauté."
+            },
+            {
+              "text_de" : "Mangelnde Ausführbarkeit.",
+              "text_en" : "Lack of feasibility.",
+              "text_fr" : "Manque de faisabilité."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ausnahme von der Patentierbarkeit für biologische Verfahren zur Züchtung von Tieren.",
+              "text_en" : "Exception from patentability for biological processes for breeding animals.",
+              "text_fr" : "Exception à la brevetabilité des procédés biologiques d'élevage d'animaux."
+            },
+            {
+              "text_de" : "Mangelnde erfinderische Tätigkeit.",
+              "text_en" : "Lack of inventive step.",
+              "text_fr" : "Absence d'activité inventive."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkepc#ar100|Artikel 100 a) EPÜ#endlink# umfasst mehrere Einspruchsgründe. Rein biologische Merkmalen sind nicht-technisch, weswegen bei vorhandener Neuheit diese im Rahmen einer erfinderischen Tätigkeit behandelt werden. Sie werden dann als nicht erfinderisch beurteilt. Auch liegt ein Patentierungsauschluss gemäß #linkepc#ar53|Artikel 53 EPÜ#endlink# vor. Für andere Einspruchsgründe liefert der Sachverhalt keine Angaben.",
+          "explanation_en" : "#linkepc#ar100|Article 100(a) EPC#endlink# includes several grounds for opposition. Purely biological features are non-technical, which is why, if novelty is present, they are treated in the context of an inventive step. They are then judged to be non-inventive. There is also a patentability exclusion according to #linkepc#ar53|Article 53 EPC#endlink#. The facts of the case do not provide any information for other grounds of opposition.",
+          "explanation_fr" : "#linkepc#ar100|Article 100(a) CBE#endlink# comprend plusieurs motifs d'opposition. Les caractéristiques purement biologiques ne sont pas techniques, c'est pourquoi, si la nouveauté est présente, elles sont traitées dans le contexte d'une activité inventive. Elles sont alors jugées comme étant non inventives. Il existe également une exclusion de la brevetabilité selon #linkepc#ar53|Article 53 CBE#endlink#. Les faits de l'espèce ne fournissent pas d'informations pour d'autres motifs d'opposition.",
+          "id" : 139,
+          "id_old" : 91,
+          "normen" : "Artikel 100 a Technizität",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# hat gegen ein europäisches Patent von #linkwiki#Charles_Darwin|Charles Darwin#endlink# eingesprochen. Darwin möchte nun seinerseits Einspruch gegen ein europäisches Patent EP-1 einlegen, das Russel erteilt bekommen hat. Russels Patent ist auf ein Zuchtverfahren von Finken, einer Vogelart, gerichtet. Es zeigt rein biologische Schritte mit Ausnahme der Verwendung eines Brutkastens. Die Verwendung eines Brutkastens ist bekannt, die anderen Merkmale bis auf eines ebenfalls. Mit welchen Einspruchsgründen kann Darwin wirksam EP-1 angreifen? ",
+          "text_en" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# has objected to a European patent by #linkwiki#Charles_Darwin|Charles Darwin#endlink#. For his part, Darwin now wants to object to a European patent EP-1 that Wallace has been granted. Wallace's patent is directed to a breeding process for finches, a species of bird. It shows purely biological steps, except for the use of an incubator. The use of an incubator is known, and so are the other features, aside from one. On what grounds can Darwin effectively object to EP-1?",
+          "text_fr" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# a fait objection à un brevet européen de #linkwiki#Charles_Darwin|Charles Darwin#endlink#. De son côté, Darwin veut maintenant s'opposer à un brevet européen EP-1 que Wallace a obtenu. Le brevet de Wallace porte sur un procédé de reproduction des pinsons, une espèce d'oiseau. Il présente des étapes purement biologiques, à l'exception de l'utilisation d'un incubateur. L'utilisation d'un incubateur est connue, ainsi que les autres caractéristiques, à l'exception d'une seule. Sur quelles bases Darwin peut-il effectivement s'opposer à EP-1 ?"
         }
       ],
       "info_de" : "Einspruch, Einspruchsgründe, Prüfung des Einspruchs, Widerruf oder Aufrechterhaltung des europäischen Patents, Beschränkung oder Widerruf des europäischen Patents. ",
