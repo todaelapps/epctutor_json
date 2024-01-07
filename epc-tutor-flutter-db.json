@@ -6291,52 +6291,48 @@
         {
           "answers_false" : [
             {
-              "text_de" : "DE-3 läuft bis zum #deadline#0|+20YY|+1MM|+3DD#enddate#.",
-              "text_en" : "DE-3 runs until #deadline#0|+20YY|+1MM|+3DD#enddate#.",
-              "text_fr" : "DE-3 fonctionne jusqu'à #deadline#0|+20YY|+1MM|+3DD#enddate#."
+              "text_de" : "Der Zugang des Erteilungsbeschlusses.",
+              "text_en" : "The receipt of the decision to grant.",
+              "text_fr" : "La réception de la décision d'octroi."
             },
             {
-              "text_de" : "GB-2 läuft bis zum #deadline#0|+20YY|+2MM|+14DD#enddate#.",
-              "text_en" : "GB-2 runs until #deadline#0|+20YY|+2MM|+14DD#enddate#.",
-              "text_fr" : "GB-2 fonctionne jusqu'à #deadline#0|+20YY|+2MM|+14DD#enddate#."
+              "text_de" : "Die Bezahlung der Erteilungsgebühr.",
+              "text_en" : "The payment of the granting fee.",
+              "text_fr" : "Le paiement de la taxe d'octroi."
             },
             {
-              "text_de" : "GB-2 und DE-3 laufen bis zum #deadline#0|+20YY#enddate#",
-              "text_en" : "GB-2 and DE-3 run until #deadline#0|+20YY#enddate#",
-              "text_fr" : "GB-2 et DE-3 fonctionnent jusqu'à #deadline#0|+20YY#enddate#."
+              "text_de" : "Die Erfüllung aller Erteilungserfordernisse.",
+              "text_en" : "The fulfillment of all granting requirements.",
+              "text_fr" : "Le respect de toutes les conditions d'octroi."
             }
           ],
           "answers_true" : [
             {
-              "text_de" : "GB-2 und DE-3 laufen bis zum #beginning#0|+20YY#enddate#.",
-              "text_en" : "GB-2 and DE-3 run until #beginning#0|+20YY#enddate#.",
-              "text_fr" : "GB-2 et DE-3 fonctionnent jusqu'à #beginning#0|+20YY#enddate#."
+              "text_de" : "Die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt.",
+              "text_en" : "The publication of the mention of the grant of the European patent in the European Patent Bulletin.",
+              "text_fr" : "La publication de la mention de la délivrance du brevet européen dans le Bulletin européen des brevets."
             }
           ],
           "beginning" : [
-            "-4YY|-7DD",
-            "-4YY|-7DD",
-            "-4YY|-7DD"
+            "+30MM|-2DD"
           ],
           "date" : [
-            "MO"
+            "MO|-36MM"
           ],
           "deadline" : [
-            "+3YY|+2MM",
-            "+2YY|+1MM",
-            "+4YY|+3MM"
+            "+2MM"
           ],
           "difficulty" : "1",
-          "explanation_de" : "Die Laufzeit des europäischen Patents beträgt zwanzig Jahre, gerechnet vom Anmeldetag an, siehe #linkepc#ar63|Artikel 63 EPÜ#endlink#. Der Anmeldetag ist der #beginning#0#enddate# .",
-          "explanation_en" : "The term of the European patent is twenty years, calculated from the filing date, see #linkepc#ar63|Article 63 EPC#endlink#. The filing date is the #beginning#0#enddate# .",
-          "explanation_fr" : "La durée du brevet européen est de vingt ans, calculée à partir de la date de dépôt, voir #linkepc#ar63|Article 63 CBE#endlink#. La date de dépôt est la #beginning#0#enddate# .",
-          "id" : 114,
-          "id_old" : 356,
-          "normen" : "Artikel 63 Laufzeit",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Mary_Anderson_(Erfinderin)|Mary Anderson#endlink# hat am #beginning#0#enddate# wirksam eine europäische Patentanmeldung EP-1 auf einen Scheibenwischer eingereicht und am #deadline#0#enddate# wurde die Erteilung veröffentlicht. EP-1 wurde in Großbritannien und Deutschland validiert, in Großbritannien erfolgte die Antwort des Patentamts mit Nennung des Aktenzeichen des britischen Patentes GB-2 erst am #deadline#0|+2MM|+14DD#enddate#, während in Deutschland das DPMA bereits #deadline#0|+1MM|+3DD#enddate# antwortete und das Aktenzeichen des entsprechenden deutschen Patents DE-3 mitteilte. Bis wann laufen GB-2 und DE-3? ",
-          "text_en" : "#linkwiki#Mary_Anderson_(inventor)|Mary Anderson#endlink# effectively filed a European patent application EP-1 on a windshield wiper on #beginning#0#enddate#,of the grant was published whichon #deadline#0#enddate#. EP-1 was validated in the UK and Germany.  In the UK the response from the Patent Office mentioning the file number of the UK patent GB-2 was not received until #deadline#0|+2MM|+14DD#enddate#, while in Germany the DPMA already responded #deadline#0|+1MM|+3DD#enddate# and communicated the file number of the corresponding German patent DE-3. When do GB-2 and DE-3 expire exactly?",
-          "text_fr" : "#linkwiki#Mary_Anderson_(inventeur)|Mary Anderson#endlink# a effectivement déposé une demande de brevet européen EP-1 sur un essuie-glace le #beginning#0#enddate#,de la délivrance a été publiée qui le #deadline#0#enddate#. EP-1 a été validée au Royaume-Uni et en Allemagne.  Au Royaume-Uni, la réponse de l'Office des brevets mentionnant le numéro de dossier du brevet britannique GB-2 n'a été reçue qu'à la #deadline#0|+2MM|+14DD#enddate#, tandis qu'en Allemagne, l'Office allemand des brevets a déjà répondu à la #deadline#0|+1MM|+3DD#enddate# et a communiqué le numéro de dossier du brevet allemand correspondant DE-3. Quand les brevets GB-2 et DE-3 expirent-ils exactement ?"
+          "explanation_de" : "Gemäß #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# löst die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt die Einspruchsfrist aus.",
+          "explanation_en" : "According to #linkepc#ar99|Article 99 (1) EPC#endlink# the publication of the mention of the grant of the European patent in the European Patent Bulletin triggers the opposition period.",
+          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (1) CBE#endlink# la publication de la mention de la délivrance du brevet européen dans le Bulletin européen des brevets déclenche le délai d'opposition.",
+          "id" : 130,
+          "id_old" : 82,
+          "normen" : "Artikel 99 TM Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents ",
+          "startdate" : "MO|-36MM",
+          "text_de" : "#linkwiki#Jacobus_Henricus_van_’t_Hoff|Jacobus Henricus van ’t Hoff#endlink# verwendet für Versuche über den osmotischen Druck semipermeable Membranen von #linkwiki#Moritz_Traube|Moritz Traube#endlink#. ’t Hoff hat bei einem Besuch Traubes herausgefunden, dass Traube am #startdate##enddate# eine Patentanmeldung EP-1 eingereicht hat. Beim Lesen der Post seines Besuchers fand er einen Erteilungsbeschluss vom #beginning#0|-6MM|-10DD#enddate#. Auch hat er mitbekommen, dass Traube alle Anforderungen wie bspw. die Bezahlung der Erteilungsgebühr erfüllt hat. Der Hinweis auf die Veröffentlichung des europäischen Patentes EP-1 wurde daraufhin am #beginning#0#enddate# veröffentlicht. ’t Hoff möchte Traube einen Streich spielen und ihn durch das Einlegen eines Einspruchs ärgern. Welches Ereignis löste den Beginn der Einspruchsfrist aus?",
+          "text_en" : "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# uses semipermeable membranes from #linkwiki#Moritz_Traube|Moritz Traube#endlink# for experiments on osmotic pressure. while visiting Traube, 't Hofffound that Traube had filed a patent application EP-1 on #startdate##enddate#. Reading his visitor's mail, he also uncovered a grant decision dated #beginning#0|-6MM|-10DD#enddate#. and noticed that Traube had fulfilled all the requirements, such as paying the grant fee. The notice of publication of the European patent EP-1 was then published on #beginning#0#enddate#. 't Hoff is jealous of Traube and has decided to file an opposition. Which event therefore triggers the start of the opposition period?",
+          "text_fr" : "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# utilise des membranes semi-perméables de #linkwiki#Moritz_Traube|Moritz Traube#endlink# pour des expériences sur la pression osmotique. Lors d'une visite chez Traube, 't Hoff découvre que Traube a déposé une demande de brevet EP-1 le #startdate##enddate#. En lisant le courrier de son visiteur, il a également découvert une décision de subvention datée du #beginning#0|-6MM|-10DD#enddate#. et a constaté que Traube avait rempli toutes les conditions, comme le paiement de la taxe de subvention. L'avis de publication du brevet européen EP-1 a ensuite été publié le #beginning#0#enddate#. 't Hoff est jaloux de Traube et a décidé de former une opposition. Quel événement déclenche donc le début du délai d'opposition ?"
         },
         {
           "answers_false" : [
