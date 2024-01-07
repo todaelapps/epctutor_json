@@ -6291,110 +6291,6 @@
         {
           "answers_false" : [
             {
-              "text_de" : "Der Zugang des Erteilungsbeschlusses.",
-              "text_en" : "The receipt of the decision to grant.",
-              "text_fr" : "La réception de la décision d'octroi."
-            },
-            {
-              "text_de" : "Die Bezahlung der Erteilungsgebühr.",
-              "text_en" : "The payment of the granting fee.",
-              "text_fr" : "Le paiement de la taxe d'octroi."
-            },
-            {
-              "text_de" : "Die Erfüllung aller Erteilungserfordernisse.",
-              "text_en" : "The fulfillment of all granting requirements.",
-              "text_fr" : "Le respect de toutes les conditions d'octroi."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt.",
-              "text_en" : "The publication of the mention of the grant of the European patent in the European Patent Bulletin.",
-              "text_fr" : "La publication de la mention de la délivrance du brevet européen dans le Bulletin européen des brevets."
-            }
-          ],
-          "beginning" : [
-            "+30MM|-2DD"
-          ],
-          "date" : [
-            "MO|-36MM"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Gemäß #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# löst die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt die Einspruchsfrist aus.",
-          "explanation_en" : "According to #linkepc#ar99|Article 99 (1) EPC#endlink# the publication of the mention of the grant of the European patent in the European Patent Bulletin triggers the opposition period.",
-          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (1) CBE#endlink# la publication de la mention de la délivrance du brevet européen dans le Bulletin européen des brevets déclenche le délai d'opposition.",
-          "id" : 130,
-          "id_old" : 82,
-          "normen" : "Artikel 99 TM Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents ",
-          "startdate" : "MO|-36MM",
-          "text_de" : "#linkwiki#Jacobus_Henricus_van_’t_Hoff|Jacobus Henricus van ’t Hoff#endlink# verwendet für Versuche über den osmotischen Druck semipermeable Membranen von #linkwiki#Moritz_Traube|Moritz Traube#endlink#. ’t Hoff hat bei einem Besuch Traubes herausgefunden, dass Traube am #startdate##enddate# eine Patentanmeldung EP-1 eingereicht hat. Beim Lesen der Post seines Besuchers fand er einen Erteilungsbeschluss vom #beginning#0|-6MM|-10DD#enddate#. Auch hat er mitbekommen, dass Traube alle Anforderungen wie bspw. die Bezahlung der Erteilungsgebühr erfüllt hat. Der Hinweis auf die Veröffentlichung des europäischen Patentes EP-1 wurde daraufhin am #beginning#0#enddate# veröffentlicht. ’t Hoff möchte Traube einen Streich spielen und ihn durch das Einlegen eines Einspruchs ärgern. Welches Ereignis löste den Beginn der Einspruchsfrist aus?",
-          "text_en" : "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# uses semipermeable membranes from #linkwiki#Moritz_Traube|Moritz Traube#endlink# for experiments on osmotic pressure. while visiting Traube, 't Hofffound that Traube had filed a patent application EP-1 on #startdate##enddate#. Reading his visitor's mail, he also uncovered a grant decision dated #beginning#0|-6MM|-10DD#enddate#. and noticed that Traube had fulfilled all the requirements, such as paying the grant fee. The notice of publication of the European patent EP-1 was then published on #beginning#0#enddate#. 't Hoff is jealous of Traube and has decided to file an opposition. Which event therefore triggers the start of the opposition period?",
-          "text_fr" : "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# utilise des membranes semi-perméables de #linkwiki#Moritz_Traube|Moritz Traube#endlink# pour des expériences sur la pression osmotique. Lors d'une visite chez Traube, 't Hoff découvre que Traube a déposé une demande de brevet EP-1 le #startdate##enddate#. En lisant le courrier de son visiteur, il a également découvert une décision de subvention datée du #beginning#0|-6MM|-10DD#enddate#. et a constaté que Traube avait rempli toutes les conditions, comme le paiement de la taxe de subvention. L'avis de publication du brevet européen EP-1 a ensuite été publié le #beginning#0#enddate#. 't Hoff est jaloux de Traube et a décidé de former une opposition. Quel événement déclenche donc le début du délai d'opposition ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Ayrton muss eine Gebühr für die Bekanntmachung der Wirkung im Patentblatt bezahlen.",
-              "text_en" : "Ayrton must pay a fee for publication of the effect in the Patent Gazette.",
-              "text_fr" : "Ayrton doit payer une taxe pour la publication de l'effet dans la Gazette des brevets."
-            },
-            {
-              "text_de" : "Ayrton muss eine Validierungsgebühr bezahlen.",
-              "text_en" : "Ayrton must pay a validation fee.",
-              "text_fr" : "Ayrton doit payer une taxe de validation."
-            },
-            {
-              "text_de" : "Ayrton muss einen Inlandsvertreter bestellen.",
-              "text_en" : "Ayrton must appoint a domestic representative.",
-              "text_fr" : "Ayrton doit nommer un représentant national."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Keine.",
-              "text_en" : "None.",
-              "text_fr" : "Aucun."
-            }
-          ],
-          "beginning" : [
-            "-3YY|-18DD"
-          ],
-          "date" : [
-            ""
-          ],
-          "deadline" : [
-            "+3YY|+2DD"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Das europäische Patent gewährt gemäß #linkepc#ar64|Artikel 64 (1) EPÜ#endlink# seinem Inhaber ab dem Tag der Bekanntmachung des Hinweises auf seine Erteilung im Europäischen Patentblatt in jedem Vertragsstaat, für den es erteilt ist, dieselben Rechte, die ihm ein in diesem Staat erteiltes nationales Patent gewähren würde. In Deutschland ist weder eine Übersetzung einzureichen noch eine Gebühr zu entrichten. Eine Vertretung benötigt man nur als Nicht-EU-Bürger/Firma mit Sitz außerhalb der EU zur Zahlung der Jahresgebühren. Die Wirksamkeit der Erteilung von EP-1 für Deutschland hängt davon nicht ab. ",
-          "explanation_en" : "According to #linkepc#ar64|Article 64 (1) EPC#endlink#, the European patent grants to its proprietor, as from the date of publication of the mention of its grant in the European Patent Bulletin, in each Contracting State for which it is granted, the same rights as would be granted by a national patent granted in that State. In Germany, neither a translation has to be filed, nor a fee to be paid. Representation is only required for a non-EU citizen/company based abroad to pay the renewal fees. The effectiveness of the grant of EP-1 for Germany does not depend on this.",
-          "explanation_fr" : "Selon l'#linkepc#ar64|article 64 (1) CBE#endlink#, le brevet européen confère à son titulaire, à compter de la date de publication de la mention de sa délivrance au Bulletin européen des brevets, dans chaque État contractant pour lequel il est délivré, les mêmes droits que ceux qui seraient conférés par un brevet national délivré dans cet État. En Allemagne, il n'est pas nécessaire de déposer une traduction, ni de payer une taxe. La représentation n'est nécessaire que pour un citoyen/une entreprise non européenne basée à l'étranger pour payer les taxes de renouvellement. L'efficacité de l'octroi de l'EP-1 pour l'Allemagne ne dépend pas de cela.",
-          "id" : 115,
-          "id_old" : 357,
-          "normen" : "Artikel 64 Rechte aus dem Patent",
-          "startdate" : "",
-          "text_de" : "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# hat auf ein Gerät zur Teilung einer Linie in gleich lange Teile am #beginning#0#enddate# wirksam eine europäische Patentanmeldung EP-1 eingereicht. Es wurden alle Vertragsstaaten benannt. Nach der Mitteilung gemäß Regel 71 (3) EPÜ wurden Übersetzungen der Patentansprüche lediglich in Deutsch und Französisch eingereicht. Am #deadline#0#enddate# wurde die Erteilung veröffentlicht. Welche weiteren Schritte muss Ayrton unternehmen, damit EP-1 in Deustchland wirksam ist?",
-          "text_en" : "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# effectively filed a European patent application EP-1 on a device for dividing a line into parts of equal length on #beginning#0#enddate#. All Contracting States were designated. According to the communication under Rule 71(3) EPC, translations of the patent claims were filed only in German and French. On #deadline#0#enddate# the grant was published. What further steps must Ayrton take for EP-1 to be effective in Germany?",
-          "text_fr" : "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# a effectivement déposé une demande de brevet européen EP-1 portant sur un dispositif permettant de diviser une ligne en parties de longueur égale le #beginning#0#enddate#. Tous les États contractants ont été désignés. Selon la communication au titre de la règle 71(3) CBE, les traductions des revendications du brevet ont été déposées uniquement en allemand et en français. Le #deadline#0#enddate#, la délivrance a été publiée. Quelles démarches supplémentaires Ayrton doit-il entreprendre pour que le brevet EP-1 prenne effet en Allemagne ?"
-        }
-      ],
-      "info_de" : "Einspruch, Einspruchsgründe, Prüfung des Einspruchs, Widerruf oder Aufrechterhaltung des europäischen Patents, Beschränkung oder Widerruf des europäischen Patents.",
-      "info_en" : "Opposition, grounds for opposition, examination of opposition, revocation or maintenance of European patent, limitation or revocation of European patent.",
-      "info_fr" : "Opposition, motifs d'opposition, examen de l'opposition, révocation ou maintien du brevet européen, limitation ou révocation du brevet européen.",
-      "name_de" : "Einspruchs- und Beschränkungsverfahren",
-      "name_en" : "Opposition and restriction procedures",
-      "name_fr" : "Procédures d'opposition et de limitation",
-      "number" : 4,
-      "version" : 1
-    },
-    {
-      "cases" : [
-        {
-          "answers_false" : [
-            {
               "text_de" : "Die Beschwerdebegründung muss spätestens am #deadline#0#enddate# eingereicht werden.",
               "text_en" : "The statement of grounds of appeal must be filed no later than #deadline#0#enddate#.",
               "text_fr" : "L'exposé des motifs de l'appel doit être déposé au plus tard le #deadline#0#enddate#."
@@ -12628,7 +12524,7 @@
           "text_fr" : "#linkwiki#Pär_Lagerkvist|Pär Lagerkvist#endlink# est suédois et écrit de temps en temps des histoires avec des personnages bibliques. Il se rend donc en Israël pour apprendre à connaître le pays et ses habitants. Là-bas, il invente à côté et dépose une de ses inventions à l'Office israélien des brevets dans une demande de brevet IL-1 en hébreu. De retour en Suède, il veut maintenant déposer une demande de brevet européen EP-1 dans les délais, en revendiquant la priorité de IL-1. Laquelle des affirmations suivantes est correcte ?"
         }
       ],
-      "info_de" : "Sprachen in den Verfahren vor dem Europäischen Patentamt, sowie in der Kommunikation mit dem EPA.",
+      "info_de" : "Sprachen in den Verfahren vor dem Europäischen patentamt, sowie in der Kommunikation mit dem EPA.",
       "info_en" : "languages in proceedings before the European Patent Office, as well as in communication with the EPO.",
       "info_fr" : "langues dans les procédures devant l'Office européen des brevets, ainsi que dans la communication avec l'OEB.",
       "name_de" : "Sprachen",
