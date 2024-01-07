@@ -6291,515 +6291,756 @@
         {
           "answers_false" : [
             {
-              "text_de" : "Der Zugang des Erteilungsbeschlusses.",
-              "text_en" : "The receipt of the decision to grant.",
-              "text_fr" : "La réception de la décision d'octroi."
+              "text_de" : "DE-3 läuft bis zum #deadline#0|+20YY|+1MM|+3DD#enddate#.",
+              "text_en" : "DE-3 runs until #deadline#0|+20YY|+1MM|+3DD#enddate#.",
+              "text_fr" : "DE-3 fonctionne jusqu'à #deadline#0|+20YY|+1MM|+3DD#enddate#."
             },
             {
-              "text_de" : "Die Bezahlung der Erteilungsgebühr.",
-              "text_en" : "The payment of the granting fee.",
-              "text_fr" : "Le paiement de la taxe d'octroi."
+              "text_de" : "GB-2 läuft bis zum #deadline#0|+20YY|+2MM|+14DD#enddate#.",
+              "text_en" : "GB-2 runs until #deadline#0|+20YY|+2MM|+14DD#enddate#.",
+              "text_fr" : "GB-2 fonctionne jusqu'à #deadline#0|+20YY|+2MM|+14DD#enddate#."
             },
             {
-              "text_de" : "Die Erfüllung aller Erteilungserfordernisse.",
-              "text_en" : "The fulfillment of all granting requirements.",
-              "text_fr" : "Le respect de toutes les conditions d'octroi."
+              "text_de" : "GB-2 und DE-3 laufen bis zum #deadline#0|+20YY#enddate#",
+              "text_en" : "GB-2 and DE-3 run until #deadline#0|+20YY#enddate#",
+              "text_fr" : "GB-2 et DE-3 fonctionnent jusqu'à #deadline#0|+20YY#enddate#."
             }
           ],
           "answers_true" : [
             {
-              "text_de" : "Die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt.",
-              "text_en" : "The publication of the mention of the grant of the European patent in the European Patent Bulletin.",
-              "text_fr" : "La publication de la mention de la délivrance du brevet européen dans le Bulletin européen des brevets."
+              "text_de" : "GB-2 und DE-3 laufen bis zum #beginning#0|+20YY#enddate#.",
+              "text_en" : "GB-2 and DE-3 run until #beginning#0|+20YY#enddate#.",
+              "text_fr" : "GB-2 et DE-3 fonctionnent jusqu'à #beginning#0|+20YY#enddate#."
             }
           ],
           "beginning" : [
-            "+30MM|-2DD"
-          ],
-          "date" : [
-            "MO|-36MM"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Gemäß #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# löst die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt die Einspruchsfrist aus.",
-          "explanation_en" : "According to #linkepc#ar99|Article 99 (1) EPC#endlink# the publication of the mention of the grant of the European patent in the European Patent Bulletin triggers the opposition period.",
-          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (1) CBE#endlink# la publication de la mention de la délivrance du brevet européen dans le Bulletin européen des brevets déclenche le délai d'opposition.",
-          "id" : 130,
-          "id_old" : 82,
-          "normen" : "Artikel 99 TM Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents ",
-          "startdate" : "MO|-36MM",
-          "text_de" : "#linkwiki#Jacobus_Henricus_van_’t_Hoff|Jacobus Henricus van ’t Hoff#endlink# verwendet für Versuche über den osmotischen Druck semipermeable Membranen von #linkwiki#Moritz_Traube|Moritz Traube#endlink#. ’t Hoff hat bei einem Besuch Traubes herausgefunden, dass Traube am #startdate##enddate# eine Patentanmeldung EP-1 eingereicht hat. Beim Lesen der Post seines Besuchers fand er einen Erteilungsbeschluss vom #beginning#0|-6MM|-10DD#enddate#. Auch hat er mitbekommen, dass Traube alle Anforderungen wie bspw. die Bezahlung der Erteilungsgebühr erfüllt hat. Der Hinweis auf die Veröffentlichung des europäischen Patentes EP-1 wurde daraufhin am #beginning#0#enddate# veröffentlicht. ’t Hoff möchte Traube einen Streich spielen und ihn durch das Einlegen eines Einspruchs ärgern. Welches Ereignis löste den Beginn der Einspruchsfrist aus?",
-          "text_en" : "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# uses semipermeable membranes from #linkwiki#Moritz_Traube|Moritz Traube#endlink# for experiments on osmotic pressure. while visiting Traube, 't Hofffound that Traube had filed a patent application EP-1 on #startdate##enddate#. Reading his visitor's mail, he also uncovered a grant decision dated #beginning#0|-6MM|-10DD#enddate#. and noticed that Traube had fulfilled all the requirements, such as paying the grant fee. The notice of publication of the European patent EP-1 was then published on #beginning#0#enddate#. 't Hoff is jealous of Traube and has decided to file an opposition. Which event therefore triggers the start of the opposition period?",
-          "text_fr" : "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# utilise des membranes semi-perméables de #linkwiki#Moritz_Traube|Moritz Traube#endlink# pour des expériences sur la pression osmotique. Lors d'une visite chez Traube, 't Hoff découvre que Traube a déposé une demande de brevet EP-1 le #startdate##enddate#. En lisant le courrier de son visiteur, il a également découvert une décision de subvention datée du #beginning#0|-6MM|-10DD#enddate#. et a constaté que Traube avait rempli toutes les conditions, comme le paiement de la taxe de subvention. L'avis de publication du brevet européen EP-1 a ensuite été publié le #beginning#0#enddate#. 't Hoff est jaloux de Traube et a décidé de former une opposition. Quel événement déclenche donc le début du délai d'opposition ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Pierre Curie.",
-              "text_en" : "Pierre Curie.",
-              "text_fr" : "Pierre Curie."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Marie Curie.",
-              "text_en" : "Marie Curie.",
-              "text_fr" : "Marie Curie."
-            },
-            {
-              "text_de" : "Henri Becquerel.",
-              "text_en" : "Henri Becquerel.",
-              "text_fr" : "Henri Becquerel."
-            },
-            {
-              "text_de" : "Eugène Cariot.",
-              "text_en" : "Eugène Cariot.",
-              "text_fr" : "Eugène Cariot."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
+            "-4YY|-7DD",
+            "-4YY|-7DD",
+            "-4YY|-7DD"
           ],
           "date" : [
             "MO"
           ],
           "deadline" : [
-            "+2MM"
+            "+3YY|+2MM",
+            "+2YY|+1MM",
+            "+4YY|+3MM"
           ],
           "difficulty" : "1",
-          "explanation_de" : "Dem Wortlaut von #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# nach kann jedermann Einspruch gegen ein Patent einlegen. Als Ausnahme ist aber der Patentinhaber anzusehen. Dafür gibt es zwei Gründe. Einerseits ist das Einspruchsverfahren ein zweiseitiges Verfahren, bei dem nicht eine Partei beide Rollen übernehmen kann. Andererseits steht dem Patentinhaber daher exklusiv ein Beschränkungs- und Widerrufsverfahren zur Verfügung. Jedermann in #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# ist also jedermann außer dem Patentinhaber. ",
-          "explanation_en" : "According to the wording of #linkepc#ar99|Article 99 (1) EPC#endlink# anyone can file an opposition against a patent. However, the patentee is to be regarded as an exception. There are two reasons for this. On the one hand, the opposition procedure is a two-sided procedure in which one party cannot take both roles. On the other hand, the patent owner has exclusive access to limitation and revocation proceedings. Everyone in #linkepc#ar99|Article 99 (1) EPC#endlink# means everyone except the patentee.",
-          "explanation_fr" : "Selon le libellé de #linkepc#ar99|Article 99 (1) CBE#endlink#, toute personne peut former une opposition contre un brevet. Toutefois, le titulaire du brevet doit être considéré comme une exception. Il y a deux raisons à cela. D'une part, la procédure d'opposition est une procédure bilatérale dans laquelle une partie ne peut pas jouer les deux rôles. D'autre part, le titulaire du brevet a un accès exclusif aux procédures de limitation et de révocation. Tout le monde dans #linkepc#ar99|Article 99 (1) CBE#endlink# signifie tout le monde sauf le breveté.",
-          "id" : 131,
-          "id_old" : 83,
-          "normen" : "Artikel 99 TM jedermann ",
+          "explanation_de" : "Die Laufzeit des europäischen Patents beträgt zwanzig Jahre, gerechnet vom Anmeldetag an, siehe #linkepc#ar63|Artikel 63 EPÜ#endlink#. Der Anmeldetag ist der #beginning#0#enddate# .",
+          "explanation_en" : "The term of the European patent is twenty years, calculated from the filing date, see #linkepc#ar63|Article 63 EPC#endlink#. The filing date is the #beginning#0#enddate# .",
+          "explanation_fr" : "La durée du brevet européen est de vingt ans, calculée à partir de la date de dépôt, voir #linkepc#ar63|Article 63 CBE#endlink#. La date de dépôt est la #beginning#0#enddate# .",
+          "id" : 114,
+          "id_old" : 356,
+          "normen" : "Artikel 63 Laufzeit",
           "startdate" : "MO",
-          "text_de" : "#linkwiki#Marie_Curie|Marie Curie#endlink# hat einen Strahlenerzeuger entwickelt. Ihr Ehemann #linkwiki#Pierre_Curie|Pierre Curie#endlink# hat die Idee mit ihrer Zustimmung auf sich als europäische Patentanmeldung angemeldet, sie ist als Erfinderin genannt. Im Nachgang wurde dafür das europäische Patent EP-1 erteilt. Die Curies haben neuen Stand der Technik gefunden und meinen, dass der zugesprochene Schutz zu weitreichend ist. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# hat bei der Entwicklung mitgearbeitet und kennt den technischen Hintergrund. Zum patentierten Gegenstand hat er allerdings nicht beigetragen. Auch er meint, dass der erteilt Schutz zu weitreichend ist. Eugène Cariot ist ein Angestellter von Pierre Curie. Er mag generell keine Patente. Wer kann gegen EP-1 Einspruch einlegen?",
-          "text_en" : "#linkwiki#Marie_Curie|Marie Curie#endlink# developed a radiation generator. Her husband #linkwiki#Pierre_Curie|Pierre Curie#endlink#, took it upon himself to file her idea as a European patent application with her consent, naming her the inventor. Subsequently, the European patent EP-1 was granted for it. The Curies have found new prior art and feel that the protection awarded is too broad. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# has participated in the development and knows the technical background; however, he did not contribute to the patented subject matter. He also thinks that the protection granted is too far-reaching. Eugène Cariot is an employee of Pierre Curie. He does not like patents in general. Who can file an opposition against EP-1?",
-          "text_fr" : "#linkwiki#Marie_Curie|Marie Curie#endlink# a mis au point un générateur de rayonnement. Son mari, #linkwiki#Pierre_Curie|Pierre Curie#endlink#, a pris l'initiative de déposer son idée sous forme de demande de brevet européen avec son consentement, en la nommant inventrice. Par la suite, le brevet européen EP-1 lui a été accordé. Les Curie ont trouvé de nouvelles antériorités et estiment que la protection accordée est trop large. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# a participé au développement et connaît le contexte technique ; cependant, il n'a pas contribué à l'objet breveté. Il estime également que la protection accordée est trop étendue. Eugène Cariot est un employé de Pierre Curie. Il n'aime pas les brevets en général. Qui peut former une opposition contre EP-1 ?"
+          "text_de" : "#linkwiki#Mary_Anderson_(Erfinderin)|Mary Anderson#endlink# hat am #beginning#0#enddate# wirksam eine europäische Patentanmeldung EP-1 auf einen Scheibenwischer eingereicht und am #deadline#0#enddate# wurde die Erteilung veröffentlicht. EP-1 wurde in Großbritannien und Deutschland validiert, in Großbritannien erfolgte die Antwort des Patentamts mit Nennung des Aktenzeichen des britischen Patentes GB-2 erst am #deadline#0|+2MM|+14DD#enddate#, während in Deutschland das DPMA bereits #deadline#0|+1MM|+3DD#enddate# antwortete und das Aktenzeichen des entsprechenden deutschen Patents DE-3 mitteilte. Bis wann laufen GB-2 und DE-3? ",
+          "text_en" : "#linkwiki#Mary_Anderson_(inventor)|Mary Anderson#endlink# effectively filed a European patent application EP-1 on a windshield wiper on #beginning#0#enddate#,of the grant was published whichon #deadline#0#enddate#. EP-1 was validated in the UK and Germany.  In the UK the response from the Patent Office mentioning the file number of the UK patent GB-2 was not received until #deadline#0|+2MM|+14DD#enddate#, while in Germany the DPMA already responded #deadline#0|+1MM|+3DD#enddate# and communicated the file number of the corresponding German patent DE-3. When do GB-2 and DE-3 expire exactly?",
+          "text_fr" : "#linkwiki#Mary_Anderson_(inventeur)|Mary Anderson#endlink# a effectivement déposé une demande de brevet européen EP-1 sur un essuie-glace le #beginning#0#enddate#,de la délivrance a été publiée qui le #deadline#0#enddate#. EP-1 a été validée au Royaume-Uni et en Allemagne.  Au Royaume-Uni, la réponse de l'Office des brevets mentionnant le numéro de dossier du brevet britannique GB-2 n'a été reçue qu'à la #deadline#0|+2MM|+14DD#enddate#, tandis qu'en Allemagne, l'Office allemand des brevets a déjà répondu à la #deadline#0|+1MM|+3DD#enddate# et a communiqué le numéro de dossier du brevet allemand correspondant DE-3. Quand les brevets GB-2 et DE-3 expirent-ils exactement ?"
         },
         {
           "answers_false" : [
             {
-              "text_de" : "Am #deadline#0|-2MM#enddate#.",
-              "text_en" : "On #deadline#0|-2MM#enddate#.",
-              "text_fr" : "Le jour de la #deadline#0|-2MM#enddate#."
+              "text_de" : "Ayrton muss eine Gebühr für die Bekanntmachung der Wirkung im Patentblatt bezahlen.",
+              "text_en" : "Ayrton must pay a fee for publication of the effect in the Patent Gazette.",
+              "text_fr" : "Ayrton doit payer une taxe pour la publication de l'effet dans la Gazette des brevets."
             },
             {
-              "text_de" : "Am #deadline#0|-1MM#enddate#.",
-              "text_en" : "On #deadline#0|-1MM#enddate#.",
-              "text_fr" : "Le jour de la #deadline#0|-1MM#enddate#."
+              "text_de" : "Ayrton muss eine Validierungsgebühr bezahlen.",
+              "text_en" : "Ayrton must pay a validation fee.",
+              "text_fr" : "Ayrton doit payer une taxe de validation."
             },
             {
-              "text_de" : "Am #deadline#0|+1MM#enddate#.",
-              "text_en" : "On #deadline#0|+1MM#enddate#.",
-              "text_fr" : "Le jour de la #deadline#0|+1MM#enddate#."
+              "text_de" : "Ayrton muss einen Inlandsvertreter bestellen.",
+              "text_en" : "Ayrton must appoint a domestic representative.",
+              "text_fr" : "Ayrton doit nommer un représentant national."
             }
           ],
           "answers_true" : [
             {
-              "text_de" : "Am #deadline#0#enddate#.",
-              "text_en" : "On #deadline#0#enddate#.",
-              "text_fr" : "Le #deadline#0#enddate#."
+              "text_de" : "Keine.",
+              "text_en" : "None.",
+              "text_fr" : "Aucun."
             }
           ],
           "beginning" : [
-            "+1DD"
-          ],
-          "date" : [
-            "MO|-6MM|+12DD"
-          ],
-          "deadline" : [
-            "+9MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "Die Frist zur Einlegung eines Einspruchs endet gemäß #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# 9 Monate nach der Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents. ",
-          "explanation_en" : "According to #linkepc#ar99|Article 99 (1) EPC#endlink#, the period for filing an opposition ends 9 months after the publication of the mention of the grant of the European patent.",
-          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (1) CBE#endlink#, le délai pour former une opposition prend fin 9 mois après la publication de la mention de la délivrance du brevet européen.",
-          "id" : 132,
-          "id_old" : 84,
-          "normen" : "Artikel 99 TM Frist",
-          "startdate" : "MO|-6MM|+12DD",
-          "text_de" : "#linkwiki#Emil_Fischer|Emil Fischer#endlink# hat ein Verfahren zur Erzeugung von Zucker gefunden. Zu seinem Leidwesen recherchiert er ein Patent EP-1, dessen Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt am #beginning#0#enddate# erfolgte. Das von ihm angestrebte Verfahren fällt in den Schutzbereich von EP-1, weswegen er gerne Einspruch gegen EP-1 einlegen möchte. Wann endet die Einspruchsfrist? ",
-          "text_en" : "#linkwiki#Emil_Fischer|Emil Fischer#endlink# has found a process for producing sugar. To his chagrin, he researches a patent EP-1, whose publication of the reference to the grant of the European patent in the European Patent Bulletin took place on #beginning#0#enddate#. The process he is seeking falls within the scope of protection of EP-1, which is why he would like to file an opposition against EP-1. When does the opposition period end?",
-          "text_fr" : "#linkwiki#Emil_Fischer|Emil Fischer#endlink# a trouvé un procédé pour produire du sucre. À son grand dam, il fait des recherches sur un brevet EP-1, dont la publication de la référence à la délivrance du brevet européen dans le Bulletin européen des brevets a eu lieu le #beginning#0#enddate#. Le procédé qu'il recherche entre dans le champ de protection de EP-1, c'est pourquoi il souhaite former une opposition contre EP-1. Quand le délai d'opposition prend-il fin ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Bei einem der nationalen Patentämter eines Vertragsstaates.",
-              "text_en" : "At one of the national patent offices of a Contracting State.",
-              "text_fr" : "auprès de l'un des offices nationaux des brevets d'un État contractant."
-            },
-            {
-              "text_de" : "Bei jeder Zweigstelle des europäischen Patentamtes.",
-              "text_en" : "At any branch of the European Patent Office.",
-              "text_fr" : "Dans n'importe quelle agence de l'Office européen des brevets."
-            },
-            {
-              "text_de" : "Beim europäischen Patentamt in Brüssel.",
-              "text_en" : "At the European Patent Office in Brussels.",
-              "text_fr" : "A l'Office européen des brevets à Bruxelles."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Beim europäischen Patentamt in Berlin.",
-              "text_en" : "At the European Patent Office in Berlin.",
-              "text_fr" : "A l'Office européen des brevets à Berlin."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Die Möglichkeiten werden in der nächsten Aufgabe aufgelöst.",
-          "explanation_en" : "The possibilities will be resolved in the next task.",
-          "explanation_fr" : "Les possibilités seront résolues dans la tâche suivante.",
-          "id" : 133,
-          "id_old" : 85,
-          "normen" : "Artikel 99 TM EPA, Regel 2, ",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# ist hat ein Verfahren zum Lösen von Salzen in Wasser gefunden. Bei Recherchen stößt er auf ein europäisches Patent EP-1, das ein Verfahren zur Konservierung von Schmetterlingen schützt. Arrhenius möchte das Verfahren nutzen und daher Einspruch gegen EP-1 einlegen. Wo kann der Einspruch unter anderem wirksam eingelegt werden? ",
-          "text_en" : "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# has found a process for dissolving salts in water. While researching this, he comes across a European patent EP-1 that protects a process for preserving butterflies. Arrhenius wants to use this process and therefore files an opposition to EP-1. Where can the opposition be effectively filed, among other places?",
-          "text_fr" : "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# a trouvé un procédé pour dissoudre les sels dans l'eau. Au cours de ses recherches, il tombe sur un brevet européen EP-1 qui protège un procédé de conservation des papillons. Arrhenius veut utiliser ce procédé et forme donc une opposition à EP-1. Où l'opposition peut-elle être effectivement déposée, entre autres ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Ausschließlich beim europäischen Patentamt in München.",
-              "text_en" : "Exclusively at the European Patent Office in Munich.",
-              "text_fr" : "En exclusivité à l'Office européen des brevets à Munich."
-            },
-            {
-              "text_de" : "Beim europäischen Patentamt in Wien.",
-              "text_en" : "At the European Patent Office in Vienna.",
-              "text_fr" : "A l'Office européen des brevets à Vienne."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Beim europäischen Patentamt in München.",
-              "text_en" : "At the European Patent Office in Munich.",
-              "text_fr" : "A l'Office européen des brevets à Munich."
-            },
-            {
-              "text_de" : "Beim europäischen Patentamt in Den Haag.",
-              "text_en" : "At the European Patent Office in The Hague.",
-              "text_fr" : "A l'Office européen des brevets à La Haye."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "2",
-          "explanation_de" : "Der Einspruchsschriftssatz ist nach #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# beim europäischen Patentamt einzureichen.  #linkepc#r2|Regel 2 EPÜ#endlink# legt dabei i.V.m. dem Amtsblatt 2017, A11 als zulässige Stellen München (Isargebäude und Pschorrhöfe), Den Haag und Berlin fest.",
-          "explanation_en" : "The opposition brief shall be filed with the European Patent Office in accordance with #linkepc#ar99|Article 99 (1) EPC#endlink#.  #linkepc#r2|Rule 2 EPC#endlink# specifies, in conjunction with the Official Journal 2017, A11 as admissible locations Munich (Isar building and Pschorrhöfe), The Hague and Berlin.",
-          "explanation_fr" : "Le mémoire d'opposition est déposé auprès de l'Office européen des brevets conformément à #linkepc#ar99|Article 99 (1) CBE#endlink#.  #linkepc#r2|Règle 2 CBE#endlink# précise, en liaison avec le Journal officiel 2017, A11 comme lieux admissibles Munich (bâtiment Isar et Pschorrhöfe), La Haye et Berlin.",
-          "id" : 134,
-          "id_old" : 85,
-          "normen" : "Artikel 99 TM EPA, Regel 2, ",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#William_Jacob_Holland|William Jacob Holland#endlink# ist ein niederländischer Geistlicher und Naturwissenschaftler, der sich sehr für Schmetterlinge interessiert. Bei Recherchen stößt er auf ein europäisches Patent EP-1, das Verfahren zur Konservierung von Schmetterlingen schützt. Auch Holland möchte das Verfahren nutzen und daher Einspruch gegen EP-1 einlegen. Nach Berlin möchte er aber nicht fahren. Wo kann der Einspruch wirksam eingelegt werden? ",
-          "text_en" : "#linkwiki#William_Jacob_Holland|William Jacob Holland#endlink# is a Dutch clergyman and natural scientist who is very interested in butterflies. While doing research, he comes across a European patent EP-1 that protects processes for preserving butterflies. Holland would also like to use the process and would therefore like to file an opposition to EP-1. However, he does not want to go to Berlin. Where can the opposition be effectively filed?",
-          "text_fr" : "#linkwiki#William_Jacob_Holland|William Jacob Holland#endlink# est un ecclésiastique et un spécialiste des sciences naturelles néerlandais qui s'intéresse beaucoup aux papillons. En faisant des recherches, il tombe sur un brevet européen EP-1 qui protège des procédés de conservation des papillons. Holland aimerait également utiliser ce procédé et souhaite donc former une opposition à EP-1. Cependant, il ne veut pas se rendre à Berlin. Où l'opposition peut-elle être efficacement formée ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Wenn Ramsay die Einspruchsgebühr erst in einer Woche bezahlt wird ein Zuschlag von 50% fällig.",
-              "text_en" : "If Ramsay does not pay the appeal fee for another week, a 50% surcharge will be applied.",
-              "text_fr" : "Si Ramsay ne paie pas la taxe d'appel avant une semaine, une surtaxe de 50 % sera appliquée."
-            },
-            {
-              "text_de" : "Wenn Ramsay die Einspruchsgebühr nicht bezahlt, schickt das Europäische Patetamt eine Erinnerung. Er muss dann innerhalb einer vom Amt gesetzten Frist die Gebühr entrichten.",
-              "text_en" : "If Ramsay does not pay the opposition fee, the European Patent Office will send a reminder. He must then pay the fee within the time limit set by the Office.",
-              "text_fr" : "Si Ramsay ne paie pas la taxe d'opposition, l'Office européen des brevets lui envoie un rappel. Il doit alors payer la taxe dans le délai fixé par l'Office."
-            },
-            {
-              "text_de" : "Wenn Ramsay die Einspruchsgebühr nicht bezahlt, schickt das Europäische Patetamt eine Mitteilung, in der die Möglichkeit einer Weiterbehandlung gegeben wird. Er muss dann innerhalb von zwei Monaten die Einspruchsgebühr und die Weiterbehandlungsgebühr entrichten.",
-              "text_en" : "If Ramsay does not pay the opposition fee, the European Patents Office will send a notice, giving the option of further processing. He must then pay the opposition fee and the further treatment fee within two months.",
-              "text_fr" : "Si Ramsay ne paie pas la taxe d'opposition, l'Office européen des brevets lui enverra un avis lui donnant la possibilité de poursuivre le traitement. Il devra alors payer la taxe d'opposition et la taxe de poursuite du traitement dans un délai de deux mois."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Wenn die Einspruchsgebühr erst in einer Woche bezahlt wird, gilt der Einspruch als nicht eingelegt.",
-              "text_en" : "If the objection fee is paid by the end of next week, the objection will be considered not filed.",
-              "text_fr" : "Si la taxe d'opposition est payée avant la fin de la semaine prochaine, l'opposition sera considérée comme non déposée."
-            }
-          ],
-          "beginning" : [
-            "-9MM"
+            "-3YY|-18DD"
           ],
           "date" : [
             ""
           ],
           "deadline" : [
+            "+3YY|+2DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Das europäische Patent gewährt gemäß #linkepc#ar64|Artikel 64 (1) EPÜ#endlink# seinem Inhaber ab dem Tag der Bekanntmachung des Hinweises auf seine Erteilung im Europäischen Patentblatt in jedem Vertragsstaat, für den es erteilt ist, dieselben Rechte, die ihm ein in diesem Staat erteiltes nationales Patent gewähren würde. In Deutschland ist weder eine Übersetzung einzureichen noch eine Gebühr zu entrichten. Eine Vertretung benötigt man nur als Nicht-EU-Bürger/Firma mit Sitz außerhalb der EU zur Zahlung der Jahresgebühren. Die Wirksamkeit der Erteilung von EP-1 für Deutschland hängt davon nicht ab. ",
+          "explanation_en" : "According to #linkepc#ar64|Article 64 (1) EPC#endlink#, the European patent grants to its proprietor, as from the date of publication of the mention of its grant in the European Patent Bulletin, in each Contracting State for which it is granted, the same rights as would be granted by a national patent granted in that State. In Germany, neither a translation has to be filed, nor a fee to be paid. Representation is only required for a non-EU citizen/company based abroad to pay the renewal fees. The effectiveness of the grant of EP-1 for Germany does not depend on this.",
+          "explanation_fr" : "Selon l'#linkepc#ar64|article 64 (1) CBE#endlink#, le brevet européen confère à son titulaire, à compter de la date de publication de la mention de sa délivrance au Bulletin européen des brevets, dans chaque État contractant pour lequel il est délivré, les mêmes droits que ceux qui seraient conférés par un brevet national délivré dans cet État. En Allemagne, il n'est pas nécessaire de déposer une traduction, ni de payer une taxe. La représentation n'est nécessaire que pour un citoyen/une entreprise non européenne basée à l'étranger pour payer les taxes de renouvellement. L'efficacité de l'octroi de l'EP-1 pour l'Allemagne ne dépend pas de cela.",
+          "id" : 115,
+          "id_old" : 357,
+          "normen" : "Artikel 64 Rechte aus dem Patent",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# hat auf ein Gerät zur Teilung einer Linie in gleich lange Teile am #beginning#0#enddate# wirksam eine europäische Patentanmeldung EP-1 eingereicht. Es wurden alle Vertragsstaaten benannt. Nach der Mitteilung gemäß Regel 71 (3) EPÜ wurden Übersetzungen der Patentansprüche lediglich in Deutsch und Französisch eingereicht. Am #deadline#0#enddate# wurde die Erteilung veröffentlicht. Welche weiteren Schritte muss Ayrton unternehmen, damit EP-1 in Deustchland wirksam ist?",
+          "text_en" : "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# effectively filed a European patent application EP-1 on a device for dividing a line into parts of equal length on #beginning#0#enddate#. All Contracting States were designated. According to the communication under Rule 71(3) EPC, translations of the patent claims were filed only in German and French. On #deadline#0#enddate# the grant was published. What further steps must Ayrton take for EP-1 to be effective in Germany?",
+          "text_fr" : "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# a effectivement déposé une demande de brevet européen EP-1 portant sur un dispositif permettant de diviser une ligne en parties de longueur égale le #beginning#0#enddate#. Tous les États contractants ont été désignés. Selon la communication au titre de la règle 71(3) CBE, les traductions des revendications du brevet ont été déposées uniquement en allemand et en français. Le #deadline#0#enddate#, la délivrance a été publiée. Quelles démarches supplémentaires Ayrton doit-il entreprendre pour que le brevet EP-1 prenne effet en Allemagne ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Gleason muss eine Gebühr für die Bekanntmachung der Wirkung im Patentblatt bezahlen.",
+              "text_en" : "Gleason must pay a fee for publication of the effect in the Patent Gazette.",
+              "text_fr" : "Gleason doit payer une taxe pour la publication de l'effet dans la Gazette des brevets."
+            },
+            {
+              "text_de" : "Gleason muss eine Validierungsgebühr bezahlen.",
+              "text_en" : "Gleason must pay a validation fee.",
+              "text_fr" : "Gleason doit payer une taxe de validation."
+            },
+            {
+              "text_de" : "Gleason muss einen Inlandsvertreter bestellen.",
+              "text_en" : "Gleason must appoint a domestic representative.",
+              "text_fr" : "Gleason doit nommer un représentant national."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Gleason muss keine weiteren Schritte vornehmen. \n",
+              "text_en" : "Gleason does not need to take any further steps.",
+              "text_fr" : "Gleason n'a pas besoin de prendre d'autres mesures."
+            }
+          ],
+          "beginning" : [
+            "-3YY|-18DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+3YY|+2DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Das europäische Patent gewährt gemäß #linkepc#ar64|Artikel 64 (1) EPÜ#endlink# seinem Inhaber ab dem Tag der Bekanntmachung des Hinweises auf seine Erteilung im Europäischen Patentblatt in jedem Vertragsstaat, für den es erteilt ist, dieselben Rechte, die ihm ein in diesem Staat erteiltes nationales Patent gewähren würde. In Frankreich ist weder eine Übersetzung einzureichen noch eine Gebühr zu entrichten. Eine Vertretung benötigt man nur als Nicht-EU-Bürger/Firma mit Sitz außerhalb der EU zur Zahlung der Jahresgebühren. Die Wirksamkeit der Erteilung von EP-1 für Frankreich hängt davon nicht ab. ",
+          "explanation_en" : "According to #linkepc#ar64|Article 64 (1) EPC#endlink#, the European patent grants to its proprietor, as from the date of publication of the mention of its grant in the European Patent Bulletin, in each Contracting State for which it is granted, the same rights as would be granted by a national patent granted in that State. In France, neither a translation is required to be filed, nor a fee to be paid. Representation is only required for a non-EU citizen/company based abroad to pay the renewal fees. The effectiveness of the grant of EP-1 for France does not depend on this.",
+          "explanation_fr" : "Selon l'#linkepc#ar64|article 64 (1) CBE#endlink#, le brevet européen confère à son titulaire, à compter de la date de publication de la mention de sa délivrance au Bulletin européen des brevets, dans chaque État contractant pour lequel il est délivré, les mêmes droits que ceux qui seraient conférés par un brevet national délivré dans cet État. En France, il n'est pas nécessaire de déposer une traduction, ni de payer une taxe. La représentation n'est requise que pour un citoyen/une entreprise non européenne basée à l'étranger pour payer les taxes de renouvellement. L'efficacité de l'octroi de l'EP-1 pour la France ne dépend pas de cela.",
+          "id" : 116,
+          "id_old" : 358,
+          "normen" : "Artikel 64 Rechte aus dem Patent",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Kate_Gleason|Kate Gleason#endlink# hat ein Fertighaus entwickelt, das sich besonders einfach aufbauen lässt. Darauf hat sie eine europäische Patentanmeldung EP-1 eingereicht und ein Patent erteilt bekommen. Es wurden alle Vertragsstaaten benannt. Nach der Mitteilung gemäß Regel 71 (3) EPÜ wurden Übersetzungen der Patentansprüche in den beiden anderen Amtssprachen als der Verfahrenssprache eingereicht. Am #deadline#0#enddate# wurde die Erteilung veröffentlicht. Welche weiteren Schritte muss Ayrton unternehmen, damit EP-1 in Frankreich wirksam ist?",
+          "text_en" : "#linkwiki#Kate_Gleason|Kate Gleason#endlink# has developed a prefabricated house that is particularly easy to assemble. She filed a European patent application EP-1 on this and was granted a patent. All Contracting States were designated. After notification under Rule 71(3) EPC, translations of the patent claims were filed in two official languages other than the language of the proceedings. On #deadline#0#enddate# the grant was published. What further steps must Ayrton take for EP-1 to be effective in France?",
+          "text_fr" : "#linkwiki#Kate_Gleason|Kate Gleason#endlink# a développé une maison préfabriquée particulièrement facile à assembler. Elle a déposé une demande de brevet européen EP-1 à ce sujet et a obtenu un brevet. Tous les États contractants ont été désignés. Après notification en vertu de la règle 71(3) CBE, des traductions des revendications du brevet ont été déposées dans deux langues officielles autres que la langue de la procédure. A la #deadline#0#enddate# la délivrance a été publiée. Quelles démarches supplémentaires Ayrton doit-elle entreprendre pour que le brevet EP-1 produise ses effets en France ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Deutschland, Frankreich, Großbritannien und Italien.",
+              "text_en" : "Germany, France, Great Britain and Italy.",
+              "text_fr" : "Allemagne, France, Grande-Bretagne et Italie."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Deutschland, Lichetenstein, Luxemburg und Schweiz.",
+              "text_en" : "Germany, Lichetenstein, Luxembourg and Switzerland.",
+              "text_fr" : "Allemagne, Lichetenstein, Luxembourg et Suisse."
+            },
+            {
+              "text_de" : "Großbritannien und Irland.",
+              "text_en" : "Great Britain and Ireland.",
+              "text_fr" : "Grande-Bretagne et Irlande."
+            },
+            {
+              "text_de" : "Frankreich, Luxemburg und Monaco.",
+              "text_en" : "France, Luxembourg and Monaco.",
+              "text_fr" : "France, Luxembourg et Monaco."
+            }
+          ],
+          "beginning" : [
+            "-3YY|-18DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+3YY|+2DD"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Zur Vereinfachung der Übersetzungserfordernisse regelt das Londoner Übereinkommen, dass Vertragsstaaten des Londoner Übereinkommens, die eine der Amssprachen des Europäischen Patentamtes als Amtssprache haben, keine Übersetzungen verlangen. Diese Länder sind:  Deutschland, Lichetenstein, Luxemburg und Schweiz (mit Deutsch als Amtssprache), Großbritannien und Irland (mit Englisch als Amtssprache sowie Frankreich, Luxemburg und Monaco (mit Französisch als Amtssprache). Italien ist nicht dem Londoner Übereinkommen beigetreten.",
+          "explanation_en" : "To simplify translation requirements, the London Agreement validates that undertaking Contracting States with one of the official languages recognized by and in common with the European Patent Office do not require translations. These countries include:  Germany, Lichtenstein, Luxembourg and Switzerland (with German as an official language), the United Kingdom and Ireland (with English as an official language, and France, Luxembourg and Monaco (with French as an official language). Italy is not a party to the London Agreement.",
+          "explanation_fr" : "Pour simplifier les exigences en matière de traduction, l'accord de Londres valide le fait que les États contractants entreprenants ayant une des langues officielles reconnues par et en commun avec l'Office européen des brevets n'exigent pas de traductions. Ces pays comprennent :  L'Allemagne, le Lichtenstein, le Luxembourg et la Suisse (avec l'allemand comme langue officielle), le Royaume-Uni et l'Irlande (avec l'anglais comme langue officielle, et la France, le Luxembourg et Monaco (avec le français comme langue officielle). L'Italie n'est pas partie à l'accord de Londres.",
+          "id" : 117,
+          "id_old" : 359,
+          "normen" : "Artikel 64 Rechte aus dem Patent",
+          "startdate" : "",
+          "text_de" : "In welchen Ländern sind keine Übersetzungen nach dem Londoner Übereinkommen erforderlich?",
+          "text_en" : "In which countries are translations not required under the London Agreement?",
+          "text_fr" : "Dans quels pays l'Accord de Londres n'exige-t-il pas de traductions ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Deutschland, Frankreich, Großbritannien und Italien.",
+              "text_en" : "Germany, France, Great Britain and Italy.",
+              "text_fr" : "Allemagne, France, Grande-Bretagne et Italie."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ungarn, Island, die Niederlande und Slowenien.",
+              "text_en" : "Hungary, Iceland, the Netherlands and Slovenia.",
+              "text_fr" : "Hongrie, Islande, Pays-Bas et Slovénie."
+            },
+            {
+              "text_de" : "Lettland, Litauen, Nordmazedonien und Kroatien.",
+              "text_en" : "Latvia, Lithuania, Northern Macedonia and Croatia.",
+              "text_fr" : "Lettonie, Lituanie, Macédoine du Nord et Croatie."
+            },
+            {
+              "text_de" : "Dänemark, Finnland, Norwegen und Schweden.",
+              "text_en" : "Denmark, Finland, Norway and Sweden.",
+              "text_fr" : "Danemark, Finlande, Norvège et Suède."
+            }
+          ],
+          "beginning" : [
+            "-3YY|-18DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+3YY|+2DD"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Zur Vereinfachung der Übersetzungserfordernisse regelt das Londoner Übereinkommen, dass Vertragsstaaten des Londoner Übereinkommens, die keine der Amtssprachen des Europäischen Patentamtes als Amtssprache haben, nur eingeschränkte Übersetzungen verlangen. Diese Länder sind:  Deutschland, Großbritannien und Frankreich verlangen keine Übersetzung. Italien ist nicht dem Londoner Übereinkommen beigetreten. In den Ländern Island, Kroatien, Ungarn, Dänemark, Finnland, Norwegen und Schweden sind die Ansprüche in die jeweilige Landessprache zu übersetzen. Die Beschreibung muss in Englisch oder der Landessprache vorliegen. In Slowenien, Lettland, Litauen und Nordmazedonien reicht es sogar, nur Ansprüche zu übersetzen.",
+          "explanation_en" : "In order to simplify translation requirements, the London Agreement states that Contracting States with official languages not recognized by or in common with the European Patent Office as an official language shall require only limited translations. Therefore, Contracting States where German, English or French are not officially recognized require translation.  Italy is not a party to the London Agreement. In Iceland, Croatia, Hungary, Denmark, Finland, Norway and Sweden, the claims must be translated into the respective national language. The description must be in English or the national language. In Slovenia, Latvia, Lithuania and Northern Macedonia it is even sufficient to translate only claims.",
+          "explanation_fr" : "Afin de simplifier les exigences en matière de traduction, l'accord de Londres stipule que les États contractants dont les langues officielles ne sont pas reconnues par l'Office européen des brevets ou en commun avec lui comme une langue officielle n'exigent que des traductions limitées. Par conséquent, les États contractants où l'allemand, l'anglais ou le français ne sont pas officiellement reconnus exigent une traduction.  L'Italie n'est pas partie à l'accord de Londres. En Islande, Croatie, Hongrie, Danemark, Finlande, Norvège et Suède, les revendications doivent être traduites dans la langue nationale respective. La description doit être en anglais ou dans la langue nationale. En Slovénie, Lettonie, Lituanie et Macédoine du Nord, il suffit même de traduire uniquement les revendications.",
+          "id" : 118,
+          "id_old" : 360,
+          "normen" : "Artikel 65 Londoner Übereinkommen keine Amtssprache",
+          "startdate" : "",
+          "text_de" : "In welchen Ländern sind Übersetzungen nach dem Londoner Übereinkommen erforderlich?",
+          "text_en" : "In which countries are translations required under the London Agreement?",
+          "text_fr" : "Dans quels pays les traductions sont-elles exigées en vertu de la Convention de Londres ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Zypern, Slowakei, Slowenien und Tschechische Republik.",
+              "text_en" : "Cyprus, Slovakia, Slovenia and Czech Republic.",
+              "text_fr" : "Chypre, la Slovaquie, la Slovénie et la République tchèque."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Portugal, Rumänien, Serbien und Türkei.",
+              "text_en" : "Portugal, Romania, Serbia and Turkey.",
+              "text_fr" : "Portugal, Roumanie, Serbie et Turquie."
+            },
+            {
+              "text_de" : "Bulgarien, Estland, Griechenland und Malta.",
+              "text_en" : "Bulgaria, Estonia, Greece and Malta.",
+              "text_fr" : "Bulgarie, Estonie, Grèce et Malte."
+            },
+            {
+              "text_de" : "Italien, Spanien, Österreich und Polen.",
+              "text_en" : "Italy, Spain, Austria and Poland.",
+              "text_fr" : "Italie, Espagne, Autriche et Pologne."
+            }
+          ],
+          "beginning" : [
+            "-3YY|-18DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+3YY|+2DD"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Dem Londoner Übereinkommen sind folgende Vertragsstaaten bisher nicht beigetreten: Bulgarien, Estland, Griechenland, Italien, Malta, Österreich, Polen, Portugal, Rumänien, San Marino, Serbien, Slowakei, Spanien, Tschechische Republik, Türkei und Zypern. Slowenien ist bereits 2008 beigetreten.",
+          "explanation_en" : "The following Contracting States have not yet acceded to the London Convention: Austria, Bulgaria, Cyprus, Czech Republic, Estonia, Greece, Italy, Malta, Poland, Portugal, Romania, San Marino, Serbia, Slovakia and Spain. Slovenia acceded back in 2008.",
+          "explanation_fr" : "Les États contractants suivants n'ont pas encore adhéré à la Convention de Londres : Autriche, Bulgarie, Chypre, République tchèque, Estonie, Grèce, Italie, Malte, Pologne, Portugal, Roumanie, Saint-Marin, Serbie, Slovaquie et Espagne. La Slovénie a adhéré en 2008.",
+          "id" : 119,
+          "id_old" : 361,
+          "normen" : "Artikel 65 Londoner Übereinkommen nicht beigetreten",
+          "startdate" : "",
+          "text_de" : "Welche Vertragsstaaten sind dem Londoner Übereinkommen bisher nicht beigetreten?",
+          "text_en" : "Which signatory states have not yet acceded to the London Agreement?",
+          "text_fr" : "Quels sont les Etats signataires qui n'ont pas encore adhéré à la Convention de Londres ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Da in Österreich Deutsch Amtssprache ist und damit eine der drei Amtssprachen des Europäischen Patentamtes muss Guppy keine Übersetzung einreichen.",
+              "text_en" : "Since German is an official language in Austria, and thus one of the three official languages of the European Patent Office, Guppy would not have to file a translation.",
+              "text_fr" : "L'allemand étant une langue officielle en Autriche, et donc l'une des trois langues officielles de l'Office européen des brevets, Guppy n'aurait pas à déposer une traduction."
+            },
+            {
+              "text_de" : "Guppy muss auf jeden Fall in Österreich eine Übersetzung in Deutsch einreichen. ",
+              "text_en" : "Guppy must in any case submit a translation in German in Austria.",
+              "text_fr" : "Guppy doit en tout cas présenter une traduction en allemand en Autriche."
+            },
+            {
+              "text_de" : "Wenn Englisch Verfahrenssprache von EP-1 war muss Guppy keine Übersetzung einreichen.",
+              "text_en" : "If English was the language of EP-1, Guppy would not need to submit a translation.",
+              "text_fr" : "Si l'anglais était la langue d'EP-1, Guppy n'aurait pas besoin de soumettre une traduction."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Wenn Deutsch Verfahrenssprache von EP-1 war muss Guppy keine Übersetzung einreichen.",
+              "text_en" : "If German was the language of EP-1, Guppy would not need to submit a translation.",
+              "text_fr" : "Si l'allemand était la langue de l'EP-1, Guppy n'aurait pas besoin de soumettre une traduction."
+            }
+          ],
+          "beginning" : [
+            "-3YY|-18DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+3YY|+2DD"
+          ],
+          "difficulty" : "2",
+          "explanation_de" : "Österreich ist nicht dem Londoner Übereinkommen beigetreten. Es ist daher grundsätzlich unerheblich, welche Sprache Amtssprache ist.   Eine Übersetzung ins Deutsche wird verlangt, siehe Nationales Recht zum EPÜ. Allerdings benötigt es natürlich keine Übersetzung, wenn Deutsch Verfahrenssprache war. Dann liegen sowohl die Beschreibung als auch die Patentansprüche auf Deutsch vor.",
+          "explanation_en" : "Austria is not a party to the London Agreement. Therefore, it is basically irrelevant which language is the official language.   A translation into German is required, see National Law to the EPC. However, no translation would be required if German was the language of the proceedings and both the description and the patent claims are done in German.",
+          "explanation_fr" : "L'Autriche n'est pas partie à l'accord de Londres. Par conséquent, la langue officielle n'a pas d'importance.   Une traduction en allemand est requise, voir la loi nationale de la CBE. Cependant, aucune traduction ne serait nécessaire si l'allemand était la langue de la procédure et si la description et les revendications du brevet étaient rédigées en allemand.",
+          "id" : 120,
+          "id_old" : 362,
+          "normen" : "Artikel 64 Rechte aus dem Patent",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Sarah_Guppy|Sarah Guppy#endlink# hat auf eine Pfahl-Verankerung für Hängebrücken erfunden und darauf ein europäisches Patent EP-1 erteilt bekommen. Sie denkt, dass ein Schutz in Österreich sinnvoll wäre, scheut aber mögliche Übersetzungskosten. Wie ist die Rechtslage?",
+          "text_en" : "#linkwiki#Sarah_Guppy|Sarah Guppy#endlink# has invented a pile anchorage for suspension bridges and has been granted a European patent EP-1 on it. She thinks protection in Austria would be useful, but is afraid of possible translation costs. What is the legal situation?",
+          "text_fr" : "#linkwiki#Sarah_Guppy|Sarah Guppy#endlink# a inventé un ancrage de pieux pour les ponts suspendus et a obtenu un brevet européen EP-1 pour celui-ci. Elle pense qu'une protection en Autriche serait utile, mais craint d'éventuels frais de traduction. Quelle est la situation juridique ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Deutschland, Österreich, Liechtenstein und Luxemburg",
+              "text_en" : "Germany, Austria, Liechtenstein and Luxembourg",
+              "text_fr" : "Allemagne, Autriche, Liechtenstein et Luxembourg"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Lettland, Litauen, Nordmazedonien und Slowenien.",
+              "text_en" : "Latvia, Lithuania, Northern Macedonia and Slovenia.",
+              "text_fr" : "Lettonie, Lituanie, Macédoine du Nord et Slovénie."
+            },
+            {
+              "text_de" : "Niederlande, Norwegen, Schweden und Ungarn",
+              "text_en" : "Netherlands, Norway, Sweden, Hungary",
+              "text_fr" : "Pays-Bas, Norvège, Suède, Hongrie"
+            },
+            {
+              "text_de" : "Dänemark, Island, Finnland und Kroatien",
+              "text_en" : "Denmark, Iceland, Finland, Croatia",
+              "text_fr" : "Danemark, Islande, Finlande, Croatie"
+            }
+          ],
+          "beginning" : [
+            "-4YY|-29DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+4YY|+15DD"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Nach dem Londoner Übereinkommen machen Lettland, Litauen, Nordmazedonien und Slowenien keine Vorgaben hinsichtlich der Sprache. Dänemark, Island, Finnland, Kroatien, Niederlande, Norwegen, Schweden und Ungarn geben bezüglich der Beschreibung Englisch vor, akzeptieren aber auch die Landessprache. Hier müssen also lediglich jeweils die Ansprüche in die Landessprache übersetzt werden. Österreich verlangt dagegen eine Übersetzung der Beschreibung ins Deutsche, womit die Kosten im Verhältnis höher ansteigen.",
+          "explanation_en" : "According to the London Agreement, Latvia, Lithuania, Northern Macedonia and Slovenia do not specify the language. Denmark, Iceland, Finland, Croatia, the Netherlands, Norway, Sweden and Hungary specify English with regard to the description, but also accept the national language. Here only do claims have to be translated into the national language. Austria, on the other hand, requires a translation of the description into German, which raises the costs proportionally higher.",
+          "explanation_fr" : "Selon l'accord de Londres, la Lettonie, la Lituanie, la Macédoine du Nord et la Slovénie ne précisent pas la langue. Le Danemark, l'Islande, la Finlande, la Croatie, les Pays-Bas, la Norvège, la Suède et la Hongrie précisent l'anglais en ce qui concerne la description, mais acceptent également la langue nationale. Ici seulement, les demandes doivent être traduites dans la langue nationale. L'Autriche, par contre, exige une traduction de la description en allemand, ce qui augmente proportionnellement les coûts.",
+          "id" : 121,
+          "id_old" : 363,
+          "normen" : "Artikel 65 Londoner Übereinkommen Beschreibung auf Englisch",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Emily_Warren_Roebling|Emily Warren Roebling#endlink# hat die Brooklyn Bridge fertig entwickelt und auf eine bestimmte Verbindung von Metallteilen wirksam eine europäische Patentanmeldung EP-1 mit der Verfahrenssprache Englisch eingereicht. Es wurden alle Vertragsstaaten benannt. Der Erteilungsbeschluss wurde erlassen. Roebling möchte nunmehr in möglichst vielen Ländern EP-1 wirksam werden lassen, ohne für Übersetzungen allzuviel Geld auszugeben. Welche Staaten bieten sich an?",
+          "text_en" : "#linkwiki#Emily_Warren_Roebling|Emily Warren Roebling#endlink# has finished the Brooklyn Bridge using a particular connection of metal parts developed for this construction. The metal parts effectively filed a European patent application EP-1 with the process language English. All Contracting States were designated. The decision to grant has been issued. Roebling now wants to make EP-1 effective in as many countries as possible without spending too much money on translations. Which countries are suitable?",
+          "text_fr" : "#linkwiki#Emily_Warren_Roebling|Emily Warren Roebling#endlink# a terminé le pont de Brooklyn en utilisant un assemblage particulier de pièces métalliques développées pour cette construction. Les pièces métalliques ont effectivement déposé une demande de brevet européen EP-1 avec la langue du procédé en anglais. Tous les États contractants ont été désignés. La décision de délivrance a été rendue. Roebling veut maintenant rendre EP-1 effectif dans le plus grand nombre de pays possible sans dépenser trop d'argent pour les traductions. Quels sont les pays qui conviennent ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Zamfirescu hat das Recht ab dem #beginning#0#enddate#.",
+              "text_en" : "Zamfirescu has the right from #beginning#0#enddate#.",
+              "text_fr" : "Zamfirescu a le droit de #beginning#0#enddate#."
+            },
+            {
+              "text_de" : "Zamfirescu hat das Recht ab dem #deadline#0|-3MM|-5DD#enddate#.",
+              "text_en" : "Zamfirescu has the right from the #deadline#0|-3MM|-5DD#enddate#.",
+              "text_fr" : "Zamfirescu a le droit à partir du #deadline#0|-3MM|-5DD#enddate#."
+            },
+            {
+              "text_de" : "Zamfirescu hat das Recht ab dem #deadline#0|-1MM#enddate#.",
+              "text_en" : "Zamfirescu has the right from the #deadline#0|-1MM#enddate#.",
+              "text_fr" : "Zamfirescu a le droit à partir du #deadline#0|-1MM#enddate#."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Zamfirescu hat das Recht ab dem #deadline#0#enddate#.",
+              "text_en" : "Zamfirescu has the right from the #deadline#0#enddate#.",
+              "text_fr" : "Zamfirescu a le droit à partir du #deadline#0#enddate#."
+            }
+          ],
+          "beginning" : [
+            "-4YY|-29DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+4YY|+15DD"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Das europäische Patent gewährt gemäß #linkepc#ar64|Artikel 64 (1) EPÜ#endlink# seinem Inhaber ab dem Tag der Bekanntmachung des Hinweises auf seine Erteilung im Europäischen Patentblatt in jedem Vertragsstaat, für den es erteilt ist, dieselben Rechte, die ihm ein in diesem Staat erteiltes nationales Patent gewähren würde. ",
+          "explanation_en" : "Pursuant to #linkepc#ar64|Article 64 (1) EPC#endlink#, the European patent shall confer on its proprietor, as from the date of publication of the mention of its grant in the European Patent Bulletin, in each Contracting State for which it is granted, the same rights as would be conferred by a national patent granted in that State.",
+          "explanation_fr" : "Conformément à l'article 64 (1) CBE#endlink#, le brevet européen confère à son titulaire, à compter de la date de publication de la mention de sa délivrance au Bulletin européen des brevets, dans chaque État contractant pour lequel il est délivré, les mêmes droits que ceux qui seraient conférés par un brevet national délivré dans cet État.",
+          "id" : 122,
+          "id_old" : 364,
+          "normen" : "Artikel 64 (1) Rechte aus dem Patent",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# hat auf einen Bagger zum Abbau von Bodenschätzen am #beginning#0#enddate# wirksam eine europäische Patentanmeldung EP-1 eingereicht. Es wurden alle Vertragsstaaten benannt. Am #deadline#0|-3MM|-5DD#enddate# wurde eine Mitteilung nach Regel 71 (3) EPÜ versendet, am #deadline#0|-1MM#enddate# der Erteilungsbeschluss erlassen und am #deadline#0#enddate# die Erteilung veröffentlicht. Ab wann hat Zamfirescu das Recht, aus EP-1 Ansprüche geltend zu machen, wie es ein in dem betreffenden Staat erteiltes nationales Patent erlauben würde?",
+          "text_en" : "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# effectively filed a European patent application EP-1 on an excavator for mining mineral resources on #beginning#0#enddate#. All Contracting States were designated. On #deadline#0|-3MM|-5DD#enddate# a communication under Rule 71 (3) EPC was sent; on #deadline#0|-1MM#enddate# the grant decision was issued; and lastly, on #deadline#0#enddate# the grant was published. When exactly does Zamfirescu have the right to assert claims from EP-1 as would be allowed by a national patent granted in the relevant state?",
+          "text_fr" : "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# a effectivement déposé une demande de brevet européen EP-1 sur une excavatrice pour l'exploitation de ressources minérales le #beginning#0#enddate#. Tous les États contractants ont été désignés. Le #deadline#0|-3MM|-5DD#enddate#, une communication au titre de la règle 71 (3) CBE a été envoyée ; le #deadline#0|-1MM#enddate#, la décision de délivrance a été rendue ; et enfin, le #deadline#0#enddate#, la délivrance a été publiée. Quand exactement Zamfirescu a-t-il le droit de faire valoir des revendications de EP-1 qui seraient autorisées par un brevet national délivré dans l'État concerné ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Blanchard muss das Patent in Frankreich erstrecken.",
+              "text_en" : "Blanchard must extend the patent in France.",
+              "text_fr" : "Blanchard doit étendre le brevet en France."
+            },
+            {
+              "text_de" : "Blanchard muss EP-1 in Frankreich validieren.",
+              "text_en" : "Blanchard needs to validate EP-1 in France.",
+              "text_fr" : "Blanchard doit valider EP-1 en France."
+            },
+            {
+              "text_de" : "Blanchard muss ausgehend von EP-1 eine Teilanmeldung EP-2 einreichen, in der auch mit dem Verfahren hergestellte Bekleidung geschützt ist und EP-2 zur Erteilung bringen. Dann kann sie EP-2 auch in Franreich einsetzen.",
+              "text_en" : "Blanchard must file a divisional application EP-2 based on EP-1, which also protects garments made with the process, and get EP-2 granted. Then she can also use EP-2 in France.",
+              "text_fr" : "Mme Blanchard doit déposer une demande divisionnaire EP-2 basée sur EP-1, qui protège également les vêtements fabriqués selon le procédé, et obtenir EP-2. Elle pourra alors utiliser EP-2 en France."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Blanchard kann in Deutschland aus EP-1 gegen den Importeur oder Hersteller der Bekleidung vorgehen.",
+              "text_en" : "Blanchard can take action in Germany from EP-1 against the importer or manufacturer of the clothing.",
+              "text_fr" : "Blanchard peut intenter une action en Allemagne à partir de EP-1 contre l'importateur ou le fabricant des vêtements."
+            }
+          ],
+          "beginning" : [
+            "-4YY|-29DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+4YY|+15DD"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Ist der Gegenstand des europäischen Patents ein Verfahren, so erstreckt sich der Schutz auch auf die durch das Verfahren unmittelbar hergestellten Erzeugnisse, siehe #linkepc#ar64|Artikel 64 (2) EPÜ#endlink#. Zwei Jahre nach der Erteilung kann weder eine Teilanmeldung eingereicht werden noch sonstwie der Schutz nachträglich wieder auf Frankreich erstreckt werden. Blanchard kann aber direkt in Deutschland gegen die Einfuhr der Bekleidung vorgehen. ",
+          "explanation_en" : "If the subject matter of the European patent is a process, the protection also extends to the products directly produced by the process, see #linkepc#ar64|Article 64 (2) EPC#endlink#. Two years after grant, a divisional application cannot be filed, nor can protection otherwise be subsequently extended back to France. Blanchard can, however, take direct action in Germany against the importation of the clothing.",
+          "explanation_fr" : "Si l'objet du brevet européen est un procédé, la protection s'étend également aux produits directement issus du procédé, voir #linkepc#ar64|Article 64 (2) CBE#endlink#. Deux ans après la délivrance, une demande divisionnaire ne peut pas être déposée, et la protection ne peut pas non plus être étendue ultérieurement à la France. Blanchard peut toutefois intenter une action directe en Allemagne contre l'importation des vêtements.",
+          "id" : 123,
+          "id_old" : 364,
+          "normen" : "Artikel 64 (2) product by process",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Helen_Blanchard|Helen Blanchard#endlink# hat ein Verfahren zur Herstellung einer Zick-Zack-Naht erfunden und darauf vor zwei Jahren ein Europäisches Patent EP-1 erteilt bekommen. Dieses ist wirksam in Deutschland, Großbritannien und Italien. In letzter Zeit hat sie festgestellt, dass mit diesem Verfahren hergestellte Bekleidung in Deutschland auf den Markt gebracht wird. Zu ihrem Verdruss stellt sie fest, dass die Bekleidung in Frankreich hergestellt wird. Sie fragt daher Sie als ihren Vertreter, was sie unternehmen muss, um mit EP-1 gegen die Bekleidung mit dem Zick-Zack-Muster vorgehen zu können.",
+          "text_en" : "#linkwiki#Helen_Blanchard|Helen Blanchard#endlink# invented a process for making a zig-zag seam and was granted a European Patent EP-1 on it two years ago. This is effective in Germany, the UK and Italy. Recently, she has noticed that garments made with this same process are being marketed in Germany. To her chagrin, she has further learned that the garments are manufactured in France. As her representative, she consults with you about the actions that need to be taken against the copied garments with the zig-zag pattern using EP-1.  What advice would you give her?",
+          "text_fr" : "#linkwiki#Helen_Blanchard|Helen Blanchard#endlink# a inventé un procédé pour réaliser une couture en zig-zag et a obtenu un brevet européen EP-1 à ce sujet il y a deux ans. Celui-ci est en vigueur en Allemagne, au Royaume-Uni et en Italie. Récemment, elle a remarqué que des vêtements fabriqués selon ce même procédé sont commercialisés en Allemagne. À son grand dam, elle a appris que ces vêtements étaient fabriqués en France. En tant que représentante, elle vous consulte sur les mesures à prendre à l'encontre des vêtements copiés avec le motif en zig-zag utilisant EP-1.  Quels conseils lui donneriez-vous ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Eichler muss eine Rechtsmittelerstreckung für Frankreich beantragen. Dann kann sie mit einer einstweiligen Verfügung gegen die Handprothesen vorgehen.",
+              "text_en" : "Eichler must apply for an extension of rights of appeal for France. She can then take action against the hand prostheses with an injunction.",
+              "text_fr" : "Eichler doit demander une extension des droits de recours pour la France. Elle pourra ensuite agir contre les prothèses de main par voie d'injonction."
+            },
+            {
+              "text_de" : "Eichler muss sich einen Anwalt in Frankreich nehmen und kann dann mit einer einstweiligen Verfügung gegen die Handprothesen vorgehen.",
+              "text_en" : "Eichler must hire a lawyer in France ; only then can actions be taken against the hand prostheses with an injunction.",
+              "text_fr" : "Eichler doit engager un avocat en France ; ce n'est qu'à ce moment-là que des actions pourront être entreprises contre les prothèses de main avec une injonction."
+            },
+            {
+              "text_de" : "Eichler kann mit einer einstweiligen Verfügung gegen die Handprothesen vorgehen, da EP-1 auch in Deutschland wirksam ist.",
+              "text_en" : "Eichler can take action against the hand prostheses with an injunction, since EP-1 is also effective in Germany.",
+              "text_fr" : "Eichler peut agir contre les prothèses de main par le biais d'une injonction, puisque EP-1 est également efficace en Allemagne."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Eichler muss sich bei einem französischen Anwalt erkundigen, welche Rechtsmittel in Frankreich zur Verfügung stehen.",
+              "text_en" : "Eichler needs to consult with a French lawyer to find out what legal remedies are available in France.",
+              "text_fr" : "Eichler doit consulter un avocat français pour connaître les recours juridiques disponibles en France."
+            }
+          ],
+          "beginning" : [
+            "-4YY|-29DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+4YY|+15DD"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Gemäß #linkepc#ar64|Artikel 64 (3) EPÜ#endlink# wird eine Verletzung eines europäischen Patents nach nationalem Recht behandelt. Ob es in Frankreich das Rechtsmittel einer einstweiligen Verfügung gibt ist bei einem französischen Anwalt zu erfragen. Eine Rechtsmittelerstreckung gibt es hier nicht.",
+          "explanation_en" : "According to #linkepc#ar64|Article 64 (3) EPC#endlink# an infringement of a European patent is handled according to national law. Whether there is a remedy of an injunction in France is to be inquired with a French attorney. There is no extension of the right of appeal here.",
+          "explanation_fr" : "Selon #linkepc#ar64|Article 64 (3) CBE#endlink#, la contrefaçon d'un brevet européen est traitée selon le droit national. Il faut se renseigner auprès d'un avocat français pour savoir s'il existe un recours en injonction en France. Il n'y a pas d'extension du droit de recours ici.",
+          "id" : 124,
+          "id_old" : 365,
+          "normen" : "Artikel 64 (2) product by process",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Caroline_Eichler|Caroline Eichler#endlink# hat eine Handprothese erfunden und für diese vor drei Jahren ein Europäisches Patent EP-1 erteilt bekommen. Dieses ist wirksam in Deutschland, Frankreich und Belgien. Sie musste leider erkennen, dass in Frankreich ihrer Meinung nach EP-1 verletzende Handprothesen hergestellt und in Umlauf gebracht werden. Sie hat sich daher bei einem deutschen Anwalt bezüglich einer einstweiligen Verfügung erkundigt und möchte diese nun einsetzen, um den Verkauf der Handprothesen in Frankreich schnellstmöglich zu unterbinden. Kann sie das?",
+          "text_en" : "#linkwiki#Caroline_Eichler|Caroline Eichler#endlink# has invented a hand prosthesis for which a European patent EP-1 was granted three years ago. This is effective in Germany, France and Belgium. Unfortunately, she has come to realize that hand prostheses are being manufactured and circulated in France, and believes that this is infringing upon her patent EP-1. She has therefore asked a German lawyer about an injunction and would like to use this to stop the sale of the hand prostheses in France as quickly as possible. Can she do this?",
+          "text_fr" : "#linkwiki#Caroline_Eichler|Caroline Eichler#endlink# a inventé une prothèse de main pour laquelle un brevet européen EP-1 a été délivré il y a trois ans. Celle-ci est efficace en Allemagne, en France et en Belgique. Malheureusement, elle s'est aperçue que des prothèses de main étaient fabriquées et diffusées en France, et elle estime que cela constitue une violation de son brevet EP-1. Elle a donc demandé à un avocat allemand une injonction et voudrait s'en servir pour faire cesser la vente des prothèses de main en France le plus rapidement possible. Peut-elle le faire ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Anspruch 2 ist neu.",
+              "text_en" : "Claim 2 is new.",
+              "text_fr" : "La revendication 2 est nouvelle."
+            },
+            {
+              "text_de" : "Auch wenn das Verfahren nach Anspruch 1 neu und erfinderisch ist kann ein mit dem Verfahren nach Anspruch 1 hergestellter Regenschirm nur geschützt werden, wenn er neu und erfinderisch gegenüber dem Stand der Technik ist.",
+              "text_en" : "Even though the process of claim 1 is novel and inventive, an umbrella made by the process of claim 1 can only be protected if it is novel and inventive over the prior art.",
+              "text_fr" : "Même si le procédé de la revendication 1 est nouveau et inventif, un parapluie fabriqué par le procédé de la revendication 1 ne peut être protégé que s'il est nouveau et inventif par rapport à l'art antérieur."
+            },
+            {
+              "text_de" : "Wenn das Verfahren nach Anspruch 1 neu ist, ist es der mit dem Verfahren erhaltene Regenschirm ebenso.",
+              "text_en" : "If the process of claim 1 is new, so to is the umbrella obtained by the process.",
+              "text_fr" : "Si le procédé de la revendication 1 est nouveau, le parapluie obtenu par le procédé l'est aussi."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Auch wenn der Gegenstand nach Anspruch 2 nicht neu ist, ist ein Erzeugnis geschützt, wenn Anspruch 1 erteilt wird und das Erzeugnis nach dem Verfahren gemäß Anspruch 1 hergestellt ist.",
+              "text_en" : "Even if the subject matter of claim 2 is not new, a product is protected if claim 1 is granted and the product is made by the process of claim 1.",
+              "text_fr" : "Même si l'objet de la revendication 2 n'est pas nouveau, un produit est protégé si la revendication 1 est accordée et que le produit est fabriqué par le procédé de la revendication 1."
+            }
+          ],
+          "beginning" : [
+            "-4YY|-29DD"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+4YY|+15DD"
+          ],
+          "difficulty" : "3",
+          "explanation_de" : "Ein Vorrichtungsanspruch kann nur erteilt werden, wenn er neu und erfinderisch ist, siehe #linkepc#ar54|Artikel 54 EPÜ#endlink# und #linkepc#ar56|Artikel 56 EPÜ#endlink#. Davon unabhängig schützt ein europäisches Patent, dessen Gegenstand ein Verfahren ist, auch die durch das Verfahren unmittelbar hergestellten Erzeugnisse, siehe #linkepc#ar64|Artikel 64 (2) EPÜ#endlink#. Somit kann ein mit dem Verfahren nach Anspruch 1 hergestellter Regenschirm geschützt sein, auch wenn der auf ihn gerichtete Anspruch nicht erteilbar ist. Dabei muss aber natürlich aus dem Produkt hervorgehen oder anderweitig nachgewiesen werden, dass das erfindungsgemäße Verfahren verwendet wurde.",
+          "explanation_en" : "A device claim can only be granted if it is new and inventive, see #linkepc#ar54|Article 54 EPC#endlink# and #linkepc#ar56|Article 56 EPC#endlink#. Independently of this, a European patent whose subject matter is a process also protects the products directly produced by the process, see #linkepc#ar64|Article 64 (2) EPC#endlink#. Thus, an umbrella made by the process evident in claim 1 may be protected, even if the claim wasn’t directly issued to it. However, it must of course be apparent from the product or otherwise demonstrated that the process according to the invention has been used.",
+          "explanation_fr" : "Une revendication de dispositif ne peut être accordée que si elle est nouvelle et inventive, voir #linkepc#ar54|Article 54 CBE#endlink# et #linkepc#ar56|Article 56 CBE#endlink#. Indépendamment de cela, un brevet européen dont l'objet est un procédé protège également les produits directement issus du procédé, voir #linkepc#ar64|Article 64 (2) CBE#endlink#. Ainsi, un parapluie fabriqué par le procédé évident dans la revendication 1 peut être protégé, même si la revendication ne lui a pas été directement délivrée. Cependant, il doit bien sûr être apparent dans le produit ou démontré d'une autre manière que le procédé selon l'invention a été utilisé.",
+          "id" : 125,
+          "id_old" : 366,
+          "normen" : "Artikel 64 (2) product by process",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Beulah_Louise_Henry|Beulah Louise Henry#endlink# hat ein Verfahren zur Herstellung eines Sonnenschirms erfunden. Dieses dient zur Herstellung eines bekannten Sonnenschirms, ist aber ressourcenschonender als bekannte Verfahren. Um ihre Erfindung zu schützen hat Henry eine Europäische Patentanmeldung EP-1 eingereicht. Anspruch 1 ist auf das Verfahren gerichtet, Anspruch 2 auf einen Sonnenschirm, der nach dem Verfahren von Anspruch 1 erhältlich ist. Welche der folgenden Aussagen ist richtig? ",
+          "text_en" : "#linkwiki#Beulah_Louise_Henry|Beulah Louise Henry#endlink# invented a process for making a parasol. This is used to make a well-known parasol, but is more resource efficient than any known processes. To protect her invention, Henry has filed a European patent application EP-1. Claim 1 is directed to the process, and claim 2 is directed to the parasol obtained by the process found within claim 1. Which of the following statements is correct?",
+          "text_fr" : "#linkwiki#Beulah_Louise_Henry|Beulah Louise Henry#endlink# a inventé un procédé pour fabriquer un parasol. Ce procédé permet de fabriquer un parasol bien connu, mais il est plus économe en ressources que tous les procédés connus. Pour protéger son invention, Mme Henry a déposé une demande de brevet européen EP-1. La revendication 1 est dirigée vers le procédé, et la revendication 2 est dirigée vers le parasol obtenu par le procédé trouvé dans la revendication 1. Laquelle des affirmations suivantes est correcte ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Die Jahresgebühr für EP-1 für das fünfte Jahr können beim EPA wirksam entrichtet werden. ",
+              "text_en" : "The EP-1 annual fee for the fifth year can be effectively paid at the EPO.",
+              "text_fr" : "La taxe annuelle EP-1 pour la cinquième année peut être effectivement payée à l'OEB."
+            },
+            {
+              "text_de" : "Eine Verletzung von EP-1 muss beim EuGH verhandelt werden, wenn die Klage vor Ablauf der Einspruchsfrist anhängig wird",
+              "text_en" : "A violation of EP-1 must be heard by the ECJ if the action becomes pending before the expiration of the opposition period.",
+              "text_fr" : "Une violation du PE-1 doit être entendue par la CJCE si l'action devient pendante avant l'expiration du délai d'opposition."
+            },
+            {
+              "text_de" : "Kwolek ist nach dem Hinweis auf die Erteilung berechtigt, Kevlar-Fasern zu verkaufen.",
+              "text_en" : "Kwolek is authorized to sell Kevlar fibers after reference to the grant.",
+              "text_fr" : "Kwolek est autorisé à vendre des fibres de Kevlar après référence à la subvention."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ein Einspruch gegen EP-1 muss beim EPA verhandelt werden.",
+              "text_en" : "An appeal of EP-1 must be heard by the EPA.",
+              "text_fr" : "Un appel de l'EP-1 doit être entendu par l'EPA."
+            }
+          ],
+          "beginning" : [
+            "-3YY|-10MM"
+          ],
+          "date" : [
+            ""
+          ],
+          "deadline" : [
+            "+2YY|+9MM|+15DD"
+          ],
+          "difficulty" : "3",
+          "explanation_de" : "Die Verpflichtung zur Zahlung von Jahresgebühren vor dem EPA endet in dem Jahr, in dem der Hinweis auf die Erteilung des europäischen Patents im Europäischen Patentblatt bekannt gemacht wird, siehe #linkepc#ar86|Artikel 86 (2) EPÜ#endlink#. Eine Verletzung von EP-1 wird vor einem nationalen Gericht verhandeltder Einspruch beim Europäischen Patentamt. Ein Patent stellt lediglich ein Verbotsrecht aber kein Benutzungsrecht dar.",
+          "explanation_en" : "The obligation to pay renewal fees before the EPO terminates in respect of the year in which the mention of the grant of the European patent is published in the European Patent Bulletin, see #linkepc#ar86|Article 86 (2) EPC#endlink#. An infringement of EP-1 is heard by a national court when the opposition is filed with the European Patent Office. A patent is only a prohibition right but not a right of use.",
+          "explanation_fr" : "L'obligation de payer les taxes de renouvellement devant l'OEB prend fin pour l'année au cours de laquelle la mention de la délivrance du brevet européen est publiée dans le Bulletin européen des brevets, voir #linkepc#ar86|Article 86 (2) CBE#endlink#. Une violation de l'EP-1 est jugée par un tribunal national lorsque l'opposition est déposée auprès de l'Office européen des brevets. Un brevet est seulement un droit d'interdiction mais pas un droit d'utilisation.",
+          "id" : 126,
+          "id_old" : 367,
+          "normen" : "Artikel 64 (3), 86 (2)",
+          "startdate" : "",
+          "text_de" : "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# hat Kevlar-Fasern entwickelt und am #beginning#0#enddate# eine Europäische Patentanmeldung EP-1 zu ihrem Schutz eingereicht. Der Bescheid, dass ein Europäisches Patent erteilt wird, wurde am #deadline#0|-2MM|-9DD#enddate# erstellt und der Hinweis auf die Erteilung am #deadline#0#enddate# bekanntgemacht. Das Patent wurde in Deutschland und Frankreich validiert. Welche der folgenden Aussagen ist wahr?",
+          "text_en" : "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# developed Kevlar fibers and has filed a European Patent Application EP-1 for their protection on #beginning#0#enddate#. The notice that a European patent is granted was issued on #deadline#0|-2MM|-9DD#enddate# and the notice of grant was published on #deadline#0#enddate#. The patent has been validated in Germany and France. Which of the following statements is true?",
+          "text_fr" : "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# a développé des fibres de Kevlar et a déposé une demande de brevet européen EP-1 pour leur protection le #beginning#0#enddate#. L'avis de délivrance d'un brevet européen a été émis le #deadline#0|-2MM|-9DD#enddate# et l'avis de délivrance a été publié le #deadline#0#enddate#. Le brevet a été validé en Allemagne et en France. Laquelle des affirmations suivantes est vraie ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Eine Umschreibung ist nach der Veröffentlichung des Hinweises auf die Erteilung nicht mehr möglich.",
+              "text_en" : "Rewriting is not possible after the publication of the notice of issuance.",
+              "text_fr" : "La réécriture n'est pas possible après la publication de l'avis de délivrance."
+            },
+            {
+              "text_de" : "DIe Umschreibung muss innerhalb eines Monats nach der Erteilung vorgenommen werden.",
+              "text_en" : "The transcription must be made within one month after issuance.",
+              "text_fr" : "La transcription doit être effectuée dans un délai d'un mois après la délivrance."
+            },
+            {
+              "text_de" : "Benz kann die Umschreibung nach der Erteilung nur vornehmen, wenn gegen EP-1 Einspruch eingelegt worden ist.",
+              "text_en" : "Benz can make the transcription after issuance only if EP-1 has been appealed.",
+              "text_fr" : "Benz ne peut effectuer la transcription après la délivrance que si EP-1 a fait l'objet d'un appel."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Eine Umschreibung kann mindestens bis zum #deadline#0#enddate# vorgenommen werden.\n",
+              "text_en" : "A rewrite can be made prior to #deadline#0#enddate#.",
+              "text_fr" : "Une réécriture peut être faite avant la #deadline#0#enddate#."
+            },
+            {
+              "text_de" : "Eine Umschreibung kann während der Dauer eines Einspruchsverfahrens gegen EP-1 eingetragen werden.\n",
+              "text_en" : "A transcription may be registered during the period of opposition proceedings against EP-1.",
+              "text_fr" : "Une transcription peut être enregistrée pendant la période de la procédure d'opposition contre EP-1."
+            }
+          ],
+          "beginning" : [
+            "+1YY|+11MM|+5DD"
+          ],
+          "date" : [
+            "MO|-2YY|-15DD"
+          ],
+          "deadline" : [
             "+9MM"
           ],
-          "difficulty" : "1",
-          "explanation_de" : "Die Frist zur Einlegung eines Einspruchs endet gemäß #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# 9 Monate nach der Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents. In dieser Zeit muss auch die Einspruchsgebühr bezahlt sein. ",
-          "explanation_en" : "According to #linkepc#ar99|Article 99 (1) EPC#endlink#, the period for filing an opposition ends 9 months after the publication of the mention of the grant of the European patent. During this time, the opposition fee must also be paid.",
-          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (1) CBE#endlink#, le délai pour former une opposition prend fin 9 mois après la publication de la mention de la délivrance du brevet européen. Pendant cette période, la taxe d'opposition doit également être payée.",
-          "id" : 135,
-          "id_old" : 86,
-          "normen" : "Artikel 99 TM Gebühr",
-          "startdate" : "",
-          "text_de" : "#linkwiki#William_Ramsay|William Ramsay#endlink# leitet die Produktion einer Firma, die Gase erzeugt. V.a. die Edelgase Helium und Argon werden in Flaschen abgefüllt und verkauft. Er entdeckt ein Patent EP-1, das seinen Arbeitgeber stört. Er will deswegen Einspruch einlegen. Die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt erfolgte am #beginning#0#enddate#. Ramsay hat bereits einen Einspruchsschriftsatz fristgerecht eingereicht. Heute, am #deadline#0#enddate#, bespricht er mit seiner Anwältin den Fall und erwähnt, dass er die Einspruchsgebühr noch nicht bezahlt hat und er dies nächste Woche nachholen möchte. Was wird die Anwältin antworten?",
-          "text_en" : "#linkwiki#William_Ramsay|William Ramsay#endlink# manages the production of a company that produces gases. It is here that the noble gases helium and argon are bottled and sold. He discovers a patent EP-1 which disturbs his employer. He wants to file an opposition because of it. The notice of the grant of the European patent was published in the European Patent Bulletin on #beginning#0#enddate#. Ramsay has already filed a notice of opposition in due time. Today, on #deadline#0#enddate#, he discusses the case with his attorney and mentions that he has not yet paid the opposition fee and would like to do by next week. What will the lawyer reply?",
-          "text_fr" : "#linkwiki#William_Ramsay|William Ramsay#endlink# gère la production d'une entreprise qui produit des gaz. C'est là que sont mis en bouteille et vendus les gaz nobles que sont l'hélium et l'argon. Il découvre un brevet EP-1 qui dérange son employeur. Il veut faire une opposition à cause de cela. L'avis de délivrance du brevet européen a été publié dans le Bulletin européen des brevets le #beginning#0#enddate#. Ramsay a déjà déposé un avis d'opposition en temps voulu. Aujourd'hui, le #deadline#0#enddate#, il discute de l'affaire avec son avocat et mentionne qu'il n'a pas encore payé la taxe d'opposition et qu'il aimerait le faire d'ici la semaine prochaine. Que répondra l'avocat ?"
+          "difficulty" : "2",
+          "explanation_de" : "Nach #linkepc#r85|Regel 85 EPÜ#endlink# ist #linkepc#r22|Regel 22 EPÜ#endlink# auf einen Rechtsübergang des europäischen Patents während der Einspruchsfrist oder der Dauer des Einspruchsverfahrens anzuwenden. Zumindest 9 Monate nach der Veröffentlichung des Hinweises auf die Erteilung, also innerhalb der Einspruchsfrist, kann die Umschreibung beim EPA vorgenommen werden.",
+          "explanation_en" : "According to #linkepc#r85|Rule 85 EPC#endlink#, #linkepc#r22|Rule 22 EPC#endlink# is applicable to a transfer of the European patent during the opposition period or the duration of the opposition proceedings. The transfer can be made at the EPO at least 9 months after publication of the mention of grant, i.e. within the opposition period,",
+          "explanation_fr" : "Selon #linkepc#r85|Règle 85 CBE#endlink#, #linkepc#r22|Règle 22 CBE#endlink# est applicable à un transfert du brevet européen pendant le délai d'opposition ou la durée de la procédure d'opposition. Le transfert peut être effectué auprès de l'OEB au moins 9 mois après la publication de la mention de délivrance, c'est-à-dire pendant la période d'opposition,",
+          "id" : 127,
+          "id_old" : 368,
+          "normen" : "Regel 22, 85",
+          "startdate" : "MO|-2YY|-15DD",
+          "text_de" : "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# hat auf eine Straßenlaterne am #startdate##enddate# eine Euroäische Patentanmeldung EP-1 eingereicht. Der Hinweis auf die Erteilung von EP-1 wurde am #beginning#0#enddate# bekanntgemacht. Perryman hat EP-1 zwei Wochen danach an #linkwiki#Bertha_Benz|Bertha Benz#endlink# verkauft, um Geld für weitere Entwicklungen zu erhalten. Bis wann kann Benz die Umschreibung beim EPA vornehmen lassen?",
+          "text_en" : "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# filed a European patent application EP-1 on a streetlight on #startdate##enddate#. The notice of grant of EP-1 was published on #beginning#0#enddate#. Perryman sold EP-1 to #linkwiki#Bertha_Benz|Bertha Benz#endlink# two weeks after that, in orderto raise money for further development. What is the deadline for Benz to have the rewrite done at the EPA?",
+          "text_fr" : "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# a déposé une demande de brevet européen EP-1 sur un lampadaire le #startdate##enddate#. L'avis de délivrance du EP-1 a été publié le #beginning#0#enddate#. Perryman a vendu EP-1 à #linkwiki#Bertha_Benz|Bertha Benz#endlink# deux semaines plus tard, afin de réunir des fonds pour poursuivre le développement. Quelle est la date limite pour que Benz fasse faire la réécriture à l'EPA ?"
         },
         {
           "answers_false" : [
             {
-              "text_de" : "Durch die Einschränkung auf ein Land können die Gebühren gesenkt werden.",
-              "text_en" : "By limiting the fees to one country, the fees can be reduced.",
-              "text_fr" : "En limitant les frais à un seul pays, les frais peuvent être réduits."
+              "text_de" : "Nein, weil bei Übersetzungserfordernissen oder Gebühren die Wirkung des Europäischen Patentes nicht eintritt bis die Erfordernisse erfüllt sind.",
+              "text_en" : "No, because in case of translation requirements or fees, the protection of the European patent does not come into effect until the requirements have been fulfilled.",
+              "text_fr" : "Non, car en cas d'exigences ou de taxes de traduction, la protection du brevet européen ne prend effet que lorsque les exigences sont remplies."
             },
             {
-              "text_de" : "Wenn nur gegen den deutschen Anteil eingesprochen wird muss der Einspruch auf deutsch verfasst sein.",
-              "text_en" : "If only the German part is objected to, the objection must be written in German.",
-              "text_fr" : "Si seule la partie allemande fait l'objet d'une objection, celle-ci doit être rédigée en allemand."
+              "text_de" : "Nein, es gibt keine Länder, die keine Übersetzung fordern.",
+              "text_en" : "No, there are no countries that do not require translation.",
+              "text_fr" : "Non, il n'y a aucun pays qui n'exige pas de traduction."
+            },
+            {
+              "text_de" : "Ja, ein europäisches Patent wird für alle Länder erteilt, für die es benannt ist. Nach dem Hinweis auf die Erteilung kann daraus sofort vorgegangen werden.",
+              "text_en" : "Yes, a European patent is granted for all countries for which it is designated. Afterwards, the notice of grant can be proceeded from it immediately.",
+              "text_fr" : "Oui, un brevet européen est délivré pour tous les pays pour lesquels il est désigné. Ensuite, il est possible de procéder immédiatement à la notification de la délivrance."
             }
           ],
           "answers_true" : [
             {
-              "text_de" : "Der Einspruch erfasst das europäische Patent für alle Vertragsstaaten, in denen es Wirkung hat.",
-              "text_en" : "The opposition covers the European patent for all Contracting States in which it has an effect.",
-              "text_fr" : "L'opposition couvre le brevet européen pour tous les États contractants dans lesquels il a un effet."
-            },
-            {
-              "text_de" : "Es gibt nur eine einzige, feststehende Einspruchsgebühr.",
-              "text_en" : "There is only one fixed opposition fee.",
-              "text_fr" : "Il n'y a qu'une seule taxe d'opposition fixe."
+              "text_de" : "Nein, ein schneller Rechtsschutz in Ländern mit Übersetzungserfordernis setzt übersetzte Patentansprüche voraus.",
+              "text_en" : "No, fast legal protection in countries with translation requirements presupposes translated patent claims.",
+              "text_fr" : "Non, une protection juridique rapide dans les pays ayant des exigences de traduction présuppose des revendications de brevet traduites."
             }
           ],
           "beginning" : [
-            "-2MM"
+            "+1YY|+11MM|+5DD"
           ],
           "date" : [
-            "MO"
+            "DO"
           ],
           "deadline" : [
-            "+2MM"
+            "+9MM"
           ],
-          "difficulty" : "1",
-          "explanation_de" : "Gemäß #linkepc#ar99|Artikel 99 (2) EPÜ#endlink# erfasst der Einspruch das europäische Patent für alle Vertragsstaaten, in denen es Wirkung hat. ",
-          "explanation_en" : "According to #linkepc#ar99|Article 99 (2) EPC#endlink#, the opposition covers the European patent for all Contracting States in which it has an effect.",
-          "explanation_fr" : "Selon #linkepc#ar99|Article 99 (2) CBE#endlink#, l'opposition couvre le brevet européen pour tous les Etats contractants dans lesquels elle a un effet.",
-          "id" : 136,
-          "id_old" : 87,
-          "normen" : "Artikel 99 (2) TM Vertragsstaaten ",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# hat die sogenannte Indigosynthese, ein Verfahren zur Herstellung der tiefblauen Verbindung Indigo, entwickelt. Zur Finanzierung seines Instituts verkauft er das Indigo. Kurze Zeit nach der Erteilung tritt der Inhaber eines europäischen Patentes EP-1 an ihn heran und fragt an, ob er zur Herstellung eine von ihm patentierte Substanz verwende. Von Baeyer geht zum Anwalt und lässt sich beraten. Nach Durchsicht des Standes der Technik sieht der Anwalt gute Erfolgsaussichten bei Einlegung eines Einspruchs. Von Baeyer erklärt, nur gegen den deutschen Teil von EP-1 Einspruch einlegen zu wollen, die anderen Länder störten ihn nicht. Was wird der Anwalt antworten?",
-          "text_en" : "#linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# developed the so-called indigo synthesis, a process for producing the deep blue compound indigo. To finance his institute, he sells the indigo. Shortly after it is granted, the owner of a European patent EP-1 approaches him and asks if von Baeyer has been using a substance patented by him for its production. Reluctant to respond, Von Baeyer goes to a lawyer for advice. After reviewing the prior art, the lawyer suggests filing an opposition and sees good prospects of success from this. Von Baeyer explains that he only wants to file an opposition against the German part of EP-1; the other countries are not relevant to him. How will the lawyer answer?",
-          "text_fr" : "#linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# a mis au point la synthèse dite de l'indigo, un procédé de production du composé bleu foncé qu'est l'indigo. Pour financer son institut, il vend l'indigo. Peu de temps après, le propriétaire d'un brevet européen EP-1 l'approche et lui demande si von Baeyer a utilisé une substance brevetée par lui pour sa production. Réticent à répondre, Von Baeyer demande conseil à un avocat. Après avoir examiné l'état de la technique, l'avocat suggère de former une opposition et y voit de bonnes chances de succès. Von Baeyer explique qu'il ne veut former une opposition que contre la partie allemande de EP-1 ; les autres pays ne le concernent pas. Que va répondre l'avocat ?"
+          "difficulty" : "2",
+          "explanation_de" : "Das europäische Patent gewährt seinem Inhaber ab dem Tag der Bekanntmachung des Hinweises auf seine Erteilung im Europäischen Patentblatt in jedem Vertragsstaat, für den es erteilt ist, die Rechte eines nationalen Patentes, siehe #linkepc#ar64|Artikel 64 (1) EPÜ#endlink#. Die Wirkung gilt erst dann rückwirkend als nicht eingetreten, wenn eine geforderte Übersetzung nicht eingereicht wurde, vgl. #linkepc#ar65|Artikel 65 (2) EPÜ#endlink#. Grundsätzlich ist es also möglich, einen schnellen bzw. einstweiligen Rechtsschutz zu erhalten. Bei diesen Verfahren muss der Schutzumfang aber üblicherweise sehr leicht erfassbar sein. Dies ist automatisch nicht mehr gegeben, wenn keine Übersetzung der Ansprüche vorliegt. Zwar gibt es viele Länder, in denen keine Übersetzung einzureichen ist. Butticaz hat aber als Ziel herauszufinden, wo sich das Einreichen von Übersetzungen lohnt.",
+          "explanation_en" : "The European patent grants to its proprietor the rights of a national patent from the date of publication of the mention of its grant in the European Patent Bulletin in each Contracting State for which it is granted, see #linkepc#ar64|Article 64 (1) EPC#endlink#. The effect is deemed not to have occurred retroactively only if a required translation has not been filed, see #linkepc#ar65|Article 65 (2) EPC#endlink#. In principle, it is therefore possible to obtain rapid or interim legal protection. In these proceedings, however, the scope of protection must  be  easily ascertainable. This is no longer automatically given if there is no translation of the claims. It is true that there are many countries in which no translation has to be filed. However, Butticaz aims to find out where it is worthwhile to file translations.",
+          "explanation_fr" : "Le brevet européen confère à son titulaire les droits d'un brevet national à compter de la date de publication de la mention de sa délivrance au Bulletin européen des brevets dans chaque État contractant pour lequel il est délivré, voir #linkepc#ar64|Article 64 (1) CBE#endlink#. L'effet est réputé ne pas s'être produit rétroactivement uniquement si la traduction requise n'a pas été déposée, voir #linkepc#ar65|Article 65 (2) CBE#endlink#. En principe, il est donc possible d'obtenir une protection juridique rapide ou provisoire. Dans le cadre de cette procédure, l'étendue de la protection doit toutefois être facilement déterminable. Cela n'est plus automatiquement le cas s'il n'y a pas de traduction des revendications. Il est vrai qu'il existe de nombreux pays dans lesquels aucune traduction ne doit être déposée. Cependant, Butticaz cherche à savoir où il est utile de déposer des traductions.",
+          "id" : 128,
+          "id_old" : 369,
+          "normen" : "Artikel 64 (1), 65",
+          "startdate" : "DO",
+          "text_de" : "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# hat auf ein Elektronikbauteil ein europäisches Patent EP-1 erteilt bekommen. Der Hinweis auf die Erteilung von EP-1 wurde am #startdate##enddate# bekanntgemacht. Butticaz hat für alle Länder Benennungsgebühren gezahlt. Sie überlegt nun zur Reduzierung von Übersetungskosten, in allen Ländern mit der Möglichkeit eines schnellen Rechtsschutzes gegen Wettbewerber vorzugehen und nur dort Übersetzungen einzureichen und Gebühren EP-1 zu zahlen, wo sie sofort Erfolg hat. Hat Butticaz Aussichten, ihr Ziel zu erreichen?",
+          "text_en" : "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# has been granted a European patent EP-1 on an electronic component. The EP-1 grant notice was posted on #startdate##enddate#. Butticaz has paid designation fees for all countries. She is now considering how to reduce translation costs, in order to proceed against competitors in other countries with the possibility of fast legal protection and to file translations and pay EP-1 fees only where it has had immediate success. Does Butticaz have any prospects of achieving her goal?",
+          "text_fr" : "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# a obtenu un brevet européen EP-1 sur un composant électronique. L'avis de délivrance du brevet EP-1 a été publié le #startdate##enddate#. Butticaz a payé les taxes de désignation pour tous les pays. Elle réfléchit maintenant à la manière de réduire les coûts de traduction, afin de pouvoir agir contre des concurrents dans d'autres pays avec la possibilité d'une protection juridique rapide et de ne déposer des traductions et payer les taxes EP-1 que là où elle a eu un succès immédiat. Butticaz a-t-elle des chances d'atteindre son objectif ?"
         },
         {
           "answers_false" : [
             {
-              "text_de" : "Julius Tafel.",
-              "text_en" : "Julius Tafel.",
-              "text_fr" : "Julius Tafel."
+              "text_de" : "Österreich",
+              "text_en" : "Austria",
+              "text_fr" : "Autriche"
             }
           ],
           "answers_true" : [
             {
-              "text_de" : "Eduard Buchner nimmt als Patentinhaber teil.",
-              "text_en" : "Eduard Buchner participates as patent holder.",
-              "text_fr" : "Eduard Buchner participe en tant que titulaire du brevet."
+              "text_de" : "Deutschland",
+              "text_en" : "Germany",
+              "text_fr" : "Allemagne"
             },
             {
-              "text_de" : "Adolf von Baeyer",
-              "text_en" : "Adolf von Baeyer",
-              "text_fr" : "Adolf von Baeyer"
+              "text_de" : "Frankreich",
+              "text_en" : "France",
+              "text_fr" : "France"
             },
             {
-              "text_de" : "Friedrich Althoff.",
-              "text_en" : "Friedrich Althoff.",
-              "text_fr" : "Friedrich Althoff."
+              "text_de" : "Schweiz",
+              "text_en" : "Switzerland",
+              "text_fr" : "Suisse"
             }
           ],
           "beginning" : [
-            "-2MM"
+            "-6MM"
           ],
           "date" : [
-            "MO"
+            "DO|-6MM"
           ],
           "deadline" : [
-            "+2MM"
+            "+9MM"
           ],
-          "difficulty" : "1",
-          "explanation_de" : "Gemäß #linkepc#ar99|Artikel 99 (3) EPÜ#endlink# sind der Patentinhaber und die Einsprechenden am Einspruchsverfahren beteiligt. Da die Einspruchsfrist abgelaufen ist, kann Julius Tafel nicht mehr als Einsprechender am Verfahren teilnehmen. Buchner und Althoff sind dagegen beide Einsprechende beteiligt, eine Rangfolge existiert nicht.",
-          "explanation_en" : "According to #linkepc#ar99|Article 99 (3) EPC#endlink#, the patent proprietor and the opponents are involved in the opposition proceedings. Since the opposition period has expired, Julius Tafel can no longer participate in the proceedings as an opponent. Buchner and Althoff, on the other hand, are both opponents, so no ranking exists.",
-          "explanation_fr" : "Selon l'article 99 (3) CBE#endlink#, le titulaire du brevet et les opposants sont impliqués dans la procédure d'opposition. Le délai d'opposition ayant expiré, Julius Tafel ne peut plus participer à la procédure en tant qu'opposant. Buchner et Althoff, en revanche, sont tous deux opposants, il n'y a donc pas de classement.",
-          "id" : 137,
-          "id_old" : 88,
-          "normen" : "Artikel 99 (3) TM Parteien ",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Eduard_Buchner|Eduard Buchner#endlink# hat ein Verfahren zur zellfreien Gärung in einem europäischen Patent EP-1 patentiert bekommen. Gegen dieses Patent hat sein einstiger Mentor #linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# innerhalb der abgelaufenen Einspruchsfrist eingesprochen. Zwar innerhalb der Einspruchsfrist, aber erst als Zweiter hat #linkwiki#Friedrich_Althoff|Friedrich Althoff#endlink# eingesprochen. Da von Baeyer immer an Geldknappheit leidet sagt nach Beginn des Einspruchsverfahrens #linkwiki#Julius_Tafel_(Chemiker)|Julius Tafel#endlink# zu, am Einspruch teilzunehmen und im eigenen Namen einen Anwalt zu entsenden. Wer nimmt am Einspruchsverfahren teil?",
-          "text_en" : "#linkwiki#Eduard_Buchner|Eduard Buchner#endlink# has patented a process for cell-free fermentation in a European patent EP-1. Against this patent his former mentor #linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# filed an opposition within the opposition period. The period has expired in the meanwhile. Even though he was within the opposition period, but only as a second #linkwiki#Friedrich_Althoff|Friedrich Althoff#endlink# has also filed an opposition. Since von Baeyer always suffers from lack of money, after the start of the opposition proceedings #linkwiki#Julius_Tafel_(chemist)|Julius Tafel#endlink# agrees to participate in the opposition and to send a lawyer on his own behalf. Who participates in the opposition proceedings?",
-          "text_fr" : "#linkwiki#Eduard_Buchner|Eduard Buchner#endlink# a breveté un procédé de fermentation sans cellules dans un brevet européen EP-1. Contre ce brevet, son ancien mentor #linkwiki#Adolf_von_Baeyer|Adolf von Baeyer#endlink# a déposé une opposition dans le délai d'opposition. Le délai a expiré entre-temps. Même s'il était dans le délai d'opposition, mais seulement en tant que second, #linkwiki#Friedrich_Althoff|Friedrich Althoff#endlink# a également formé une opposition. Comme von Baeyer souffre toujours d'un manque d'argent, après le début de la procédure d'opposition, #linkwiki#Julius_Tafel_(chimiste)|Julius Tafel#endlink# accepte de participer à l'opposition et d'envoyer un avocat en son nom propre. Qui participe à la procédure d'opposition ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Die Einspruchsabteilung wird EP-1 wegen mangelnder Klarheit von Anspruch 1 widerrufen.",
-              "text_en" : "The opposition division will revoke EP-1 for lack of clarity found in claim 1.",
-              "text_fr" : "La division d'opposition révoquera EP-1 pour le manque de clarté de la revendication 1."
-            },
-            {
-              "text_de" : "Die Einspruchsabteilung wird EP-1 wegen Uneinheitlichkeit widerrufen.",
-              "text_en" : "The opposition division will revoke EP-1 for inconsistency.",
-              "text_fr" : "La division d'opposition révoquera l'EP-1 pour incohérence."
-            },
-            {
-              "text_de" : "Die Einspruchsabteilung wird EP-1 wegen fehlender moralischer Eignung widerrufen.",
-              "text_en" : "The opposition division will revoke EP-1 on grounds of a lack of moral fitness.",
-              "text_fr" : "La division d'opposition révoquera EP-1 pour cause de manque d'aptitude morale."
-            },
-            {
-              "text_de" : "Die Einspruchsabteilung wird EP-1 wegen eines unklaren Schutzumfangs in Bezug auf Figur 3 widerrufen.",
-              "text_en" : "The opposition division will revoke EP-1 because of an unclear scope of protection with respect to figure 3.",
-              "text_fr" : "La division d'opposition révoque EP-1 en raison d'une étendue de la protection peu claire en ce qui concerne la figure 3."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "#linkepc#ar100|Artikel 100 EPÜ#endlink# zählt die Einspruchsgründe abschließend auf. Dies sind mangelnde Patentierbarkeit nach den Artikeln #linkepc#ar52|Artikel 52 EPÜ#endlink# bis #linkepc#ar57|Artikel 57 EPÜ#endlink#, mangelnde Ausführbarkeit und unzulässige Erweiterung. Andere Einspruchsgründe, z.B. wie die in der Aufgabe genannten, existieren nicht.",
-          "explanation_en" : "#linkepc#ar100|Article 100 EPC#endlink# lists the grounds for opposition exhaustively. These include lack of patentability according to #linkepc#ar52|Article 52 EPC#endlink# to #linkepc#ar57|Article 57 EPC#endlink#, lack of practicability and inadmissible extension. Other grounds for opposition, e.g. such as those mentioned in the task, do not exist.",
-          "explanation_fr" : "Le document #linkepc#ar100|Article 100 CBE#endlink# énumère de manière exhaustive les motifs d'opposition. Ceux-ci incluent le manque de brevetabilité selon les articles #linkepc#ar52|Article 52 CBE#endlink# à #linkepc#ar57|Article 57 CBE#endlink#, le manque de praticabilité et l'extension inadmissible. D'autres motifs d'opposition, tels que ceux mentionnés dans la tâche, n'existent pas.",
-          "id" : 138,
-          "id_old" : 90,
-          "normen" : "Artikel 100 TM nur",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Henri_Moissan|Henri Moissan#endlink# hat ein Verfahren zur Herstellung von reinem Fluor entwickelt. Die dabei eingesetzte Vorrichtung ist, wie er harausgefunden hat, durch ein gerade erteiltes europäisches Patent EP-1 geschützt. Moissan möchte daher EP-1 angreifen. In seinem Einspruchsschriftsatz begründet er den Widerruf von EP-1 damit, dass der Gegenstand von Anspruch 1 unklar sei. Auch sei die Patentierung einer derartigen Vorrichtung moralisch nicht tragbar, da die Erzeugung von Fluor zur Erhaltung der Gesundheit vieler Menschen wesentlich sei. Weiterhin sei die Erfindung nicht einheitlich, insbesondere seien zwei nebengeordnete Vorrichtungsansprüche enthalten. Zusätzlich zeige Figur 3 einen Gegenstand, der von Anspruch 1 nicht mehr abgedeckt werde. Gehen sie davon aus, dass Anspruch 1 unklar ist, moralisch problematisch, uneinheitlich und Figur 3 nicht mehr zum erteilten Schutzumfang von EP-1 gehört. Wie wird die Einspruchsabteilung entscheiden, wenn vom Patentinhaber kein anderer Anspruchssatz eingereicht wird?",
-          "text_en" : "#linkwiki#Henri_Moissan|Henri Moissan#endlink# has developed a process for the production of pure fluorine. The device used in this process, as he has since discovered, is protected by a recently granted European patent EP-1. Moissan therefore wishes to object to EP-1. In his opposition brief, he justifies revocation of EP-1 on the grounds that the subject matter of claim 1 is unclear. He also argues that patenting such a device is morally unsupportable, since the generation of fluorine is essential to maintaining the health of many people. Furthermore, the invention was not unitary, and in particular, two subsidiary device claims were included. In addition, Figure 3 shows an object that is no longer covered by claim 1. Assuming that claim 1 is ambiguous, morally problematic, inconsistent, and that figure 3 is no longer within the granted scope of protection of EP-1, how will the opposition division decide if no other set of claims is filed by the patentee?",
-          "text_fr" : "#linkwiki#Henri_Moissan|Henri Moissan#endlink# a mis au point un procédé de production de fluor pur. Le dispositif utilisé dans ce procédé, comme il l'a découvert depuis, est protégé par un brevet européen EP-1 récemment délivré. Moissan souhaite donc faire opposition à EP-1. Dans son mémoire d'opposition, il justifie la révocation du EP-1 par le fait que l'objet de la revendication 1 n'est pas clair. Il fait également valoir que le brevetage d'un tel dispositif est moralement insupportable, la production de fluor étant essentielle au maintien de la santé de nombreuses personnes. En outre, l'invention n'est pas unitaire, et en particulier, deux revendications subsidiaires de dispositif ont été incluses. En outre, la figure 3 montre un objet qui n'est plus couvert par la revendication 1. En supposant que la revendication 1 est ambiguë, moralement problématique, incohérente, et que la figure 3 ne fait plus partie de l'étendue de la protection accordée par EP-1, comment la division d'opposition décidera-t-elle si aucun autre jeu de revendications n'est déposé par le breveté ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Mangelnde Neuheit.",
-              "text_en" : "Lack of novelty.",
-              "text_fr" : "Manque de nouveauté."
-            },
-            {
-              "text_de" : "Mangelnde Ausführbarkeit.",
-              "text_en" : "Lack of feasibility.",
-              "text_fr" : "Manque de faisabilité."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Ausnahme von der Patentierbarkeit für biologische Verfahren zur Züchtung von Tieren.",
-              "text_en" : "Exception from patentability for biological processes for breeding animals.",
-              "text_fr" : "Exception à la brevetabilité des procédés biologiques d'élevage d'animaux."
-            },
-            {
-              "text_de" : "Mangelnde erfinderische Tätigkeit.",
-              "text_en" : "Lack of inventive step.",
-              "text_fr" : "Absence d'activité inventive."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "#linkepc#ar100|Artikel 100 a) EPÜ#endlink# umfasst mehrere Einspruchsgründe. Rein biologische Merkmalen sind nicht-technisch, weswegen bei vorhandener Neuheit diese im Rahmen einer erfinderischen Tätigkeit behandelt werden. Sie werden dann als nicht erfinderisch beurteilt. Auch liegt ein Patentierungsauschluss gemäß #linkepc#ar53|Artikel 53 EPÜ#endlink# vor. Für andere Einspruchsgründe liefert der Sachverhalt keine Angaben.",
-          "explanation_en" : "#linkepc#ar100|Article 100(a) EPC#endlink# includes several grounds for opposition. Purely biological features are non-technical, which is why, if novelty is present, they are treated in the context of an inventive step. They are then judged to be non-inventive. There is also a patentability exclusion according to #linkepc#ar53|Article 53 EPC#endlink#. The facts of the case do not provide any information for other grounds of opposition.",
-          "explanation_fr" : "#linkepc#ar100|Article 100(a) CBE#endlink# comprend plusieurs motifs d'opposition. Les caractéristiques purement biologiques ne sont pas techniques, c'est pourquoi, si la nouveauté est présente, elles sont traitées dans le contexte d'une activité inventive. Elles sont alors jugées comme étant non inventives. Il existe également une exclusion de la brevetabilité selon #linkepc#ar53|Article 53 CBE#endlink#. Les faits de l'espèce ne fournissent pas d'informations pour d'autres motifs d'opposition.",
-          "id" : 139,
-          "id_old" : 91,
-          "normen" : "Artikel 100 a Technizität",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# hat gegen ein europäisches Patent von #linkwiki#Charles_Darwin|Charles Darwin#endlink# eingesprochen. Darwin möchte nun seinerseits Einspruch gegen ein europäisches Patent EP-1 einlegen, das Russel erteilt bekommen hat. Russels Patent ist auf ein Zuchtverfahren von Finken, einer Vogelart, gerichtet. Es zeigt rein biologische Schritte mit Ausnahme der Verwendung eines Brutkastens. Die Verwendung eines Brutkastens ist bekannt, die anderen Merkmale bis auf eines ebenfalls. Mit welchen Einspruchsgründen kann Darwin wirksam EP-1 angreifen? ",
-          "text_en" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# has objected to a European patent by #linkwiki#Charles_Darwin|Charles Darwin#endlink#. For his part, Darwin now wants to object to a European patent EP-1 that Wallace has been granted. Wallace's patent is directed to a breeding process for finches, a species of bird. It shows purely biological steps, except for the use of an incubator. The use of an incubator is known, and so are the other features, aside from one. On what grounds can Darwin effectively object to EP-1?",
-          "text_fr" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# a fait objection à un brevet européen de #linkwiki#Charles_Darwin|Charles Darwin#endlink#. De son côté, Darwin veut maintenant s'opposer à un brevet européen EP-1 que Wallace a obtenu. Le brevet de Wallace porte sur un procédé de reproduction des pinsons, une espèce d'oiseau. Il présente des étapes purement biologiques, à l'exception de l'utilisation d'un incubateur. L'utilisation d'un incubateur est connue, ainsi que les autres caractéristiques, à l'exception d'une seule. Sur quelles bases Darwin peut-il effectivement s'opposer à EP-1 ?"
-        },
-        {
-          "answers_false" : [
-            {
-              "text_de" : "Mangelnde Neuheit.",
-              "text_en" : "Lack of novelty.",
-              "text_fr" : "Manque de nouveauté."
-            }
-          ],
-          "answers_true" : [
-            {
-              "text_de" : "Ausnahmen von der Patentierbarkeit für therapeutische Verfahren.",
-              "text_en" : "Exceptions to patentability for therapeutic methods.",
-              "text_fr" : "Exceptions à la brevetabilité des méthodes thérapeutiques."
-            },
-            {
-              "text_de" : "Mangelnde Technizität.",
-              "text_en" : "Lack of technicality.",
-              "text_fr" : "Manque de technicité."
-            },
-            {
-              "text_de" : "Mangelnde erfinderische Tätigkeit.",
-              "text_en" : "Lack of inventive step.",
-              "text_fr" : "Absence d'activité inventive."
-            }
-          ],
-          "beginning" : [
-            "-2MM"
-          ],
-          "date" : [
-            "MO"
-          ],
-          "deadline" : [
-            "+2MM"
-          ],
-          "difficulty" : "1",
-          "explanation_de" : "#linkepc#ar100|Artikel 100 a) EPÜ#endlink# umfasst mehrere Einspruchsgründe. Therapeutische Verfahren können nicht-technische Merkmale umfassen, weswegen bei vorhandener Neuheit diese im Rahmen einer erfinderischen Tätigkeit behandelt werden. Sie werden dann als nicht erfinderisch beurteilt. Weiterhin wird bei der vorliegenden Ausgestaltung kein technisches Problem gelöst und keine technischen Mittel angewandt. Weiterhin existiert ein Patentierungsausschluss für therapeutscihe Verfahren am menschlichen und tierischen Körper. Für andere Einspruchsgründe liefert der Sachverhalt keine Grundlage.",
-          "explanation_en" : "#linkepc#ar100|Article 100(a) EPC#endlink# includes several grounds for opposition. Therapeutic methods may comprise non-technical features, which is why, if novelty is present, they are dealt with in the context of an inventive step. They are then judged to be non-inventive. Furthermore, in the present embodiment, no technical problem is solved and no technical means are applied. There is also a patent exclusion for therapeutic methods on the human and animal body. The facts of the case do not provide any basis for other grounds for opposition.",
-          "explanation_fr" : "#linkepc#ar100|Article 100(a) CBE#endlink# comprend plusieurs motifs d'opposition. Les méthodes thérapeutiques peuvent comporter des caractéristiques non techniques, c'est pourquoi, en cas de nouveauté, elles sont traitées dans le cadre d'une activité inventive. Elles sont alors jugées comme étant non inventives. En outre, dans le présent mode de réalisation, aucun problème technique n'est résolu et aucun moyen technique n'est appliqué. Il existe également une exclusion de brevet pour les méthodes thérapeutiques sur le corps humain et animal. Les faits de l'espèce ne permettent pas d'invoquer d'autres motifs d'opposition.",
-          "id" : 140,
-          "id_old" : 92,
-          "normen" : "Artikel 100 a med Verfahren",
-          "startdate" : "MO",
-          "text_de" : "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# hat ein Verfahren zur Therapierung von Infektionen entwickelt und ein europäisches Patent EP-1 erteilt bekommen. Dabei müssen über den Tag verteilt mehrere Bäder genommen werden. Diese sollen zu bestimmten Uhrzeiten eingenommen werden und vorgegebene Temperaturen aufweisen. Er ist auch der einzige Anmelder und genannte Erfinder. Das Verfahren ist auch neu. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# hat das Verfahren mitentwickelt, möchte es aber für alle Menschen frei halten. Er würde das Patent daher gerne widerrufen sehen. Welche Einspruchsgründe kann er bei einem Einspruch gegen EP-1 anführen? ",
-          "text_en" : "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# has developed a method for the treatment of infections and has been granted a European patent EP-1. This involves taking several baths spread throughout the day. These are to be taken at specific times and have predetermined temperatures. He is also the sole applicant and named inventor. The process is also new. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# co-developed the procedure but would like to keep it free to use for all people. Based on this reasoning, he would like to see the patent revoked. What grounds of opposition can he cite in an opposition to EP-1?",
-          "text_fr" : "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# a mis au point une méthode pour le traitement des infections et a obtenu un brevet européen EP-1. Cette méthode consiste à prendre plusieurs bains répartis dans la journée. Ceux-ci doivent être pris à des heures précises et à des températures prédéterminées. Il est également le seul demandeur et l'inventeur désigné. Le procédé est également nouveau. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# a co-développé le procédé mais souhaite que son utilisation reste gratuite pour tous. Sur la base de ce raisonnement, il souhaiterait que le brevet soit révoqué. Quels motifs d'opposition peut-il invoquer dans une opposition à EP-1 ?"
+          "difficulty" : "2",
+          "explanation_de" : "Ein nach #linkepc#r85|Regel 85 EPÜ#endlink# eingetragener Rechtsübergang wird von den meisten Ländern anerkannt. Einige fordern eine Abschrift der Bescheinigung des EPA (EPA Form 2544) vorzulegen. Welche Länder was verlangen kann dem Nationalen Recht zum EPÜ, Tabelle IX, Nummer 6 entnommen werden.",
+          "explanation_en" : "A transfer registered under #linkepc#r85|Rule 85 EPC#endlink# is recognized by most countries. Some require a copy of the EPO certificate (EPO Form 2544) to be submitted. Countries with these requirements can be found in the National Law to the EPC, Table IX, point 6.",
+          "explanation_fr" : "Un transfert enregistré sous #linkepc#r85|Règle 85 CBE#endlink# est reconnu par la plupart des pays. Certains exigent la présentation d'une copie du certificat de l'OEB (formulaire 2544 de l'OEB). Les pays ayant ces exigences sont indiqués dans la loi nationale sur la CBE, tableau IX, point 6.",
+          "id" : 129,
+          "id_old" : 370,
+          "normen" : "Regel 85 Nationales Recht IX 6",
+          "startdate" : "DO|-6MM",
+          "text_de" : "#linkwiki#Grace_Hopper|Grace Hopper#endlink# hat auf einen Computer ein Europäisches Patent EP-1 erteilt bekommen. Der Hinweis auf die Erteilung von EP-1 wurde am #beginning#0#enddate# bekanntgemacht. Hopper hat EP-1 danach an #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# verkauft, um Geld für weitere Entwicklungen zu erhalten. Die Umschreibung haben Sie am #startdate##enddate# in das europäische Register eintragen lassen. In welchen Ländern kann Kuzora-Ziarno ohne weitere Schritte beim nationalen Patentamt gegen einen Verletzer vorgehen?",
+          "text_en" : "#linkwiki#Grace_Hopper|Grace Hopper#endlink# has been granted a European patent EP-1 on a computer. The notice of grant of EP-1 was published on #beginning#0#enddate#. Hopper subsequently sold EP-1 to #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# to raise money for further development. You have registered the transfer in the European register on #startdate##enddate#. In which countries can Kuzora-Ziarno take action against an infringer without further action at the national patent office?",
+          "text_fr" : "#linkwiki#Grace_Hopper|Grace Hopper#endlink# a obtenu un brevet européen EP-1 sur un ordinateur. L'avis de délivrance du EP-1 a été publié le #beginning#0#enddate#. Hopper a ensuite vendu EP-1 à #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# afin de lever des fonds pour poursuivre son développement. Vous avez enregistré le transfert dans le registre européen le #startdate##enddate#. Dans quels pays Kuzora-Ziarno peut-elle intenter une action en justice contre un contrefacteur sans avoir à entreprendre d'autres démarches auprès de l'office national des brevets ?"
         }
       ],
-      "info_de" : "Einspruch, Einspruchsgründe, Prüfung des Einspruchs, Widerruf oder Aufrechterhaltung des europäischen Patents, Beschränkung oder Widerruf des europäischen Patents. ",
-      "info_en" : "Opposition, grounds for opposition, examination of opposition, revocation or maintenance of European patent, limitation or revocation of European patent.",
-      "info_fr" : "Opposition, motifs d'opposition, examen de l'opposition, révocation ou maintien du brevet européen, limitation ou révocation du brevet européen.",
-      "name_de" : "Einspruchs- und Beschränkungsverfahren",
-      "name_en" : "Opposition and restriction procedures",
-      "name_fr" : "Procédures d'opposition et de limitation",
-      "number" : 4,
+      "info_de" : "Rechte aus dem europäischen Patent, das Europäische Patent als Gegenstand des Vermögens, Verwendung, Strategien.",
+      "info_en" : "Rights arising from the European patent, the European patent as an object of property, use, strategies.",
+      "info_fr" : "Droits découlant du brevet européen, le brevet européen en tant qu'objet de propriété, d'utilisation, de stratégies.",
+      "name_de" : "Das Europäische Patent",
+      "name_en" : "The European Patent",
+      "name_fr" : "Le brevet européen",
+      "number" : 3,
       "version" : 1
     },
     {
