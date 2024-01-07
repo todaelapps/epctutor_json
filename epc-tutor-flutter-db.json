@@ -6745,6 +6745,481 @@
           "text_de" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# hat gegen ein europäisches Patent von #linkwiki#Charles_Darwin|Charles Darwin#endlink# eingesprochen. Darwin möchte nun seinerseits Einspruch gegen ein europäisches Patent EP-1 einlegen, das Russel erteilt bekommen hat. Russels Patent ist auf ein Zuchtverfahren von Finken, einer Vogelart, gerichtet. Es zeigt rein biologische Schritte mit Ausnahme der Verwendung eines Brutkastens. Die Verwendung eines Brutkastens ist bekannt, die anderen Merkmale bis auf eines ebenfalls. Mit welchen Einspruchsgründen kann Darwin wirksam EP-1 angreifen? ",
           "text_en" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# has objected to a European patent by #linkwiki#Charles_Darwin|Charles Darwin#endlink#. For his part, Darwin now wants to object to a European patent EP-1 that Wallace has been granted. Wallace's patent is directed to a breeding process for finches, a species of bird. It shows purely biological steps, except for the use of an incubator. The use of an incubator is known, and so are the other features, aside from one. On what grounds can Darwin effectively object to EP-1?",
           "text_fr" : "#linkwiki#Alfred_Russel_Wallace|Alfred Russel Wallace#endlink# a fait objection à un brevet européen de #linkwiki#Charles_Darwin|Charles Darwin#endlink#. De son côté, Darwin veut maintenant s'opposer à un brevet européen EP-1 que Wallace a obtenu. Le brevet de Wallace porte sur un procédé de reproduction des pinsons, une espèce d'oiseau. Il présente des étapes purement biologiques, à l'exception de l'utilisation d'un incubateur. L'utilisation d'un incubateur est connue, ainsi que les autres caractéristiques, à l'exception d'une seule. Sur quelles bases Darwin peut-il effectivement s'opposer à EP-1 ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Mangelnde Neuheit.",
+              "text_en" : "Lack of novelty.",
+              "text_fr" : "Manque de nouveauté."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ausnahmen von der Patentierbarkeit für therapeutische Verfahren.",
+              "text_en" : "Exceptions to patentability for therapeutic methods.",
+              "text_fr" : "Exceptions à la brevetabilité des méthodes thérapeutiques."
+            },
+            {
+              "text_de" : "Mangelnde Technizität.",
+              "text_en" : "Lack of technicality.",
+              "text_fr" : "Manque de technicité."
+            },
+            {
+              "text_de" : "Mangelnde erfinderische Tätigkeit.",
+              "text_en" : "Lack of inventive step.",
+              "text_fr" : "Absence d'activité inventive."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkepc#ar100|Artikel 100 a) EPÜ#endlink# umfasst mehrere Einspruchsgründe. Therapeutische Verfahren können nicht-technische Merkmale umfassen, weswegen bei vorhandener Neuheit diese im Rahmen einer erfinderischen Tätigkeit behandelt werden. Sie werden dann als nicht erfinderisch beurteilt. Weiterhin wird bei der vorliegenden Ausgestaltung kein technisches Problem gelöst und keine technischen Mittel angewandt. Weiterhin existiert ein Patentierungsausschluss für therapeutscihe Verfahren am menschlichen und tierischen Körper. Für andere Einspruchsgründe liefert der Sachverhalt keine Grundlage.",
+          "explanation_en" : "#linkepc#ar100|Article 100(a) EPC#endlink# includes several grounds for opposition. Therapeutic methods may comprise non-technical features, which is why, if novelty is present, they are dealt with in the context of an inventive step. They are then judged to be non-inventive. Furthermore, in the present embodiment, no technical problem is solved and no technical means are applied. There is also a patent exclusion for therapeutic methods on the human and animal body. The facts of the case do not provide any basis for other grounds for opposition.",
+          "explanation_fr" : "#linkepc#ar100|Article 100(a) CBE#endlink# comprend plusieurs motifs d'opposition. Les méthodes thérapeutiques peuvent comporter des caractéristiques non techniques, c'est pourquoi, en cas de nouveauté, elles sont traitées dans le cadre d'une activité inventive. Elles sont alors jugées comme étant non inventives. En outre, dans le présent mode de réalisation, aucun problème technique n'est résolu et aucun moyen technique n'est appliqué. Il existe également une exclusion de brevet pour les méthodes thérapeutiques sur le corps humain et animal. Les faits de l'espèce ne permettent pas d'invoquer d'autres motifs d'opposition.",
+          "id" : 140,
+          "id_old" : 92,
+          "normen" : "Artikel 100 a med Verfahren",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# hat ein Verfahren zur Therapierung von Infektionen entwickelt und ein europäisches Patent EP-1 erteilt bekommen. Dabei müssen über den Tag verteilt mehrere Bäder genommen werden. Diese sollen zu bestimmten Uhrzeiten eingenommen werden und vorgegebene Temperaturen aufweisen. Er ist auch der einzige Anmelder und genannte Erfinder. Das Verfahren ist auch neu. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# hat das Verfahren mitentwickelt, möchte es aber für alle Menschen frei halten. Er würde das Patent daher gerne widerrufen sehen. Welche Einspruchsgründe kann er bei einem Einspruch gegen EP-1 anführen? ",
+          "text_en" : "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# has developed a method for the treatment of infections and has been granted a European patent EP-1. This involves taking several baths spread throughout the day. These are to be taken at specific times and have predetermined temperatures. He is also the sole applicant and named inventor. The process is also new. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# co-developed the procedure but would like to keep it free to use for all people. Based on this reasoning, he would like to see the patent revoked. What grounds of opposition can he cite in an opposition to EP-1?",
+          "text_fr" : "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# a mis au point une méthode pour le traitement des infections et a obtenu un brevet européen EP-1. Cette méthode consiste à prendre plusieurs bains répartis dans la journée. Ceux-ci doivent être pris à des heures précises et à des températures prédéterminées. Il est également le seul demandeur et l'inventeur désigné. Le procédé est également nouveau. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# a co-développé le procédé mais souhaite que son utilisation reste gratuite pour tous. Sur la base de ce raisonnement, il souhaiterait que le brevet soit révoqué. Quels motifs d'opposition peut-il invoquer dans une opposition à EP-1 ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Der Patentinhaber muss zur Vermeidung eines Widerrufs Merkmale aus der Beschreibung aufnehmen, um eine Nacharbeitbarkeit von Anspruch 1 zu erhalten.",
+              "text_en" : "The patentee must include features from the description to avoid revocation in order to maintain reworkability of claim 1.",
+              "text_fr" : "Le breveté doit inclure des caractéristiques de la description pour éviter la révocation afin de maintenir la possibilité de retravailler la revendication 1."
+            },
+            {
+              "text_de" : "Der Patentinhaber muss einen Disclaimer aufnehmen, in dem er nicht nacharbeitbare Gegenstände, die Anspruch 1 umfasst, vom Schutzumfang ausnimmt.",
+              "text_en" : "The patentee must include a disclaimer excluding non-reworkable subject matter from the scope of protection that claim 1 covers.",
+              "text_fr" : "Le breveté doit inclure une clause de non-responsabilité excluant l'objet non retravaillable de l'étendue de la protection couverte par la revendication 1."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Der Patentinhaber muss auf diesen Einspruchsgrund nicht reagieren.",
+              "text_en" : "The patent owner does not have to respond to this ground of opposition.",
+              "text_fr" : "Le titulaire du brevet ne doit pas répondre à ce motif d'opposition."
+            },
+            {
+              "text_de" : "Der Patentinhaber kann Anspruch 1 einschränken, muss es aber nicht.",
+              "text_en" : "The patentee may limit claim 1, but is not required to do so.",
+              "text_fr" : "Le breveté peut limiter la revendication 1, mais n'est pas tenu de le faire."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkepc#ar100|Artikel 100 b) EPÜ#endlink# fordert, dass das Patent, und dazu zählen auch die Beschreibung und die Figuren, die Erfindung so deutlich und vollständig offenbaren muss, dass ein Fachmann sie ausführen kann. Die Ansprüche alleine müssen also keine Ausführbarkeit vermitteln. Dementsprechend muss bei der beschriebenen Ausgangslage keine Einschränkung der Ansprüche vorgenommen werden, da die Beschreibung für eine ausreichende Offenbarung sorgt. Insbesondere ist es bei diesem Einspruchsgrund gar nicht möglich, diesen durch Änderungen an den Ansprüchen zu überwinden, da er sich auf die gesamte Offenbarung bezieht. ",
+          "explanation_en" : "#linkepc#ar100|Article 100(b) EPC#endlink# requires that the patent, and this includes the description and figures, must disclose the invention sufficiently clearly and completely to enable a person skilled in the art to carry it out. Thus, the claims alone need not convey practicability. Accordingly, in the current situation being described, there is no need to limit the claims because the description provides sufficient disclosure. In particular, with this ground of objection, it is not even possible to overcome it by amendments to the claims, since it relates to the entire disclosure.",
+          "explanation_fr" : "#L'article 100(b) de la CBE exige que le brevet, y compris la description et les figures, divulgue l'invention de manière suffisamment claire et complète pour permettre à un homme du métier de l'exécuter. Ainsi, les revendications seules ne doivent pas nécessairement transmettre la praticabilité. En conséquence, dans la situation actuelle décrite, il n'est pas nécessaire de limiter les revendications car la description fournit une divulgation suffisante. En particulier, avec ce motif d'objection, il n'est même pas possible de le surmonter par des modifications des revendications, puisqu'il concerne l'ensemble de la divulgation.",
+          "id" : 141,
+          "id_old" : 93,
+          "normen" : "Artikel 100 a Ausführbarkeit",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Ernest_Rutherford|Ernest Rutherford#endlink# hat ein europäisches Patent EP-1 bemerkt, das auf eine Strahlenvorrichtung  gerichtet ist. Dieses möchte er angreifen. Anspruch 1 ist breit gefasst und enthält nicht alle Merkmale, die für eine Nacharbeitbarkeit ausreichen. Nach dem Lesen der Beschreibung hat der Fachmann aber alle Informationen, die er benötigt, um den Gegenstand von EP-1 nacharbeiten zu können. Rutherford fragt Sie als Anwalt, wie die wahrscheinlichste Folge auf diesen Einspruchsgrund aussieht.",
+          "text_en" : "#linkwiki#Ernest_Rutherford|Ernest Rutherford#endlink# has noticed a European patent EP-1 directed to a radiation device. He wishes to challenge EP-1. Claim 1 is broad and does not include all the features sufficient to be carried out. However, after reading the description, the skilled person has all the information he needs to be able to carry out the subject matter of EP-1. Rutherford asks you, as counsel, what the most likely consequence on this ground of opposition would be.  How do you answer?",
+          "text_fr" : "#linkwiki#Ernest_Rutherford|Ernest Rutherford#endlink# a remarqué un brevet européen EP-1 portant sur un appareil à rayonnement. Il souhaite contester EP-1. La revendication 1 est large et ne comprend pas toutes les caractéristiques suffisantes pour être exécutée. Cependant, après avoir lu la description, l'homme du métier dispose de toutes les informations dont il a besoin pour pouvoir réaliser l'objet de EP-1. Rutherford vous demande, en tant qu'avocat, quelle serait la conséquence la plus probable sur ce motif d'opposition.  Quelle est votre réponse ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Die Einspruchsabteilung entscheidet nur über einen Antrag. Ostwald muss sich entscheiden, welcher der Anträge die meisten Erfolgsaussichten bietet.",
+              "text_en" : "The opposition division only decides on one application. Ostwald must decide which of the applications has the best chance of success.",
+              "text_fr" : "La division d'opposition ne se prononce que sur une seule demande. Ostwald doit décider laquelle des demandes a le plus de chances de succès."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Ist die Einspruchsabteilung der Auffassung, dass wenigstens ein Einspruchsgrund der Aufrechterhaltung des europäischen Patents entgegensteht, so widerruft sie das Patent im erteilten Umfang. Die Hilfsanträge werden gesondert betrachtet. ",
+              "text_en" : "If the Opposition Division is of the opinion that at least one ground of opposition prevents the maintenance of the European patent, it shall revoke the patent to the extent granted. The auxiliary requests are considered separately.",
+              "text_fr" : "Si la division d'opposition est d'avis qu'au moins un motif d'opposition empêche le maintien du brevet européen, elle révoque le brevet dans la mesure où il est accordé. Les requêtes auxiliaires sont examinées séparément."
+            },
+            {
+              "text_de" : "Die Einspruchsabteilung berücksichtigt alle zulässigen und rechtzeitig eingereichten Hilfsanträge.",
+              "text_en" : "The opposition division considers all admissible and timely filed auxiliary requests.",
+              "text_fr" : "La division d'opposition examine toutes les demandes auxiliaires recevables et déposées dans les délais."
+            },
+            {
+              "text_de" : "Greift einer der Einspruchsgründe gegen EP-1 und ist einer der Hilfsanträge gewährbar, beschließt die Einspruchsabteilung die Aufrechterhaltung des Patents in geänderter Fassung, sofern die in der Ausführungsordnung genannten Voraussetzungen erfüllt sind.",
+              "text_en" : "If one of the grounds for opposition to EP-1 applies and if one of the auxiliary requests is allowable, the Opposition Division decides to maintain the patent as amended, provided that the requirements set out in the Implementing Regulations are met.",
+              "text_fr" : "Si l'un des motifs d'opposition à EP-1 s'applique et si l'une des requêtes auxiliaires est recevable, la division d'opposition décide de maintenir le brevet tel que modifié, pour autant que les conditions énoncées dans le règlement d'exécution soient remplies."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkepc#ar101|Artikel 101 EPÜ#endlink# zeigt drei mögliche Ausgänge des Einspruchsverfahrens: greift keiner der Einspruchsgründe bleibt EP-1 unverändert aufrecht erhalten. Greift einer der Einspruchsgründe, kann der Patentinhaber durch Einschränkungen eine Aufrechterhaltung in geändertem Umfang erreichen. Dabei können grundsätzlich beliebig viele Hilfsanträge eingereicht werden. Ob ein gewährbarer Anspruchssatz im Hauptantrag oder einem Hilfsantrag vorliegt, entscheidet sich üblicherweise in einer mündlichen Verhandlung. Wird ein durchgreifender Einspruchsgrund nicht beseitigt ist EP-1 zu widerrufen.",
+          "explanation_en" : "#linkepc#ar101|Article 101 EPC#endlink# shows three possible outcomes of the opposition proceedings: if none of the grounds for opposition apply, EP-1 remains unchanged. If one of the grounds for opposition applies, the patentee can obtain maintenance in amended scope by means of limitations. In principle, any number of auxiliary requests can be filed. Whether there is an allowable set of claims in the main request or in an auxiliary request is usually decided in oral proceedings. If a substantial ground for opposition is not eliminated, EP-1 must be revoked.",
+          "explanation_fr" : "#linkepc#ar101|Article 101 CBE#endlink# montre trois issues possibles de la procédure d'opposition : si aucun des motifs d'opposition ne s'applique, EP-1 reste inchangé. Si l'un des motifs d'opposition est applicable, le breveté peut obtenir le maintien dans un champ d'application modifié par le biais de limitations. En principe, un nombre illimité de requêtes auxiliaires peut être déposé. La question de savoir si un ensemble de revendications est admissible dans la requête principale ou dans une requête auxiliaire est généralement tranchée lors d'une procédure orale. Si un motif substantiel d'opposition n'est pas éliminé, la demande EP-1 doit être révoquée.",
+          "id" : 142,
+          "id_old" : 94,
+          "normen" : "Artikel 101",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Wilhelm_Ostwald|Wilhelm Ostwald#endlink# hat in einem europäischen Patent EP-1 einen Katalysator patentiert bekommen. Die kanadische Firma Ahorn Inc., die die Erfindung benutzen aber nicht dafür bezahlen möchte, hat gegen EP-1 Einspruch eingelegt. Ostwald hat, da er nicht sicher ist, ob sein Hauptanspruch A1 bestand hat, mehrere Hilfsanträge eingereicht. Ahorn Inc. moniert, dass ein erteilungsfähiger Satz Patentansprüche nur im Erteilungsverfahren eingereicht werden könne. Falls überhaupt Einschränkungen vorgenommen würden könne auch nur ein Antrag verhandelt werden, Hilfsanträge seien nicht zu akzeptieren, da der angestrebte Schutzumfang nicht klar werde. Welche Beschlüsse kann die Einspruchsabteilung fassen?",
+          "text_en" : "#linkwiki#Wilhelm_Ostwald|Wilhelm Ostwald#endlink# has patented a catalyst in a European patent EP-1. The Canadian company Maple Inc., which wants to use the invention but not pay for it, has filed an opposition to EP-1. Ostwald, being unsure whether his main claim A1 will pass, has filed several auxiliary claims. Maple Inc. complains that a grantable set of claims can only be filed in grant proceedings. If any limitations were made at all, only one claim could be heard, auxiliary claims were not to be accepted because the scope of protection sought was not clear. What decisions can the opposition division take?",
+          "text_fr" : "#linkwiki#Wilhelm_Ostwald|Wilhelm Ostwald#endlink# a breveté un catalyseur dans un brevet européen EP-1. La société canadienne Maple Inc, qui souhaite utiliser l'invention mais ne pas la payer, a déposé une opposition à EP-1. Ostwald, n'étant pas sûr que sa revendication principale A1 soit acceptée, a déposé plusieurs revendications auxiliaires. Maple Inc. se plaint du fait qu'un ensemble de revendications pouvant être accordées ne peut être déposé que dans le cadre d'une procédure d'octroi. En cas de limitation, une seule revendication peut être entendue, les revendications auxiliaires ne doivent pas être acceptées car l'étendue de la protection recherchée n'est pas claire. Quelles décisions la division d'opposition peut-elle prendre ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Die Wettbewerber müssen sich über das Register des EPA informiert halten.",
+              "text_en" : "Competitors must keep themselves informed about the EPO's register.",
+              "text_fr" : "Les concurrents doivent se tenir informés du registre de l'OEB."
+            },
+            {
+              "text_de" : "Außer für die Einsprechende und die Patentinhaberin hat die Beschränkung für niemanden Relevanz, es muss also niemand informiert werden.",
+              "text_en" : "Except for the opponent and the patentee, the restriction has no relevance for anyone, so no one needs to be informed.",
+              "text_fr" : "À l'exception de l'opposant et du breveté, la restriction n'a aucune importance pour qui que ce soit, de sorte que personne n'a besoin d'être informé."
+            },
+            {
+              "text_de" : "Die Patentinhaberin muss für eine Veröffentlichung der neuen Patentschrift innerhalb von zwei Monaten in wenigstens einem kommerziellen Patentregister sorgen.",
+              "text_en" : "The patent owner must ensure publication of the new patent specification within two months in at least one commercial patent register.",
+              "text_fr" : "Le titulaire du brevet doit assurer la publication du nouveau fascicule de brevet dans un délai de deux mois dans au moins un registre commercial des brevets."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Das Europäische Patentamt veröffentlicht eine Bekanntmachung des Hinweises auf die Entscheidung über den Einspruch im Europäischen Patentblatt.",
+              "text_en" : "The European Patent Office publishes a notice of the decision on the opposition in the European Patent Bulletin.",
+              "text_fr" : "L'Office européen des brevets publie un avis de décision sur l'opposition dans le Bulletin européen des brevets."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Nach #linkepc#ar103|Artikel 103 EPÜ#endlink# veröffentlicht das Europäische Patentamt eine neue europäische Patentschrift so bald wie möglich nach Bekanntmachung des Hinweises auf die Entscheidung über den Einspruch im Europäischen Patentblatt. Kommerzielle Register sind eine völlig unnütze Geldausgabe.",
+          "explanation_en" : "According to #linkepc#ar103|Article 103 EPC#endlink#, the European Patent Office publishes a new European patent specification in the European Patent Bulletin as soon as possible after publication of the notice of the decision on the opposition. Commercial registers are a completely useless expenditure of money.",
+          "explanation_fr" : "Selon #linkepc#ar103|Article 103 CBE#endlink#, l'Office européen des brevets publie un nouveau fascicule de brevet européen dans le Bulletin européen des brevets dès que possible après la publication de l'avis de la décision sur l'opposition. Les registres du commerce sont une dépense d'argent totalement inutile.",
+          "id" : 143,
+          "id_old" : 95,
+          "normen" : "Artikel 103",
+          "startdate" : "MO",
+          "text_de" : "Wie wird über eine beschränkte Aufrechterhaltung eines Patentes nach einem Einspruchsverfahren informiert?",
+          "text_en" : "How is information provided about a limited maintenance of a patent after opposition proceedings?",
+          "text_fr" : "Comment l'information est-elle fournie sur le maintien limité d'un brevet après une procédure d'opposition ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Wallach hat das Verfahren verloren und muss daher sämtliche Kosten tragen.",
+              "text_en" : "Wallach has lost the proceedings and must therefore pay all the costs.",
+              "text_fr" : "Wallach a perdu le procès et doit donc payer tous les frais."
+            },
+            {
+              "text_de" : "Der Patentinhaber muss sämtliche Kosten tragen, weil der Einspruch zulässig war.",
+              "text_en" : "The patent proprietor must bear all costs because the opposition was admissible.",
+              "text_fr" : "Le titulaire du brevet doit supporter tous les frais car l'opposition était recevable."
+            },
+            {
+              "text_de" : "Jeder trägt seine Kosten selbst.",
+              "text_en" : "Each bears its own costs.",
+              "text_fr" : "Chacun supporte ses propres coûts."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Jeder trägt seine Kosten weitgehend selbst, Wallach muss dem Patentinhaber aber die Kosten der mündlichen Verhandlung ersetzen.",
+              "text_en" : "Each party shall bear its own costs to a large extent, but Wallach shall reimburse the patentee for the costs of the oral proceedings.",
+              "text_fr" : "Chaque partie supporte ses propres frais dans une large mesure, mais Wallach rembourse au breveté les frais de la procédure orale."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkepc#ar104|Artikel 104 (1) EPÜ#endlink# legt fest, dass grundsätzlich jede Partei ihre eigenen Kosten trägt. Aus Billigkeitsgründen kann davon aber abgewichen werden. Der Patentinhaber hatte offensichtlich keine Veranlassung, die mündliche Verhandlung zu besuchen, wenn Wallach nicht erscheint. Daher sind Kosten in diesem Zusammenhang aus Billigkeitsgründen Wallach aufzuerlegen.",
+          "explanation_en" : "#linkepc#ar104|Article 104 (1) EPC#endlink# states that in principle each party shall bear its own costs. However, this may be deviated from for reasons of equity. The patentee obviously had no reason to attend the oral proceedings if Wallach did not appear. Therefore, costs in this connection are to be imposed on Wallach for reasons of equity.",
+          "explanation_fr" : "#linkepc#ar104|L'article 104 (1) CBE#endlink# stipule qu'en principe, chaque partie supporte ses propres frais. Il peut toutefois être dérogé à cette règle pour des raisons d'équité. Le breveté n'avait manifestement aucune raison d'assister à la procédure orale si Wallach ne comparaissait pas. Par conséquent, les frais à cet égard doivent être imposés à Wallach pour des raisons d'équité.",
+          "id" : 144,
+          "id_old" : 96,
+          "normen" : "Artikel 104 (1) Kosten",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Otto_Wallach|Otto Wallach#endlink# hat einen zulässigen Einspruch gegen ein europäisches Patent EP-1 eingelegt. Er beantragt zwar eine mündliche Verhandlung, erscheint zu dieser aber ohne Ankündigung oder Entschuldigung nicht. In der Vorabmitteilung war eine Aufrechterhaltung des Patentes in vollem Umfang in Aussicht gestellt worden. Der Patentinhaber beantragt in der mündlichen Verhandlung, Wallach sämtliche Kosten, zumindest aber die An- und Abreise zur mündlichen Verhandlung zu übertragen. Das Patent wird in der Verhandlung uneingeschränkt aufrecht erhalten. Wie wird die Kostenverteilung wahrscheinlich aussehen?",
+          "text_en" : "#linkwiki#Otto_Wallach|Otto Wallach#endlink# has filed an admissible opposition against a European patent EP-1. He requests oral proceedings, but fails to appear at them without notice or excuse. In the preliminary communication, the patent was expected to be maintained in its entirety. At the oral hearing, the patentee requests that Wallach be ordered to pay all costs, or at least travel to and from the oral hearing. The patent is maintained in full at the hearing. What is the likely allocation of costs?",
+          "text_fr" : "#linkwiki#Otto_Wallach|Otto Wallach#endlink# a formé une opposition recevable contre un brevet européen EP-1. Il demande une procédure orale, mais ne s'y présente pas sans préavis ni excuse. Dans la communication préliminaire, il était prévu que le brevet soit maintenu dans son intégralité. Lors de l'audience, le breveté demande que Wallach soit condamné à payer tous les frais, ou à tout le moins à se rendre à l'audience et à en revenir. Le brevet est maintenu dans son intégralité lors de l'audience. Quelle est la répartition probable des coûts ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Grignard kann beitreten, da bereits ein Einspruchsverfahren gegen EP-1 anhängig ist.",
+              "text_en" : "Grignard can join because there is already an opposition case pending against EP-1.",
+              "text_fr" : "Grignard peut s'y joindre car il y a déjà un cas d'opposition en cours contre EP-1."
+            },
+            {
+              "text_de" : "Grignard jederzeit einem anhängigen Einspruchsverfahren beitreten, solange er nicht Patentinhaber ist.",
+              "text_en" : "Grignard can join a pending opposition proceeding at any time so long as he is not the patent owner.",
+              "text_fr" : "Grignard peut se joindre à tout moment à une procédure d'opposition en cours, tant qu'il n'est pas le titulaire du brevet."
+            },
+            {
+              "text_de" : "Grignard kann beitreten, wenn er nachweist, dass er EP-1 verletzt.",
+              "text_en" : "Grignard can join if he proves he is in violation of EP-1.",
+              "text_fr" : "Grignard peut adhérer s'il prouve qu'il est en violation de l'EP-1."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Grignard kann nicht beitreten, da weder eine Verletzungsklage noch eine negative Feststellungsklage zwischen Grignard und Sabatier anhängig sind.",
+              "text_en" : "Grignard cannot intervene because neither an infringement action nor a negative declaratory judgment action is pending between Grignard and Sabatier.",
+              "text_fr" : "Grignard ne peut intervenir car ni une action en contrefaçon ni une action en jugement déclaratoire négatif ne sont en cours entre Grignard et Sabatier."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkepc#ar105|Artikel 105 (1) EPÜ#endlink# listet die Voraussetzungen auf, zu denen man einem Einspruchsverfahren beitreten kann. Zu diesen gehören eine anhängige Verletzungsklage oder negative Feststellungsklage wegen des Patentes im Einspruchsverfahren. Da keinerlei Klage vorliegt kann Grignard nicht beitreten.",
+          "explanation_en" : "#linkepc#ar105|Article 105 (1) EPC#endlink# lists the requirements for joining opposition proceedings. These include a pending infringement action or negative declaratory action on the patent in opposition proceedings. Since no action is pending, Grignard cannot intervene.",
+          "explanation_fr" : "#linkepc#ar105|L'article 105 (1) de la CBE énumère les conditions requises pour engager une procédure d'opposition. Celles-ci comprennent une action en contrefaçon en cours ou une action déclaratoire négative sur le brevet faisant l'objet de la procédure d'opposition. Comme aucune action n'est en cours, Grignard ne peut pas intervenir.",
+          "id" : 145,
+          "id_old" : 97,
+          "normen" : "Artikel 105 (1) Beitritt bei Klage",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Victor_Grignard|Victor Grignard#endlink# hat eine Einspruchsfrist gegen ein europäisches Patent EP-1 von #linkwiki#Paul_Sabatier_(Chemiker)|Paul Sabatier#endlink# verpasst. Er hat aber gelesen, dass der Betritt zu einem Einspruch wie ein Einspruch gewertet wird. Zu seiner Freude stellt er fest, dass auch bereits ein Einspruch gegen EP-1 läuft. Kann Grignard dem Einspruchsverfahren beitreten?",
+          "text_en" : "#linkwiki#Victor_Grignard|Victor Grignard#endlink# has missed an opposition deadline against a European patent EP-1 by #linkwiki#Paul_Sabatier_(chemist)|Paul Sabatier#endlink#. However, he has read that intervening an opposition is treated as an opposition. To his delight, he finds that an EP-1 appeal is also already underway. Can Grignard join the appeal?",
+          "text_fr" : "#linkwiki#Victor_Grignard|Victor Grignard#endlink# a manqué un délai d'opposition contre un brevet européen EP-1 de #linkwiki#Paul_Sabatier_(chimiste)|Paul Sabatier#endlink#. Cependant, il a lu que l'intervention dans une opposition est traitée comme une opposition. À sa grande joie, il découvre qu'un recours EP-1 est également en cours. Grignard peut-il se joindre à l'appel ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Grignard kann beitreten, da bereits ein Einspruchsverfahren gegen EP-2 anhängig ist.",
+              "text_en" : "Grignard can join because there is already an opposition case pending against EP-2.",
+              "text_fr" : "Grignard peut s'y joindre car il y a déjà un cas d'opposition en cours contre EP-2."
+            },
+            {
+              "text_de" : "Grignard kann dem Einspruchsverfahren beitreten, sobald er eine Klage auf Feststellung erhoben hat, dass er das Patent EP-1 nicht verletze.",
+              "text_en" : "Grignard may join the opposition proceedings once he has filed an action for a declaratory judgment that does not infringe upon patent EP-1.",
+              "text_fr" : "Grignard peut se joindre à la procédure d'opposition dès lors qu'il a introduit une action en jugement déclaratif de non-contrefaçon du brevet EP-1."
+            },
+            {
+              "text_de" : "Grignard kann dem Einspruchsverfahren nicht beitreten, da Sabatier nicht aus EP-2 gegen ihn vorgeht.",
+              "text_en" : "Grignard cannot join the opposition proceedings because Sabatier does not oppose him from EP-2.",
+              "text_fr" : "Grignard ne peut se joindre à la procédure d'opposition car Sabatier ne lui oppose pas EP-2."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Grignard kann dem Einspruchsverfahren beitreten. Er muss vorher Klage auf Feststellung erhoben haben, dass er das Patent EP-2 nicht verletze. Dies geht auch ohne Abmahnung aus EP-2 durch Sabatier.",
+              "text_en" : "Grignard can join the opposition proceedings. He must have previously filed suit for a declaration that he does not infringe patent EP-2. This is also possible without a warning from EP-2 by Sabatier.",
+              "text_fr" : "Grignard peut se joindre à la procédure d'opposition. Il doit avoir préalablement intenté une action en justice pour faire constater qu'il ne viole pas le brevet EP-2. Ceci est également possible sans un avertissement d'EP-2 par Sabatier."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "#linkepc#ar105|Artikel 105 (1) EPÜ#endlink# listet die Voraussetzungen auf, zu denen man einem Einspruchsverfahren beitreten kann. Zu diesen gehören eine anhängige Verletzungsklage oder negative Feststellungsklage wegen dem Patent im Einspruchsverfahren. Ein anderes Patent, auch aus der gleichen Patentfamilie, ist nicht ausreichend. Eine negative Feststellungsklage kann jederzeit erhoben werden.",
+          "explanation_en" : "#linkepc#ar105|Article 105 (1) EPC#endlink# lists the requirements for joining opposition proceedings. These include a pending infringement action or negative declaratory judgment action on the patent in opposition proceedings. Another patent, even from the same patent family, is not sufficient. A negative declaratory action can be filed at any time.",
+          "explanation_fr" : "#linkepc#ar105|L'article 105 (1) de la CBE énumère les conditions requises pour engager une procédure d'opposition. Celles-ci comprennent une action en contrefaçon en cours ou une action en jugement déclaratoire négatif sur le brevet faisant l'objet de la procédure d'opposition. Un autre brevet, même de la même famille de brevets, n'est pas suffisant. Une action déclaratoire négative peut être déposée à tout moment.",
+          "id" : 146,
+          "id_old" : 98,
+          "normen" : "Artikel 105 (1) dieses Patentes",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Paul_Sabatier_(Chemiker)|Paul Sabatier#endlink# hat #linkwiki#Victor_Grignard|Victor Grignard#endlink# eine Abmahnung aus dem europäischen Patent EP-1 gesendet. Beim Blick in das Register fällt Grignard auf, dass gegen das europäische Patent EP-2, das eine Teilanmeldung zu EP-1 ist, bereits ein Einspruch eingereicht wurde. EP-1 stört Grignard nicht, aber EP-2 würde seine Produktion von Organomagnesiumverbindungen behindern. Kann Grignard dem Einspruchsverfahren beitreten?",
+          "text_en" : "#linkwiki#Paul_Sabatier_(chemist)|Paul Sabatier#endlink# has sent #linkwiki#Victor_Grignard|Victor Grignard#endlink# a warning regarding the European patent EP-1. Looking at the register, Grignard notices that an opposition has already been filed against European patent EP-2, which is a divisional application of EP-1. EP-1 does not bother Grignard, but EP-2 would hinder his production of organomagnesium compounds. Can Grignard join the opposition proceedings?",
+          "text_fr" : "#linkwiki#Paul_Sabatier_(chimiste)|Paul Sabatier#endlink# a envoyé à #linkwiki#Victor_Grignard|Victor Grignard#endlink# un avertissement concernant le brevet européen EP-1. En consultant le registre, Grignard constate qu'une opposition a déjà été déposée contre le brevet européen EP-2, qui est une application divisionnaire de EP-1. Le brevet EP-1 ne dérange pas Grignard, mais le brevet EP-2 le gênerait dans sa production de composés organomagnésiens. Grignard peut-il se joindre à la procédure d'opposition ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Marie Curie.",
+              "text_en" : "Marie Curie.",
+              "text_fr" : "Marie Curie."
+            },
+            {
+              "text_de" : "Pierre Curie.",
+              "text_en" : "Pierre Curie.",
+              "text_fr" : "Pierre Curie."
+            },
+            {
+              "text_de" : "Jeder.",
+              "text_en" : "Everyone.",
+              "text_fr" : "Tout le monde."
+            },
+            {
+              "text_de" : "Niemand.",
+              "text_en" : "No one.",
+              "text_fr" : "Personne."
+            },
+            {
+              "text_de" : "Svante Arrhenius",
+              "text_en" : "Svante Arrhenius",
+              "text_fr" : "Svante Arrhenius"
+            },
+            {
+              "text_de" : "Henri Becquerel und Svante Arrhenius",
+              "text_en" : "Henri Becquerel and Svante Arrhenius",
+              "text_fr" : "Henri Becquerel et Svante Arrhenius"
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Henri Becquerel, Marie Curie und Pierre Curie zusammen.",
+              "text_en" : "Henri Becquerel, Marie Curie and Pierre Curie together.",
+              "text_fr" : "Henri Becquerel, Marie Curie et Pierre Curie ensemble."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Gemäß #linkepc#ar105a|Artikel 105a EPÜ#endlink# kann der Patentinhaber einen Antrag auf Beschränkung oder Widerruf stellen. Bei mehreren Inhabern ist dies die Inhabergemeinschaft, hier also Henri Becquerel, Marie Curie und Pierre Curie.",
+          "explanation_en" : "According to #linkepc#ar105a|Article 105a EPC#endlink#, the patent owner can file a request for limitation or revocation. In case of several owners, this is considered the community of owners, herein Henri Becquerel, Marie Curie and Pierre Curie.",
+          "explanation_fr" : "Selon #linkepc#ar105a|Article 105a CBE#endlink#, le titulaire du brevet peut déposer une requête en limitation ou en révocation. En cas de plusieurs propriétaires, on parle de communauté de propriétaires, en l'occurrence Henri Becquerel, Marie Curie et Pierre Curie.",
+          "id" : 147,
+          "id_old" : 99,
+          "normen" : "Artikel 105a Patentinhaber",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Henri_Becquerel|Henri Becquerel#endlink#, #linkwiki#Pierre_Curie|Pierre Curie#endlink# und hat #linkwiki#Marie_Curie|Marie Curie#endlink# haben nicht nur gemeinsam einen Nobelpreis erhalten, sie haben auch ein gemeinsames europäisches Patent EP-1 erteilt bekommen. #linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# hat, nachdem er EP-1 genau studiert und mit eigenen Veröffentlichungen abgeglichen hat, Becquerel überzeugt, dass der erteilte Schutzumfang von EP-1 zu breit ist. Sie möchten den Schutzumfang von EP-1 daher einengen, auch wenn die Einspruchsfrist bereits abgelaufen ist. Wer kann Antrag auf Beschränkung von EP-1 stellen? ",
+          "text_en" : "#linkwiki#Henri_Becquerel|Henri Becquerel#endlink#, #linkwiki#Pierre_Curie|Pierre Curie#endlink# and #linkwiki#Marie_Curie|Marie Curie#endlink# have not only jointly received a Nobel Prize, they have also been granted a joint European patent EP-1. #linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink#, after studying EP-1 closely and checking it against his own publications, has convinced Becquerel that the granted scope of protection of EP-1 is too broad. Therefore, they would like to narrow the scope of protection of EP-1, even though the opposition period has already expired. Who can file a request for limitation of EP-1?",
+          "text_fr" : "#linkwiki#Henri_Becquerel|Henri Becquerel#endlink#, #linkwiki#Pierre_Curie|Pierre Curie#endlink# et #linkwiki#Marie_Curie|Marie Curie#endlink# n'ont pas seulement reçu conjointement un prix Nobel, ils ont également obtenu un brevet européen commun EP-1. #linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink#, après avoir étudié de près EP-1 et l'avoir comparé à ses propres publications, a convaincu Becquerel que la portée de la protection accordée par EP-1 est trop large. Par conséquent, il souhaiterait réduire l'étendue de la protection de EP-1, même si le délai d'opposition a déjà expiré. Qui peut déposer une demande de limitation de l'EP-1 ?"
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Die Wettbewerber müssen sich über das Register des EPA informiert halten.",
+              "text_en" : "Competitors must keep themselves informed about the EPO's register.",
+              "text_fr" : "Les concurrents doivent se tenir informés du registre de l'OEB."
+            },
+            {
+              "text_de" : "Außer für die Patentinhaberin hat die Beschränkung für niemanden Relevanz, es muss also niemand informiert werden.",
+              "text_en" : "Except for the patent owner, the restriction has no relevance for anyone, so no one needs to be informed.",
+              "text_fr" : "À l'exception du titulaire du brevet, la restriction n'a aucune importance pour quiconque, et personne ne doit donc être informé."
+            },
+            {
+              "text_de" : "Die Patentinhaberin muss für eine Veröffentlichung der neuen Patentschrift innerhalb von zwei Monaten in wenigstens einem kommerziellen Patentregister sorgen.",
+              "text_en" : "The patent owner must ensure publication of the new patent specification within two months in at least one commercial patent register.",
+              "text_fr" : "Le titulaire du brevet doit assurer la publication du nouveau fascicule de brevet dans un délai de deux mois dans au moins un registre commercial des brevets."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Das Europäische Patentamt veröffentlicht eine neue europäische Patentschrift im Europäischen Patentblatt.",
+              "text_en" : "The European Patent Office publishes a new European patent specification in the European Patent Bulletin.",
+              "text_fr" : "L'Office européen des brevets publie un nouveau fascicule de brevet européen dans le Bulletin européen des brevets."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Nach #linkepc#ar105c|Artikel 105c EPÜ#endlink# veröffentlicht das Europäische Patentamt die geänderte europäische Patentschrift so bald wie möglich nach Bekanntmachung des Hinweises auf die Beschränkung im Europäischen Patentblatt. Kommerzielle Register sind eine völlig unnütze Geldausgabe.",
+          "explanation_en" : "According to #linkepc#ar105c|Article 105c EPC#endlink#, the European Patent Office publishes the amended European patent specification as soon as possible after publication of the mention of the limitation in the European Patent Bulletin. Commercial registers are a completely useless expenditure of money.",
+          "explanation_fr" : "Selon #linkepc#ar105c|Article 105c CBE#endlink#, l'Office européen des brevets publie le fascicule de brevet européen modifié dès que possible après la publication de la mention de la limitation dans le Bulletin européen des brevets. Les registres du commerce sont une dépense d'argent totalement inutile.",
+          "id" : 148,
+          "id_old" : 100,
+          "normen" : "Artikel 105c",
+          "startdate" : "MO",
+          "text_de" : "Wie wird über eine beschränkte Aufrechterhaltung eines Patentes nach einem Beschränkungsverfahren informiert? Bitte die richtigen Antworten ankreuzen.",
+          "text_en" : "How is information provided about a limited maintenance of a patent after a limitation procedure? Please mark the correct answers with a cross.",
+          "text_fr" : "Comment l'information est-elle fournie sur le maintien limité d'un brevet après une procédure de limitation ? Veuillez marquer d'une croix les réponses correctes."
+        },
+        {
+          "answers_false" : [
+            {
+              "text_de" : "Das Einspruchsverfahren ist beendet.",
+              "text_en" : "The objection procedure has ended.",
+              "text_fr" : "La procédure d'objection est terminée."
+            },
+            {
+              "text_de" : "Das Einspruchsverfahren läuft weiter, aber nur noch Jørgensen ist Partei.",
+              "text_en" : "The opposition proceedings continue, but only Jørgensen is still a party.",
+              "text_fr" : "La procédure d'opposition se poursuit, mais seul Jørgensen est encore partie prenante."
+            },
+            {
+              "text_de" : "Das Einspruchsverfahren läuft weiter, aber nur noch Werner ist Partei.",
+              "text_en" : "The opposition proceedings continue, but only Werner is still a party.",
+              "text_fr" : "La procédure d'opposition se poursuit, mais seul Werner est encore partie prenante."
+            }
+          ],
+          "answers_true" : [
+            {
+              "text_de" : "Das Einspruchsverfahren läuft weiter.  ",
+              "text_en" : "The opposition proceedings are continuing.",
+              "text_fr" : "La procédure d'opposition se poursuit."
+            }
+          ],
+          "beginning" : [
+            "-2MM"
+          ],
+          "date" : [
+            "MO"
+          ],
+          "deadline" : [
+            "+2MM"
+          ],
+          "difficulty" : "1",
+          "explanation_de" : "Gemäß #linkepc#r75|Regel 75 EPÜ#endlink# kann auch dann Einspruch eingelegt werden, wenn in allen benannten Vertragsstaaten auf das europäische Patent verzichtet worden ist oder das Patent in allen diesen Staaten erloschen ist. Bis zum Verzicht hat das Patent nämlich Rechtskraft, die mit dem Einspruch angegriffen werden kann. Ein Verzicht ex tunc, also von Anfang an, war nicht ausgesprochen worden. Dieser könnte das Rechtsschutzbedürfnis Jørgensens entfallen lassen.",
+          "explanation_en" : "According to #linkepc#r75|Rule 75 EPC#endlink#, opposition can be filed even if the European patent has been surrendered in all designated Contracting States or the patent has lapsed in all these states. This is due to the fact that until the patent is surrendered, it has the force of law, which can be attacked by the opposition. A waiver ex tunc, i.e. from the outset, had not been pronounced. This could eliminate Jørgensen's need for legal protection.",
+          "explanation_fr" : "Selon #linkepc#r75|Règle 75 CBE#endlink#, une opposition peut être formée même si le brevet européen a fait l'objet d'une renonciation dans tous les États contractants désignés ou si le brevet est tombé en déchéance dans tous ces États. Cela est dû au fait que tant que le brevet n'a pas fait l'objet d'une renonciation, il a force de loi, ce qui peut être attaqué par l'opposition. Une renonciation ex tunc, c'est-à-dire dès le départ, n'avait pas été prononcée. Cela pouvait éliminer le besoin de protection juridique de Jørgensen.",
+          "id" : 149,
+          "id_old" : 101,
+          "normen" : "Regel 75 Einspruch nach Verzicht",
+          "startdate" : "MO",
+          "text_de" : "#linkwiki#Alfred_Werner_(Chemiker)|Alfred Werner#endlink# hat für Metallamine ein europäisches Patent EP-1 erteilt bekommen. #linkwiki#Sophus_Mads_Jørgensen|Sophus Mads Jørgensen#endlink#möchte diese ebenfalls nutzen und legt daher Einspruch gegen EP-1 ein. Werner mag aber keine Auseinandersetzung mit seinem ehemaligen Mitarbeiter und verzichtet daher direkt nach der Kenntnis über den Einspruch auf EP-1. Welche der folgenden Aussagen ist wahr?",
+          "text_en" : "#linkwiki#Alfred_Werner_(chemist)|Alfred Werner#endlink# has been granted a European patent EP-1 for metallamines. #linkwiki#Sophus_Mads_Jørgensen|Sophus Mads Jørgensen#endlink#wants to use it, as well, and therefore files an opposition to EP-1. Werner, however, would not like a dispute with his former co-worker and, therefore, renounces EP-1 immediately after learning about the objection. Which of the following statements is true?",
+          "text_fr" : "#linkwiki#Alfred_Werner_(chimiste)|Alfred Werner#endlink# a obtenu un brevet européen EP-1 pour des métallamines. #linkwiki#Sophus_Mads_Jørgensen|Sophus Mads Jørgensen#endlink#veut également l'utiliser, et dépose donc une opposition à EP-1. Werner, quant à lui, n'aimerait pas avoir un différend avec son ancien collègue et, par conséquent, renonce à EP-1 immédiatement après avoir pris connaissance de l'opposition. Laquelle des affirmations suivantes est vraie ?"
         }
       ],
       "info_de" : "Einspruch, Einspruchsgründe, Prüfung des Einspruchs, Widerruf oder Aufrechterhaltung des europäischen Patents, Beschränkung oder Widerruf des europäischen Patents. ",
