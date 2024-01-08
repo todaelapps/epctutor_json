@@ -851,8 +851,8 @@
             "-12MM"
           ],
           "date" : [
-            "beginning|0",
-            "deadline|0"
+            "beginning[0]",
+            "deadline[0]"
           ],
           "deadline" : [
             "+12MM|+1DD"
