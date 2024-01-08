@@ -852,7 +852,7 @@
           ],
           "date" : [
             "startdate|-12MM",
-            "startdate|+12MM|+1DD"
+            "dealine|0"
           ],
           "deadline" : [
             "+12MM|+1DD"
