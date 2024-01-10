@@ -1004,34 +1004,36 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "der Anmelder (noch) nicht auf eine Mitteilung nach Regel 71 (3) EPÜ geantwortet hat, wobei die Antwort spätestens am #startdate#-1DD#enddate# einzureichen war.",
-                            "text_en": "The applicant has not (yet) replied to a communication under Rule 71(3) EPC, the reply having to be filed not later than #startdate#-1DD#enddate#.",
-                            "text_fr": "Le demandeur n'a pas (encore) répondu à une communication au titre de la règle 71(3) CBE, la réponse devant être déposée au plus tard le #startdate#-1DD#enddate#."
+                            "text_de": "der Anmelder (noch) nicht auf eine Mitteilung nach Regel 71 (3) EPÜ geantwortet hat, wobei die Antwort spätestens am #date#1#enddate# einzureichen war.",
+                            "text_en": "The applicant has not (yet) replied to a communication under Rule 71(3) EPC, the reply having to be filed not later than #date#1#enddate#.",
+                            "text_fr": "Le demandeur n'a pas (encore) répondu à une communication au titre de la règle 71(3) CBE, la réponse devant être déposée au plus tard le #date#1#enddate#."
                         },
                         {
-                            "text_de": "der Anmelder eine am #deadline#0#enddate# fällige Jahresgebühr nicht bezahlt hat.",
-                            "text_en": "The applicant has not paid an annual fee due on #deadline#0#enddate#.",
-                            "text_fr": "Le demandeur n'a pas payé la cotisation annuelle due le #deadline#0#enddate#."
+                            "text_de": "der Anmelder eine am #date#2#enddate# fällige Jahresgebühr nicht bezahlt hat.",
+                            "text_en": "The applicant has not paid an annual fee due on #date#2#enddate#.",
+                            "text_fr": "Le demandeur n'a pas payé la cotisation annuelle due le #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "die Anmeldung mit Bescheid vom #startdate#-2MM|-9DD#enddate# zurückgewiesen wurde.",
-                            "text_en": "The application was rejected by decision made on #startdate#-2MM|-9DD#enddate#.",
-                            "text_fr": "La demande a été rejetée par décision prise le #startdate#-2MM|-9DD#enddate#."
+                            "text_de": "die Anmeldung mit Bescheid vom #date#3#enddate# zurückgewiesen wurde.",
+                            "text_en": "The application was rejected by decision made on #date#3#enddate#.",
+                            "text_fr": "La demande a été rejetée par décision prise le #date#3#enddate#."
                         },
                         {
-                            "text_de": "für die Anmeldung die Entscheidung auf die Erteilung eines europäischen Patentes mit Datum vom #startdate##enddate# versendet wurde.",
-                            "text_en": "For the application, the decision on the grant of a European patent was sent by the date of #startdate##enddate#.",
-                            "text_fr": "Pour la demande, la décision sur la délivrance d'un brevet européen a été envoyée à la date de #startdate##enddate#."
+                            "text_de": "für die Anmeldung die Entscheidung auf die Erteilung eines europäischen Patentes mit Datum vom #date#0#enddate# versendet wurde.",
+                            "text_en": "For the application, the decision on the grant of a European patent was sent by the date of #date#0#enddate#.",
+                            "text_fr": "Pour la demande, la décision sur la délivrance d'un brevet européen a été envoyée à la date de #date#0#enddate#."
                         }
                     ],
                     "beginning": [
                         "-7MM"
                     ],
                     "date": [
-                        "beginning[0]",
-                        "deadline[0]"
+                        "startdate",
+                        "startdate|-1DD",
+                        "deadline[0]",
+                        "startdate|-2MM|-9DD"
                     ],
                     "deadline": [
                         "+7MM|MEND"
@@ -1044,33 +1046,33 @@
                     "id_old": 20,
                     "normen": "",
                     "startdate": "",
-                    "text_de": "Eine europäische Anmeldung EP-1 ist heute, am #startdate##enddate#, anhängig, wenn",
-                    "text_en": "A European EP-1 application is pending today, on #startdate##enddate#, when.",
-                    "text_fr": "Une demande européenne EP-1 est en cours aujourd'hui, le #startdate##enddate#, lorsque."
+                    "text_de": "Eine europäische Anmeldung EP-1 ist heute, am #date#0#enddate#, anhängig, wenn",
+                    "text_en": "A European EP-1 application is pending today, on #date#0#enddate#, when.",
+                    "text_fr": "Une demande européenne EP-1 est en cours aujourd'hui, le #date#0#enddate#, lorsque."
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "... EP-1 ist das wirksame Datum für Anspruch 1 von EP-3 der #deadline#0|+1DD#enddate#.",
-                            "text_en": "... EP-1 is the effective date for claim 1 of EP-3 of #deadline#0|+1DD#enddate#.",
-                            "text_fr": "... EP-1 est la date effective pour la revendication 1 de EP-3 de #deadline#0|+1DD#enddate#."
+                            "text_de": "... EP-1 ist das wirksame Datum für Anspruch 1 von EP-3 der #date#3#enddate#.",
+                            "text_en": "... EP-1 is the effective date for claim 1 of EP-3 of #date#3#enddate#.",
+                            "text_fr": "... EP-1 est la date effective pour la revendication 1 de EP-3 de #date#3#enddate#."
                         },
                         {
-                            "text_de": "... US-2 ist das wirksame Datum für Anspruch 2 von EP-3 der #deadline#0|+1DD#enddate#.",
-                            "text_en": "... US-2 is the effective date for claim 2 of EP-3 of #deadline#0|+1DD#enddate#.",
-                            "text_fr": "... US-2 est la date effective pour la revendication 2 de EP-3 de #deadline#0|+1DD#enddate#."
+                            "text_de": "... US-2 ist das wirksame Datum für Anspruch 2 von EP-3 der #date#3#enddate#.",
+                            "text_en": "... US-2 is the effective date for claim 2 of EP-3 of #date#3#enddate#.",
+                            "text_fr": "... US-2 est la date effective pour la revendication 2 de EP-3 de #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "... EP-1 ist das wirksame Datum für Anspruch 2 von EP-3 der #deadline#0|+1DD#enddate#.",
-                            "text_en": "... EP-1 is the effective date for claim 2 of EP-3 of #deadline#0|+1DD#enddate#.",
-                            "text_fr": "... EP-1 est la date d'entrée en vigueur pour la revendication 2 de EP-3 de #deadline#0|+1DD#enddate#."
+                            "text_de": "... EP-1 ist das wirksame Datum für Anspruch 2 von EP-3 der #date#3#enddate#.",
+                            "text_en": "... EP-1 is the effective date for claim 2 of EP-3 of #date#3#enddate#.",
+                            "text_fr": "... EP-1 est la date d'entrée en vigueur pour la revendication 2 de EP-3 de #date#3#enddate#."
                         },
                         {
-                            "text_de": "... US-2 ist das wirksame Datum für Anspruch 1 von EP-3 der #deadline#0|+1DD#enddate#.",
-                            "text_en": "... US-2 is the effective date for claim 1 of EP-3 of #deadline#0|+1DD#enddate#.",
-                            "text_fr": "... US-2 est la date effective pour la revendication 1 de EP-3 de #deadline#0|+1DD#enddate#."
+                            "text_de": "... US-2 ist das wirksame Datum für Anspruch 1 von EP-3 der #date#3#enddate#.",
+                            "text_en": "... US-2 is the effective date for claim 1 of EP-3 of #date#3#enddate#.",
+                            "text_fr": "... US-2 est la date effective pour la revendication 1 de EP-3 de #date#3#enddate#."
                         }
                     ],
                     "beginning": [
@@ -1078,7 +1080,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "beginning[0]|+8MM",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|+1DD"
                     ],
                     "deadline": [
                         "+12MM"
@@ -1091,9 +1095,9 @@
                     "id_old": 22,
                     "normen": "Art 87 (1), Art 87 (3), R 131 (4), R 134 (1)",
                     "startdate": "SA",
-                    "text_de": "Am #beginning#0#enddate# reichte #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# beim EPA eine europäische Patentanmeldung EP-1 auf einen Apparat zur Nervenstimulation ein. Am #beginning#0|+8MM#enddate# reichte Sherrington beim USPTO eine US-Anmeldung US-2 ein, die die Priorität von EP-1 beansprucht. In Anspruch 1 wird der Apparat beansprucht, in Anspruch 2 zugehörige Klemmen. EP-1 wurde am #deadline#0|-1DD#enddate# zurückgenommen. Am #deadline#0|+1DD#enddate# reichte Sherrington die europäische Patentanmeldung EP-3 ein. EP-3 hat diesselben Ansprüche und Beschreibung wie US-2. Beansprucht EP-2 nur die Priorität von ...",
-                    "text_en": "On #beginning#0#enddate# #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# filed a European patent application EP-1 with the EPO on an apparatus for nerve stimulation. On #beginning#0|+8MM#enddate# Sherrington filed a US application US-2 with the USPTO claiming priority to EP-1. Claim 1 declares the apparatus; claim 2 does the same for associated terminals. EP-1 was withdrawn on #deadline#0|-1DD#enddate#. On #deadline#0|+1DD#enddate# Sherrington filed European patent application EP-3. EP-3 has the same claims and description as US-2. Does EP-2 claim only the priority of ...",
-                    "text_fr": "Le #beginning#0#enddate# #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# a déposé auprès de l'OEB une demande de brevet européen EP-1 portant sur un appareil de stimulation nerveuse. Le #beginning#0|+8MM#enddate# Sherrington a déposé une demande américaine US-2 auprès de l'USPTO revendiquant la priorité sur EP-1. La revendication 1 déclare l'appareil ; la revendication 2 fait de même pour les terminaux associés. EP-1 a été retirée le #deadline#0|-1DD#enddate#. Le #deadline#0|+1DD#enddate#, Sherrington a déposé la demande de brevet européen EP-3. EP-3 a les mêmes revendications et la même description que US-2. Est-ce que EP-2 revendique seulement la priorité de ..."
+                    "text_de": "Am #date#0#enddate# reichte #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# beim EPA eine europäische Patentanmeldung EP-1 auf einen Apparat zur Nervenstimulation ein. Am #date#1#enddate# reichte Sherrington beim USPTO eine US-Anmeldung US-2 ein, die die Priorität von EP-1 beansprucht. In Anspruch 1 wird der Apparat beansprucht, in Anspruch 2 zugehörige Klemmen. EP-1 wurde am #date#2#enddate# zurückgenommen. Am #date#3#enddate# reichte Sherrington die europäische Patentanmeldung EP-3 ein. EP-3 hat diesselben Ansprüche und Beschreibung wie US-2. Beansprucht EP-2 nur die Priorität von ...",
+                    "text_en": "On #date#0#enddate# #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# filed a European patent application EP-1 with the EPO on an apparatus for nerve stimulation. On #date#1#enddate# Sherrington filed a US application US-2 with the USPTO claiming priority to EP-1. Claim 1 declares the apparatus; claim 2 does the same for associated terminals. EP-1 was withdrawn on #date#2#enddate#. On #date#3#enddate# Sherrington filed European patent application EP-3. EP-3 has the same claims and description as US-2. Does EP-2 claim only the priority of ...",
+                    "text_fr": "Le #date#0#enddate# #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# a déposé auprès de l'OEB une demande de brevet européen EP-1 portant sur un appareil de stimulation nerveuse. Le #date#1#enddate# Sherrington a déposé une demande américaine US-2 auprès de l'USPTO revendiquant la priorité sur EP-1. La revendication 1 déclare l'appareil ; la revendication 2 fait de même pour les terminaux associés. EP-1 a été retirée le #date#2#enddate#. Le #date#3#enddate#, Sherrington a déposé la demande de brevet européen EP-3. EP-3 a les mêmes revendications et la même description que US-2. Est-ce que EP-2 revendique seulement la priorité de ..."
                 },
                 {
                     "answers_false": [
