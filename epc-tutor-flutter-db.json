@@ -1564,7 +1564,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+20MM"
                     ],
                     "deadline": [
                         "+24MM"
@@ -1577,9 +1578,9 @@
                     "id_old": 332,
                     "normen": "Art. 56 SdT 54 3 unberücksichtigt",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# hat ein Färbeverfahren entwickelt. Es wurde in der europäischen Patentanmeldung EP-1 am #deadline#0#enddate# angemeldet und umfasst die Schritte a, b, c und d. Als Stand der Technik werden die am #beginning#0#enddate# angemeldete EP-2 und die am #beginning#0|+20MM#enddate# angemeldete EP-3 genannt. EP-2 zeigt die Schritte a, b und c. EP-3 zeigt die Schritte a, b und d. Ein Fachmann würde die Schriften auch kombinieren und dann zum geltenden Anspruch 1 gelangen. Weiterer Stand der Technik existiert zu diesem Problem nicht. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# has developed a dyeing process. It was filed in European patent application EP-1 on #deadline#0#enddate# and includes steps a, b, c, and d. EP-2 filed on #beginning#0#enddate# and EP-3 filed on #beginning#0|+20MM#enddate# are cited as prior art. EP-2 shows steps a, b, and c. EP-3 shows steps a, b and d. A person skilled in the art would also combine the fonts and then arrive at the applicable claim 1. Further prior art does not exist on this problem. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# a développé un procédé de teinture. Il a été déposé dans la demande de brevet européen EP-1 le #deadline#0#enddate# et comprend les étapes a, b, c, et d. EP-2 déposé le #beginning#0#enddate# et EP-3 déposé le #beginning#0|+20MM#enddate# sont cités comme art antérieur. EP-2 montre les étapes a, b et c. EP-3 montre les étapes a, b et d. Un homme du métier combinerait également les polices et arriverait alors à la revendication 1 applicable. Il n'existe pas d'autres antériorités sur ce problème. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# hat ein Färbeverfahren entwickelt. Es wurde in der europäischen Patentanmeldung EP-1 am #date#1#enddate# angemeldet und umfasst die Schritte a, b, c und d. Als Stand der Technik werden die am #date#0#enddate# angemeldete EP-2 und die am #date#2#enddate# angemeldete EP-3 genannt. EP-2 zeigt die Schritte a, b und c. EP-3 zeigt die Schritte a, b und d. Ein Fachmann würde die Schriften auch kombinieren und dann zum geltenden Anspruch 1 gelangen. Weiterer Stand der Technik existiert zu diesem Problem nicht. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# has developed a dyeing process. It was filed in European patent application EP-1 on #date#1#enddate# and includes steps a, b, c, and d. EP-2 filed on #date#0#enddate# and EP-3 filed on #date#2#enddate# are cited as prior art. EP-2 shows steps a, b, and c. EP-3 shows steps a, b and d. A person skilled in the art would also combine the fonts and then arrive at the applicable claim 1. Further prior art does not exist on this problem. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# a développé un procédé de teinture. Il a été déposé dans la demande de brevet européen EP-1 le #date#1#enddate# et comprend les étapes a, b, c, et d. EP-2 déposé le #date#0#enddate# et EP-3 déposé le #date#2#enddate# sont cités comme art antérieur. EP-2 montre les étapes a, b et c. EP-3 montre les étapes a, b et d. Un homme du métier combinerait également les polices et arriverait alors à la revendication 1 applicable. Il n'existe pas d'autres antériorités sur ce problème. Laquelle des affirmations suivantes est correcte?"
                 },
                 {
                     "answers_false": [
@@ -1626,7 +1627,7 @@
                     "startdate": "MO",
                     "text_de": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# hat ein Skalpell zur Durchführung von chirurgischen Eingriffen entwickelt und darauf eine europäische Anmeldung EP-1 eingereicht. Der Prüfer moniert, dass der Arztberuf zum freien Gewerbe zähle und damit die gewerbliche Anwendbarkeit fehle. Auch seien chirurgische EIngriffe vom Patentschutz ausgenommen. Kann Kocher ein Patent erhalten, wenn die anderen Patentierungsvoraussetzungen erfüllt sind?  ",
                     "text_en": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# has developed a scalpel for performing surgical procedures and filed a European application EP-1 on it. The examiner complains that the medical profession is part of the free trade and thus the industrial applicability is missing. Surgical interventions are also excluded from patent protection. Can Kocher obtain a patent if the other patenting requirements have been met?",
-                    "text_fr": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# a développé un scalpel pour effectuer des procédures chirurgicales et a déposé une demande européenne EP-1 à ce sujet. L'examinateur lui reproche que la profession médicale fait partie du libre-échange et que l'applicabilité industrielle fait donc défaut. Les interventions chirurgicales sont également exclues de la protection par brevet. Kocher peut-il obtenir un brevet si les autres conditions de brevetabilité sont remplies ?"
+                    "text_fr": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# a développé un scalpel pour effectuer des procédures chirurgicales et a déposé une demande européenne EP-1 à ce sujet. L'examinateur lui reproche que la profession médicale fait partie du libre-échange et que l'applicabilité industrielle fait donc défaut. Les interventions chirurgicales sont également exclues de la protection par brevet. Kocher peut-il obtenir un brevet si les autres conditions de brevetabilité sont remplies?"
                 },
                 {
                     "answers_false": [
@@ -1673,7 +1674,7 @@
                     "startdate": "MO",
                     "text_de": "#linkwiki#Albrecht_Kossel|Albrecht Kossel#endlink# möchte eine europäische Anmeldung EP-1 über eine gemeinsam mit #linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink# geschaffene Untersuchungseinrichtung einreichen. Albrecht Kossel ist der Auffassung, dass es nur einen Anmelder geben könne und möchte eine GmbH gründen, die die Anmeldung vornimmt. Allvar Gullstrand meint, dass er in diesem Fall alleiniger Anmelder sein sollte, da er die größeren Beiträge geleistet habe. Wie ist die Rechtslage?",
                     "text_en": "#linkwiki#Albrecht_Kossel|Albrecht Kossel#endlink# wants to file a European application EP-1 through an examination facility created jointly with #linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink#. Albrecht Kossel believes that there can only be one applicant and would like to create a limited liability company to do the filing. Allvar Gullstrand thinks that he should be the sole applicant in this case, since he has made the larger contributions. What is the legal situation?",
-                    "text_fr": "#linkwiki#Albrecht_Kossel|Albrecht Kossel#endlink# veut déposer une demande européenne EP-1 par le biais d'une installation d'examen créée conjointement avec #linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink#. Albrecht Kossel pense qu'il ne peut y avoir qu'un seul demandeur et souhaite créer une société à responsabilité limitée pour effectuer le dépôt. Allvar Gullstrand pense qu'il devrait être le seul demandeur dans ce cas, puisqu'il a fait les plus grosses contributions. Quelle est la situation juridique ?"
+                    "text_fr": "#linkwiki#Albrecht_Kossel|Albrecht Kossel#endlink# veut déposer une demande européenne EP-1 par le biais d'une installation d'examen créée conjointement avec #linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink#. Albrecht Kossel pense qu'il ne peut y avoir qu'un seul demandeur et souhaite créer une société à responsabilité limitée pour effectuer le dépôt. Allvar Gullstrand pense qu'il devrait être le seul demandeur dans ce cas, puisqu'il a fait les plus grosses contributions. Quelle est la situation juridique?"
                 },
                 {
                     "answers_false": [
@@ -1751,6 +1752,8 @@
                         "-2MM"
                     ],
                     "date": [
+                        "startdate|-6MM",
+                        "startdate|-6MM|+14DD",
                         "beginning[0]",
                         "deadline[0]"
                     ],
@@ -1758,16 +1761,16 @@
                         "+2MM"
                     ],
                     "difficulty": "3",
-                    "explanation_de": "Haben mehrere eine Erfindung unabhängig voneinander gemacht, so steht gemäß #linkepc#ar60|Artikel 60 EPÜ#endlink# das Recht auf das europäische Patent demjenigen zu, dessen europäische Patentanmeldung den früheren Anmeldetag hat, sofern diese frühere Anmeldung veröffentlicht worden ist. Dies gilt also auch, wenn EP-2 zuerst erteilt wird. Der Erfindungszeitpunkt ist im EPÜ dagegen irrelevant. EP-1 ist für EP-2 nach #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# Stan der Technik, aber nicht nach #linkepc#ar56|Artikel 56 EPÜ#endlink#. D.h. es ist nur in Bezug auf Neuheit zu berücksichtigen, aber nicht im Hinblick auf erfinderische Tätigkeit. Die Identität von Erfindungen bildet dabei keinen Grund für NAchweise irgendeiner Art.",
+                    "explanation_de": "Haben mehrere eine Erfindung unabhängig voneinander gemacht, so steht gemäß #linkepc#ar60|Artikel 60 EPÜ#endlink# das Recht auf das europäische Patent demjenigen zu, dessen europäische Patentanmeldung den früheren Anmeldetag hat, sofern diese frühere Anmeldung veröffentlicht worden ist. Dies gilt also auch, wenn EP-2 zuerst erteilt wird. Der Erfindungszeitpunkt ist im EPÜ dagegen irrelevant. EP-1 ist für EP-2 nach #linkepc#ar54|Artikel 54 (3) EPÜ#endlink# Stand der Technik, aber nicht nach #linkepc#ar56|Artikel 56 EPÜ#endlink#. D.h. es ist nur in Bezug auf Neuheit zu berücksichtigen, aber nicht im Hinblick auf erfinderische Tätigkeit. Die Identität von Erfindungen bildet dabei keinen Grund für Nachweise irgendeiner Art.",
                     "explanation_en": "If several have made an invention independently of each other, then according to #linkepc#ar60|Article 60 EPC#endlink# the right to the European patent belongs to the person whose European patent application has the earliest filing date, provided that this earlier application has been published. Thus, this applies even if EP-2 has been granted first. The date of invention, on the other hand, is irrelevant in the EPC. EP-1 is prior art for EP-2 according to #linkepc#ar54|Article 54 (3) EPC#endlink#, but not according to #linkepc#ar56|Article 56 EPC#endlink#. I.e. it is to be considered only with respect to novelty, but not with respect to inventive step. The identity of inventions does not constitute grounds for NA proofs of any kind.",
                     "explanation_fr": "Si plusieurs personnes ont réalisé une invention indépendamment les unes des autres, alors selon #linkepc#ar60|Article 60 CBE#endlink# le droit au brevet européen appartient à la personne dont la demande de brevet européen a la date de dépôt la plus ancienne, à condition que cette demande antérieure ait été publiée. Cela s'applique donc même si le brevet EP-2 a été délivré en premier. La date de l'invention, en revanche, n'est pas pertinente dans la CBE. EP-1 est un art antérieur pour EP-2 selon #linkepc#ar54|Article 54 (3) CBE#endlink#, mais pas selon #linkepc#ar56|Article 56 CBE#endlink#. C'est-à-dire qu'elle ne doit être considérée que par rapport à la nouveauté, mais pas par rapport à l'activité inventive. L'identité des inventions ne constitue pas un motif pour des preuves NA de quelque nature que ce soit.",
                     "id": 35,
                     "id_old": 401,
                     "normen": "Art 60 Recht auf ein Patent Art 54, 56 nachveröffentlichter Stand der Technik",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Henry_Hallett_Dale|Henry Hallett Dale#endlink# hat ein Verfahren zur Übertragung von Impulsen erfunden und am #startdate#-6MM#enddate# darauf wirksam eine europäische Patentanmeldung EP-1 eingereicht. #linkwiki#Otto_Loewi|Otto Loewi#endlink# hat dasselbe Verfahren zwei Wochen vorher erfunden und am #startdate#-6MM|+14DD#enddate# darauf eine europäische Patentanmeldung EP-2 eingereicht. EP-1 und EP-2 enthalten effektiv dieselben Merkmale, weil das erfundene Verfahren identisch ist. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Henry_Hallett_Dale|Henry Hallett Dale#endlink# invented a method of transmitting pulses and effectively filed a European patent application EP-1 on it on #startdate#-6MM#enddate#. #linkwiki#Otto_Loewi|Otto Loewi#endlink# invented the same process two weeks earlier and filed a European patent application EP-2 on it on #startdate#-6MM|+14DD#enddate#. EP-1 and EP-2 effectively contain the same features because the invented process is identical. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Henry_Hallett_Dale|Henry Hallett Dale#endlink# a inventé une méthode de transmission d'impulsions et a effectivement déposé une demande de brevet européen EP-1 à ce sujet le #startdate#-6MM#enddate#. #linkwiki#Otto_Loewi|Otto Loewi#endlink# a inventé le même procédé deux semaines plus tôt et a déposé une demande de brevet européen EP-2 sur celui-ci le #startdate#-6MM|+14DD#enddate#. EP-1 et EP-2 contiennent effectivement les mêmes caractéristiques car le procédé inventé est identique. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Henry_Hallett_Dale|Henry Hallett Dale#endlink# hat ein Verfahren zur Übertragung von Impulsen erfunden und am #date#0#enddate# darauf wirksam eine europäische Patentanmeldung EP-1 eingereicht. #linkwiki#Otto_Loewi|Otto Loewi#endlink# hat dasselbe Verfahren zwei Wochen vorher erfunden und am #date#1#enddate# darauf eine europäische Patentanmeldung EP-2 eingereicht. EP-1 und EP-2 enthalten effektiv dieselben Merkmale, weil das erfundene Verfahren identisch ist. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Henry_Hallett_Dale|Henry Hallett Dale#endlink# invented a method of transmitting pulses and effectively filed a European patent application EP-1 on it on #date#0#enddate#. #linkwiki#Otto_Loewi|Otto Loewi#endlink# invented the same process two weeks earlier and filed a European patent application EP-2 on it on #date#1#enddate#. EP-1 and EP-2 effectively contain the same features because the invented process is identical. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Henry_Hallett_Dale|Henry Hallett Dale#endlink# a inventé une méthode de transmission d'impulsions et a effectivement déposé une demande de brevet européen EP-1 à ce sujet le #date#0#enddate#. #linkwiki#Otto_Loewi|Otto Loewi#endlink# a inventé le même procédé deux semaines plus tôt et a déposé une demande de brevet européen EP-2 sur celui-ci le #date#1#enddate#. EP-1 et EP-2 contiennent effectivement les mêmes caractéristiques car le procédé inventé est identique. Laquelle des affirmations suivantes est correcte?"
                 },
                 {
                     "answers_false": [
@@ -1913,21 +1916,21 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Beide Patente laufen maximal bis zum #deadline#0|+2YY|+6MM|-1DD#enddate#.",
-                            "text_en": "Both patents will run until #deadline#0|+2YY|+6MM|-1DD#enddate# at most.",
-                            "text_fr": "Les deux brevets seront valables jusqu'à #deadline#0|+2YY|+6MM|-1DD#enddate# au maximum."
+                            "text_de": "Beide Patente laufen maximal bis zum #date#3#enddate#.",
+                            "text_en": "Both patents will run until #date#3#enddate# at most.",
+                            "text_fr": "Les deux brevets seront valables jusqu'à #date#3#enddate# au maximum."
                         },
                         {
-                            "text_de": "Beide Patente laufen maximal bis zum #deadline#0|+1YY|+6MM#enddate#.",
-                            "text_en": "Both patents will run until #deadline#0|+1YY|+6MM#enddate# at most.",
-                            "text_fr": "Les deux brevets seront valables jusqu'à #deadline#0|+1YY|+6MM#enddate# au maximum."
+                            "text_de": "Beide Patente laufen maximal bis zum #date#4#enddate#.",
+                            "text_en": "Both patents will run until #date#4#enddate# at most.",
+                            "text_fr": "Les deux brevets seront valables jusqu'à #date#4#enddate# au maximum."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Patente laufen maximal bis zum #deadline#0#enddate#.",
-                            "text_en": "The patents run until #deadline#0#enddate# at the most.",
-                            "text_fr": "Les brevets sont valables jusqu'à #deadline#0#enddate# au maximum."
+                            "text_de": "Die Patente laufen maximal bis zum #date#2#enddate#.",
+                            "text_en": "The patents run until #date#2#enddate# at the most.",
+                            "text_fr": "Les brevets sont valables jusqu'à #date#2#enddate# au maximum."
                         }
                     ],
                     "beginning": [
@@ -1935,7 +1938,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "beginning[0]|+1YY|+6MM",
+                        "deadline[0]",
+                        "deadline[0]|+2YY|+6MM|-1DD",
+                        "deadline[0]|+1YY|+6MM"
                     ],
                     "deadline": [
                         "+20YY"
@@ -1948,9 +1954,9 @@
                     "id_old": 33,
                     "normen": "Art. 63 1 Laufzeit",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# hat am #beginning#0#enddate# ein europäisches Patent angemeldet und am #beginning#0|+1YY|+6MM#enddate# ein Patent für die Vertragsstaaten Frankreich und Deutschland erteilt bekommen. Wie lange laufen die Patente maximal?",
-                    "text_en": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# filed a European patent application on #beginning#0#enddate# and was granted a patent for the Contracting States of France and Germany on #beginning#0|+1YY|+6MM#enddate#. What is the maximum duration of this patent?",
-                    "text_fr": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# a déposé une demande de brevet européen le #beginning#0#enddate# et a obtenu un brevet pour les Etats contractants de France et d'Allemagne le #beginning#0|+1YY|+6MM#enddate#. Quelle est la durée maximale de ce brevet ?"
+                    "text_de": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# hat am #date#0#enddate# ein europäisches Patent angemeldet und am #date#1#enddate# ein Patent für die Vertragsstaaten Frankreich und Deutschland erteilt bekommen. Wie lange laufen die Patente maximal?",
+                    "text_en": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# filed a European patent application on #date#0#enddate# and was granted a patent for the Contracting States of France and Germany on #date#1#enddate#. What is the maximum duration of this patent?",
+                    "text_fr": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# a déposé une demande de brevet européen le #date#0#enddate# et a obtenu un brevet pour les Etats contractants de France et d'Allemagne le #date#1#enddate#. Quelle est la durée maximale de ce brevet ?"
                 },
                 {
                     "answers_false": [
