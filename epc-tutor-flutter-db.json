@@ -1176,7 +1176,7 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "startdate"
                     ],
                     "deadline": [
                         "+2MM"
@@ -1189,9 +1189,9 @@
                     "id_old": 330,
                     "normen": "Art 54 (2) mündlich oder schriftlich",
                     "startdate": "",
-                    "text_de": "#linkwiki#Ronald_Ross|Ronald Ross#endlink# hat ein neues Malariamedikament entwickelt. Gestern, am #beginning#0#enddate#, hat er es befreundeten Medizinern anderer Universitäten erklärt und dabei alle erfindungsrelevanten Details offenbart. Heute, am #startdate##enddate# kommt er in ihre Kanzlei und möchte wissen, welche Möglichkeiten eines  rechtsbeständigen Schutzes mit einem europäischen Patent bestehen.",
-                    "text_en": "#linkwiki#Ronald_Ross|Ronald Ross#endlink# has developed a new malaria drug. Yesterday, on #beginning#0#enddate#, he explained it to medical friends from other universities, revealing all the details relevant to the invention. Today, on #startdate##enddate#, he comes to their office and wants to know what the possibilities are for legally stable protection with a European patent.",
-                    "text_fr": "#linkwiki#Ronald_Ross|Ronald Ross#endlink# a mis au point un nouveau médicament contre la malaria. Hier, le #beginning#0#enddate#, il l'a expliqué à des amis médecins d'autres universités, en révélant tous les détails relatifs à l'invention. Aujourd'hui, le #beginning##enddate#, il vient à leur bureau et veut savoir quelles sont les possibilités d'une protection juridiquement stable par un brevet européen."
+                    "text_de": "#linkwiki#Ronald_Ross|Ronald Ross#endlink# hat ein neues Malariamedikament entwickelt. Gestern, am #date#0#enddate#, hat er es befreundeten Medizinern anderer Universitäten erklärt und dabei alle erfindungsrelevanten Details offenbart. Heute, am #date#1#enddate# kommt er in ihre Kanzlei und möchte wissen, welche Möglichkeiten eines  rechtsbeständigen Schutzes mit einem europäischen Patent bestehen.",
+                    "text_en": "#linkwiki#Ronald_Ross|Ronald Ross#endlink# has developed a new malaria drug. Yesterday, on #date#0#enddate#, he explained it to medical friends from other universities, revealing all the details relevant to the invention. Today, on #date#1#enddate#, he comes to their office and wants to know what the possibilities are for legally stable protection with a European patent.",
+                    "text_fr": "#linkwiki#Ronald_Ross|Ronald Ross#endlink# a mis au point un nouveau médicament contre la malaria. Hier, le #date#0#enddate#, il l'a expliqué à des amis médecins d'autres universités, en révélant tous les détails relatifs à l'invention. Aujourd'hui, le #date#1#enddate#, il vient à leur bureau et veut savoir quelles sont les possibilités d'une protection juridiquement stable par un brevet européen."
                 },
                 {
                     "answers_false": [
@@ -1321,6 +1321,7 @@
                         "SU|-2MM"
                     ],
                     "date": [
+                        "startdate",
                         "beginning[0]",
                         "deadline[0]"
                     ],
@@ -1335,9 +1336,9 @@
                     "id_old": 24,
                     "normen": "Art 54 (2)  Sprache",
                     "startdate": "MO|-7DD",
-                    "text_de": "#linkwiki#Robert_Koch|Robert Koch#endlink# hat ein Medikament zur Heilung einer Tropenkrankheit erfunden. Er hat am #startdate#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Heute stellt er fest, dass bereits am #beginning#0#enddate# eine Veröffentlichung seiner Idee in einer Bantu-Sprache in einer afrikanischen Medizinzeitschrift erfolgt ist. Auch findet er einen noch älteren Fachvortrag einer Konferenz in Russland. Die verwendete Sprache ist kirgisisch. Ist die europäische Patentanmeldung EP-1 neu gegenüber dem genannten Stand der Technik?",
-                    "text_en": "#linkwiki#Robert_Koch|Robert Koch#endlink# invented a drug to cure a tropical disease. He filed a European patent application EP-1 on #startdate#0#enddate#. Today he finds out that someone has already published his idea in the Bantu language in an African medical journal on #beginning#0#enddate#. He also learns of an even older technical paper from a conference in Russia. The language used here is Kyrgyz. Is the European patent application EP-1 new compared to the prior art mentioned?",
-                    "text_fr": "#linkwiki#Robert_Koch|Robert Koch#endlink# a inventé un médicament pour soigner une maladie tropicale. Il a déposé une demande de brevet européen EP-1 le #startdate#0#enddate#. Il découvre aujourd'hui que quelqu'un a déjà publié son idée en langue bantoue dans une revue médicale africaine le #beginning#0#enddate#. Il apprend également l'existence d'un document technique encore plus ancien, issu d'une conférence en Russie. La langue utilisée ici est le kirghiz. La demande de brevet européen EP-1 est-elle nouvelle par rapport à l'art antérieur mentionné ?"
+                    "text_de": "#linkwiki#Robert_Koch|Robert Koch#endlink# hat ein Medikament zur Heilung einer Tropenkrankheit erfunden. Er hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Heute stellt er fest, dass bereits am #date#1#enddate# eine Veröffentlichung seiner Idee in einer Bantu-Sprache in einer afrikanischen Medizinzeitschrift erfolgt ist. Auch findet er einen noch älteren Fachvortrag einer Konferenz in Russland. Die verwendete Sprache ist kirgisisch. Ist die europäische Patentanmeldung EP-1 neu gegenüber dem genannten Stand der Technik?",
+                    "text_en": "#linkwiki#Robert_Koch|Robert Koch#endlink# invented a drug to cure a tropical disease. He filed a European patent application EP-1 on #date#0#enddate#. Today he finds out that someone has already published his idea in the Bantu language in an African medical journal on #date#1#enddate#. He also learns of an even older technical paper from a conference in Russia. The language used here is Kyrgyz. Is the European patent application EP-1 new compared to the prior art mentioned?",
+                    "text_fr": "#linkwiki#Robert_Koch|Robert Koch#endlink# a inventé un médicament pour soigner une maladie tropicale. Il a déposé une demande de brevet européen EP-1 le #date#0#enddate#. Il découvre aujourd'hui que quelqu'un a déjà publié son idée en langue bantoue dans une revue médicale africaine le #date#1#enddate#. Il apprend également l'existence d'un document technique encore plus ancien, issu d'une conférence en Russie. La langue utilisée ici est le kirghiz. La demande de brevet européen EP-1 est-elle nouvelle par rapport à l'art antérieur mentionné ?"
                 },
                 {
                     "answers_false": [
@@ -1371,6 +1372,7 @@
                     "date": [
                         "beginning[0]",
                         "beginning[1]",
+                        "beginning[0]|+17MM",
                         "deadline[0]",
                         "deadline[1]"
                     ],
@@ -1386,9 +1388,9 @@
                     "id_old": 25,
                     "normen": "Art 54 (3) Neuheit",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #beginning#1#enddate#, offengelegt. Vor vier Wochen, am #beginning#0|+17MM#enddate# , also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #beginning#0#enddate#. This shows with figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #beginning#1#enddate. Four weeks ago, on #beginning#0|+17MM#enddate# , that is, before EP-1 was disclosed, he filed another European patent application EP-2. This declared in claim 1 the improvements to the door as also shown in EP-1. Sub-claims 2 to 5 reveal embodiments developed since EP-1 was filed. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé l'appareil dit de Golgi. Il a déposé une demande de brevet européen EP-1 il y a dix-huit mois, le #beginning#0#enddate#. Celle-ci montre, chiffres à l'appui, son appareil complet dans tous ses détails, en particulier le cadre et une porte. Cependant, seul le cadre est revendiqué et détaillé dans la description. EP-1 a été divulgué jeudi dernier, le #beginning#1#enddate#. Il y a quatre semaines, le #beginning#0|+17MM#enddate#, c'est-à-dire avant la divulgation de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci déclarait dans la revendication 1 les améliorations apportées à la porte telles qu'elles étaient également présentées dans EP-1. Les sous-créances 2 à 5 révèlent des modes de réalisation développés depuis le dépôt de la demande EP-1. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate#, offengelegt. Vor vier Wochen, am #date#2#enddate#, also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows with figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate#. Four weeks ago, on #date#2#enddate#, that is, before EP-1 was disclosed, he filed another European patent application EP-2. This declared in claim 1 the improvements to the door as also shown in EP-1. Sub-claims 2 to 5 reveal embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé l'appareil dit de Golgi. Il a déposé une demande de brevet européen EP-1 il y a dix-huit mois, le #date#0#enddate#. Celle-ci montre, chiffres à l'appui, son appareil complet dans tous ses détails, en particulier le cadre et une porte. Cependant, seul le cadre est revendiqué et détaillé dans la description. EP-1 a été divulgué jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate#, c'est-à-dire avant la divulgation de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci déclarait dans la revendication 1 les améliorations apportées à la porte telles qu'elles étaient également présentées dans EP-1. Les sous-créances 2 à 5 révèlent des modes de réalisation développés depuis le dépôt de la demande EP-1. Laquelle des affirmations suivantes est correcte?"
                 },
                 {
                     "answers_false": [
@@ -1467,7 +1469,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+1MM"
@@ -1480,15 +1483,15 @@
                     "id_old": 27,
                     "normen": "Art. 55 1 a offensichtlicher Missbrauch zum Nachteil des Anmelders",
                     "startdate": "",
-                    "text_de": "Vor zwei Monaten, am #beginning#0#enddate#, hat #linkwiki#Alphonse_Laveran|Alphonse Laveran#endlink# ein paar Freunden ein neu entwickeltes Malariamedikament vorgestellt. Er hat dabei vorab von allen eine mündliche Geheimhaltungserklärung erhalten. Einer seiner Freunde, Paul Finster, neidet ihm jedoch seinen Einfallsreichtum und möchte ihm durch die Veröffentlichung der Idee schaden. Auf einer Webseite publiziert er am #deadline#0#enddate# alle wesentlichen Details. Dabei bringt er auch zum Ausdruck, dass er Alphonse Laveran so sehr beneidet und ihm mit der Veröffentlichung schaden möchte. Heute, am #startdate##enddate#, hat Laveran eine europäische Patentanmeldung EP-1 eingereicht. Die Publikation von Finster und EP-1 betreffen identische Gegenstände. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "Two months ago, on #beginning#0#enddate#, #linkwiki#Alphonse_Laveran|Alphonse Laveran#endlink# presented a newly developed malaria drug to a few friends. In doing so, he received a verbal non-disclosure agreement from all of them in advance. One of his friends, Paul Finster, however, envies his ingenuity and wants to harm him by publishing the idea. He publishes all the essential details on a website on #deadline#0#enddate#. In doing so, he also expresses that he envies Alphonse Laveran so much and wants to harm him with the publication. Today, on #startdate##enddate#, Laveran has filed a European patent application EP-1. Finster's publication and EP-1 concern identical subject matter. Which of the following statements is true?",
-                    "text_fr": "Il y a deux mois, le #beginning#0#enddate#, #linkwiki#Alphonse_Laveran|Alphonse Laveran#endlink# a présenté à quelques amis un médicament contre la malaria nouvellement développé. Ce faisant, il a reçu à l'avance de chacun d'eux un accord verbal de non-divulgation. L'un de ses amis, Paul Finster, envie cependant son ingéniosité et veut lui nuire en publiant l'idée. Il publie tous les détails essentiels sur un site Web le jour de #deadline#0#enddate#. Ce faisant, il exprime également qu'il envie tellement Alphonse Laveran et veut lui nuire avec cette publication. Aujourd'hui, le #startdate##enddate#, Laveran a déposé une demande de brevet européen EP-1. La publication de Finster et EP-1 concernent un objet identique. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "Vor zwei Monaten, am #date#0#enddate#, hat #linkwiki#Alphonse_Laveran|Alphonse Laveran#endlink# ein paar Freunden ein neu entwickeltes Malariamedikament vorgestellt. Er hat dabei vorab von allen eine mündliche Geheimhaltungserklärung erhalten. Einer seiner Freunde, Paul Finster, neidet ihm jedoch seinen Einfallsreichtum und möchte ihm durch die Veröffentlichung der Idee schaden. Auf einer Webseite publiziert er am #date#1#enddate# alle wesentlichen Details. Dabei bringt er auch zum Ausdruck, dass er Alphonse Laveran so sehr beneidet und ihm mit der Veröffentlichung schaden möchte. Heute, am #date#2#enddate#, hat Laveran eine europäische Patentanmeldung EP-1 eingereicht. Die Publikation von Finster und EP-1 betreffen identische Gegenstände. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "Two months ago, on #date#0#enddate#, #linkwiki#Alphonse_Laveran|Alphonse Laveran#endlink# presented a newly developed malaria drug to a few friends. In doing so, he received a verbal non-disclosure agreement from all of them in advance. One of his friends, Paul Finster, however, envies his ingenuity and wants to harm him by publishing the idea. He publishes all the essential details on a website on #date#1#enddate#. In doing so, he also expresses that he envies Alphonse Laveran so much and wants to harm him with the publication. Today, on #date#2#enddate#, Laveran has filed a European patent application EP-1. Finster's publication and EP-1 concern identical subject matter. Which of the following statements is true?",
+                    "text_fr": "Il y a deux mois, le #date#0#enddate#, #linkwiki#Alphonse_Laveran|Alphonse Laveran#endlink# a présenté à quelques amis un médicament contre la malaria nouvellement développé. Ce faisant, il a reçu à l'avance de chacun d'eux un accord verbal de non-divulgation. L'un de ses amis, Paul Finster, envie cependant son ingéniosité et veut lui nuire en publiant l'idée. Il publie tous les détails essentiels sur un site Web le jour de #date#1#enddate#. Ce faisant, il exprime également qu'il envie tellement Alphonse Laveran et veut lui nuire avec cette publication. Aujourd'hui, le #date#2#enddate#, Laveran a déposé une demande de brevet européen EP-1. La publication de Finster et EP-1 concernent un objet identique. Laquelle des affirmations suivantes est vraie?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "EP-3 ist neuheitsschädlich für EP-1, das sie alle Schritte a, b und c zeigt.",
-                            "text_en": "EP-3 is novelty-damaging for EP-1, which it shows all steps a, b and c.",
+                            "text_de": "EP-3 ist neuheitsschädlich für EP-1, da sie alle Schritte a, b und c zeigt.",
+                            "text_en": "EP-3 is novelty-damaging for EP-1, because it shows all steps a, b and c.",
                             "text_fr": "EP-3 est une nouveauté pour EP-1, qui montre toutes les étapes a, b et c."
                         },
                         {
