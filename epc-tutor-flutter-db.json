@@ -2048,9 +2048,9 @@
                     "id_old": 34,
                     "normen": "Art. 66 Rechte wie nationale Anmeldung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Er möchte mit dieser sofort Rechte in Frankreich, Deutschland und Spanien geltend machen.",
-                    "text_en": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# filed a European patent application EP-1 on #beginning#0#enddate#. He wants to use it to immediately assert rights in France, Germany and Spain.",
-                    "text_fr": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# a déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Il veut l'utiliser pour faire valoir immédiatement ses droits en France, en Allemagne et en Espagne."
+                    "text_de": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Er möchte mit dieser sofort Rechte in Frankreich, Deutschland und Spanien geltend machen.",
+                    "text_en": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# filed a European patent application EP-1 on #date#0#enddate#. He wants to use it to immediately assert rights in France, Germany and Spain.",
+                    "text_fr": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# a déposé une demande de brevet européen EP-1 le #date#0#enddate#. Il veut l'utiliser pour faire valoir immédiatement ses droits en France, en Allemagne et en Espagne."
                 },
                 {
                     "answers_false": [
@@ -2310,9 +2310,9 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Nicolle kann die Rechtsbehelfe zur Durchsetzung seiner Rechte bis zum #deadline#0|+1MM#enddate# geltend machen.",
-                            "text_en": "Nicolle may pursue remedies to enforce his rights until #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Nicolle peut exercer des recours pour faire valoir ses droits jusqu'à #deadline#0|+1MM#enddate#."
+                            "text_de": "Nicolle kann die Rechtsbehelfe zur Durchsetzung seiner Rechte bis zum #date#2#enddate# geltend machen.",
+                            "text_en": "Nicolle may pursue remedies to enforce his rights until #date#2#enddate#.",
+                            "text_fr": "Nicolle peut exercer des recours pour faire valoir ses droits jusqu'à #date#2#enddate#."
                         },
                         {
                             "text_de": "Nicolle kann die Rechtsbehelfe zur Durchsetzung seiner Rechte bis zum nächsten Prüfungsbescheid geltend machen.",
@@ -2327,9 +2327,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Nicolle kann die Rechtsbehelfe zur Durchsetzung seiner Rechte maximal bis zum #deadline#0#enddate# geltend machen.",
-                            "text_en": "Nicolle may pursue remedies to enforce his rights no later than the #deadline#0#enddate#.",
-                            "text_fr": "Nicolle peut exercer des recours pour faire valoir ses droits au plus tard à la #deadline#0#enddate#."
+                            "text_de": "Nicolle kann die Rechtsbehelfe zur Durchsetzung seiner Rechte maximal bis zum #date#1#enddate# geltend machen.",
+                            "text_en": "Nicolle may pursue remedies to enforce his rights no later than the #date#1#enddate#.",
+                            "text_fr": "Nicolle peut exercer des recours pour faire valoir ses droits au plus tard à la #date#1#enddate#."
                         },
                         {
                             "text_de": "Nicolle kann die Rechtsbehelfe zur Durchsetzung seiner Rechte maximal bis zur Erteilung von EP-1 geltend machen.",
@@ -2342,7 +2342,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+1MM"
                     ],
                     "deadline": [
                         "+3MM"
@@ -2355,9 +2356,9 @@
                     "id_old": 39,
                     "normen": "R 16 Verwendung Rechtsbehelfe",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Charles_Nicolle|Charles Nicolle#endlink# hat nach vielen Versuchen einen Grippe-Impfstoff vollendet. Nachdem er ihn seinem Kollegen Klaus Krumm gezeigt hat nimmt dieser die Erfindung heimlich zusätzlich in eine im Entwurf befindliche europäische Patentanmeldung EP-1 auf, in der es ursprünglich lediglich um ein Alzheimermedikament ging. Danach reicht Krumm EP-1 ein. Nach der Offenlegung erfährt Nicolle von dem Ideenklau und erwirkt eine rechtskräftige Entscheidung bzgl. des Grippe-Impfstoffs nach #linkepc#ar61|Artikels 61 (1) EPÜ#endlink#, die in allen benannten Vertragsstaaten gültig ist. Die Entscheidung wurde am #beginning#0#enddate# rechtskräftig. Wie lange kann Nicolle seine Rechte geltend machen?",
-                    "text_en": "#linkwiki#Charles_Nicolle|Charles Nicolle#endlink# has finally completed a flu vaccine after many attempts. After showing it to his colleague Klaus Krumm, the latter secretly includes the invention additionally in a draft European patent application EP-1, which originally was only intented for an Alzheimer's drug. Krumm goes on to file EP-1. After disclosure, Nicolle learns of the infringement and obtains a final decision regarding the flu vaccine under #linkepc#ar61|Article 61 (1) EPC#endlink#, which is valid in all designated Contracting States. The decision became final on #beginning#0#enddate#. How long can Nicolle assert his rights?",
-                    "text_fr": "#linkwiki#Charles_Nicolle|Charles Nicolle#endlink# a enfin mis au point un vaccin contre la grippe après de nombreuses tentatives. Après l'avoir montré à son collègue Klaus Krumm, ce dernier inclut secrètement l'invention dans un projet de demande de brevet européen EP-1, qui n'était à l'origine prévu que pour un médicament contre la maladie d'Alzheimer. Krumm poursuit le dépôt de la demande EP-1. Après la divulgation, Nicolle apprend la contrefaçon et obtient une décision définitive concernant le vaccin contre la grippe en vertu de l'article 61 (1) de la CBE, qui est valable dans tous les États contractants désignés. La décision est devenue définitive le #beginning#0#enddate#. Combien de temps Nicolle peut-il faire valoir ses droits ?"
+                    "text_de": "#linkwiki#Charles_Nicolle|Charles Nicolle#endlink# hat nach vielen Versuchen einen Grippe-Impfstoff vollendet. Nachdem er ihn seinem Kollegen Klaus Krumm gezeigt hat nimmt dieser die Erfindung heimlich zusätzlich in eine im Entwurf befindliche europäische Patentanmeldung EP-1 auf, in der es ursprünglich lediglich um ein Alzheimermedikament ging. Danach reicht Krumm EP-1 ein. Nach der Offenlegung erfährt Nicolle von dem Ideenklau und erwirkt eine rechtskräftige Entscheidung bzgl. des Grippe-Impfstoffs nach #linkepc#ar61|Artikels 61 (1) EPÜ#endlink#, die in allen benannten Vertragsstaaten gültig ist. Die Entscheidung wurde am #date#0#enddate# rechtskräftig. Wie lange kann Nicolle seine Rechte geltend machen?",
+                    "text_en": "#linkwiki#Charles_Nicolle|Charles Nicolle#endlink# has finally completed a flu vaccine after many attempts. After showing it to his colleague Klaus Krumm, the latter secretly includes the invention additionally in a draft European patent application EP-1, which originally was only intented for an Alzheimer's drug. Krumm goes on to file EP-1. After disclosure, Nicolle learns of the infringement and obtains a final decision regarding the flu vaccine under #linkepc#ar61|Article 61 (1) EPC#endlink#, which is valid in all designated Contracting States. The decision became final on #date#0#enddate#. How long can Nicolle assert his rights?",
+                    "text_fr": "#linkwiki#Charles_Nicolle|Charles Nicolle#endlink# a enfin mis au point un vaccin contre la grippe après de nombreuses tentatives. Après l'avoir montré à son collègue Klaus Krumm, ce dernier inclut secrètement l'invention dans un projet de demande de brevet européen EP-1, qui n'était à l'origine prévu que pour un médicament contre la maladie d'Alzheimer. Krumm poursuit le dépôt de la demande EP-1. Après la divulgation, Nicolle apprend la contrefaçon et obtient une décision définitive concernant le vaccin contre la grippe en vertu de l'article 61 (1) de la CBE, qui est valable dans tous les États contractants désignés. La décision est devenue définitive le #date#0#enddate#. Combien de temps Nicolle peut-il faire valoir ses droits?"
                 },
                 {
                     "answers_false": [
@@ -2691,32 +2692,36 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Beim EPA eingereichte Unterlagen zu einer Anmeldung EP-2, die am #startdate#-16MM|+5DD#enddate# eingereicht und noch nicht veröffentlicht ist, wobei EP-2 Anspruch 1 von EP-1 nicht vollständig beschreibt.",
-                            "text_en": "Documents filed with the EPO relating to an application EP-2 filed on #startdate#-16MM|+5DD#enddate# and not yet published, wherein EP-2 does not fully describe claim 1 of EP-1.",
-                            "text_fr": "Documents déposés auprès de l'OEB concernant une demande EP-2 déposée le #startdate#-16MM|+5DD#enddate# et non encore publiée, dans laquelle EP-2 ne décrit pas complètement la revendication 1 de EP-1."
+                            "text_de": "Beim EPA eingereichte Unterlagen zu einer Anmeldung EP-2, die am #date#3#enddate# eingereicht und noch nicht veröffentlicht ist, wobei EP-2 Anspruch 1 von EP-1 nicht vollständig beschreibt.",
+                            "text_en": "Documents filed with the EPO relating to an application EP-2 filed on #date#3#enddate# and not yet published, wherein EP-2 does not fully describe claim 1 of EP-1.",
+                            "text_fr": "Documents déposés auprès de l'OEB concernant une demande EP-2 déposée le #date#3#enddate# et non encore publiée, dans laquelle EP-2 ne décrit pas complètement la revendication 1 de EP-1."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Ein Forumeintrag im Internet vom #startdate#-3DD#enddate#.",
-                            "text_en": "A forum entry on the internet from #startdate#-3DD#enddate#.",
-                            "text_fr": "Une entrée de forum sur l'internet de #startdate#-3DD#enddate#."
+                            "text_de": "Ein Forumeintrag im Internet vom #date#2#enddate#.",
+                            "text_en": "A forum entry on the internet from #date#2#enddate#.",
+                            "text_fr": "Une entrée de forum sur l'internet de #date#2#enddate#."
                         },
                         {
-                            "text_de": "Beim EPA eingereichte Unterlagen zu einer Anmeldung EP-2, die am #startdate#-20MM|+5DD#enddate# eingereicht wurde.",
-                            "text_en": "Documents filed with the EPO relating to an EP-2 application filed on #startdate#-20MM|+5DD#enddate#.",
-                            "text_fr": "Documents déposés auprès de l'OEB concernant une demande EP-2 déposée le #startdate#-20MM|+5DD#enddate#."
+                            "text_de": "Beim EPA eingereichte Unterlagen zu einer Anmeldung EP-2, die am #date#1#enddate# eingereicht wurde.",
+                            "text_en": "Documents filed with the EPO relating to an EP-2 application filed on #date#1#enddate#.",
+                            "text_fr": "Documents déposés auprès de l'OEB concernant une demande EP-2 déposée le #date#1#enddate#."
                         },
                         {
-                            "text_de": "Ein privates Gespräch mit einem befreundeten Wissenschaftler vor dem #startdate##enddate#.",
-                            "text_en": "A private conversation with a scientist friend before the #startdate##enddate.",
-                            "text_fr": "Une conversation privée avec un ami scientifique avant la #startdate##enddate."
+                            "text_de": "Ein privates Gespräch mit einem befreundeten Wissenschaftler vor dem #date#0#enddate#.",
+                            "text_en": "A private conversation with a scientist friend before the #date#0#enddate#.",
+                            "text_fr": "Une conversation privée avec un ami scientifique avant la #date#0#enddate#."
                         }
                     ],
                     "beginning": [
                         "-2MM"
                     ],
                     "date": [
+                        "startdate",
+                        "startdate|-20MM|+5DD",
+                        "startdate|-3DD",
+                        "startdate|-16MM|+5DD",
                         "beginning[0]",
                         "deadline[0]"
                     ],
@@ -2731,9 +2736,9 @@
                     "id_old": 423,
                     "normen": "Artikel 54 (2) EPÜ",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Paul_Hermann_Müller|Paul Hermann Müller#endlink# hat am #startdate##enddate# eine Europäische Patentanmeldung EP-1 betreffend ein Pflanzenschutzmittel eingereicht. Welche der folgenden Verlautbarungen ist Stand der Technik für EP-1?",
-                    "text_en": "#linkwiki#Paul_Hermann_Müller|Paul Hermann Müller#endlink# filed a European patent application EP-1 on #startdate##enddate# relating to a plant protection product. Which of the following pronouncements may be considered prior art for EP-1?",
-                    "text_fr": "#linkwiki#Paul_Hermann_Müller|Paul Hermann Müller#endlink# a déposé une demande de brevet européen EP-1 le #startdate##enddate# portant sur un produit phytopharmaceutique. Laquelle des prises de position suivantes peut être considérée comme de l'art antérieur pour EP-1 ?"
+                    "text_de": "#linkwiki#Paul_Hermann_Müller|Paul Hermann Müller#endlink# hat am #date#0#enddate# eine Europäische Patentanmeldung EP-1 betreffend ein Pflanzenschutzmittel eingereicht. Welche der folgenden Verlautbarungen ist Stand der Technik für EP-1?",
+                    "text_en": "#linkwiki#Paul_Hermann_Müller|Paul Hermann Müller#endlink# filed a European patent application EP-1 on #date#0#enddate# relating to a plant protection product. Which of the following pronouncements may be considered prior art for EP-1?",
+                    "text_fr": "#linkwiki#Paul_Hermann_Müller|Paul Hermann Müller#endlink# a déposé une demande de brevet européen EP-1 le #date#0#enddate# portant sur un produit phytopharmaceutique. Laquelle des prises de position suivantes peut être considérée comme de l'art antérieur pour EP-1?"
                 }
             ],
             "info_de": "Patentierbarkeit der Erfindungen, Ausnahmen der Patentierbarkeit, Stand der Technik, Neuheit, Erfinderische Tätigkeit, Einheitlichkeit, Offenbarung, Ansprüche, sowie die Priorität.",
