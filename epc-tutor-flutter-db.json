@@ -983,7 +983,7 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "beginning[0]|+6MM|+4DD",
+                        "beginning[0]",
                         "deadline[0]"
                     ],
                     "deadline": [
