@@ -3803,16 +3803,16 @@
                             "text_fr": "L'EP-1 est considéré comme n'ayant pas été déposé."
                         },
                         {
-                            "text_de": "EP-1 erhält als Anmeldetag den #startdate##enddate#.",
-                            "text_en": "EP-1 receives the #startdate##enddate# as the logon date.",
-                            "text_fr": "EP-1 reçoit le #startdate##enddate# comme date de connexion."
+                            "text_de": "EP-1 erhält als Anmeldetag den #date#1#enddate#.",
+                            "text_en": "EP-1 receives the #date#1#enddate# as the filing date.",
+                            "text_fr": "EP-1 reçoit le #date#1#enddate# comme date de connexion."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Wenn die sonstigen Voraussetzungen erfüllt sind hat EP-1 einen Anmeldetag vom #beginning#0#enddate#.",
-                            "text_en": "If the other requirements are met, EP-1 has a filing date of #beginning#0#enddate#.",
-                            "text_fr": "Si les autres conditions sont remplies, EP-1 a une date de dépôt de #beginning#0#enddate#."
+                            "text_de": "Wenn die sonstigen Voraussetzungen erfüllt sind hat EP-1 einen Anmeldetag vom #date#0#enddate#.",
+                            "text_en": "If the other requirements are met, EP-1 has a filing date of #date#0#enddate#.",
+                            "text_fr": "Si les autres conditions sont remplies, EP-1 a une date de dépôt de #date#0#enddate#."
                         }
                     ],
                     "beginning": [
@@ -3820,6 +3820,7 @@
                     ],
                     "date": [
                         "beginning[0]",
+                        "startdate",
                         "deadline[0]"
                     ],
                     "deadline": [
@@ -3833,9 +3834,9 @@
                     "id_old": 339,
                     "normen": "Regel 37 Weiterleitung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Roger_Bacon|Roger Bacon#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 beim Intellectual Property Office, der Zentralbehörde für gewerblichen Rechtsschutz im Vereinigten Königreich, eingereicht. Dabei hat er keine Priorität in Anspruch genommen. Durch eine Verzögerung ist diese erst heute, am #startdate##enddate#, beim Europäischen Patentamt eingegangen. Wie ist der Status von EP-1?\n",
-                    "text_en": "#linkwiki#Roger_Bacon|Roger Bacon#endlink# filed a European patent application EP-1 with the Intellectual Property Office and the Central Industrial Property Office of the United Kingdom, on #beginning#0#enddate#. In doing so, it did not claim priority. Due to a delay, this was not received by the European Patent Office until today, #startdate##enddate#. What is the status of EP-1?",
-                    "text_fr": "#linkwiki#Roger_Bacon|Roger Bacon#endlink# a déposé une demande de brevet européen EP-1 auprès de l'Office de la propriété intellectuelle et du Central Industrial Property Office du Royaume-Uni, le #beginning#0#enddate#. Ce faisant, elle n'a pas revendiqué de priorité. En raison d'un retard, celle-ci n'a été reçue par l'Office européen des brevets qu'aujourd'hui, #startdate##enddate#. Quel est le statut de EP-1 ?"
+                    "text_de": "#linkwiki#Roger_Bacon|Roger Bacon#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 beim Intellectual Property Office, der Zentralbehörde für gewerblichen Rechtsschutz im Vereinigten Königreich, eingereicht. Dabei hat er keine Priorität in Anspruch genommen. Durch eine Verzögerung ist diese erst heute, am #date#1#enddate#, beim Europäischen Patentamt eingegangen. Wie ist der Status von EP-1?\n",
+                    "text_en": "#linkwiki#Roger_Bacon|Roger Bacon#endlink# filed a European patent application EP-1 with the Intellectual Property Office and the Central Industrial Property Office of the United Kingdom, on #date#0#enddate#. In doing so, it did not claim priority. Due to a delay, this was not received by the European Patent Office until today, #date#1#enddate#. What is the status of EP-1?",
+                    "text_fr": "#linkwiki#Roger_Bacon|Roger Bacon#endlink# a déposé une demande de brevet européen EP-1 auprès de l'Office de la propriété intellectuelle et du Central Industrial Property Office du Royaume-Uni, le #date#0#enddate#. Ce faisant, elle n'a pas revendiqué de priorité. En raison d'un retard, celle-ci n'a été reçue par l'Office européen des brevets qu'aujourd'hui, #date#1#enddate#. Quel est le statut de EP-1 ?"
                 },
                 {
                     "answers_false": [
@@ -3866,7 +3867,7 @@
                         "-2MM"
                     ],
                     "date": [
-                        "beginning[0]",
+                        "startdate",
                         "deadline[0]"
                     ],
                     "deadline": [
@@ -3880,9 +3881,9 @@
                     "id_old": 340,
                     "normen": "Regel 38 Anmelde- und Recherchegebühr",
                     "startdate": "",
-                    "text_de": "#linkwiki#Demokrit|Demokrit#endlink# hat heute, am #startdate##enddate#, eine europäische Patentanmeldung EP-1 eingereicht. Wie lange hat er Zeit, die Anmeldegebühr zu bezahlen?",
-                    "text_en": "#linkwiki#Demokrit|Demokrit#endlink# filed a European patent application EP-1 today, on #startdate##enddate#. How long does he have to pay the application fee?",
-                    "text_fr": "#linkwiki#Demokrit|Demokrit#endlink# a déposé une demande de brevet européen EP-1 aujourd'hui, le #startdate##enddate#. Combien de temps doit-il payer la taxe de dépôt ?"
+                    "text_de": "#linkwiki#Demokrit|Demokrit#endlink# hat heute, am #date#0#enddate#, eine europäische Patentanmeldung EP-1 eingereicht. Wie lange hat er Zeit, die Anmeldegebühr zu bezahlen?",
+                    "text_en": "#linkwiki#Demokrit|Demokrit#endlink# filed a European patent application EP-1 today, on #date#0#enddate#. How long does he have to pay the application fee?",
+                    "text_fr": "#linkwiki#Demokrit|Demokrit#endlink# a déposé une demande de brevet européen EP-1 aujourd'hui, le #date#0#enddate#. Combien de temps doit-il payer la taxe de dépôt ?"
                 },
                 {
                     "answers_false": [
@@ -4409,7 +4410,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+8MM"
@@ -4422,43 +4424,43 @@
                     "id_old": 351,
                     "normen": "Artikel 87 einfache Prio, Zwischen-SdT, neue Merkmale",
                     "startdate": "MO",
-                    "text_de": "In der deutschen Patentanmeldung DE-1, die am #beginning#0#enddate# von #linkwiki#Rudolf_Clausius|Rudolf Clausius#endlink# eingereicht wurde, ist in Anspruch 1 eine Wärmekraftmaschine beansprucht. Anspruch 2 bildet Anspruch 1 fort, indem die Wanddicke spezifiziert wird. Am #deadline#0#enddate# veröffentlicht Clausius seine Erkenntnisse in einem Fachjournal F-1. Am #startdate##enddate# reicht er eine europäische Patentanmeldung EP-1 ein, die die Priorität von DE-1 in Anspruch nimmt. Allerdings wird ein Anspruch 3 hinzugefügt, der das Material der Wand der Wärmekraftfmaschine festlegt. Die Merkmale von Anspruch 3 sind weder in DE-1 noch in F-1 gezeigt. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "In German patent application DE-1, filed on #beginning#0#enddate# by #linkwiki#Rudolf_Clausius|Rudolf Clausius#endlink#, claim 1 declares a heat engine. Claim 2 reproduces claim 1 by specifying the wall thickness. On #deadline#0#enddate# Clausius publishes his findings in a technical journal F-1. On #startdate##enddate# he files a European patent application EP-1 claiming the priority of DE-1. However, a claim 3 is added, which specifies the material of the wall of the heat engine. The features of claim 3 are not shown in DE-1 or F-1. Which of the following statements is true?",
-                    "text_fr": "Dans la demande de brevet allemand DE-1, déposée le #beginning#0#enddate# par #linkwiki#Rudolf_Clausius|Rudolf Clausius#endlink#, la revendication 1 déclare un moteur thermique. La revendication 2 reproduit la revendication 1 en spécifiant l'épaisseur de la paroi. Le #deadline#0#enddate# Clausius publie ses résultats dans une revue technique F-1. Le #startdate##enddate#, il dépose une demande de brevet européen EP-1 revendiquant la priorité de DE-1. Cependant, une revendication 3 est ajoutée, qui spécifie le matériau de la paroi du moteur thermique. Les caractéristiques de la revendication 3 ne sont pas représentées dans DE-1 ou F-1. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "In der deutschen Patentanmeldung DE-1, die am #date#0#enddate# von #linkwiki#Rudolf_Clausius|Rudolf Clausius#endlink# eingereicht wurde, ist in Anspruch 1 eine Wärmekraftmaschine beansprucht. Anspruch 2 bildet Anspruch 1 fort, indem die Wanddicke spezifiziert wird. Am #date#1#enddate# veröffentlicht Clausius seine Erkenntnisse in einem Fachjournal F-1. Am #date#2#enddate# reicht er eine europäische Patentanmeldung EP-1 ein, die die Priorität von DE-1 in Anspruch nimmt. Allerdings wird ein Anspruch 3 hinzugefügt, der das Material der Wand der Wärmekraftfmaschine festlegt. Die Merkmale von Anspruch 3 sind weder in DE-1 noch in F-1 gezeigt. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "In German patent application DE-1, filed on #date#0#enddate# by #linkwiki#Rudolf_Clausius|Rudolf Clausius#endlink#, claim 1 declares a heat engine. Claim 2 reproduces claim 1 by specifying the wall thickness. On #date#1#enddate# Clausius publishes his findings in a technical journal F-1. On #date#2#enddate# he files a European patent application EP-1 claiming the priority of DE-1. However, a claim 3 is added, which specifies the material of the wall of the heat engine. The features of claim 3 are not shown in DE-1 or F-1. Which of the following statements is true?",
+                    "text_fr": "Dans la demande de brevet allemand DE-1, déposée le #date#0#enddate# par #linkwiki#Rudolf_Clausius|Rudolf Clausius#endlink#, la revendication 1 déclare un moteur thermique. La revendication 2 reproduit la revendication 1 en spécifiant l'épaisseur de la paroi. Le #date#1#enddate# Clausius publie ses résultats dans une revue technique F-1. Le #date#2#enddate#, il dépose une demande de brevet européen EP-1 revendiquant la priorité de DE-1. Cependant, une revendication 3 est ajoutée, qui spécifie le matériau de la paroi du moteur thermique. Les caractéristiques de la revendication 3 ne sont pas représentées dans DE-1 ou F-1. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Anspruch 1 von EP-1 hat einen Zeitrang vom #deadline#0#enddate#.",
-                            "text_en": "Claim 1 of EP-1 has a time rank of #deadline#0#enddate#.",
-                            "text_fr": "La revendication 1 de EP-1 a un rang temporel de #deadline#0#enddate#."
+                            "text_de": "Anspruch 1 von EP-1 hat einen Zeitrang vom #date#1#enddate#.",
+                            "text_en": "Claim 1 of EP-1 has a time rank of #date#1#enddate#.",
+                            "text_fr": "La revendication 1 de EP-1 a un rang temporel de #date#1#enddate#."
                         },
                         {
-                            "text_de": "Anspruch 2 von EP-1 hat einen Zeitrang vom #beginning#0#enddate#.",
-                            "text_en": "Claim 2 of EP-1 has a time rank of #beginning#0#enddate#.",
-                            "text_fr": "La revendication 2 de EP-1 a un rang temporel de #beginning#0#enddate#."
+                            "text_de": "Anspruch 2 von EP-1 hat einen Zeitrang vom #date#0#enddate#.",
+                            "text_en": "Claim 2 of EP-1 has a time rank of #date#0#enddate#.",
+                            "text_fr": "La revendication 2 de EP-1 a un rang temporel de #date#0#enddate#."
                         },
                         {
-                            "text_de": "Anspruch 3 von EP-1 hat einen Zeitrang vom #deadline#0#enddate#.",
-                            "text_en": "Claim 3 of EP-1 has a time rank of #deadline#0#enddate#.",
-                            "text_fr": "La revendication 3 de EP-1 a un rang temporel de #deadline#0#enddate#."
+                            "text_de": "Anspruch 3 von EP-1 hat einen Zeitrang vom #date#1#enddate#.",
+                            "text_en": "Claim 3 of EP-1 has a time rank of #date#1#enddate#.",
+                            "text_fr": "La revendication 3 de EP-1 a un rang temporel de #date#1#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Anspruch 1 von EP-1 hat einen Zeitrang vom #beginning#0#enddate#.",
-                            "text_en": "Claim 1 of EP-1 has a time rank of #beginning#0#enddate#.",
-                            "text_fr": "La revendication 1 de EP-1 a un rang temporel de #beginning#0#enddate#."
+                            "text_de": "Anspruch 1 von EP-1 hat einen Zeitrang vom #date#0#enddate#.",
+                            "text_en": "Claim 1 of EP-1 has a time rank of #date#0#enddate#.",
+                            "text_fr": "La revendication 1 de EP-1 a un rang temporel de #date#0#enddate#."
                         },
                         {
-                            "text_de": "Anspruch 2 von EP-1 hat einen Zeitrang vom #deadline#0#enddate#.",
-                            "text_en": "Claim 2 of EP-1 has a time rank of #deadline#0#enddate#.",
-                            "text_fr": "La revendication 2 de EP-1 a un rang temporel de #deadline#0#enddate#."
+                            "text_de": "Anspruch 2 von EP-1 hat einen Zeitrang vom #date#1#enddate#.",
+                            "text_en": "Claim 2 of EP-1 has a time rank of #date#1#enddate#.",
+                            "text_fr": "La revendication 2 de EP-1 a un rang temporel de #date#1#enddate#."
                         },
                         {
-                            "text_de": "Anspruch 3 von EP-1 hat einen Zeitrang vom #beginning#0#enddate#.",
-                            "text_en": "Claim 3 of EP-1 has a time rank of #beginning#0#enddate#.",
-                            "text_fr": "La revendication 3 de EP-1 a un rang temporel de #beginning#0#enddate#."
+                            "text_de": "Anspruch 3 von EP-1 hat einen Zeitrang vom #date#0#enddate#.",
+                            "text_en": "Claim 3 of EP-1 has a time rank of #date#0#enddate#.",
+                            "text_fr": "La revendication 3 de EP-1 a un rang temporel de #date#0#enddate#."
                         }
                     ],
                     "beginning": [
@@ -4472,58 +4474,58 @@
                         "+8MM"
                     ],
                     "difficulty": "1",
-                    "explanation_de": "Die Ansprüche 1 und 3 haben einen Zeitrang vom #beginning#0#enddate#, Anspruch 2 vom #deadline#0#enddate#. ",
-                    "explanation_en": "Claims 1 and 3 have seniority from #beginning#0#enddate#, claim 2 from #deadline#0#enddate#.",
-                    "explanation_fr": "Les revendications 1 et 3 ont une ancienneté à partir de #beginning#0#enddate#, la revendication 2 à partir de #deadline#0#enddate#.",
+                    "explanation_de": "Die Ansprüche 1 und 3 haben einen Zeitrang vom #date#0#enddate#, Anspruch 2 vom #date#1#enddate#. ",
+                    "explanation_en": "Claims 1 and 3 have seniority from #date#0#enddate#, claim 2 from #date#1#enddate#.",
+                    "explanation_fr": "Les revendications 1 et 3 ont une ancienneté à partir de #date#0#enddate#, la revendication 2 à partir de #date#1#enddate#.",
                     "id": 89,
                     "id_old": 352,
                     "normen": "Artikel 87 Prio und Hinzufügung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# hat am #beginning#0#enddate# eine britische Patentanmeldung GB-1 eingereicht. In dieser ist in Anspruch 1 eine Feldgenerator zur Erzeugung elektrischer Felder mit einem Wellendurchmesser von 5 cm beansprucht. In Anspruch 2, der von Anspruch 1 abhängt, ist eine Länge der Welle von wenigstens 20 cm gefordert. Am #deadline#0#enddate# reicht Maxwell eine europäische Patentanmeldung EP-1 ein, die die Priorität von GB-1 in Anspruch nimmt. Allerdings wird ein unabhängiger Anspruch 2 eingefügt, der alle Merkmale von Anspruch 1  und Anspruch 2 von GB-1 aufweist mit Ausnahme des Wellendurchmessers. Der neue Anspruch 3 enthält alle Merkmale der Ansprüche 1 und 2 von GB-1, insbesondere den Wellendurchmesser und die Länge. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# filed a British patent application GB-1 on #beginning#0#enddate#. Claim 1therein declares a field generator for producing electric fields with a shaft diameter of 5 cm. Claim 2, which is dependent on claim 1, illustrates a shaft length of at least 20 cm. On #deadline#0#enddate# Maxwell files a European patent application EP-1 claiming priority to GB-1. However, an independent claim 2 is added, which has all the features of claim 1 and claim 2 of GB-1 except for the shaft diameter. The new claim 3 includes all of the features of claims 1 and 2 of GB-1, especially the shaft diameter and length. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# a déposé une demande de brevet britannique GB-1 le #beginning#0#enddate#. La revendication 1 déclare un générateur de champ pour produire des champs électriques avec un diamètre d'arbre de 5 cm. La revendication 2, qui dépend de la revendication 1, illustre une longueur d'arbre d'au moins 20 cm. Le #deadline#0#enddate# Maxwell dépose une demande de brevet européen EP-1 revendiquant la priorité sur GB-1. Toutefois, une revendication indépendante 2 est ajoutée, qui présente toutes les caractéristiques de la revendication 1 et de la revendication 2 de GB-1, à l'exception du diamètre de l'arbre. La nouvelle revendication 3 reprend toutes les caractéristiques des revendications 1 et 2 de GB-1, notamment le diamètre et la longueur de l'arbre. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# hat am #date#0#enddate# eine britische Patentanmeldung GB-1 eingereicht. In dieser ist in Anspruch 1 eine Feldgenerator zur Erzeugung elektrischer Felder mit einem Wellendurchmesser von 5 cm beansprucht. In Anspruch 2, der von Anspruch 1 abhängt, ist eine Länge der Welle von wenigstens 20 cm gefordert. Am #date#1#enddate# reicht Maxwell eine europäische Patentanmeldung EP-1 ein, die die Priorität von GB-1 in Anspruch nimmt. Allerdings wird ein unabhängiger Anspruch 2 eingefügt, der alle Merkmale von Anspruch 1  und Anspruch 2 von GB-1 aufweist mit Ausnahme des Wellendurchmessers. Der neue Anspruch 3 enthält alle Merkmale der Ansprüche 1 und 2 von GB-1, insbesondere den Wellendurchmesser und die Länge. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# filed a British patent application GB-1 on #date#0#enddate#. Claim 1therein declares a field generator for producing electric fields with a shaft diameter of 5 cm. Claim 2, which is dependent on claim 1, illustrates a shaft length of at least 20 cm. On #date#1#enddate# Maxwell files a European patent application EP-1 claiming priority to GB-1. However, an independent claim 2 is added, which has all the features of claim 1 and claim 2 of GB-1 except for the shaft diameter. The new claim 3 includes all of the features of claims 1 and 2 of GB-1, especially the shaft diameter and length. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# a déposé une demande de brevet britannique GB-1 le #date#0#enddate#. La revendication 1 déclare un générateur de champ pour produire des champs électriques avec un diamètre d'arbre de 5 cm. La revendication 2, qui dépend de la revendication 1, illustre une longueur d'arbre d'au moins 20 cm. Le #date#1#enddate# Maxwell dépose une demande de brevet européen EP-1 revendiquant la priorité sur GB-1. Toutefois, une revendication indépendante 2 est ajoutée, qui présente toutes les caractéristiques de la revendication 1 et de la revendication 2 de GB-1, à l'exception du diamètre de l'arbre. La nouvelle revendication 3 reprend toutes les caractéristiques des revendications 1 et 2 de GB-1, notamment le diamètre et la longueur de l'arbre. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #deadline#0#enddate#.",
-                            "text_en": "Claim A1 of EP-3 has a time rank of #deadline#0#enddate#.",
-                            "text_fr": "La revendication A1 de EP-3 a un rang temporel de #deadline#0#enddate#."
+                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #date#1#enddate#.",
+                            "text_en": "Claim A1 of EP-3 has a time rank of #date#1#enddate#.",
+                            "text_fr": "La revendication A1 de EP-3 a un rang temporel de #date#1#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #deadline#0#enddate#.",
-                            "text_en": "Claim A3 of EP-3 has a time rank of #deadline#0#enddate#.",
-                            "text_fr": "La revendication A3 de EP-3 a un rang temporel de #deadline#0#enddate#."
+                            "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #date#1#enddate#.",
+                            "text_en": "Claim A3 of EP-3 has a time rank of #date#1#enddate#.",
+                            "text_fr": "La revendication A3 de EP-3 a un rang temporel de #date#1#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #startdate##enddate#.",
-                            "text_en": "Claim A1 of EP-3 has a time rank of #startdate##enddate#.",
-                            "text_fr": "La revendication A1 de EP-3 a un rang temporel de #startdate##enddate#."
+                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
+                            "text_en": "Claim A1 of EP-3 has a time rank of #date#2#enddate#.",
+                            "text_fr": "La revendication A1 de EP-3 a un rang temporel de #date#2#enddate#."
                         },
                         {
-                            "text_de": "Gibbs kann nur eine Priorität in Anspruch nehmen. Anspruch A1 und A2 haben einen Zeitrang vom #deadline#0#enddate#.",
-                            "text_en": "Gibbs can only claim one priority. Claim A1 and A2 have a time rank from #deadline#0#enddate#.",
-                            "text_fr": "Gibbs ne peut revendiquer qu'une seule priorité. Les revendications A1 et A2 ont un rang temporel de #deadline#0#enddate#."
+                            "text_de": "Gibbs kann nur eine Priorität in Anspruch nehmen. Anspruch A1 und A2 haben einen Zeitrang vom #date#1#enddate#.",
+                            "text_en": "Gibbs can only claim one priority. Claim A1 and A2 have a time rank from #date#1#enddate#.",
+                            "text_fr": "Gibbs ne peut revendiquer qu'une seule priorité. Les revendications A1 et A2 ont un rang temporel de #date#1#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #startdate##enddate#.",
-                            "text_en": "Claim A1 of EP-3 has a time rank of #startdate##enddate#.",
-                            "text_fr": "La revendication A1 de EP-3 a un rang temporel de #startdate##enddate#."
+                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
+                            "text_en": "Claim A1 of EP-3 has a time rank of #date#2#enddate#.",
+                            "text_fr": "La revendication A1 de EP-3 a un rang temporel de #date#2#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #startdate##enddate#.",
-                            "text_en": "Claim A2 of EP-3 has a time rank of #startdate##enddate#.",
-                            "text_fr": "La revendication A2 de EP-3 a un rang temporel de #startdate##enddate#."
+                            "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
+                            "text_en": "Claim A2 of EP-3 has a time rank of #date#2#enddate#.",
+                            "text_fr": "La revendication A2 de EP-3 a un rang temporel de #date#2#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #beginning#0#enddate#.",
-                            "text_en": "Claim A2 of EP-3 has a time rank of #beginning#0#enddate#.",
-                            "text_fr": "La revendication A2 de EP-3 a un rang temporel de #beginning#0#enddate#."
+                            "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #date#0#enddate#.",
+                            "text_en": "Claim A2 of EP-3 has a time rank of #date#0#enddate#.",
+                            "text_fr": "La revendication A2 de EP-3 a un rang temporel de #date#0#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #beginning#0#enddate#.",
-                            "text_en": "Claim A3 of EP-3 has a time rank of #beginning#0#enddate#.",
-                            "text_fr": "La revendication A3 de EP-3 a un rang temporel de #beginning#0#enddate#."
+                            "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #date#0#enddate#.",
+                            "text_en": "Claim A3 of EP-3 has a time rank of #date#0#enddate#.",
+                            "text_fr": "La revendication A3 de EP-3 a un rang temporel de #date#0#enddate#."
                         }
                     ],
                     "answers_true": [
@@ -4533,14 +4535,14 @@
                             "text_fr": "La revendication A2 de EP-3 a un rang temporel de #deadline#0#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #startdate##enddate#.",
-                            "text_en": "Claim A3 of EP-3 has a time rank of #startdate##enddate#.",
-                            "text_fr": "La revendication A3 de EP-3 a un rang temporel de #startdate##enddate#."
+                            "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
+                            "text_en": "Claim A3 of EP-3 has a time rank of #date#2#enddate#.",
+                            "text_fr": "La revendication A3 de EP-3 a un rang temporel de #date#2#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #beginning#0#enddate#.",
-                            "text_en": "Claim A1 of EP-3 has seniority from #beginning#0#enddate#.",
-                            "text_fr": "La revendication A1 de EP-3 a une ancienneté de #beginning#0#enddate#."
+                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #date#0#enddate#.",
+                            "text_en": "Claim A1 of EP-3 has seniority from #date#0#enddate#.",
+                            "text_fr": "La revendication A1 de EP-3 a une ancienneté de #date#0#enddate#."
                         }
                     ],
                     "beginning": [
@@ -4548,7 +4550,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+8MM|+6DD"
@@ -4561,9 +4564,9 @@
                     "id_old": 353,
                     "normen": "Artikel 87 Mehrfachprio",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Josiah_Willard_Gibbs|Josiah Willard Gibbs#endlink# hat am #beginning#0#enddate# eine US-Anmeldung US-1 betreffs einen Energie-Generator zur Erzeugung von Gibbs-Energie beim USPTO eingereicht. Diese hat einen Anspruch A1. Unter Inanspruchnahme der Priorität von US-1 hat er am #deadline#0#enddate# eine Nachanmeldung GB-2 in Großbritannien eingereicht.  Diese enthält zusätzlich zu dem aus US-1 übernommenen Anspruch A1 einen Anspruch A2. Dieser war in US-1 nicht offenbart. Am #startdate##enddate# reicht er eine europäische Patentanmeldung EP-3 ein. Diese nimmt sowohl die Priorität von US-1 als auch die von GB-2 in Anspruch und enthält einen zusätzlichen Anspruch A3, der weder in US-1 noch in GB-2 enthalten ist. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Josiah_Willard_Gibbs|Josiah Willard Gibbs#endlink# filed a US application US-1 relating to an energy generator for producing Gibbs energy with the USPTO on #beginning#0#enddate#. This has an A1 claim. Claiming priority from US-1, he filed a subsequent application GB-2 in the UK on #deadline#0#enddate#.  This contains a claim A2 in addition to the claim A1 taken from US-1. This was not disclosed in US-1. On #startdate##enddate# he furthermore files a European patent application EP-3. This claims both the priority of US-1 and GB-2 and contains an additional claim A3 that is not listed in either US-1 or GB-2. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Josiah_Willard_Gibbs|Josiah Willard Gibbs#endlink# a déposé une demande US-1 relative à un générateur d'énergie pour produire de l'énergie de Gibbs auprès de l'USPTO le #beginning#0#enddate#. Cette demande a une revendication A1. Revendiquant la priorité de US-1, il a déposé une demande ultérieure GB-2 au Royaume-Uni le #deadline#0#enddate#.  Celle-ci contient une revendication A2 en plus de la revendication A1 provenant de US-1. Ceci n'a pas été divulgué dans US-1. Le #startdate##enddate#, il dépose en outre une demande de brevet européen EP-3. Celle-ci revendique à la fois la priorité de US-1 et de GB-2 et contient une revendication supplémentaire A3 qui ne figure ni dans US-1 ni dans GB-2. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Josiah_Willard_Gibbs|Josiah Willard Gibbs#endlink# hat am #date#0#enddate# eine US-Anmeldung US-1 betreffs einen Energie-Generator zur Erzeugung von Gibbs-Energie beim USPTO eingereicht. Diese hat einen Anspruch A1. Unter Inanspruchnahme der Priorität von US-1 hat er am #date#1#enddate# eine Nachanmeldung GB-2 in Großbritannien eingereicht.  Diese enthält zusätzlich zu dem aus US-1 übernommenen Anspruch A1 einen Anspruch A2. Dieser war in US-1 nicht offenbart. Am #date#2#enddate# reicht er eine europäische Patentanmeldung EP-3 ein. Diese nimmt sowohl die Priorität von US-1 als auch die von GB-2 in Anspruch und enthält einen zusätzlichen Anspruch A3, der weder in US-1 noch in GB-2 enthalten ist. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Josiah_Willard_Gibbs|Josiah Willard Gibbs#endlink# filed a US application US-1 relating to an energy generator for producing Gibbs energy with the USPTO on #date#0#enddate#. This has an A1 claim. Claiming priority from US-1, he filed a subsequent application GB-2 in the UK on #date#1#enddate#.  This contains a claim A2 in addition to the claim A1 taken from US-1. This was not disclosed in US-1. On #date#2#enddate# he furthermore files a European patent application EP-3. This claims both the priority of US-1 and GB-2 and contains an additional claim A3 that is not listed in either US-1 or GB-2. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Josiah_Willard_Gibbs|Josiah Willard Gibbs#endlink# a déposé une demande US-1 relative à un générateur d'énergie pour produire de l'énergie de Gibbs auprès de l'USPTO le #date#0#enddate#. Cette demande a une revendication A1. Revendiquant la priorité de US-1, il a déposé une demande ultérieure GB-2 au Royaume-Uni le #date#1#enddate#.  Celle-ci contient une revendication A2 en plus de la revendication A1 provenant de US-1. Ceci n'a pas été divulgué dans US-1. Le #date#2#enddate#, il dépose en outre une demande de brevet européen EP-3. Celle-ci revendique à la fois la priorité de US-1 et de GB-2 et contient une revendication supplémentaire A3 qui ne figure ni dans US-1 ni dans GB-2. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -4595,7 +4598,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "deadline[0]|-5DD"
                     ],
                     "deadline": [
                         "+8MM"
@@ -4608,9 +4613,9 @@
                     "id_old": 354,
                     "normen": "Regel 52 Prioerklärung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#John_Strutt,_3._Baron_Rayleigh|John Strutt, 3. Baron Rayleigh#endlink# hat am #beginning#0#enddate# eine britische Patentanmeldung GB-1 wirksam eingereicht. Am #deadline#0#enddate# hat #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink# eine europäische Patentanmeldung EP-2 eingereicht. EP-2 nimmt die Priorität von GB-1 in Anspruch. Heute, am #startdate##enddate#, erhält das Europäische Patentamt einen Vertrag zwischen Strutt und Thompson. In diesem erhält Thompson das Prioritätsrecht aus GB-1 übertragen. Der Vertrag ist am #deadline#0|-5DD#enddate# unterzeichnet worden. Kann EP-2 die Priorität von GB-1 in Anspruch nehmen?",
-                    "text_en": "#linkwiki#John_Strutt,_3._Baron_Rayleigh|John Strutt, 3rd Baron Rayleigh#endlink# effectively filed a UK patent application GB-1 on #beginning#0#enddate#. On #deadline#0#enddate# #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink# filed a European patent application EP-2. EP-2 claims priority over GB-1. Today, on #startdate##enddate#, the European Patent Office receives a contract between Strutt and Thompson. In it, Thompson has assigned the priority right from GB-1 over to Strutt and has signed the contract, effective on #deadline#0|-5DD#enddate#. Can EP-2 claim the priority of GB-1?",
-                    "text_fr": "#linkwiki#John_Strutt,_3._Baron_Rayleigh|John Strutt, 3rd Baron Rayleigh#endlink# a effectivement déposé une demande de brevet britannique GB-1 le #beginning#0#enddate#. Le #deadline#0#enddate# #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink# a déposé une demande de brevet européen EP-2. EP-2 revendique la priorité sur GB-1. Aujourd'hui, le #startdate##enddate#, l'Office européen des brevets reçoit un contrat entre Strutt et Thompson. Dans ce contrat, Thompson a cédé le droit de priorité de GB-1 à Strutt et a signé le contrat, qui prend effet le #deadline#0|-5DD#enddate#. EP-2 peut-il revendiquer la priorité de GB-1 ?"
+                    "text_de": "#linkwiki#John_Strutt,_3._Baron_Rayleigh|John Strutt, 3. Baron Rayleigh#endlink# hat am #date#0#enddate# eine britische Patentanmeldung GB-1 wirksam eingereicht. Am #date#1#enddate# hat #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink# eine europäische Patentanmeldung EP-2 eingereicht. EP-2 nimmt die Priorität von GB-1 in Anspruch. Heute, am #date#2#enddate#, erhält das Europäische Patentamt einen Vertrag zwischen Strutt und Thompson. In diesem erhält Thompson das Prioritätsrecht aus GB-1 übertragen. Der Vertrag ist am #date#3#enddate# unterzeichnet worden. Kann EP-2 die Priorität von GB-1 in Anspruch nehmen?",
+                    "text_en": "#linkwiki#John_Strutt,_3._Baron_Rayleigh|John Strutt, 3rd Baron Rayleigh#endlink# effectively filed a UK patent application GB-1 on #date#0#enddate#. On #date#1#enddate# #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink# filed a European patent application EP-2. EP-2 claims priority over GB-1. Today, on #date#2#enddate#, the European Patent Office receives a contract between Strutt and Thompson. In it, Thompson has assigned the priority right from GB-1 over to Strutt and has signed the contract, effective on #date#3#enddate#. Can EP-2 claim the priority of GB-1?",
+                    "text_fr": "#linkwiki#John_Strutt,_3._Baron_Rayleigh|John Strutt, 3rd Baron Rayleigh#endlink# a effectivement déposé une demande de brevet britannique GB-1 le #date#0#enddate#. Le #date#1#enddate# #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink# a déposé une demande de brevet européen EP-2. EP-2 revendique la priorité sur GB-1. Aujourd'hui, le #date#2#enddate#, l'Office européen des brevets reçoit un contrat entre Strutt et Thompson. Dans ce contrat, Thompson a cédé le droit de priorité de GB-1 à Strutt et a signé le contrat, qui prend effet le #date#3#enddate#. EP-2 peut-il revendiquer la priorité de GB-1?"
                 },
                 {
                     "answers_false": [
@@ -4657,7 +4662,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "deadline[0]|+6MM|+6DD"
                     ],
                     "deadline": [
                         "+3MM"
@@ -4670,16 +4677,16 @@
                     "id_old": 355,
                     "normen": "Regel 52 Prioerklärung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Ferdinand_Porsche|Ferdinand Porsche#endlink# hat am #beginning#0#enddate# ein Gebrauchsmuster DE-1 eingereicht. Anspruch 1 von DE-1 ist auf ein Auto mit einer kreisförmig gebogenen Antenne gerichtet und wurde am #deadline#0#enddate# veröffentlicht. Am #startdate##enddate# hat Porsche eine europäische Patentanmeldung EP-2 mit drei Ansprüchen eingereicht: Anspruch A1 ist auf ein Auto mit einer gebogenen Antenne gerichtet; Anspruch A2 nach Anspruch A1 auf ein Auto mit einer kreisförmig gebogenen Antenne und  Anspruch A3 nach Anspruch 1 auf ein Auto mit einer oval gebogenenen Antenne. Am #deadline#0|+6MM|+6DD#enddate# wurde ein Auto mit kreisförmig gebogener Antenne der Öffnetlichkeit zugänglich gemacht. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Ferdinand_Porsche|Ferdinand Porsche#endlink# filed a utility model DE-1 on #beginning#0#enddate#. Claim 1 of DE-1 is directed to a car having a circularly curved antenna and was published on #deadline#0#enddate#. On #startdate#enddate# Porsche filed a European patent application EP-2 comprising of three claims: claim A1 is directed to a car with a curved antenna; claim A2 to claim A1 is directed to a car with a circularly curved antenna; and claim A3 to claim 1 is directed to a car with an oval curved antenna. On #deadline#0|+6MM|+6DD#enddate#, a car having a circularly curved antenna was made available to the public. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Ferdinand_Porsche|Ferdinand Porsche#endlink# a déposé un modèle d'utilité DE-1 le #beginning#0#enddate#. La revendication 1 du DE-1 est dirigée vers une voiture ayant une antenne à courbure circulaire et a été publiée le #deadline#0#enddate#. Le #startdate##enddate# Porsche a déposé une demande de brevet européen EP-2 comprenant trois revendications : la revendication A1 est dirigée vers une voiture avec une antenne incurvée ; la revendication A2 à la revendication A1 est dirigée vers une voiture avec une antenne incurvée circulairement ; et la revendication A3 à la revendication 1 est dirigée vers une voiture avec une antenne incurvée ovale. Le #deadline#0|+6MM|+6DD#enddate#, une voiture ayant une antenne à courbure circulaire a été mise à la disposition du public. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Ferdinand_Porsche|Ferdinand Porsche#endlink# hat am #date#0#enddate# ein Gebrauchsmuster DE-1 eingereicht. Anspruch 1 von DE-1 ist auf ein Auto mit einer kreisförmig gebogenen Antenne gerichtet und wurde am #date#1#enddate# veröffentlicht. Am #date#2#enddate# hat Porsche eine europäische Patentanmeldung EP-2 mit drei Ansprüchen eingereicht: Anspruch A1 ist auf ein Auto mit einer gebogenen Antenne gerichtet; Anspruch A2 nach Anspruch A1 auf ein Auto mit einer kreisförmig gebogenen Antenne und  Anspruch A3 nach Anspruch 1 auf ein Auto mit einer oval gebogenenen Antenne. Am #date#3#enddate# wurde ein Auto mit kreisförmig gebogener Antenne der Öffnetlichkeit zugänglich gemacht. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Ferdinand_Porsche|Ferdinand Porsche#endlink# filed a utility model DE-1 on #date#0#enddate#. Claim 1 of DE-1 is directed to a car having a circularly curved antenna and was published on #date#1#enddate#. On #date#2#enddate# Porsche filed a European patent application EP-2 comprising of three claims: claim A1 is directed to a car with a curved antenna; claim A2 to claim A1 is directed to a car with a circularly curved antenna; and claim A3 to claim 1 is directed to a car with an oval curved antenna. On #date#3#enddate#, a car having a circularly curved antenna was made available to the public. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Ferdinand_Porsche|Ferdinand Porsche#endlink# a déposé un modèle d'utilité DE-1 le #date#0#enddate#. La revendication 1 du DE-1 est dirigée vers une voiture ayant une antenne à courbure circulaire et a été publiée le #date#1#enddate#. Le #date#2#enddate# Porsche a déposé une demande de brevet européen EP-2 comprenant trois revendications : la revendication A1 est dirigée vers une voiture avec une antenne incurvée ; la revendication A2 à la revendication A1 est dirigée vers une voiture avec une antenne incurvée circulairement ; et la revendication A3 à la revendication 1 est dirigée vers une voiture avec une antenne incurvée ovale. Le #date#3#enddate#, une voiture ayant une antenne à courbure circulaire a été mise à la disposition du public. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Abbe kann die Figuren bis zum #deadline#0#enddate# nachreichen. Der Anmeldetag bleibt erhalten.",
-                            "text_en": "Abbe  has until #deadline#0#enddate# to submit the figures. The filing date will be kept.",
-                            "text_fr": "Abbe a jusqu'au #deadline#0#enddate# pour soumettre les chiffres. La date de dépôt sera conservée."
+                            "text_de": "Abbe kann die Figuren bis zum #date#2#enddate# nachreichen. Der Anmeldetag bleibt erhalten.",
+                            "text_en": "Abbe  has until #date#2#enddate# to submit the figures. The filing date will be kept.",
+                            "text_fr": "Abbe a jusqu'au #date#2#enddate# pour soumettre les chiffres. La date de dépôt sera conservée."
                         },
                         {
                             "text_de": "Wenn Abbe keine Figuren nachreicht gilt die Anmeldung als nicht eingereicht.",
@@ -4689,9 +4696,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Abbe kann die Figuren bis zum #deadline#1#enddate# nachreichen. Allerdings verschiebt sich der Anmeldetag auf den Tag der Nachreichung.",
-                            "text_en": "Abbe can resubmit the figures by #deadline#1#enddate#. However, the filing date will be postponed to the day of the late submission.",
-                            "text_fr": "Abbe peut soumettre à nouveau les chiffres avant le #deadline#1#enddate#. Toutefois, la date de dépôt sera reportée au jour de la soumission tardive."
+                            "text_de": "Abbe kann die Figuren bis zum #date#3#enddate# nachreichen. Allerdings verschiebt sich der Anmeldetag auf den Tag der Nachreichung.",
+                            "text_en": "Abbe can resubmit the figures by #date#3#enddate#. However, the filing date will be postponed to the day of the late submission.",
+                            "text_fr": "Abbe peut soumettre à nouveau les chiffres avant le #date#3#enddate#. Toutefois, la date de dépôt sera reportée au jour de la soumission tardive."
                         },
                         {
                             "text_de": "Abbe muss einen Antrag auf Weiterbehandlung stellen und kann dann die Figuren nachreichen.",
@@ -4721,9 +4728,9 @@
                     "id_old": 404,
                     "normen": "Regel 56 fehlende Beschreibung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Er erhält eine Mitteilung des EPA mit Datum vom #beginning#1#enddate#, in der ihm mitgeteilt wird, dass in der Beschreibung Figuren erwähnt seien, diese aber nicht in der Anmeldung enthalten waren. Wie ist die Rechtslage? (Markieren Sie die richtigen Aussagen)",
-                    "text_en": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# filed a European patent application EP-1 on #beginning#0#enddate#. He receives correspondence from the EPO dated #beginning#1#enddate#, informing him that figures were mentioned in the description but were not included in the application. What is the legal position? (Mark the correct statements)",
-                    "text_fr": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# a déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Il reçoit une correspondance de l'OEB datée du #beginning#1#enddate#, l'informant que des figures étaient mentionnées dans la description mais n'ont pas été incluses dans la demande. Quelle est la situation juridique ? (Cochez les affirmations correctes)"
+                    "text_de": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Er erhält eine Mitteilung des EPA mit Datum vom #date#1#enddate#, in der ihm mitgeteilt wird, dass in der Beschreibung Figuren erwähnt seien, diese aber nicht in der Anmeldung enthalten waren. Wie ist die Rechtslage? (Markieren Sie die richtigen Aussagen)",
+                    "text_en": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# filed a European patent application EP-1 on #date#0#enddate#. He receives correspondence from the EPO dated #date#1#enddate#, informing him that figures were mentioned in the description but were not included in the application. What is the legal position? (Mark the correct statements)",
+                    "text_fr": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# a déposé une demande de brevet européen EP-1 le #date#0#enddate#. Il reçoit une correspondance de l'OEB datée du #date#1#enddate#, l'informant que des figures étaient mentionnées dans la description mais n'ont pas été incluses dans la demande. Quelle est la situation juridique ? (Cochez les affirmations correctes)"
                 },
                 {
                     "answers_false": [
@@ -4745,9 +4752,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Wenn Robinson Änderungswünsche hat, muss er diese bis zum #deadline#0#enddate# begründen.",
-                            "text_en": "If Robinson has change requests, he must justify them by the #deadline#0#enddate#.",
-                            "text_fr": "Si Robinson a des demandes de changement, il doit les justifier par la #deadline#0#enddate#."
+                            "text_de": "Wenn Robinson Änderungswünsche hat, muss er diese bis zum #date#1#enddate# begründen.",
+                            "text_en": "If Robinson has change requests, he must justify them by the #date#1#enddate#.",
+                            "text_fr": "Si Robinson a des demandes de changement, il doit les justifier par la #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -4756,9 +4763,7 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "beginning[1]",
-                        "deadline[0]",
-                        "deadline[1]"
+                        "deadline[0]"
                     ],
                     "deadline": [
                         "+4MM|+10DD",
@@ -4772,9 +4777,9 @@
                     "id_old": 406,
                     "normen": "Regel 71 (3), (4), (5) EPÜ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# hat eine Europäische Patentanmeldung EP-1 eingereicht. Am #beginning#0#enddate# hat er vom Europäischen Patentamt die Fassung, in der sie das europäische Patent zu erteilen beabsichtigt, und die zugehörigen bibliografischen Daten mitgeteilt bekommen. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# has filed a European patent application EP-1. On #beginning#0#enddate# he has been notified by the European Patent Office of the version in which itintends to grant the European patent and the associated bibliographic data. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# a déposé une demande de brevet européen EP-1. Le #beginning#0#enddate#, l'Office européen des brevets lui a notifié la version dans laquelle il envisage de délivrer le brevet européen et les données bibliographiques associées. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# hat eine Europäische Patentanmeldung EP-1 eingereicht. Am #date#0#enddate# hat er vom Europäischen Patentamt die Fassung, in der sie das europäische Patent zu erteilen beabsichtigt, und die zugehörigen bibliografischen Daten mitgeteilt bekommen. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# has filed a European patent application EP-1. On #date#0#enddate# he has been notified by the European Patent Office of the version in which itintends to grant the European patent and the associated bibliographic data. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# a déposé une demande de brevet européen EP-1. Le #date#0#enddate#, l'Office européen des brevets lui a notifié la version dans laquelle il envisage de délivrer le brevet européen et les données bibliographiques associées. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -4819,9 +4824,9 @@
                     "id_old": 397,
                     "normen": "Artikel 87 Priorität Anmelderidentität, Anmeldetag, Priorität, Vertretung",
                     "startdate": "",
-                    "text_de": "Die Naturforscher #linkwiki#Aimé_Bonpland|Aimé Bonpland#endlink# und #linkwiki#Alexander_von_Humboldt|Alexander von Humboldt#endlink# sind von ihrer Südamerikareise zurück in Deutschland und haben am #beginning#0#enddate# eine deutsche Patentanmeldung DE-1 eingereicht. Heute, am #deadline#0#enddate#, beauftragt Humboldt seinen zugelassenen Vertreter, eine europäische Patentanmeldung EP-1 unter Inanspruchnahme der Priorität von DE-1 einzureichen. EP-1 und DE-1 sind inhaltlich identisch. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "The naturalists #linkwiki#Aimé_Bonpland|Aimé Bonpland#endlink# and #linkwiki#Alexander_von_Humboldt|Alexander von Humboldt#endlink# are back in Germany from their South American trip and have recently filed a German patent application DE-1 on #beginning#0#enddate#. Today, on #deadline#0#enddate#, Humboldt instructs his professional representative to file a European patent application EP-1 claiming the priority of DE-1. EP-1 and DE-1 are identical in content. Which of the following statements is correct?",
-                    "text_fr": "Les naturalistes #linkwiki#Aimé_Bonpland|Aimé Bonpland#endlink# et #linkwiki#Alexander_von_Humboldt|Alexander von Humboldt#endlink# sont de retour en Allemagne après leur voyage en Amérique du Sud et ont récemment déposé une demande de brevet allemand DE-1 le #beginning#0#enddate#. Aujourd'hui, à la #deadline#0#enddate#, Humboldt demande à son mandataire agréé de déposer une demande de brevet européen EP-1 revendiquant la priorité de DE-1. EP-1 et DE-1 ont un contenu identique. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "Die Naturforscher #linkwiki#Aimé_Bonpland|Aimé Bonpland#endlink# und #linkwiki#Alexander_von_Humboldt|Alexander von Humboldt#endlink# sind von ihrer Südamerikareise zurück in Deutschland und haben am #date#0#enddate# eine deutsche Patentanmeldung DE-1 eingereicht. Heute, am #date#1#enddate#, beauftragt Humboldt seinen zugelassenen Vertreter, eine europäische Patentanmeldung EP-1 unter Inanspruchnahme der Priorität von DE-1 einzureichen. EP-1 und DE-1 sind inhaltlich identisch. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "The naturalists #linkwiki#Aimé_Bonpland|Aimé Bonpland#endlink# and #linkwiki#Alexander_von_Humboldt|Alexander von Humboldt#endlink# are back in Germany from their South American trip and have recently filed a German patent application DE-1 on #date#0#enddate#. Today, on #date#1#enddate#, Humboldt instructs his professional representative to file a European patent application EP-1 claiming the priority of DE-1. EP-1 and DE-1 are identical in content. Which of the following statements is correct?",
+                    "text_fr": "Les naturalistes #linkwiki#Aimé_Bonpland|Aimé Bonpland#endlink# et #linkwiki#Alexander_von_Humboldt|Alexander von Humboldt#endlink# sont de retour en Allemagne après leur voyage en Amérique du Sud et ont récemment déposé une demande de brevet allemand DE-1 le #date#0#enddate#. Aujourd'hui, à la #date#1#enddate#, Humboldt demande à son mandataire agréé de déposer une demande de brevet européen EP-1 revendiquant la priorité de DE-1. EP-1 et DE-1 ont un contenu identique. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -4900,7 +4905,7 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "startdate"
                     ],
                     "deadline": [
                         "+3MM"
@@ -4913,33 +4918,33 @@
                     "id_old": 410,
                     "normen": "Regel 71 (3), (5), Regel 71a (2) EPÜ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Straton_von_Lampsakos|Straton von Lampsakos#endlink# hat eine europäische Patentanmeldung EP-1 auf einen Schwerkraftsimualtor eingereicht. Erfreulicherweise hat er für seinen zuletzt eingereichten Anspruchssatz mit 15 Ansprüchen am #beginning#0#enddate# von der Prüfungsabteilung die Fassung, in der sie das europäische Patent zu erteilen beabsichtigt, und die zugehörigen bibliografischen Daten mitgeteilt bekommen. Allerdings wurde in Anspruch 5, auf dessen Formulierung Straton besonders stolz ist, eine Änderung eingefügt. Welche Optionen hat Straton heute, am #startdate##enddate#?",
-                    "text_en": "#linkwiki#Straton_of_Lampsakos|Straton of Lampsakos#endlink# has filed a European patent application EP-1 on a gravity simulator. Fortunately, for his most recently filed claim set of 15 claims, made on #beginning#0#enddate#, he was notified by the Examining Division of the version in which it intended to grant the European patent and the associated bibliographic data. However, an amendment was added to claim 5, of which the wording Straton is particularly proud of. What options does Straton have today, on #startdate##enddate#?",
-                    "text_fr": "#linkwiki#Straton_de_Lampsakos|Straton de Lampsakos#endlink# a déposé une demande de brevet européen EP-1 sur un simulateur de gravité. Heureusement, pour son dernier jeu de 15 revendications déposé le #beginning#0#enddate#, la division d'examen lui a notifié la version dans laquelle elle entendait délivrer le brevet européen et les données bibliographiques associées. Cependant, une modification a été ajoutée à la revendication 5, dont le libellé fait la fierté de Straton. Quelles sont les possibilités qui s'offrent à Straton aujourd'hui, à la date du #startdate##enddate# ?"
+                    "text_de": "#linkwiki#Straton_von_Lampsakos|Straton von Lampsakos#endlink# hat eine europäische Patentanmeldung EP-1 auf einen Schwerkraftsimualtor eingereicht. Erfreulicherweise hat er für seinen zuletzt eingereichten Anspruchssatz mit 15 Ansprüchen am #date#0#enddate# von der Prüfungsabteilung die Fassung, in der sie das europäische Patent zu erteilen beabsichtigt, und die zugehörigen bibliografischen Daten mitgeteilt bekommen. Allerdings wurde in Anspruch 5, auf dessen Formulierung Straton besonders stolz ist, eine Änderung eingefügt. Welche Optionen hat Straton heute, am #date#1#enddate#?",
+                    "text_en": "#linkwiki#Straton_of_Lampsakos|Straton of Lampsakos#endlink# has filed a European patent application EP-1 on a gravity simulator. Fortunately, for his most recently filed claim set of 15 claims, made on #date#0#enddate#, he was notified by the Examining Division of the version in which it intended to grant the European patent and the associated bibliographic data. However, an amendment was added to claim 5, of which the wording Straton is particularly proud of. What options does Straton have today, on #date#1#enddate#?",
+                    "text_fr": "#linkwiki#Straton_de_Lampsakos|Straton de Lampsakos#endlink# a déposé une demande de brevet européen EP-1 sur un simulateur de gravité. Heureusement, pour son dernier jeu de 15 revendications déposé le #date#0#enddate#, la division d'examen lui a notifié la version dans laquelle elle entendait délivrer le brevet européen et les données bibliographiques associées. Cependant, une modification a été ajoutée à la revendication 5, dont le libellé fait la fierté de Straton. Quelles sont les possibilités qui s'offrent à Straton aujourd'hui, à la date du #date#1#enddate#?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Mitteilung gilt als am #beginning#0|+9DD#enddate# zugestellt.",
-                            "text_en": "The notice shall be deemed delivered on #beginning#0|+9DD#enddate#.",
-                            "text_fr": "L'avis est réputé remis le #beginning#0|+9DD#enddate#."
+                            "text_de": "Die Mitteilung gilt als am #date#4#enddate# zugestellt.",
+                            "text_en": "The notice shall be deemed delivered on #date#4#enddate#.",
+                            "text_fr": "L'avis est réputé remis le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Die Frist zur Beantwortung endet am #deadline#0|-1DD#enddate#.\n",
-                            "text_en": "The deadline to respond is #deadline#0|-1DD#enddate#.",
-                            "text_fr": "La date limite pour répondre est #deadline#0|-1DD#enddate#."
+                            "text_de": "Die Frist zur Beantwortung endet am #date#3#enddate#.\n",
+                            "text_en": "The deadline to respond is #date#3#enddate#.",
+                            "text_fr": "La date limite pour répondre est #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist zur Beantwortung endet am #deadline#0#enddate#.\n",
-                            "text_en": "The deadline to respond is #deadline#0#enddate#.",
-                            "text_fr": "La date limite pour répondre est #deadline#0#enddate#."
+                            "text_de": "Die Frist zur Beantwortung endet am #date#1#enddate#.\n",
+                            "text_en": "The deadline to respond is #date#1#enddate#.",
+                            "text_fr": "La date limite pour répondre est #date#1#enddate#."
                         },
                         {
-                            "text_de": "Wird die Frist von Witelo versäumt kann er am #deadline#0|+2MM|+5DD#enddate# sicher noch eine Weiterbehandlung beantragen.",
-                            "text_en": "If Witelo's deadline is missed, he can certainly still request further treatment on the #deadline#0|+2MM|+5DD#enddate#.",
-                            "text_fr": "Si le délai de Witelo n'est pas respecté, il peut certainement encore demander un traitement supplémentaire le #deadline#0|+2MM|+5DD#enddate#."
+                            "text_de": "Wird die Frist von Witelo versäumt kann er am #date#2#enddate# sicher noch eine Weiterbehandlung beantragen.",
+                            "text_en": "If Witelo's deadline is missed, he can certainly still request further treatment on the #date#2#enddate#.",
+                            "text_fr": "Si le délai de Witelo n'est pas respecté, il peut certainement encore demander un traitement supplémentaire le #date#2#enddate#."
                         }
                     ],
                     "beginning": [
@@ -4947,7 +4952,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+2MM|+5DD",
+                        "deadline[0]|-1DD",
+                        "beginning[0]|+9DD"
                     ],
                     "deadline": [
                         "+4MM|+10DD"
@@ -4960,9 +4968,9 @@
                     "id_old": 411,
                     "normen": "Artikel 94 EPÜ Regel 126, 131 (4) EPÜ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Witelo|Witelo#endlink# hat einen Hohlspiegel entwickelt und darauf eine europäische Patentanmeldung EP-1 eingereicht. Am #beginning#0#enddate# erhält er eine Mitteilung nach #linkepc#ar94|Artikel 94 (3) EPÜ#endlink# mit Datum vom #beginning#0#enddate#. Er hat vier Monate Frist zur Beantwortung. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Witelo|Witelo#endlink# has developed a concave mirror and filed a European patent application EP-1 on it. On #beginning#0#enddate# he receives a notice under #linkepc#ar94|Article 94 (3) EPC#endlink# dated #beginning#0#enddate#. He has four months to respond. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Witelo|Witelo#endlink# a développé un miroir concave et a déposé une demande de brevet européen EP-1 à son sujet. Le #beginning#0#enddate#, il reçoit une notification au titre de l'#linkepc#ar94|Article 94 (3) CBE#endlink# datée du #beginning#0#enddate#. Il a quatre mois pour répondre. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Witelo|Witelo#endlink# hat einen Hohlspiegel entwickelt und darauf eine europäische Patentanmeldung EP-1 eingereicht. Am #date#0#enddate# erhält er eine Mitteilung nach #linkepc#ar94|Artikel 94 (3) EPÜ#endlink# mit Datum vom #date#0#enddate#. Er hat vier Monate Frist zur Beantwortung. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Witelo|Witelo#endlink# has developed a concave mirror and filed a European patent application EP-1 on it. On #date#0#enddate# he receives a notice under #linkepc#ar94|Article 94 (3) EPC#endlink# dated #date#0#enddate#. He has four months to respond. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Witelo|Witelo#endlink# a développé un miroir concave et a déposé une demande de brevet européen EP-1 à son sujet. Le #date#0#enddate#, il reçoit une notification au titre de l'#linkepc#ar94|Article 94 (3) CBE#endlink# datée du #date#0#enddate#. Il a quatre mois pour répondre. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -4994,7 +5002,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|+17DD",
+                        "startdate|-4DD"
                     ],
                     "deadline": [
                         "+1YY"
@@ -5007,9 +5017,9 @@
                     "id_old": 413,
                     "normen": "Artikel 87 EPÜ Regel 131 (4), 134 (1) EPÜ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Taqi_ad-Din|Taqi ad-Din#endlink# hat eine Dampfturbine entwickelt und darauf am #beginning#0#enddate# eine ägyptische Patentanmeldung EG-1 eingereicht. Am #deadline#0#enddate# reicht #linkwiki#Selim_II.|Selim II.#endlink# eine europäische Patentanmeldung EP-1 ein, die die Priorität von EG-1 beansprucht. Erst am #startdate#+17DD#enddate# reicht Selim II. einen auf den #startdate#-4DD#enddate# datierten Vertrag nach. In diesem ist das Prioritätsrecht von ad-Din auf Selim II. übertragen worden. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Taqi_ad-Din|Taqi ad-Din#endlink# developed a steam turbine and filed an Egyptian patent application EG-1 on it on #beginning#0#enddate#. On #deadline#0#enddate# #linkwiki#Selim_II.|Selim II.#endlink# files a European patent application EP-1 claiming priority to EG-1. It is not until #startdate#+17DD#enddate# that Selim II submits a contract dated #startdate#-4DD#enddate#. In this, the priority right has been transferred from ad-Din to Selim II. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Taqi_ad-Din|Taqi ad-Din#endlink# a mis au point une turbine à vapeur et a déposé une demande de brevet égyptien EG-1 sur celle-ci le #beginning#0#enddate#. Le #deadline#0#enddate# #linkwiki#Selim_II.|Selim II.#endlink# dépose une demande de brevet européen EP-1 revendiquant la priorité sur EG-1. Ce n'est qu'à la #startdate#+17DD#enddate# que Selim II présente un contrat daté de la #startdate#-4DD#enddate#. Dans ce contrat, le droit de priorité a été transféré de ad-Din à Selim II. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Taqi_ad-Din|Taqi ad-Din#endlink# hat eine Dampfturbine entwickelt und darauf am #date#0#enddate# eine ägyptische Patentanmeldung EG-1 eingereicht. Am #date#1#enddate# reicht #linkwiki#Selim_II.|Selim II.#endlink# eine europäische Patentanmeldung EP-1 ein, die die Priorität von EG-1 beansprucht. Erst am #date#2#enddate# reicht Selim II. einen auf den #date#3#enddate# datierten Vertrag nach. In diesem ist das Prioritätsrecht von ad-Din auf Selim II. übertragen worden. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Taqi_ad-Din|Taqi ad-Din#endlink# developed a steam turbine and filed an Egyptian patent application EG-1 on it on #date#0#enddate#. On #date#1#enddate# #linkwiki#Selim_II.|Selim II.#endlink# files a European patent application EP-1 claiming priority to EG-1. It is not until #date#2#enddate# that Selim II submits a contract dated #date#3#enddate#. In this, the priority right has been transferred from ad-Din to Selim II. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Taqi_ad-Din|Taqi ad-Din#endlink# a mis au point une turbine à vapeur et a déposé une demande de brevet égyptien EG-1 sur celle-ci le #date#0#enddate#. Le #date#1#enddate# #linkwiki#Selim_II.|Selim II.#endlink# dépose une demande de brevet européen EP-1 revendiquant la priorité sur EG-1. Ce n'est qu'à la #date#2#enddate# que Selim II présente un contrat daté de la #date#3#enddate#. Dans ce contrat, le droit de priorité a été transféré de ad-Din à Selim II. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
