@@ -3395,16 +3395,16 @@
                             "text_fr": "Lord Kelvin doit payer une taxe ; ce n'est qu'ensuite que la demande de brevet est publiée immédiatement."
                         },
                         {
-                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am #beginning#0|+17MM#enddate# veröffentlicht.",
-                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on #beginning#0|+17MM#enddate#.",
-                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le #beginning#0|+17MM#enddate#."
+                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am #date#1#enddate# veröffentlicht.",
+                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on #date#1#enddate#.",
+                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le #date#1#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am Mittwoch nach dem #deadline#1#enddate#, also am #startdate#+2MM|+2DD#enddate#, veröffentlicht.",
-                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on Thursday after the #deadline#1#enddate#, which is #startdate#+3MM|+3DD#enddate#.",
-                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le jeudi après la #deadline#1#enddate#, qui est #startdate#+3MM|+3DD#enddate#."
+                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am Mittwoch nach dem #date#3#enddate#, also am #date#5#enddate#, veröffentlicht.",
+                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on Thursday after the #date#3#enddate#, which is #date#5#enddate#.",
+                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le jeudi après la #date#3#enddate#, qui est #date#5#enddate#."
                         }
                     ],
                     "beginning": [
@@ -3413,9 +3413,11 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "beginning[1]",
+                        "beginning[0]|+17MM",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "startdate|+3MM|+4DD",
+                        "startdate|+3MM|+3DD"
                     ],
                     "deadline": [
                         "+12MM",
@@ -3429,9 +3431,9 @@
                     "id_old": 75,
                     "normen": "Artikel 93",
                     "startdate": "MO",
-                    "text_de": "Am #beginning#0#enddate# hat #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# eine britische Anmeldung GB-1 betreffend einen Kühlschrank eingereicht. Am #deadline#0#enddate# reicht er eine europäische Anmeldung EP-1 ein, die die Priorität der GB-1 wirksam in Anspruch nimmt. Er hat nunmehr erfahren, dass sein ärgster Wettbewerber Lord Arktos ebenfalls plant, eine europäische Patentanmeldung einzureichen, und zwar nicht vor dem #startdate#+3MM|+4DD#enddate#, da einige abschließende Experimente noch fehlen. Lord Kelvin weiß, dass seine Anmeldung \"besserer\" Stand der Technik ist, wenn sie vorveröffentlicht ist. Er möchte von Ihnen wissen, was er tun muss. ",
-                    "text_en": "On #beginning#0#enddate#, #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# filed a UK GB-1 application relating to a refrigerator. On #deadline#0#enddate# he files a European application EP-1 effectively claiming priority to GB-1. He has now learned that his worst competitor, Lord Arktos, is also planning to file a European patent application, but not before #startdate#+3MM|+4DD#enddate# because some final experiments are still missing. Lord Kelvin knows that his application is \"better\" prior art if it is pre-published. He would like to know from you what he needs to do.",
-                    "text_fr": "Le #beginning#0#enddate#, #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# dépose une demande GB-1 britannique relative à un réfrigérateur. Le jour de la #deadline#0#enddate#, il dépose une demande européenne EP-1 revendiquant effectivement la priorité sur la GB-1. Il apprend alors que son pire concurrent, Lord Arktos, prévoit également de déposer une demande de brevet européen, mais pas avant la #startdate#+3MM|+4DD#enddate# car il manque encore quelques expériences finales. Lord Kelvin sait que sa demande constitue un \"meilleur\" art antérieur si elle est prépubliée. Il aimerait que vous lui disiez ce qu'il doit faire."
+                    "text_de": "Am #date#0#enddate# hat #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# eine britische Anmeldung GB-1 betreffend einen Kühlschrank eingereicht. Am #date#2#enddate# reicht er eine europäische Anmeldung EP-1 ein, die die Priorität der GB-1 wirksam in Anspruch nimmt. Er hat nunmehr erfahren, dass sein ärgster Wettbewerber Lord Arktos ebenfalls plant, eine europäische Patentanmeldung einzureichen, und zwar nicht vor dem #date#4#enddate#, da einige abschließende Experimente noch fehlen. Lord Kelvin weiß, dass seine Anmeldung \"besserer\" Stand der Technik ist, wenn sie vorveröffentlicht ist. Er möchte von Ihnen wissen, was er tun muss. ",
+                    "text_en": "On #date#0#enddate#, #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# filed a UK GB-1 application relating to a refrigerator. On #date#2#enddate# he files a European application EP-1 effectively claiming priority to GB-1. He has now learned that his worst competitor, Lord Arktos, is also planning to file a European patent application, but not before #date#4#enddate# because some final experiments are still missing. Lord Kelvin knows that his application is \"better\" prior art if it is pre-published. He would like to know from you what he needs to do.",
+                    "text_fr": "Le #date#0#enddate#, #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# dépose une demande GB-1 britannique relative à un réfrigérateur. Le jour de la #date#2#enddate#, il dépose une demande européenne EP-1 revendiquant effectivement la priorité sur la GB-1. Il apprend alors que son pire concurrent, Lord Arktos, prévoit également de déposer une demande de brevet européen, mais pas avant la #date#4#enddate# car il manque encore quelques expériences finales. Lord Kelvin sait que sa demande constitue un \"meilleur\" art antérieur si elle est prépubliée. Il aimerait que vous lui disiez ce qu'il doit faire."
                 },
                 {
                     "answers_false": [
@@ -3441,21 +3443,21 @@
                             "text_fr": "Lord Kelvin doit payer une taxe ; ce n'est qu'ensuite que la demande de brevet est publiée immédiatement."
                         },
                         {
-                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am #deadline#0|-14DD#enddate# veröffentlicht.",
-                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on #deadline#0|-14DD#enddate#.",
-                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le #deadline#0|-14DD#enddate#."
+                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am #date#4#enddate# veröffentlicht.",
+                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on #date#4#enddate#.",
+                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Lord Kelvin kann einen Antrag stellen, um eine vorzeitige Veröffentlichung, und zwar vor dem #deadline#0#enddate#, seiner eigenen Anmeldung EP-1 zu erreichen.",
-                            "text_en": "Lord Kelvin may submit a request to achieve an early release of his own EP-1 application before the #deadline#0#enddate#,.",
-                            "text_fr": "Lord Kelvin peut soumettre une demande pour obtenir une libération anticipée de sa propre demande EP-1 avant le #deadline#0#enddate#,."
+                            "text_de": "Lord Kelvin kann einen Antrag stellen, um eine vorzeitige Veröffentlichung, und zwar vor dem #date#2#enddate#, seiner eigenen Anmeldung EP-1 zu erreichen.",
+                            "text_en": "Lord Kelvin may submit a request to achieve an early release of his own EP-1 application before the #date#2#enddate#.",
+                            "text_fr": "Lord Kelvin peut soumettre une demande pour obtenir une libération anticipée de sa propre demande EP-1 avant le #date#2#enddate#."
                         },
                         {
-                            "text_de": "Lord Kelvin kann seine Erfindung vor dem #deadline#0#enddate# mündlich der Öffentlichkeit zugänglich machen, um eine Vorveröffentlichung zu erreichen.",
-                            "text_en": "Lord Kelvin may orally disclose his invention for pre-publication to the public prior to the #deadline#0#enddate#.",
-                            "text_fr": "Lord Kelvin peut divulguer oralement son invention en vue d'une prépublication publique avant la #deadline#0#enddate#."
+                            "text_de": "Lord Kelvin kann seine Erfindung vor dem #date#2#enddate# mündlich der Öffentlichkeit zugänglich machen, um eine Vorveröffentlichung zu erreichen.",
+                            "text_en": "Lord Kelvin may orally disclose his invention for pre-publication to the public prior to the #date#2#enddate#.",
+                            "text_fr": "Lord Kelvin peut divulguer oralement son invention en vue d'une prépublication publique avant la #date#2#enddate#."
                         }
                     ],
                     "beginning": [
@@ -3466,7 +3468,8 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "deadline|0|-14DD"
                     ],
                     "deadline": [
                         "+2MM|+14DD",
@@ -3480,9 +3483,9 @@
                     "id_old": 76,
                     "normen": "Artikel 93 iVm Artikel 54",
                     "startdate": "",
-                    "text_de": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# erfährt heute, am #beginning#0#enddate#, dass sein Konkurrent Lord Arktos seine europäische Patentanmeldung EP-2 doch bereits am #deadline#0#enddate# einreichen möchte. Seine eigene Anmeldung EP-1 war am #beginning#1#enddate# eingereicht worden. Was kann Lord Kelvin unternehmen, um seine Rechtsposition gegenüber Lord Arktos zu verbessern? ",
-                    "text_en": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# learns today, on #beginning#0#enddate#, that his competitor, Lord Arktos, wants to file his European patent application EP-2 on #deadline#0#enddate# after all. His own application EP-1 had been filed on #beginning#1#enddate#. What can Lord Kelvin do to improve his legal position against Lord Arktos?",
-                    "text_fr": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# apprend aujourd'hui, le #beginning#0#enddate#, que son concurrent, Lord Arktos, veut déposer sa demande de brevet européen EP-2 le #deadline#0#enddate# après tout. Sa propre demande EP-1 avait été déposée le #beginning#1#enddate#. Que peut faire Lord Kelvin pour améliorer sa position juridique face à Lord Arktos ?"
+                    "text_de": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# erfährt heute, am #date#0#enddate#, dass sein Konkurrent Lord Arktos seine europäische Patentanmeldung EP-2 doch bereits am #date#2#enddate# einreichen möchte. Seine eigene Anmeldung EP-1 war am #date#1#enddate# eingereicht worden. Was kann Lord Kelvin unternehmen, um seine Rechtsposition gegenüber Lord Arktos zu verbessern? ",
+                    "text_en": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# learns today, on #date#0#enddate#, that his competitor, Lord Arktos, wants to file his European patent application EP-2 on #date#2#enddate# after all. His own application EP-1 had been filed on #date#1#enddate#. What can Lord Kelvin do to improve his legal position against Lord Arktos?",
+                    "text_fr": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# apprend aujourd'hui, le #date#0#enddate#, que son concurrent, Lord Arktos, veut déposer sa demande de brevet européen EP-2 le #date#2#enddate# après tout. Sa propre demande EP-1 avait été déposée le #date#1#enddate#. Que peut faire Lord Kelvin pour améliorer sa position juridique face à Lord Arktos ?"
                 },
                 {
                     "answers_false": [
@@ -3504,9 +3507,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Wenn Cochrane die Anmeldegebühren nicht bis zum #deadline#0#enddate# bezahlt, gilt die Anmeldung als zurückgenommen.",
-                            "text_en": "If Cochrane does not pay the registration fees by the #deadline#0#enddate#, the registration will be considered withdrawn.",
-                            "text_fr": "Si Cochrane ne paie pas les frais d'inscription avant la date limite, l'inscription sera considérée comme retirée."
+                            "text_de": "Wenn Cochrane die Anmeldegebühren nicht bis zum #date#2#enddate# bezahlt, gilt die Anmeldung als zurückgenommen.",
+                            "text_en": "If Cochrane does not pay the registration fees by the #date#2#enddate#, the registration will be considered withdrawn.",
+                            "text_fr": "Si Cochrane ne paie pas les frais d'inscription avant le #date#2#enddate#, l'inscription sera considérée comme retirée."
                         },
                         {
                             "text_de": "Bei Nichtzahlung der Anmeldegebühr macht das EPA auf den Rechtsverlust und die Möglichkeit einer Weiterbehandlung aufmerksam. ",
@@ -3519,6 +3522,7 @@
                     ],
                     "date": [
                         "beginning[0]",
+                        "deadline[0]|+10DD",
                         "deadline[0]"
                     ],
                     "deadline": [
@@ -3532,9 +3536,9 @@
                     "id_old": 77,
                     "normen": "Artikel 94 Prüfung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# ist das Spülen leid. Sie hat deswegen eine Geschirrspülmaschine konstruiert und eine europäische Patentanmeldung EP-1 am #beginning#0#enddate# eingereicht. Da sie momentan knapp bei Kasse ist aber am #deadline#0|+10DD#enddate# eine hohe Überweisung erwartet, will sie die Zahlung der offenen Gebühren bis dahin aufschieben. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# is tired of washing dishes. She has therefore designed a dishwashing machine and filed a European patent application EP-1 on #beginning#0#enddate#. Since she is currently short of cash but expects a large remittance by #deadline#0|+10DD#enddate#, she wants to postpone paying the outstanding fees until then. What is the legal situation?",
-                    "text_fr": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# en a assez de faire la vaisselle. Elle a donc conçu un lave-vaisselle et déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Comme elle est actuellement à court d'argent mais qu'elle attend un versement important pour le #deadline#0|+10DD#enddate#, elle souhaite reporter le paiement des taxes dues à ce moment-là. Quelle est la situation juridique ?"
+                    "text_de": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# ist das Spülen leid. Sie hat deswegen eine Geschirrspülmaschine konstruiert und eine europäische Patentanmeldung EP-1 am #date#0#enddate# eingereicht. Da sie momentan knapp bei Kasse ist aber am #date#1#enddate# eine hohe Überweisung erwartet, will sie die Zahlung der offenen Gebühren bis dahin aufschieben. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# is tired of washing dishes. She has therefore designed a dishwashing machine and filed a European patent application EP-1 on #date#0#enddate#. Since she is currently short of cash but expects a large remittance by #date#1#enddate#, she wants to postpone paying the outstanding fees until then. What is the legal situation?",
+                    "text_fr": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# en a assez de faire la vaisselle. Elle a donc conçu un lave-vaisselle et déposé une demande de brevet européen EP-1 le #date#0#enddate#. Comme elle est actuellement à court d'argent mais qu'elle attend un versement important pour le #date#1#enddate#, elle souhaite reporter le paiement des taxes dues à ce moment-là. Quelle est la situation juridique ?"
                 },
                 {
                     "answers_false": [
@@ -3579,9 +3583,9 @@
                     "id_old": 78,
                     "normen": "Artikel 94 (4) fehlende Eingabe auf Prüfungsbescheid",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# ist Berufsluftschifferin und Fallschirmspringerin. Die zusammengerollten Fallschirme, die sie verwendet, sind problemanfällig und gefährlich. Sie schneidert daher einen zusammenlegbaren Fallschirm. Um diese Idee für sich zu schützen, reicht sie eine europäische Patentanmeldung EP-1 ein. Nach der Stellung des Prüfungsantrages und der Zahlung aller notwendigen Gebühren muss sie viel Zeit in den Aufbau einer Firma zur Herstellung ihrer Fallschirme investieren. Einen Prüfungsbescheid des europäischen Patentamtes vom #beginning#0#enddate#, der einige formale Mängel aufzeigt und eine viermonatige Antwortfrist vorgibt, übersieht sie in den Papierbergen. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# is a professional air skipper and parachutist. The rolled-up parachutes she uses are problem-prone and dangerous. She has created a solution to this by tailoring a collapsible parachute. To protect this idea for herself, she files a European patent application EP-1. After filing the examination request and paying all the necessary fees, she has to invest a lot of time in setting up a company to manufacture her parachutes. She overlooks an examination notice from the European Patent Office dated #beginning#0#enddate#, amongst all of the paperwork, which points out some formal deficiencies and specifies a four-month response period,. What is the legal situation?",
-                    "text_fr": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# est une skippeuse et parachutiste professionnelle. Les parachutes enroulés qu'elle utilise posent des problèmes et sont dangereux. Elle a créé une solution à ce problème en concevant un parachute pliable. Afin de protéger cette idée pour elle-même, elle dépose une demande de brevet européen EP-1. Après avoir déposé la requête en examen et payé toutes les taxes nécessaires, elle doit investir beaucoup de temps dans la création d'une entreprise pour fabriquer ses parachutes. Parmi toutes les formalités administratives, elle oublie un avis d'examen de l'Office européen des brevets daté du #beginning#0#enddate#, qui signale certaines lacunes formelles et fixe un délai de réponse de quatre mois. Quelle est la situation juridique ?"
+                    "text_de": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# ist Berufsluftschifferin und Fallschirmspringerin. Die zusammengerollten Fallschirme, die sie verwendet, sind problemanfällig und gefährlich. Sie schneidert daher einen zusammenlegbaren Fallschirm. Um diese Idee für sich zu schützen, reicht sie eine europäische Patentanmeldung EP-1 ein. Nach der Stellung des Prüfungsantrages und der Zahlung aller notwendigen Gebühren muss sie viel Zeit in den Aufbau einer Firma zur Herstellung ihrer Fallschirme investieren. Einen Prüfungsbescheid des europäischen Patentamtes vom #date#0#enddate#, der einige formale Mängel aufzeigt und eine viermonatige Antwortfrist vorgibt, übersieht sie in den Papierbergen. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# is a professional air skipper and parachutist. The rolled-up parachutes she uses are problem-prone and dangerous. She has created a solution to this by tailoring a collapsible parachute. To protect this idea for herself, she files a European patent application EP-1. After filing the examination request and paying all the necessary fees, she has to invest a lot of time in setting up a company to manufacture her parachutes. She overlooks an examination notice from the European Patent Office dated #date#0#enddate#, amongst all of the paperwork, which points out some formal deficiencies and specifies a four-month response period,. What is the legal situation?",
+                    "text_fr": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# est une skippeuse et parachutiste professionnelle. Les parachutes enroulés qu'elle utilise posent des problèmes et sont dangereux. Elle a créé une solution à ce problème en concevant un parachute pliable. Afin de protéger cette idée pour elle-même, elle dépose une demande de brevet européen EP-1. Après avoir déposé la requête en examen et payé toutes les taxes nécessaires, elle doit investir beaucoup de temps dans la création d'une entreprise pour fabriquer ses parachutes. Parmi toutes les formalités administratives, elle oublie un avis d'examen de l'Office européen des brevets daté du #date#0#enddate#, qui signale certaines lacunes formelles et fixe un délai de réponse de quatre mois. Quelle est la situation juridique ?"
                 },
                 {
                     "answers_false": [
