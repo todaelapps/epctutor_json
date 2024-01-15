@@ -2900,9 +2900,9 @@
                     "id_old": 66,
                     "normen": "Artikel 78 Erfordernisse",
                     "startdate": "",
-                    "text_de": "Die Herstellung einer Dampfmaschine ist der große Traum von #linkwiki#Nicolas_L%C3%A9onard_Sadi_Carnot|Sadi Carnot#endlink#. Er fährt ins Deutsche Museum nach München und lässt sich dort zu einer diesbezüglichen Weiterentwicklung inspirieren. Schnell fertigt er ein paar Skizzen an und fügt eine Beschreibung dazu. Diese wirft er unter Nennung seines Namens und seiner Adresse am #beginning#0#enddate# beim europäischen Patentamt ein. Heute, am #date#1#enddate# erscheint er bei Ihnen und möchte wissen, was nun zu tun sei.",
-                    "text_en": "It has always been #linkwiki#Nicolas_L%C3%A9onard_Sadi_Carnot|Sadi Carnot#endlink#’s biggest dream to produce a steam engine. He goes to the German Museum in Munich and is inspired there to pursue his dream and develop one. He quickly makes a few sketches and adds a description. He submits this to the European Patent Office, stating his name and address on #beginning#0#enddate#. Today, on #date#1#enddate# he appears at your office and wants to know what to do now.",
-                    "text_fr": "Le plus grand rêve de #linkwiki#Nicolas_L%C3%A9onard_Sadi_Carnot|Sadi Carnot#endlink# a toujours été de fabriquer une machine à vapeur. Il se rend au musée allemand de Munich et y trouve l'inspiration pour poursuivre son rêve et en développer une. Il réalise rapidement quelques croquis et ajoute une description. Il soumet le tout à l'Office européen des brevets, en indiquant son nom et son adresse le #beginning#0#enddate#. Aujourd'hui, le #date#1#enddate#, il se présente à votre bureau et veut savoir ce qu'il doit faire maintenant."
+                    "text_de": "Die Herstellung einer Dampfmaschine ist der große Traum von #linkwiki#Nicolas_L%C3%A9onard_Sadi_Carnot|Sadi Carnot#endlink#. Er fährt ins Deutsche Museum nach München und lässt sich dort zu einer diesbezüglichen Weiterentwicklung inspirieren. Schnell fertigt er ein paar Skizzen an und fügt eine Beschreibung dazu. Diese wirft er unter Nennung seines Namens und seiner Adresse am #date#0#enddate# beim europäischen Patentamt ein. Heute, am #date#1#enddate# erscheint er bei Ihnen und möchte wissen, was nun zu tun sei.",
+                    "text_en": "It has always been #linkwiki#Nicolas_L%C3%A9onard_Sadi_Carnot|Sadi Carnot#endlink#’s biggest dream to produce a steam engine. He goes to the German Museum in Munich and is inspired there to pursue his dream and develop one. He quickly makes a few sketches and adds a description. He submits this to the European Patent Office, stating his name and address on #date#0#enddate#. Today, on #date#1#enddate# he appears at your office and wants to know what to do now.",
+                    "text_fr": "Le plus grand rêve de #linkwiki#Nicolas_L%C3%A9onard_Sadi_Carnot|Sadi Carnot#endlink# a toujours été de fabriquer une machine à vapeur. Il se rend au musée allemand de Munich et y trouve l'inspiration pour poursuivre son rêve et en développer une. Il réalise rapidement quelques croquis et ajoute une description. Il soumet le tout à l'Office européen des brevets, en indiquant son nom et son adresse le #date#0#enddate#. Aujourd'hui, le #date#1#enddate#, il se présente à votre bureau et veut savoir ce qu'il doit faire maintenant."
                 },
                 {
                     "answers_false": [
@@ -5024,26 +5024,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Mitteilung gilt als am #beginning#0|+12DD#enddate# zugestellt.",
-                            "text_en": "On #deadline#0|+5DD#enddate# Bessel may request an extension of time.",
-                            "text_fr": "L'avis est réputé remis le #beginning#0|+12DD#enddate#."
+                            "text_de": "Die Mitteilung gilt als am #date#1#enddate# zugestellt.",
+                            "text_en": "The notice shall be deemed delivered on #date#1#enddate#.",
+                            "text_fr": "L'avis est réputé remis le #date#1#enddate#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|+5DD#enddate# kann Bessel eine Fristverlängerung beantragen.\n",
-                            "text_en": "The notice shall be deemed delivered on #beginning#0|+12DD#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|+5DD#enddate# Bessel peut demander une prolongation du délai."
+                            "text_de": "Am #date#3#enddate# kann Bessel eine Fristverlängerung beantragen.\n",
+                            "text_en": "On #date#3#enddate# Bessel may request an extension of time.",
+                            "text_fr": "Le jour de la #date#3#enddate# Bessel peut demander une prolongation du délai."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Weiterbehandlung bei Fristversäumnis kann mindestens bis zum #deadline#0|+2MM|+10DD#enddate# beantragt werden.\n",
-                            "text_en": "The notice shall be deemed delivered on #beginning#0|+10DD#enddate#.",
-                            "text_fr": "L'avis est réputé remis le #beginning#0|+10DD#enddate#."
+                            "text_de": "Die Mitteilung gilt als am #date#5#enddate# zugestellt.",
+                            "text_en": "The notice shall be deemed delivered on #date#5#enddate#.",
+                            "text_fr": "L'avis est réputé remis le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Die Mitteilung gilt als am #beginning#0|+10DD#enddate# zugestellt.",
-                            "text_en": "Continued treatment in case of missed deadline can be requested at least until #deadline#0|+2MM|+10DD#enddate#.",
-                            "text_fr": "La poursuite du traitement en cas de dépassement du délai peut être demandée au moins jusqu'à la #deadline#0|+2MM|+10DD#enddate#."
+                            "text_de": "Die Weiterbehandlung bei Fristversäumnis kann mindestens bis zum #date#4#enddate# beantragt werden.\n",
+                            "text_en": "Continued treatment in case of missed deadline can be requested at least until #date#4#enddate#.",
+                            "text_fr": "La poursuite du traitement en cas de dépassement du délai peut être demandée au moins jusqu'à la #date#4#enddate#."
                         }
                     ],
                     "beginning": [
@@ -5051,7 +5051,11 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "beginning[0]|+12DD",
+                        "deadline[0]",
+                        "deadline[0]|+5DD",
+                        "deadline[0]|+2MM|+10DD",
+                        "beginning[0]|+10DD"
                     ],
                     "deadline": [
                         "+4MM|+10DD"
@@ -5064,33 +5068,33 @@
                     "id_old": 414,
                     "normen": "Artikel 94 (3) EPÜ Regel 131 (4), 134 (1) EPÜ",
                     "startdate": "WE",
-                    "text_de": "#linkwiki#Friedrich_Wilhelm_Bessel|Friedrich Wilhelm Bessel#endlink# hat ein Fernrohr gebaut und eine darauf gerichtete europäische Patentanmeldung EP-1 eingereicht. Am #beginning#0#enddate# erhält er eine Mitteilung nach Art. 94 (3) EPÜ mit Datum vom selben Tag. Welche der folgenden Aussagen ist richtig, eine viermonatige Frist vorausgesetzt?",
-                    "text_en": "#linkwiki#Friedrich_Wilhelm_Bessel|Friedrich Wilhelm Bessel#endlink# has built a telescope and filed a European patent application EP-1 directed to it. On #beginning#0#enddate# he receives a communication under Art. 94 (3) EPC dated the same day. Which of the following statements is correct, assuming a four-month period?",
-                    "text_fr": "#linkwiki#Friedrich_Wilhelm_Bessel|Friedrich Wilhelm Bessel#endlink# a construit un télescope et déposé une demande de brevet européen EP-1 le concernant. Le #beginning#0#enddate#, il reçoit une communication au titre de l'art. 94 (3) CBE datée du même jour. Laquelle des affirmations suivantes est correcte, en supposant une période de quatre mois ?"
+                    "text_de": "#linkwiki#Friedrich_Wilhelm_Bessel|Friedrich Wilhelm Bessel#endlink# hat ein Fernrohr gebaut und eine darauf gerichtete europäische Patentanmeldung EP-1 eingereicht. Am #date#0#enddate# erhält er eine Mitteilung nach Art. 94 (3) EPÜ mit Datum vom selben Tag. Welche der folgenden Aussagen ist richtig, eine viermonatige Frist vorausgesetzt?",
+                    "text_en": "#linkwiki#Friedrich_Wilhelm_Bessel|Friedrich Wilhelm Bessel#endlink# has built a telescope and filed a European patent application EP-1 directed to it. On #date#0#enddate# he receives a communication under Art. 94 (3) EPC dated the same day. Which of the following statements is correct, assuming a four-month period?",
+                    "text_fr": "#linkwiki#Friedrich_Wilhelm_Bessel|Friedrich Wilhelm Bessel#endlink# a construit un télescope et déposé une demande de brevet européen EP-1 le concernant. Le #date#0#enddate#, il reçoit une communication au titre de l'art. 94 (3) CBE datée du même jour. Laquelle des affirmations suivantes est correcte, en supposant une période de quatre mois ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Der Zeitrang von Anspruch 1 von EP-1 ist der #beginning#0#enddate#.",
-                            "text_en": "The time rank of claim 1 of EP-1 is the #beginning#0#enddate#.",
-                            "text_fr": "Le rang temporel de la revendication 1 de EP-1 est le #beginning#0#enddate#."
+                            "text_de": "Der Zeitrang von Anspruch 1 von EP-1 ist der #date#0#enddate#.",
+                            "text_en": "The time rank of claim 1 of EP-1 is the #date#0#enddate#.",
+                            "text_fr": "Le rang temporel de la revendication 1 de EP-1 est le #date#0#enddate#."
                         },
                         {
-                            "text_de": "Der Zeitrang von Anspruch 3 von EP-1 ist der #beginning#0#enddate#.",
-                            "text_en": "The seniority of claim 3 of EP-1 is the #beginning#0#enddate#.",
-                            "text_fr": "L'ancienneté de la revendication 3 de l'EP-1 est le #beginning#0#enddate#."
+                            "text_de": "Der Zeitrang von Anspruch 3 von EP-1 ist der #date#0#enddate#.",
+                            "text_en": "The seniority of claim 3 of EP-1 is the #date#0#enddate#.",
+                            "text_fr": "L'ancienneté de la revendication 3 de l'EP-1 est le #date#0#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Der Zeitrang von Anspruch 2 von EP-1 ist der #beginning#0#enddate#.",
-                            "text_en": "The seniority of claim 2 of EP-1 is the #beginning#0#enddate#.",
-                            "text_fr": "L'ancienneté de la revendication 2 de l'EP-1 est le #beginning#0#enddate#."
+                            "text_de": "Der Zeitrang von Anspruch 2 von EP-1 ist der #date#0#enddate#.",
+                            "text_en": "The seniority of claim 2 of EP-1 is the #date#0#enddate#.",
+                            "text_fr": "L'ancienneté de la revendication 2 de l'EP-1 est le #date#0#enddate#."
                         },
                         {
-                            "text_de": "Der Zeitrang von Anspruch 1 von EP-1 ist der #startdate#-2MM|-6DD#enddate#.",
-                            "text_en": "The time rank of claim 1 of EP-1 is the #startdate#-2MM|-6DD#enddate#.",
-                            "text_fr": "Le rang temporel de la revendication 1 de EP-1 est le #startdate#-2MM|-6DD#enddate#."
+                            "text_de": "Der Zeitrang von Anspruch 1 von EP-1 ist der #date#2#enddate#.",
+                            "text_en": "The time rank of claim 1 of EP-1 is the #date#2#enddate#.",
+                            "text_fr": "Le rang temporel de la revendication 1 de EP-1 est le #date#2#enddate#."
                         }
                     ],
                     "beginning": [
@@ -5098,7 +5102,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-2MM|-6DD"
                     ],
                     "deadline": [
                         "+4MM|+10DD"
@@ -5111,9 +5116,9 @@
                     "id_old": 415,
                     "normen": "Artikel 87 EPÜ ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Sarah_Frances_Whiting|Sarah Frances Whiting#endlink# hat am #beginning#0#enddate# eine Anmeldung US-1 beim USPTO auf eine Meteorologie-Station eingereicht. Anspruch 1 weist einen Meteorologie-Station mit einem Luftdrucksensor auf. Am #startdate#-2MM|-6DD#enddate# reicht sie unter Inanspruchnahme der Priorität von US-1 eine europäische Anmeldung EP-1 ein. Anspruch 1 von EP-1 ist auf eine Meteorologie-Station mit einem Sensor gerichtet. Anspruch 2 nach Anspruch 1 betrifft eine Meteorologie-Station mit einem Luftdrucksensor. Anspruch 3 nach Anspruch 1 beansprucht eine Meteorologie-Station mit einem Luftfeuchtesensor. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Sarah_Frances_Whiting|Sarah Frances Whiting#endlink# filed an application US-1 for a meteorology station with the USPTO on #beginning#0#enddate#. Claim 1 features a meteorology station with an air pressure sensor. On #startdate#-2MM|-6DD#enddate#, she files a European application EP-1 claiming priority of US-1. Claim 1 of EP-1 is directed to a meteorology station having a sensor. Claim 2 of claim 1 is directed to a meteorology station having a barometric pressure sensor. Claim 3 of claim 1 is directed to a meteorology station having a humidity sensor. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Sarah_Frances_Whiting|Sarah Frances Whiting#endlink# a déposé une demande US-1 pour une station météorologique auprès de l'USPTO le #beginning#0#enddate#. La demande 1 présente une station météorologique avec un capteur de pression atmosphérique. Le #startdate#-2MM|-6DD#enddate#, elle dépose une demande européenne EP-1 revendiquant la priorité de US-1. La revendication 1 de la demande EP-1 concerne une station météorologique dotée d'un capteur. La revendication 2 de la revendication 1 est dirigée vers une station météorologique ayant un capteur de pression barométrique. La revendication 3 de la revendication 1 concerne une station météorologique comportant un capteur d'humidité. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Sarah_Frances_Whiting|Sarah Frances Whiting#endlink# hat am #date#0#enddate# eine Anmeldung US-1 beim USPTO auf eine Meteorologie-Station eingereicht. Anspruch 1 weist einen Meteorologie-Station mit einem Luftdrucksensor auf. Am #date#2#enddate# reicht sie unter Inanspruchnahme der Priorität von US-1 eine europäische Anmeldung EP-1 ein. Anspruch 1 von EP-1 ist auf eine Meteorologie-Station mit einem Sensor gerichtet. Anspruch 2 nach Anspruch 1 betrifft eine Meteorologie-Station mit einem Luftdrucksensor. Anspruch 3 nach Anspruch 1 beansprucht eine Meteorologie-Station mit einem Luftfeuchtesensor. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Sarah_Frances_Whiting|Sarah Frances Whiting#endlink# filed an application US-1 for a meteorology station with the USPTO on #date#0#enddate#. Claim 1 features a meteorology station with an air pressure sensor. On #date#2#enddate#, she files a European application EP-1 claiming priority of US-1. Claim 1 of EP-1 is directed to a meteorology station having a sensor. Claim 2 of claim 1 is directed to a meteorology station having a barometric pressure sensor. Claim 3 of claim 1 is directed to a meteorology station having a humidity sensor. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Sarah_Frances_Whiting|Sarah Frances Whiting#endlink# a déposé une demande US-1 pour une station météorologique auprès de l'USPTO le #date#0#enddate#. La demande 1 présente une station météorologique avec un capteur de pression atmosphérique. Le #date#2#enddate#, elle dépose une demande européenne EP-1 revendiquant la priorité de US-1. La revendication 1 de la demande EP-1 concerne une station météorologique dotée d'un capteur. La revendication 2 de la revendication 1 est dirigée vers une station météorologique ayant un capteur de pression barométrique. La revendication 3 de la revendication 1 concerne une station météorologique comportant un capteur d'humidité. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -5145,7 +5150,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+2MM|+4DD",
+                        "startdate|-1MM|+6DD",
+                        "startdate|-3MM|+12DD"
                     ],
                     "deadline": [
                         "+4MM|+10DD"
@@ -5158,9 +5166,9 @@
                     "id_old": 416,
                     "normen": "Artikel 87 EPÜ ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Agnes_Pockels|Agnes Pockels#endlink# hat eine Schieberinne entwickelt und diese am #beginning#0#enddate# in einem deutschen Gebrauchsmuster DE-1 angemeldet. DE-1 wurde am #beginning#0|+2MM|+4DD#enddate# veröffentlicht. Der einzige Anspruch 1 von DE-1 weist eine Schieberinne mit einem mit Wasser gefüllten Trog auf. Am #startdate#-1MM|+6DD#enddate# reicht sie unter Inanspruchnahme der Priorität von DE-1 eine europäische Anmeldung EP-1 ein. Anspruch 1 von EP-1 ist auf eine Schieberinne mit einem mit Flüssigkeit gefüllten Trog gerichtet. Anspruch 2 nach Anspruch 1 betrifft eine Schieberinne mit einem mit Wasser gefüllten Trog. Anspruch 3 nach Anspruch 1 beansprucht eine Schieberinne mit einem mit Alkohol gefüllten Trog. Auf einer wissenschaftlichen Konferenz wurde der Gegenstand von DE-1 am #startdate#-3MM|+12DD#enddate# veröffentlicht. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Agnes_Pockels|Agnes Pockels#endlink# developed a sliding channel and applied for it in a German utility model DE-1 on #beginning#0#enddate#. DE-1 was published on #beginning#0|+2MM|+4DD#enddate#. The sole claim 1 of DE-1 features a slide channel with a trough filled with water. On #startdate#-1MM|+6DD#enddate#, she files a European application EP-1 claiming the priority of DE-1. Claim 1 of EP-1 is directed to a sliding trough having a liquid-filled trough. Claim 2 according to claim 1 is directed to a slide gate with a trough filled with water. Claim 3 of claim 1 is directed to a slide channel having a trough filled with alcohol. At a scientific conference, the subject matter of DE-1 was published on #startdate#-3MM|+12DD#enddate#. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Agnes_Pockels|Agnes Pockels#endlink# a développé un canal coulissant et en a fait la demande dans un modèle d'utilité allemand DE-1 le #beginning#0#enddate#. DE-1 a été publié le #beginning#0|+2MM|+4DD#enddate#. La revendication unique 1 de DE-1 présente un canal de glissement avec une auge remplie d'eau. Le #startdate#-1MM|+6DD#enddate#, elle dépose une demande européenne EP-1 revendiquant la priorité de DE-1. La revendication 1 de la demande EP-1 concerne une auge coulissante comportant une auge remplie de liquide. La revendication 2 selon la revendication 1 est dirigée vers une porte coulissante avec une auge remplie d'eau. La revendication 3 selon la revendication 1 est dirigée vers un canal de glissement ayant une auge remplie d'alcool. Lors d'une conférence scientifique, l'objet de la revendication DE-1 a été publié le #startdate#-3MM|+12DD#enddate#. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Agnes_Pockels|Agnes Pockels#endlink# hat eine Schieberinne entwickelt und diese am #date#0#enddate# in einem deutschen Gebrauchsmuster DE-1 angemeldet. DE-1 wurde am #date#2#enddate# veröffentlicht. Der einzige Anspruch 1 von DE-1 weist eine Schieberinne mit einem mit Wasser gefüllten Trog auf. Am #date#3#enddate# reicht sie unter Inanspruchnahme der Priorität von DE-1 eine europäische Anmeldung EP-1 ein. Anspruch 1 von EP-1 ist auf eine Schieberinne mit einem mit Flüssigkeit gefüllten Trog gerichtet. Anspruch 2 nach Anspruch 1 betrifft eine Schieberinne mit einem mit Wasser gefüllten Trog. Anspruch 3 nach Anspruch 1 beansprucht eine Schieberinne mit einem mit Alkohol gefüllten Trog. Auf einer wissenschaftlichen Konferenz wurde der Gegenstand von DE-1 am #date#4#enddate# veröffentlicht. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Agnes_Pockels|Agnes Pockels#endlink# developed a sliding channel and applied for it in a German utility model DE-1 on #date#0#enddate#. DE-1 was published on #date#2#enddate#. The sole claim 1 of DE-1 features a slide channel with a trough filled with water. On #date#3#enddate#, she files a European application EP-1 claiming the priority of DE-1. Claim 1 of EP-1 is directed to a sliding trough having a liquid-filled trough. Claim 2 according to claim 1 is directed to a slide gate with a trough filled with water. Claim 3 of claim 1 is directed to a slide channel having a trough filled with alcohol. At a scientific conference, the subject matter of DE-1 was published on #date#4#enddate#. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Agnes_Pockels|Agnes Pockels#endlink# a développé un canal coulissant et en a fait la demande dans un modèle d'utilité allemand DE-1 le #date#0#enddate#. DE-1 a été publié le #date#2#enddate#. La revendication unique 1 de DE-1 présente un canal de glissement avec une auge remplie d'eau. Le #date#3#enddate#, elle dépose une demande européenne EP-1 revendiquant la priorité de DE-1. La revendication 1 de la demande EP-1 concerne une auge coulissante comportant une auge remplie de liquide. La revendication 2 selon la revendication 1 est dirigée vers une porte coulissante avec une auge remplie d'eau. La revendication 3 selon la revendication 1 est dirigée vers un canal de glissement ayant une auge remplie d'alcool. Lors d'une conférence scientifique, l'objet de la revendication DE-1 a été publié le #date#4#enddate#. Laquelle des affirmations suivantes est correcte?"
                 },
                 {
                     "answers_false": [
@@ -5205,9 +5213,9 @@
                     "id_old": 417,
                     "normen": "Artikel 83 EPÜ ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# hat ein Verfahren zur Auswertung von Sonnenflecken entwickelt und am #beginning#0#enddate# eine Europäische Patentanmeldung EP-1 eingereicht. EP-1 hat sie sehr viel Geld gekostet. Bei der Fortführung der Idee beauftragt sie den ausarbeitenden zugelassenen Verteter daher, nur die Neuerungen darzustellen und auf die Grundlagen zu verzichten, um etwas Kosten zu sparen. Prompt erhält sie vom EPA im Hinblick auf EP-2 einen Bescheid, der die Ausführbarkeit in Frage stellt. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# developed a method for evaluating sunspots and filed a European patent application EP-1 on #beginning#0#enddate#. EP-1 has cost her a lot of money. In continuation of the idea, she instructs the elaborating authorized representative to present only the innovations and to dispense with the fundamentals in order to save some costs. Promptly, she receives a notice from the EPO with regard to EP-2, questioning the feasibility. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# a développé une méthode d'évaluation des taches solaires et a déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. EP-1 lui a coûté beaucoup d'argent. Dans le prolongement de l'idée, elle donne instruction au mandataire chargé de l'élaboration de ne présenter que les innovations et de se passer des éléments fondamentaux afin d'économiser quelques frais. Rapidement, elle reçoit un avis de l'OEB concernant EP-2, mettant en doute la faisabilité. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# hat ein Verfahren zur Auswertung von Sonnenflecken entwickelt und am #date#0#enddate# eine Europäische Patentanmeldung EP-1 eingereicht. EP-1 hat sie sehr viel Geld gekostet. Bei der Fortführung der Idee beauftragt sie den ausarbeitenden zugelassenen Verteter daher, nur die Neuerungen darzustellen und auf die Grundlagen zu verzichten, um etwas Kosten zu sparen. Prompt erhält sie vom EPA im Hinblick auf EP-2 einen Bescheid, der die Ausführbarkeit in Frage stellt. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# developed a method for evaluating sunspots and filed a European patent application EP-1 on #date#0#enddate#. EP-1 has cost her a lot of money. In continuation of the idea, she instructs the elaborating authorized representative to present only the innovations and to dispense with the fundamentals in order to save some costs. Promptly, she receives a notice from the EPO with regard to EP-2, questioning the feasibility. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# a développé une méthode d'évaluation des taches solaires et a déposé une demande de brevet européen EP-1 le #date#0#enddate#. EP-1 lui a coûté beaucoup d'argent. Dans le prolongement de l'idée, elle donne instruction au mandataire chargé de l'élaboration de ne présenter que les innovations et de se passer des éléments fondamentaux afin d'économiser quelques frais. Rapidement, elle reçoit un avis de l'OEB concernant EP-2, mettant en doute la faisabilité. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -5239,7 +5247,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-8MM|+11DD",
+                        "startdate"
                     ],
                     "deadline": [
                         "+4MM|+10DD"
@@ -5252,16 +5262,16 @@
                     "id_old": 418,
                     "normen": "Regel 64 EPÜ, Artikel 87, 76 EPÜ ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Elsa_Neumann|Elsa Neumann#endlink# hat mehrere Elektroden konstruiert und um diese zu schützen am #startdate#-8MM|+11DD#enddate# eine Europäische Patentanmeldung EP-1 eingereicht. Im Recherchenbericht wird eine mangelnde Einheitlichkeit der Ansprüche festgestellt. Die erste Erfindung wurde recherchiert. Neumann hat eine Aufforderung mit Datum vom #beginning#0#enddate# erhalten, in der sie aufgefordert wurde, eine zweite Recherchengebühr zu bezahlen. Unternommen hat sie nichts. Welche der folgenden Aussagen stimmt, wenn sie die zweite Erfindung heute, am #startdate##enddate#, weiterverfolgen möchte?",
-                    "text_en": "#linkwiki#Elsa_Neumann|Elsa Neumann#endlink# constructed several electrodes and has filed a European patent application EP-1 on #startdate#-8MM|+11DD#enddate# to protect them. The search report states a lack of unity of claims. The first invention was searched. Neumann received an invitation dated #beginning#0#enddate# asking her to pay a second search fee. She has not taken any action yet. Which of the following statements is true if she wants to pursue the second invention today, on #startdate##enddate#?",
-                    "text_fr": "#linkwiki#Elsa_Neumann|Elsa Neumann#endlink# a construit plusieurs électrodes et a déposé une demande de brevet européen EP-1 le #startdate#-8MM|+11DD#enddate# pour les protéger. Le rapport de recherche fait état d'un manque d'unité des revendications. La première invention a fait l'objet d'une recherche. Mme Neumann a reçu une invitation datée du #beginning#0#enddate# lui demandant de payer une deuxième taxe de recherche. Elle n'a encore pris aucune mesure. Laquelle des affirmations suivantes est vraie si elle veut poursuivre la deuxième invention aujourd'hui, le #beginning##enddate# ?"
+                    "text_de": "#linkwiki#Elsa_Neumann|Elsa Neumann#endlink# hat mehrere Elektroden konstruiert und um diese zu schützen am #date#2#enddate# eine Europäische Patentanmeldung EP-1 eingereicht. Im Recherchenbericht wird eine mangelnde Einheitlichkeit der Ansprüche festgestellt. Die erste Erfindung wurde recherchiert. Neumann hat eine Aufforderung mit Datum vom #date#0#enddate# erhalten, in der sie aufgefordert wurde, eine zweite Recherchengebühr zu bezahlen. Unternommen hat sie nichts. Welche der folgenden Aussagen stimmt, wenn sie die zweite Erfindung heute, am #date#3#enddate#, weiterverfolgen möchte?",
+                    "text_en": "#linkwiki#Elsa_Neumann|Elsa Neumann#endlink# constructed several electrodes and has filed a European patent application EP-1 on #date#2#enddate# to protect them. The search report states a lack of unity of claims. The first invention was searched. Neumann received an invitation dated #date#0#enddate# asking her to pay a second search fee. She has not taken any action yet. Which of the following statements is true if she wants to pursue the second invention today, on #date#3#enddate#?",
+                    "text_fr": "#linkwiki#Elsa_Neumann|Elsa Neumann#endlink# a construit plusieurs électrodes et a déposé une demande de brevet européen EP-1 le #date#2#enddate# pour les protéger. Le rapport de recherche fait état d'un manque d'unité des revendications. La première invention a fait l'objet d'une recherche. Mme Neumann a reçu une invitation datée du #date#0#enddate# lui demandant de payer une deuxième taxe de recherche. Elle n'a encore pris aucune mesure. Laquelle des affirmations suivantes est vraie si elle veut poursuivre la deuxième invention aujourd'hui, le #date#3#enddate#?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Wenn Germain einen der neu eingebrachten Gegenstände in einen Hauptanspruch von EP-2 aufnimmt ist der Zeitrang von EP-2 der #beginning#0#enddate#.",
-                            "text_en": "If Germain includes any of the newly contributed items in a main EP-2 claim, the seniority of EP-2 will be effective as of the #beginning#0#enddate#.",
-                            "text_fr": "Si Germain inclut l'un des éléments nouvellement apportés dans une réclamation principale EP-2, l'ancienneté d'EP-2 sera effective à partir de la #startdate#0#enddate#."
+                            "text_de": "Wenn Germain einen der neu eingebrachten Gegenstände in einen Hauptanspruch von EP-2 aufnimmt ist der Zeitrang von EP-2 der #date#0#enddate#.",
+                            "text_en": "If Germain includes any of the newly contributed items in a main EP-2 claim, the seniority of EP-2 will be effective as of the #date#0#enddate#.",
+                            "text_fr": "Si Germain inclut l'un des éléments nouvellement apportés dans une réclamation principale EP-2, l'ancienneté d'EP-2 sera effective à partir de la #date#0#enddate#."
                         },
                         {
                             "text_de": "Germain kann EP-2 nur einreichen, bevor die 24-Monatsfrist für die Einreichung einer Teilanmeldung zu EP-1 abgelaufen ist. Der erste Bescheid nach Artikel 94 (3) EPÜ ist der Auslöser dieser Frist.",
@@ -5271,9 +5281,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist zur Zahlung der ersten Jahresgebühr ohne Zuschlag für EP-2 endet am #deadline#0#enddate#.",
-                            "text_en": "The deadline for paying the first annual fee without surcharge for EP-2 is #deadline#0#enddate#.",
-                            "text_fr": "La date limite pour payer la première cotisation annuelle sans surtaxe pour EP-2 est #deadline#0#enddate#."
+                            "text_de": "Die Frist zur Zahlung der ersten Jahresgebühr ohne Zuschlag für EP-2 endet am #date#1#enddate#.",
+                            "text_en": "The deadline for paying the first annual fee without surcharge for EP-2 is #date#1#enddate#.",
+                            "text_fr": "La date limite pour payer la première cotisation annuelle sans surtaxe pour EP-2 est #date#1#enddate#."
                         },
                         {
                             "text_de": "Germain kann die neu eingebrachten Gegenstände im Hinblick auf Art. 123 (2) EPÜ nicht verwenden.",
@@ -5286,7 +5296,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-3MM|+5DD"
                     ],
                     "deadline": [
                         "+24MM|MEND"
@@ -5299,16 +5310,16 @@
                     "id_old": 419,
                     "normen": "Artikel 76 EPÜ ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# hat am #beginning#0#enddate# eine auf ein Analyseverfahren  gerichtete Europäische Patentanmeldung EP-1 eingereicht. Am #startdate#-3MM|+5DD#enddate# hat sie eine Teilanmeldung EP-2 eingereicht. Um neue Ideen einzubringen hat sie in Unteransprüchen Gegenstände eingebracht, die in EP-1 nicht enthalten waren. EP-1 befindet sich noch im Prüfungsverfahren. Welche der folgenden Aussagen ist korrekt?",
-                    "text_en": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# filed a European patent application EP-1 directed to an analytical method on #beginning#0#enddate#. On #startdate#-3MM|+5DD#enddate# she filed a divisional application EP-2. In order to introduce new ideas, she has added subject matter to sub-claims that has not been included in EP-1. EP-1 is still in the examination process. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# a déposé une demande de brevet européen EP-1 portant sur une méthode d'analyse le #beginning#0#enddate#. Le #startdate#-3MM|+5DD#enddate#, elle a déposé une demande divisionnaire EP-2. Afin d'introduire de nouvelles idées, elle a ajouté des sujets aux sous-créances qui n'ont pas été inclus dans EP-1. EP-1 est toujours en cours d'examen. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# hat am #date#0#enddate# eine auf ein Analyseverfahren  gerichtete Europäische Patentanmeldung EP-1 eingereicht. Am #date#2#enddate# hat sie eine Teilanmeldung EP-2 eingereicht. Um neue Ideen einzubringen hat sie in Unteransprüchen Gegenstände eingebracht, die in EP-1 nicht enthalten waren. EP-1 befindet sich noch im Prüfungsverfahren. Welche der folgenden Aussagen ist korrekt?",
+                    "text_en": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# filed a European patent application EP-1 directed to an analytical method on #date#0#enddate#. On #date#2#enddate# she filed a divisional application EP-2. In order to introduce new ideas, she has added subject matter to sub-claims that has not been included in EP-1. EP-1 is still in the examination process. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# a déposé une demande de brevet européen EP-1 portant sur une méthode d'analyse le #date#0#enddate#. Le #date#2#enddate#, elle a déposé une demande divisionnaire EP-2. Afin d'introduire de nouvelles idées, elle a ajouté des sujets aux sous-créances qui n'ont pas été inclus dans EP-1. EP-1 est toujours en cours d'examen. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Wenn Mitchell einen der neu eingebrachten Gegenstände in einen Hauptanspruch von EP-2 aufnimmt ist der Zeitrang von EP-2 der #beginning#0#enddate#.",
-                            "text_en": "If Mitchell incorporates any of the newly introduced items into a main EP-2 claim, the seniority of EP-2 will be the #beginning#0#enddate#.",
-                            "text_fr": "Si Mitchell incorpore l'un des éléments nouvellement introduits dans une revendication principale EP-2, l'ancienneté de l'EP-2 sera le #beginning#0#enddate#."
+                            "text_de": "Wenn Mitchell einen der neu eingebrachten Gegenstände in einen Hauptanspruch von EP-2 aufnimmt ist der Zeitrang von EP-2 der #date#0#enddate#.",
+                            "text_en": "If Mitchell incorporates any of the newly introduced items into a main EP-2 claim, the seniority of EP-2 will be the #date#0#enddate#.",
+                            "text_fr": "Si Mitchell incorpore l'un des éléments nouvellement introduits dans une revendication principale EP-2, l'ancienneté de l'EP-2 sera le #date#0#enddate#."
                         },
                         {
                             "text_de": "EP-2 muss dieselben Ansprüche haben wie EP-1.",
@@ -5318,9 +5329,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die aus EP-1 hervorgehenden Gegenstände habe einen Zeitrang vom #beginning#0#enddate#.",
-                            "text_en": "The items resulting from EP-1 have a time rank of #beginning#0#enddate#.",
-                            "text_fr": "Les éléments résultant de EP-1 ont un rang temporel de #beginning#0#enddate#."
+                            "text_de": "Die aus EP-1 hervorgehenden Gegenstände habe einen Zeitrang vom #date#0#enddate#.",
+                            "text_en": "The items resulting from EP-1 have a time rank of #date#0#enddate#.",
+                            "text_fr": "Les éléments résultant de EP-1 ont un rang temporel de #date#0#enddate#."
                         },
                         {
                             "text_de": "Mitchell kann die neu eingebrachten Gegenstände im Hinblick auf Art. 123 (2) EPÜ nicht verwenden.",
@@ -5333,7 +5344,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-3MM|+5DD"
                     ],
                     "deadline": [
                         "+24MM|MEND"
@@ -5346,9 +5358,9 @@
                     "id_old": 435,
                     "normen": "Artikel 76 EPÜ ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# hat am #beginning#0#enddate# eine auf einen Sextanten gerichtete Europäische Patentanmeldung EP-1 eingereicht. Am #startdate#-3MM|+5DD#enddate# hat sie eine europäische Teilanmeldung EP-2 eingereicht. Um neue Ideen einzubringen hat sie in Unteransprüchen Gegenstände eingebracht, die in EP-1 nicht enthalten waren. EP-1 befindet sich noch im Prüfungsverfahren. Welche der folgenden Aussagen ist korrekt?",
-                    "text_en": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# filed a European patent application EP-1 directed to a sextant on #beginning#0#enddate#. On #startdate#-3MM|+5DD#enddate# she filed a European divisional application EP-2. In order to introduce new ideas, she has added subject matter to sub-claims that  has not been included in EP-1. EP-1 is still in the examination process. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# a déposé une demande de brevet européen EP-1 portant sur un sextant le #beginning#0#enddate#. Le #startdate#-3MM|+5DD#enddate#, elle a déposé une demande de division européenne EP-2. Afin d'introduire de nouvelles idées, elle a ajouté des sujets aux sous-créances qui n'ont pas été inclus dans EP-1. EP-1 est toujours en cours d'examen. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# hat am #date#0#enddate# eine auf einen Sextanten gerichtete Europäische Patentanmeldung EP-1 eingereicht. Am #date#2#enddate# hat sie eine europäische Teilanmeldung EP-2 eingereicht. Um neue Ideen einzubringen hat sie in Unteransprüchen Gegenstände eingebracht, die in EP-1 nicht enthalten waren. EP-1 befindet sich noch im Prüfungsverfahren. Welche der folgenden Aussagen ist korrekt?",
+                    "text_en": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# filed a European patent application EP-1 directed to a sextant on #date#0#enddate#. On #date#2#enddate# she filed a European divisional application EP-2. In order to introduce new ideas, she has added subject matter to sub-claims that  has not been included in EP-1. EP-1 is still in the examination process. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# a déposé une demande de brevet européen EP-1 portant sur un sextant le #date#0#enddate#. Le #date#2#enddate#, elle a déposé une demande de division européenne EP-2. Afin d'introduire de nouvelles idées, elle a ajouté des sujets aux sous-créances qui n'ont pas été inclus dans EP-1. EP-1 est toujours en cours d'examen. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -5393,9 +5405,9 @@
                     "id_old": 420,
                     "normen": "Artikel 76 EPÜ ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# hat eine Europäische Patentanmeldung EP-1 eingereicht. Am #beginning#0#enddate# wurde der erweiterte europäische Recherchenbericht veröffentlicht. In diesem wurden mehrere der 17 Ansprüche bemängelt. Was muss Agnesi bis zum Ablauf der Frist nach #linkepc#r70|Regel 70 (1) EPÜ#endlink# unternehmen?",
-                    "text_en": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# has filed a European patent application EP-1. On #beginning#0#enddate# the extended European search report was published. In it, several of the 17 claims were found wanting. What must Agnesi do before the deadline under #linkepc#r70|Rule 70 (1) EPC#endlink# expires?",
-                    "text_fr": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# a déposé une demande de brevet européen EP-1. Le #beginning#0#enddate#, le rapport de recherche européenne étendue a été publié. Dans ce rapport, plusieurs des 17 revendications ont été jugées insuffisantes. Que doit faire Agnesi avant l'expiration du délai prévu par la #linkepc#r70|Règle 70 (1) CBE#endlink# ?"
+                    "text_de": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# hat eine Europäische Patentanmeldung EP-1 eingereicht. Am #date#0#enddate# wurde der erweiterte europäische Recherchenbericht veröffentlicht. In diesem wurden mehrere der 17 Ansprüche bemängelt. Was muss Agnesi bis zum Ablauf der Frist nach #linkepc#r70|Regel 70 (1) EPÜ#endlink# unternehmen?",
+                    "text_en": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# has filed a European patent application EP-1. On #date#0#enddate# the extended European search report was published. In it, several of the 17 claims were found wanting. What must Agnesi do before the deadline under #linkepc#r70|Rule 70 (1) EPC#endlink# expires?",
+                    "text_fr": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# a déposé une demande de brevet européen EP-1. Le #date#0#enddate#, le rapport de recherche européenne étendue a été publié. Dans ce rapport, plusieurs des 17 revendications ont été jugées insuffisantes. Que doit faire Agnesi avant l'expiration du délai prévu par la #linkepc#r70|Règle 70 (1) CBE#endlink# ?"
                 },
                 {
                     "answers_false": [
@@ -5447,26 +5459,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Wenn Lavoisier nur die Priorität von US-1 in Anspruch nimmt ist das wirksame Datum von Anspruch 1 von EP-1 der #beginning#0#enddate#.",
-                            "text_en": "If Lavoisier claims only the priority of US-1, the effective date of claim 1 of EP-1 is the #beginning#0#enddate#.",
-                            "text_fr": "Si Lavoisier revendique uniquement la priorité de US-1, la date de prise d'effet de la revendication 1 de EP-1 est la #beginning#0#enddate#."
+                            "text_de": "Wenn Lavoisier nur die Priorität von US-1 in Anspruch nimmt ist das wirksame Datum von Anspruch 1 von EP-1 der #date#0#enddate#.",
+                            "text_en": "If Lavoisier claims only the priority of US-1, the effective date of claim 1 of EP-1 is the #date#0#enddate#.",
+                            "text_fr": "Si Lavoisier revendique uniquement la priorité de US-1, la date de prise d'effet de la revendication 1 de EP-1 est la #date#0#enddate#."
                         },
                         {
-                            "text_de": "Wenn Lavoisier nur die Priorität von FR-1 in Anspruch nimmt ist das wirksame Datum von Anspruch 2 von EP-1 der #beginning#0#enddate#.",
-                            "text_en": "If Lavoisier only claims FR-1 priority, the effective date of claim 2 of EP-1 is the #beginning#0#enddate#.",
-                            "text_fr": "Si Lavoisier ne revendique que la priorité FR-1, la date de prise d'effet de la revendication 2 de EP-1 est la #beginning#0#enddate#."
+                            "text_de": "Wenn Lavoisier nur die Priorität von FR-1 in Anspruch nimmt ist das wirksame Datum von Anspruch 2 von EP-1 der #date#0#enddate#.",
+                            "text_en": "If Lavoisier only claims FR-1 priority, the effective date of claim 2 of EP-1 is the #date#0#enddate#.",
+                            "text_fr": "Si Lavoisier ne revendique que la priorité FR-1, la date de prise d'effet de la revendication 2 de EP-1 est la #date#0#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Wenn Lavoisier nur die Priorität von US-1 in Anspruch nimmt ist das wirksame Datum von Anspruch 2 von EP-1 der #beginning#0|+3MM|+7DD#enddate#.",
-                            "text_en": "If Lavoisier claims only US-1 priority, the effective date of claim 2 of EP-1 is the #beginning#0|+3MM|+7DD#enddate#.",
-                            "text_fr": "Si Lavoisier ne revendique qu'une priorité US-1, la date d'effet de la revendication 2 de EP-1 est la #beginning#0|+3MM|+7DD#enddate#."
+                            "text_de": "Wenn Lavoisier nur die Priorität von US-1 in Anspruch nimmt ist das wirksame Datum von Anspruch 2 von EP-1 der #date#2#enddate#.",
+                            "text_en": "If Lavoisier claims only US-1 priority, the effective date of claim 2 of EP-1 is the #date#2#enddate#.",
+                            "text_fr": "Si Lavoisier ne revendique qu'une priorité US-1, la date d'effet de la revendication 2 de EP-1 est la #date#2#enddate#."
                         },
                         {
-                            "text_de": "Wenn Lavoisier nur die Priorität von FR-1 in Anspruch nimmt ist das wirksame Datum von Anspruch 1 von EP-1 der #beginning#0#enddate#.",
-                            "text_en": "If Lavoisier claims only FR-1 priority, the effective date of claim 1 of EP-1 is the #beginning#0#enddate#.",
-                            "text_fr": "Si Lavoisier ne revendique que la priorité FR-1, la date de prise d'effet de la revendication 1 de EP-1 est la #beginning#0#enddate#."
+                            "text_de": "Wenn Lavoisier nur die Priorität von FR-1 in Anspruch nimmt ist das wirksame Datum von Anspruch 1 von EP-1 der #date#0#enddate#.",
+                            "text_en": "If Lavoisier claims only FR-1 priority, the effective date of claim 1 of EP-1 is the #date#0#enddate#.",
+                            "text_fr": "Si Lavoisier ne revendique que la priorité FR-1, la date de prise d'effet de la revendication 1 de EP-1 est la #date#0#enddate#."
                         }
                     ],
                     "beginning": [
@@ -5474,7 +5486,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+3MM|+7DD",
+                        "deadline[0]|-21DD"
                     ],
                     "deadline": [
                         "+12MM"
@@ -5487,16 +5501,16 @@
                     "id_old": 425,
                     "normen": "Artikel 87 EPÜ , Art 100 EPÜ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Marie_Lavoisier|Marie Lavoisier#endlink# hat am #beginning#0#enddate# eine französische Patentanmeldung FR-1 eingereicht. Anspruch 1 ist auf ein Verfahren zur Herstellung einer Malfarbe gerichtet. Am #beginning#0|+3MM|+7DD#enddate# reicht sie während eines Aufenthaltes in den USA eine Anmeldung US-1 beim USPTO ein, die die Priorität von FR-1 in Anspruch nimmt. Da sie während der Reise eine neue Idee hatte enthält US-1 einen zweiten Anspruch mit einem neuen Verfahrensschritt, der aus FR-1 nicht bekannt war. Nach ihrer Rückkehr reicht sie am #deadline#0|-21DD#enddate# eine europäische Patentanmeldung EP-1 ein. Diese entspricht inhaltlich US-1. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Marie_Lavoisier|Marie Lavoisier#endlink# filed a French patent application FR-1 on #beginning#0#enddate#. Claim 1 is directed to a process for producing a particular paint. On #beginning#0|+3MM|+7DD#enddate#, while in the US, she files an application US-1 with the USPTO claiming priority to FR-1. Because she had a new idea during the trip, US-1 contains a second claim with a new process step that has not been recognized in the initial filing of FR-1. After her return, she goes on to file yet another claim: a European patent application EP-1 on #deadline#0|-21DD#enddate#. This corresponds in content to US-1. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Marie_Lavoisier|Marie Lavoisier#endlink# a déposé une demande de brevet français FR-1 le #beginning#0#enddate#. La revendication 1 porte sur un procédé de fabrication d'une peinture particulière. Le #beginning#0|+3MM|+7DD#enddate#, alors qu'elle se trouve aux Etats-Unis, elle dépose une demande US-1 auprès de l'USPTO en revendiquant la priorité sur FR-1. Comme elle a eu une nouvelle idée pendant le voyage, la demande US-1 contient une deuxième revendication avec une nouvelle étape du processus qui n'a pas été reconnue dans le dépôt initial de la demande FR-1. Après son retour, elle dépose encore une autre revendication : une demande de brevet européen EP-1 le #deadline#0|-21DD#enddate#. Le contenu de cette demande correspond à celui de la demande US-1. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Marie_Lavoisier|Marie Lavoisier#endlink# hat am #date#0#enddate# eine französische Patentanmeldung FR-1 eingereicht. Anspruch 1 ist auf ein Verfahren zur Herstellung einer Malfarbe gerichtet. Am #date#2#enddate# reicht sie während eines Aufenthaltes in den USA eine Anmeldung US-1 beim USPTO ein, die die Priorität von FR-1 in Anspruch nimmt. Da sie während der Reise eine neue Idee hatte enthält US-1 einen zweiten Anspruch mit einem neuen Verfahrensschritt, der aus FR-1 nicht bekannt war. Nach ihrer Rückkehr reicht sie am #date#3#enddate# eine europäische Patentanmeldung EP-1 ein. Diese entspricht inhaltlich US-1. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Marie_Lavoisier|Marie Lavoisier#endlink# filed a French patent application FR-1 on #date#0#enddate#. Claim 1 is directed to a process for producing a particular paint. On #date#2#enddate#, while in the US, she files an application US-1 with the USPTO claiming priority to FR-1. Because she had a new idea during the trip, US-1 contains a second claim with a new process step that has not been recognized in the initial filing of FR-1. After her return, she goes on to file yet another claim: a European patent application EP-1 on #date#3#enddate#. This corresponds in content to US-1. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Marie_Lavoisier|Marie Lavoisier#endlink# a déposé une demande de brevet français FR-1 le #date#0#enddate#. La revendication 1 porte sur un procédé de fabrication d'une peinture particulière. Le #date#2#enddate#, alors qu'elle se trouve aux Etats-Unis, elle dépose une demande US-1 auprès de l'USPTO en revendiquant la priorité sur FR-1. Comme elle a eu une nouvelle idée pendant le voyage, la demande US-1 contient une deuxième revendication avec une nouvelle étape du processus qui n'a pas été reconnue dans le dépôt initial de la demande FR-1. Après son retour, elle dépose encore une autre revendication : une demande de brevet européen EP-1 le #date#3#enddate#. Le contenu de cette demande correspond à celui de la demande US-1. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Frist zur Einreichung von EP-1 endet am #deadline#0|+1DD#enddate#.",
-                            "text_en": "The deadline for EP-1 submission is #deadline#0|+1DD#enddate#.",
-                            "text_fr": "La date limite pour la soumission de l'EP-1 est #deadline#0|+1DD#enddate#."
+                            "text_de": "Die Frist zur Einreichung von EP-1 endet am #date#4#enddate#.",
+                            "text_en": "The deadline for EP-1 submission is #date#4#enddate#.",
+                            "text_fr": "La date limite pour la soumission de l'EP-1 est #date#4#enddate#."
                         },
                         {
                             "text_de": "Erxleben kann die Priorität von DE-1 nur beanspruchen, wenn sie auch die Anmelderin von DE-1 ist.",
@@ -5511,9 +5525,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist zur Einreichung der Prioritätserklärung für EP-1 endet am #deadline#1#enddate#.",
-                            "text_en": "The deadline for filing the priority declaration for EP-1 is #deadline#1#enddate#.",
-                            "text_fr": "La date limite pour le dépôt de la déclaration de priorité pour EP-1 est #deadline#1#enddate#."
+                            "text_de": "Die Frist zur Einreichung der Prioritätserklärung für EP-1 endet am #date#3#enddate#.",
+                            "text_en": "The deadline for filing the priority declaration for EP-1 is #date#3#enddate#.",
+                            "text_fr": "La date limite pour le dépôt de la déclaration de priorité pour EP-1 est #date#3#enddate#."
                         }
                     ],
                     "beginning": [
@@ -5524,30 +5538,31 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "deadline[0]|+1DD"
                     ],
                     "deadline": [
                         "+12MM",
                         "+16MM"
                     ],
                     "difficulty": "3",
-                    "explanation_de": "Gemäß #linkepc#ar87|Artikel 87 (1) EPÜ#endlink# genießt jedermann, der eine Anmeldung für ein Patent, ein Gebrauchsmuster oder ein Gebrauchszertifikat vorschriftsmäßig eingereicht hat, oder sein Rechtsnachfolger, für die Anmeldung derselben Erfindung zum europäischen Patent während einer Frist von zwölf Monaten nach dem Anmeldetag der ersten Anmeldung ein Prioritätsrecht. Relevant ist hier „dieselbe Erfindung“ und „erste Anmeldung“. Es ist weder Wortidentität verlangt noch muss Anmelderidentität in persona vorliegen, da das Prioritätsrecht übertragbar ist.\n\nDie Prioritätsfrist endet am #deadline#1#enddate#.",
-                    "explanation_en": "The priority period ends on #deadline#1#enddate#.",
-                    "explanation_fr": "La période de priorité se termine le jour de #deadline#1#enddate#.",
+                    "explanation_de": "Gemäß #linkepc#ar87|Artikel 87 (1) EPÜ#endlink# genießt jedermann, der eine Anmeldung für ein Patent, ein Gebrauchsmuster oder ein Gebrauchszertifikat vorschriftsmäßig eingereicht hat, oder sein Rechtsnachfolger, für die Anmeldung derselben Erfindung zum europäischen Patent während einer Frist von zwölf Monaten nach dem Anmeldetag der ersten Anmeldung ein Prioritätsrecht. Relevant ist hier „dieselbe Erfindung“ und „erste Anmeldung“. Es ist weder Wortidentität verlangt noch muss Anmelderidentität in persona vorliegen, da das Prioritätsrecht übertragbar ist.\n\nDie Prioritätsfrist endet am #date#3#enddate#.",
+                    "explanation_en": "The priority period ends on #date#3#enddate#.",
+                    "explanation_fr": "La période de priorité se termine le jour de #date#3#enddate#.",
                     "id": 110,
                     "id_old": 426,
                     "normen": "Artikel 87 EPÜ , Art 100 EPÜ",
                     "startdate": "SO",
-                    "text_de": "#linkwiki#Dorothea_Christiane_Erxleben|Dorothea Christiane Erxleben#endlink# hat am #beginning#0#enddate# eine deutsche Patentanmeldung DE-1 eingereicht. Sie möchte nun eine Europäische Patentanmeldung EP-1 unter Inanspruchnahme der Priorität von DE-1 einreichen. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Dorothea_Christiane_Erxleben|Dorothea Christiane Erxleben#endlink# filed a German patent application DE-1 on #beginning#0#enddate#. Now, she would like to file a European patent application EP-1 claiming the priority of DE-1. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Dorothea_Christiane_Erxleben|Dorothea Christiane Erxleben#endlink# a déposé une demande de brevet allemand DE-1 le #beginning#0#enddate#. Elle souhaite maintenant déposer une demande de brevet européen EP-1 en revendiquant la priorité de la DE-1. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Dorothea_Christiane_Erxleben|Dorothea Christiane Erxleben#endlink# hat am #date#0#enddate# eine deutsche Patentanmeldung DE-1 eingereicht. Sie möchte nun eine Europäische Patentanmeldung EP-1 unter Inanspruchnahme der Priorität von DE-1 einreichen. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Dorothea_Christiane_Erxleben|Dorothea Christiane Erxleben#endlink# filed a German patent application DE-1 on #date#0#enddate#. Now, she would like to file a European patent application EP-1 claiming the priority of DE-1. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Dorothea_Christiane_Erxleben|Dorothea Christiane Erxleben#endlink# a déposé une demande de brevet allemand DE-1 le #date#0#enddate#. Elle souhaite maintenant déposer une demande de brevet européen EP-1 en revendiquant la priorité de la DE-1. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Kirch kann eine Teilanmeldung ET-1 zu EP-1 bis zum #beginning#0|+10DD#enddate# einreichen. An diesem Tag gilt der Zurückweisungsbeschluss als zugestellt.",
-                            "text_en": "Kirch may file a divisional application ET-1 to EP-1 by #beginning#0|+10DD#enddate#. On that date, the rejection order is deemed to be served.",
-                            "text_fr": "Kirch peut déposer une demande divisionnaire ET-1 à EP-1 au plus tard le #beginning#0|+10DD#enddate#. À cette date, l'ordonnance de rejet est réputée signifiée."
+                            "text_de": "Kirch kann eine Teilanmeldung ET-1 zu EP-1 bis zum #date#6#enddate# einreichen. An diesem Tag gilt der Zurückweisungsbeschluss als zugestellt.",
+                            "text_en": "Kirch may file a divisional application ET-1 to EP-1 by #date#6#enddate#. On that date, the rejection order is deemed to be served.",
+                            "text_fr": "Kirch peut déposer une demande divisionnaire ET-1 à EP-1 au plus tard le #date#6#enddate#. À cette date, l'ordonnance de rejet est réputée signifiée."
                         },
                         {
                             "text_de": "Kirch kann die Teilanmeldung beim Europäischen Patentamt in Wien einreichen.",
@@ -5562,9 +5577,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Kirch kann eine Teilanmeldung ET-1 zu EP-1 bis zum #deadline#0#enddate# einreichen. ",
-                            "text_en": "Kirch may file a divisional application ET-1 to EP-1 by #deadline#0#enddate#.",
-                            "text_fr": "Kirch peut déposer une demande divisionnaire ET-1 à EP-1 avant le #deadline#0#enddate#."
+                            "text_de": "Kirch kann eine Teilanmeldung ET-1 zu EP-1 bis zum #date#1#enddate# einreichen. ",
+                            "text_en": "Kirch may file a divisional application ET-1 to EP-1 by #date#1#enddate#.",
+                            "text_fr": "Kirch peut déposer une demande divisionnaire ET-1 à EP-1 avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -5575,7 +5590,10 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "beginning[0]|-8DD",
+                        "beginning[0]|-6DD",
+                        "beginning[0]|+10DD"
                     ],
                     "deadline": [
                         "+2MM|+10DD",
@@ -5589,16 +5607,16 @@
                     "id_old": 427,
                     "normen": "Artikel 76 EPÜ , Art 100 EPÜ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Maria_Margaretha_Kirch|Maria Kirch#endlink# hat ein Verfahren zur Berechnung von Konjunktionen als Gegenstand einer Europäischen Patentanmeldung EP-1 eingereicht. Sie hat den Zurückweisungsbeschluss zu EP-1 vom #beginning#0|-8DD#enddate# genau am #beginning#0|-6DD#enddate# erhalten. Welche der folgenden Aussagen zur Einreichung einer Teilanmeldung ET-1 ist richtig?",
-                    "text_en": "#linkwiki#Maria_Margaretha_Kirch|Maria Kirch#endlink# has filed a method for calculating conjunctions as the subject of a European patent application EP-1. She received the rejection decision on EP-1 from #beginning#0|-8DD#enddate# exactly on #beginning#0|-6DD#enddate#. Which of the following statements regarding the filing of a divisional application ET-1 is correct?",
-                    "text_fr": "#linkwiki#Maria_Margaretha_Kirch|Maria Kirch#endlink# a déposé une méthode de calcul de conjonctions comme objet d'une demande de brevet européen EP-1. Elle a reçu la décision de rejet sur EP-1 du #beginning#0|-8DD#enddate# exactement le #beginning#0|-6DD#enddate#. Laquelle des affirmations suivantes concernant le dépôt d'une demande divisionnaire ET-1 est correcte ?"
+                    "text_de": "#linkwiki#Maria_Margaretha_Kirch|Maria Kirch#endlink# hat ein Verfahren zur Berechnung von Konjunktionen als Gegenstand einer Europäischen Patentanmeldung EP-1 eingereicht. Sie hat den Zurückweisungsbeschluss zu EP-1 vom #date#4#enddate# genau am #date#5#enddate# erhalten. Welche der folgenden Aussagen zur Einreichung einer Teilanmeldung ET-1 ist richtig?",
+                    "text_en": "#linkwiki#Maria_Margaretha_Kirch|Maria Kirch#endlink# has filed a method for calculating conjunctions as the subject of a European patent application EP-1. She received the rejection decision on EP-1 from #date#4#enddate# exactly on #date#5#enddate#. Which of the following statements regarding the filing of a divisional application ET-1 is correct?",
+                    "text_fr": "#linkwiki#Maria_Margaretha_Kirch|Maria Kirch#endlink# a déposé une méthode de calcul de conjonctions comme objet d'une demande de brevet européen EP-1. Elle a reçu la décision de rejet sur EP-1 du #date#4#enddate# exactement le #date#5#enddate#. Laquelle des affirmations suivantes concernant le dépôt d'une demande divisionnaire ET-1 est correcte ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Frist zur Einreichung eines Prioritätsbeleges von EP-1 endet am #deadline#1|+2DD#enddate#.",
-                            "text_en": "The deadline to submit a priority document from EP-1 is #deadline#1|+2DD#enddate#.",
-                            "text_fr": "La date limite pour soumettre un document prioritaire de l'EP-1 est #deadline#1|+2DD#enddate#."
+                            "text_de": "Die Frist zur Einreichung eines Prioritätsbeleges von EP-1 endet am #date#3#enddate#.",
+                            "text_en": "The deadline to submit a priority document from EP-1 is #date#3#enddate#.",
+                            "text_fr": "La date limite pour soumettre un document prioritaire de l'EP-1 est #date#3#enddate#."
                         },
                         {
                             "text_de": "Damit Stevens die Priorität von US-1 in Anspruch nehmen kann muss US-1 noch anhängig sein.",
@@ -5613,9 +5631,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist zur Einreichung von EP-1 zur Wahrung des Prioritätsjahres endet am #deadline#0#enddate#.",
-                            "text_en": "The deadline to submit EP-1 to preserve the priority year is #deadline#0#enddate#.",
-                            "text_fr": "La date limite pour soumettre l'EP-1 afin de préserver l'année de priorité est #deadline#0#enddate#."
+                            "text_de": "Die Frist zur Einreichung von EP-1 zur Wahrung des Prioritätsjahres endet am #date#2#enddate#.",
+                            "text_en": "The deadline to submit EP-1 to preserve the priority year is #date#2#enddate#.",
+                            "text_fr": "La date limite pour soumettre l'EP-1 afin de préserver l'année de priorité est #date#2#enddate#."
                         }
                     ],
                     "beginning": [
@@ -5626,7 +5644,7 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]|+2DD"
                     ],
                     "deadline": [
                         "+12MM",
@@ -5640,9 +5658,9 @@
                     "id_old": 433,
                     "normen": "Artikel 87 (1), (2) EPÜ , Regel 52 (2) EPÜ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Nettie_Stevens|Nettie Stevens#endlink# hat ein Verfahren zur Geschlechtsbestimmung erfunden und am #beginning#0#enddate# in einer US-Patentanmeldung US-1 angemeldet. Jetzt möchte sie zur Absicherung ihrer Erfindung eine europäische Patentanmeldung EP-1 einreichen, die die Priorität von US-1 beansprucht. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Nettie_Stevens|Nettie Stevens#endlink# invented a method for sex determination and filed a US patent application US-1 on #beginning#0#enddate#. Now she would like to file a European patent application EP-1 claiming priority from US-1 to further protect her invention. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Nettie_Stevens|Nettie Stevens#endlink# a inventé une méthode de détermination du sexe et a déposé une demande de brevet américain US-1 le #beginning#0#enddate#. Elle souhaite maintenant déposer une demande de brevet européen EP-1 en revendiquant la priorité de US-1 afin de protéger davantage son invention. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Nettie_Stevens|Nettie Stevens#endlink# hat ein Verfahren zur Geschlechtsbestimmung erfunden und am #date#0#enddate# in einer US-Patentanmeldung US-1 angemeldet. Jetzt möchte sie zur Absicherung ihrer Erfindung eine europäische Patentanmeldung EP-1 einreichen, die die Priorität von US-1 beansprucht. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Nettie_Stevens|Nettie Stevens#endlink# invented a method for sex determination and filed a US patent application US-1 on #date#0#enddate#. Now she would like to file a European patent application EP-1 claiming priority from US-1 to further protect her invention. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Nettie_Stevens|Nettie Stevens#endlink# a inventé une méthode de détermination du sexe et a déposé une demande de brevet américain US-1 le #date#0#enddate#. Elle souhaite maintenant déposer une demande de brevet européen EP-1 en revendiquant la priorité de US-1 afin de protéger davantage son invention. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -5677,7 +5695,8 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "beginning[0]|-4MM"
                     ],
                     "deadline": [
                         "+12MM",
@@ -5691,9 +5710,9 @@
                     "id_old": 434,
                     "normen": "Artikel 87 (1), (2) EPÜ , Artikel 54 (2), (3) EPÜ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Dorothea_Schlözer|Dorothea Schlözer#endlink# hat eine Bergbaumaschine erfunden. Am #beginning#0#enddate# hat sie eine Europäische Anmeldung EP-1 eingereicht. In dieser ist im einzigen Anspruch 1 die Bergbaumaschine mit einem Verbrennungsmotor beansprucht. Am #deadline#0#enddate# meldet sie eine Europäische Patentanmeldung EP-2 an, die die Priorität von EP-1 beansprucht. In EP-2 findet sich neben Anspruch 1 aus EP-1 auch ein Anspruch 2, der auf Anspruch 1 rückbezogen ist und die Bergbaumaschine mit einem ovalförmigen Schaufelrad beansprucht. Dieses Merkmal fand Schlözer in der FR-1, die am #beginning#0|-4MM#enddate# veröffentlicht wurde. Anspruch 2 von EP-2 ist naheliegend, wenn der Fachmann EP-1 und FR-1 kombiniert. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Dorothea_Schlözer|Dorothea Schlözer#endlink# invented a mining machine. On #beginning#0#enddate# she filed a European application EP-1. In this, only claim 1 claims the mining machine with an internal combustion engine. On #deadline#0#enddate# European patent application EP-2 is filed, claiming the priority of EP-1. In EP-2, in addition to claim 1 from EP-1, there is also a claim 2 that relates back to claim 1 , asserting that the mining machine has an oval-shaped paddle wheel. Schlözer found this feature in FR-1, which was published on #beginning#0|-4MM#enddate#. Claim 2 of EP-2 is obvious when the skilled person combines EP-1 and FR-1. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Dorothea_Schlözer|Dorothea Schlözer#endlink# a inventé une machine à miner. Le #beginning#0#enddate#, elle a déposé une demande européenne EP-1. Dans celle-ci, seule la revendication 1 revendique la machine minière avec un moteur à combustion interne. Le #deadline#0#enddate#, la demande de brevet européen EP-2 est déposée, revendiquant la priorité de EP-1. Dans EP-2, en plus de la revendication 1 de EP-1, il y a également une revendication 2 qui renvoie à la revendication 1, affirmant que la machine minière a une roue à aubes de forme ovale. Schlözer a trouvé cette caractéristique dans FR-1, qui a été publié le #beginning#0|-4MM#enddate#. La revendication 2 de EP-2 est évidente lorsque l'homme du métier combine EP-1 et FR-1. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Dorothea_Schlözer|Dorothea Schlözer#endlink# hat eine Bergbaumaschine erfunden. Am #date#0#enddate# hat sie eine Europäische Anmeldung EP-1 eingereicht. In dieser ist im einzigen Anspruch 1 die Bergbaumaschine mit einem Verbrennungsmotor beansprucht. Am #date#2#enddate# meldet sie eine Europäische Patentanmeldung EP-2 an, die die Priorität von EP-1 beansprucht. In EP-2 findet sich neben Anspruch 1 aus EP-1 auch ein Anspruch 2, der auf Anspruch 1 rückbezogen ist und die Bergbaumaschine mit einem ovalförmigen Schaufelrad beansprucht. Dieses Merkmal fand Schlözer in der FR-1, die am #date#4#enddate# veröffentlicht wurde. Anspruch 2 von EP-2 ist naheliegend, wenn der Fachmann EP-1 und FR-1 kombiniert. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Dorothea_Schlözer|Dorothea Schlözer#endlink# invented a mining machine. On #date#0#enddate# she filed a European application EP-1. In this, only claim 1 claims the mining machine with an internal combustion engine. On #date#2#enddate# European patent application EP-2 is filed, claiming the priority of EP-1. In EP-2, in addition to claim 1 from EP-1, there is also a claim 2 that relates back to claim 1 , asserting that the mining machine has an oval-shaped paddle wheel. Schlözer found this feature in FR-1, which was published on #date#4#enddate#. Claim 2 of EP-2 is obvious when the skilled person combines EP-1 and FR-1. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Dorothea_Schlözer|Dorothea Schlözer#endlink# a inventé une machine à miner. Le #date#0#enddate#, elle a déposé une demande européenne EP-1. Dans celle-ci, seule la revendication 1 revendique la machine minière avec un moteur à combustion interne. Le #date#2#enddate#, la demande de brevet européen EP-2 est déposée, revendiquant la priorité de EP-1. Dans EP-2, en plus de la revendication 1 de EP-1, il y a également une revendication 2 qui renvoie à la revendication 1, affirmant que la machine minière a une roue à aubes de forme ovale. Schlözer a trouvé cette caractéristique dans FR-1, qui a été publié le #date#4#enddate#. La revendication 2 de EP-2 est évidente lorsque l'homme du métier combine EP-1 et FR-1. Laquelle des affirmations suivantes est correcte ?"
                 }
             ],
             "info_de": "Anmeldetag, Teilung, Recherche, Veröffentlichung, Prüfungsverfahren, Änderungen und Ergänzungen, sowie die Patenterteilung, bzw. Zurückweisung.",
