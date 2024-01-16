@@ -983,7 +983,7 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "beginning[0]",
+                        "beginning[0]|+6MM|+4DD",
                         "deadline[0]"
                     ],
                     "deadline": [
@@ -2885,7 +2885,7 @@
                         "-7DD"
                     ],
                     "date": [
-                        "beginning [0]",
+                        "beginning[0]",
                         "startdate",
                         "deadline[0]"
                     ],
@@ -3469,7 +3469,7 @@
                         "beginning[1]",
                         "deadline[0]",
                         "deadline[1]",
-                        "deadline|0|-14DD"
+                        "deadline|0||-14DD"
                     ],
                     "deadline": [
                         "+2MM|+14DD",
@@ -5729,26 +5729,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "DE-3 läuft bis zum #deadline#0|+20YY|+1MM|+3DD#enddate#.",
-                            "text_en": "DE-3 runs until #deadline#0|+20YY|+1MM|+3DD#enddate#.",
-                            "text_fr": "DE-3 fonctionne jusqu'à #deadline#0|+20YY|+1MM|+3DD#enddate#."
+                            "text_de": "DE-3 läuft bis zum #date#11#enddate#.",
+                            "text_en": "DE-3 runs until #date#11#enddate#.",
+                            "text_fr": "DE-3 fonctionne jusqu'à #date#11#enddate#."
                         },
                         {
-                            "text_de": "GB-2 läuft bis zum #deadline#0|+20YY|+2MM|+14DD#enddate#.",
-                            "text_en": "GB-2 runs until #deadline#0|+20YY|+2MM|+14DD#enddate#.",
-                            "text_fr": "GB-2 fonctionne jusqu'à #deadline#0|+20YY|+2MM|+14DD#enddate#."
+                            "text_de": "GB-2 läuft bis zum #date#10#enddate#.",
+                            "text_en": "GB-2 runs until #date#10#enddate#.",
+                            "text_fr": "GB-2 fonctionne jusqu'à #date#10#enddate#."
                         },
                         {
-                            "text_de": "GB-2 und DE-3 laufen bis zum #deadline#0|+20YY#enddate#",
-                            "text_en": "GB-2 and DE-3 run until #deadline#0|+20YY#enddate#",
-                            "text_fr": "GB-2 et DE-3 fonctionnent jusqu'à #deadline#0|+20YY#enddate#."
+                            "text_de": "GB-2 und DE-3 laufen bis zum #date#9#enddate#.",
+                            "text_en": "GB-2 and DE-3 run until #date#9#enddate#.",
+                            "text_fr": "GB-2 et DE-3 fonctionnent jusqu'à #date#9#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "GB-2 und DE-3 laufen bis zum #beginning#0|+20YY#enddate#.",
-                            "text_en": "GB-2 and DE-3 run until #beginning#0|+20YY#enddate#.",
-                            "text_fr": "GB-2 et DE-3 fonctionnent jusqu'à #beginning#0|+20YY#enddate#."
+                            "text_de": "GB-2 und DE-3 laufen bis zum #date#8#enddate#.",
+                            "text_en": "GB-2 and DE-3 run until #date#8#enddate#.",
+                            "text_fr": "GB-2 et DE-3 fonctionnent jusqu'à #date#8#enddate#."
                         }
                     ],
                     "beginning": [
@@ -5762,7 +5762,13 @@
                         "beginning[2]",
                         "deadline[0]",
                         "deadline[1]",
-                        "deadline[2]"
+                        "deadline[2]",
+                        "deadline[0]|+2MM|+14DD",
+                        "deadline[0]|+1MM|+3DD",
+                        "beginning[0]|+20YY",
+                        "deadline[0]|+20YY#",
+                        "deadline[0]|+20YY|+2MM|+14DD",
+                        "deadline[0]|+20YY|+1MM|+3DD"
                     ],
                     "deadline": [
                         "+3YY|+2MM",
@@ -5770,16 +5776,16 @@
                         "+4YY|+3MM"
                     ],
                     "difficulty": "1",
-                    "explanation_de": "Die Laufzeit des europäischen Patents beträgt zwanzig Jahre, gerechnet vom Anmeldetag an, siehe #linkepc#ar63|Artikel 63 EPÜ#endlink#. Der Anmeldetag ist der #beginning#0#enddate# .",
-                    "explanation_en": "The term of the European patent is twenty years, calculated from the filing date, see #linkepc#ar63|Article 63 EPC#endlink#. The filing date is the #beginning#0#enddate# .",
-                    "explanation_fr": "La durée du brevet européen est de vingt ans, calculée à partir de la date de dépôt, voir #linkepc#ar63|Article 63 CBE#endlink#. La date de dépôt est la #beginning#0#enddate# .",
+                    "explanation_de": "Die Laufzeit des europäischen Patents beträgt zwanzig Jahre, gerechnet vom Anmeldetag an, siehe #linkepc#ar63|Artikel 63 EPÜ#endlink#. Der Anmeldetag ist der #date#0#enddate#.",
+                    "explanation_en": "The term of the European patent is twenty years, calculated from the filing date, see #linkepc#ar63|Article 63 EPC#endlink#. The filing date is the #date#0#enddate#.",
+                    "explanation_fr": "La durée du brevet européen est de vingt ans, calculée à partir de la date de dépôt, voir #linkepc#ar63|Article 63 CBE#endlink#. La date de dépôt est la #date#0#enddate#.",
                     "id": 114,
                     "id_old": 356,
                     "normen": "Artikel 63 Laufzeit",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Mary_Anderson_(Erfinderin)|Mary Anderson#endlink# hat am #beginning#0#enddate# wirksam eine europäische Patentanmeldung EP-1 auf einen Scheibenwischer eingereicht und am #deadline#0#enddate# wurde die Erteilung veröffentlicht. EP-1 wurde in Großbritannien und Deutschland validiert, in Großbritannien erfolgte die Antwort des Patentamts mit Nennung des Aktenzeichen des britischen Patentes GB-2 erst am #deadline#0|+2MM|+14DD#enddate#, während in Deutschland das DPMA bereits #deadline#0|+1MM|+3DD#enddate# antwortete und das Aktenzeichen des entsprechenden deutschen Patents DE-3 mitteilte. Bis wann laufen GB-2 und DE-3? ",
-                    "text_en": "#linkwiki#Mary_Anderson_(inventor)|Mary Anderson#endlink# effectively filed a European patent application EP-1 on a windshield wiper on #beginning#0#enddate#,of the grant was published whichon #deadline#0#enddate#. EP-1 was validated in the UK and Germany.  In the UK the response from the Patent Office mentioning the file number of the UK patent GB-2 was not received until #deadline#0|+2MM|+14DD#enddate#, while in Germany the DPMA already responded #deadline#0|+1MM|+3DD#enddate# and communicated the file number of the corresponding German patent DE-3. When do GB-2 and DE-3 expire exactly?",
-                    "text_fr": "#linkwiki#Mary_Anderson_(inventeur)|Mary Anderson#endlink# a effectivement déposé une demande de brevet européen EP-1 sur un essuie-glace le #beginning#0#enddate#,de la délivrance a été publiée qui le #deadline#0#enddate#. EP-1 a été validée au Royaume-Uni et en Allemagne.  Au Royaume-Uni, la réponse de l'Office des brevets mentionnant le numéro de dossier du brevet britannique GB-2 n'a été reçue qu'à la #deadline#0|+2MM|+14DD#enddate#, tandis qu'en Allemagne, l'Office allemand des brevets a déjà répondu à la #deadline#0|+1MM|+3DD#enddate# et a communiqué le numéro de dossier du brevet allemand correspondant DE-3. Quand les brevets GB-2 et DE-3 expirent-ils exactement ?"
+                    "text_de": "#linkwiki#Mary_Anderson_(Erfinderin)|Mary Anderson#endlink# hat am #date#0#enddate# wirksam eine europäische Patentanmeldung EP-1 auf einen Scheibenwischer eingereicht und am #date#3#enddate# wurde die Erteilung veröffentlicht. EP-1 wurde in Großbritannien und Deutschland validiert, in Großbritannien erfolgte die Antwort des Patentamts mit Nennung des Aktenzeichen des britischen Patentes GB-2 erst am #date#6#enddate#, während in Deutschland das DPMA bereits #date#7#enddate# antwortete und das Aktenzeichen des entsprechenden deutschen Patents DE-3 mitteilte. Bis wann laufen GB-2 und DE-3? ",
+                    "text_en": "#linkwiki#Mary_Anderson_(inventor)|Mary Anderson#endlink# effectively filed a European patent application EP-1 on a windshield wiper on #date#0#enddate#,of the grant was published whichon #date#3#enddate#. EP-1 was validated in the UK and Germany.  In the UK the response from the Patent Office mentioning the file number of the UK patent GB-2 was not received until #date#6#enddate#, while in Germany the DPMA already responded #date#7#enddate# and communicated the file number of the corresponding German patent DE-3. When do GB-2 and DE-3 expire exactly?",
+                    "text_fr": "#linkwiki#Mary_Anderson_(inventeur)|Mary Anderson#endlink# a effectivement déposé une demande de brevet européen EP-1 sur un essuie-glace le #date#0#enddate#,de la délivrance a été publiée qui le #date#3#enddate#. EP-1 a été validée au Royaume-Uni et en Allemagne.  Au Royaume-Uni, la réponse de l'Office des brevets mentionnant le numéro de dossier du brevet britannique GB-2 n'a été reçue qu'à la #date#6#enddate#, tandis qu'en Allemagne, l'Office allemand des brevets a déjà répondu à la #date#7#enddate# et a communiqué le numéro de dossier du brevet allemand correspondant DE-3. Quand les brevets GB-2 et DE-3 expirent-ils exactement ?"
                 },
                 {
                     "answers_false": [
@@ -5824,9 +5830,9 @@
                     "id_old": 357,
                     "normen": "Artikel 64 Rechte aus dem Patent",
                     "startdate": "",
-                    "text_de": "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# hat auf ein Gerät zur Teilung einer Linie in gleich lange Teile am #beginning#0#enddate# wirksam eine europäische Patentanmeldung EP-1 eingereicht. Es wurden alle Vertragsstaaten benannt. Nach der Mitteilung gemäß Regel 71 (3) EPÜ wurden Übersetzungen der Patentansprüche lediglich in Deutsch und Französisch eingereicht. Am #deadline#0#enddate# wurde die Erteilung veröffentlicht. Welche weiteren Schritte muss Ayrton unternehmen, damit EP-1 in Deustchland wirksam ist?",
-                    "text_en": "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# effectively filed a European patent application EP-1 on a device for dividing a line into parts of equal length on #beginning#0#enddate#. All Contracting States were designated. According to the communication under Rule 71(3) EPC, translations of the patent claims were filed only in German and French. On #deadline#0#enddate# the grant was published. What further steps must Ayrton take for EP-1 to be effective in Germany?",
-                    "text_fr": "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# a effectivement déposé une demande de brevet européen EP-1 portant sur un dispositif permettant de diviser une ligne en parties de longueur égale le #beginning#0#enddate#. Tous les États contractants ont été désignés. Selon la communication au titre de la règle 71(3) CBE, les traductions des revendications du brevet ont été déposées uniquement en allemand et en français. Le #deadline#0#enddate#, la délivrance a été publiée. Quelles démarches supplémentaires Ayrton doit-il entreprendre pour que le brevet EP-1 prenne effet en Allemagne ?"
+                    "text_de": "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# hat auf ein Gerät zur Teilung einer Linie in gleich lange Teile am #date#0#enddate# wirksam eine europäische Patentanmeldung EP-1 eingereicht. Es wurden alle Vertragsstaaten benannt. Nach der Mitteilung gemäß Regel 71 (3) EPÜ wurden Übersetzungen der Patentansprüche lediglich in Deutsch und Französisch eingereicht. Am #date#1#enddate# wurde die Erteilung veröffentlicht. Welche weiteren Schritte muss Ayrton unternehmen, damit EP-1 in Deustchland wirksam ist?",
+                    "text_en": "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# effectively filed a European patent application EP-1 on a device for dividing a line into parts of equal length on #date#0#enddate#. All Contracting States were designated. According to the communication under Rule 71(3) EPC, translations of the patent claims were filed only in German and French. On #date#1#enddate# the grant was published. What further steps must Ayrton take for EP-1 to be effective in Germany?",
+                    "text_fr": "#linkwiki#Hertha_Marks_Ayrton|Hertha Marks Ayrton#endlink# a effectivement déposé une demande de brevet européen EP-1 portant sur un dispositif permettant de diviser une ligne en parties de longueur égale le #date#0#enddate#. Tous les États contractants ont été désignés. Selon la communication au titre de la règle 71(3) CBE, les traductions des revendications du brevet ont été déposées uniquement en allemand et en français. Le #date#1#enddate#, la délivrance a été publiée. Quelles démarches supplémentaires Ayrton doit-il entreprendre pour que le brevet EP-1 prenne effet en Allemagne?"
                 },
                 {
                     "answers_false": [
@@ -5871,9 +5877,9 @@
                     "id_old": 358,
                     "normen": "Artikel 64 Rechte aus dem Patent",
                     "startdate": "",
-                    "text_de": "#linkwiki#Kate_Gleason|Kate Gleason#endlink# hat ein Fertighaus entwickelt, das sich besonders einfach aufbauen lässt. Darauf hat sie eine europäische Patentanmeldung EP-1 eingereicht und ein Patent erteilt bekommen. Es wurden alle Vertragsstaaten benannt. Nach der Mitteilung gemäß Regel 71 (3) EPÜ wurden Übersetzungen der Patentansprüche in den beiden anderen Amtssprachen als der Verfahrenssprache eingereicht. Am #deadline#0#enddate# wurde die Erteilung veröffentlicht. Welche weiteren Schritte muss Ayrton unternehmen, damit EP-1 in Frankreich wirksam ist?",
-                    "text_en": "#linkwiki#Kate_Gleason|Kate Gleason#endlink# has developed a prefabricated house that is particularly easy to assemble. She filed a European patent application EP-1 on this and was granted a patent. All Contracting States were designated. After notification under Rule 71(3) EPC, translations of the patent claims were filed in two official languages other than the language of the proceedings. On #deadline#0#enddate# the grant was published. What further steps must Ayrton take for EP-1 to be effective in France?",
-                    "text_fr": "#linkwiki#Kate_Gleason|Kate Gleason#endlink# a développé une maison préfabriquée particulièrement facile à assembler. Elle a déposé une demande de brevet européen EP-1 à ce sujet et a obtenu un brevet. Tous les États contractants ont été désignés. Après notification en vertu de la règle 71(3) CBE, des traductions des revendications du brevet ont été déposées dans deux langues officielles autres que la langue de la procédure. A la #deadline#0#enddate# la délivrance a été publiée. Quelles démarches supplémentaires Ayrton doit-elle entreprendre pour que le brevet EP-1 produise ses effets en France ?"
+                    "text_de": "#linkwiki#Kate_Gleason|Kate Gleason#endlink# hat ein Fertighaus entwickelt, das sich besonders einfach aufbauen lässt. Darauf hat sie eine europäische Patentanmeldung EP-1 eingereicht und ein Patent erteilt bekommen. Es wurden alle Vertragsstaaten benannt. Nach der Mitteilung gemäß Regel 71 (3) EPÜ wurden Übersetzungen der Patentansprüche in den beiden anderen Amtssprachen als der Verfahrenssprache eingereicht. Am #date#1#enddate# wurde die Erteilung veröffentlicht. Welche weiteren Schritte muss Ayrton unternehmen, damit EP-1 in Frankreich wirksam ist?",
+                    "text_en": "#linkwiki#Kate_Gleason|Kate Gleason#endlink# has developed a prefabricated house that is particularly easy to assemble. She filed a European patent application EP-1 on this and was granted a patent. All Contracting States were designated. After notification under Rule 71(3) EPC, translations of the patent claims were filed in two official languages other than the language of the proceedings. On #date#1#enddate# the grant was published. What further steps must Ayrton take for EP-1 to be effective in France?",
+                    "text_fr": "#linkwiki#Kate_Gleason|Kate Gleason#endlink# a développé une maison préfabriquée particulièrement facile à assembler. Elle a déposé une demande de brevet européen EP-1 à ce sujet et a obtenu un brevet. Tous les États contractants ont été désignés. Après notification en vertu de la règle 71(3) CBE, des traductions des revendications du brevet ont été déposées dans deux langues officielles autres que la langue de la procédure. A la #date#1#enddate# la délivrance a été publiée. Quelles démarches supplémentaires Ayrton doit-elle entreprendre pour que le brevet EP-1 produise ses effets en France?"
                 },
                 {
                     "answers_false": [
@@ -6052,7 +6058,7 @@
                         "+3YY|+2DD"
                     ],
                     "difficulty": "2",
-                    "explanation_de": "Österreich ist nicht dem Londoner Übereinkommen beigetreten. Es ist daher grundsätzlich unerheblich, welche Sprache Amtssprache ist.   Eine Übersetzung ins Deutsche wird verlangt, siehe Nationales Recht zum EPÜ. Allerdings benötigt es natürlich keine Übersetzung, wenn Deutsch Verfahrenssprache war. Dann liegen sowohl die Beschreibung als auch die Patentansprüche auf Deutsch vor.",
+                    "explanation_de": "Österreich ist nicht dem Londoner Übereinkommen beigetreten. Es ist daher grundsätzlich unerheblich, welche Sprache Amtssprache ist. Eine Übersetzung ins Deutsche wird verlangt, siehe Nationales Recht zum EPÜ. Allerdings benötigt es natürlich keine Übersetzung, wenn Deutsch Verfahrenssprache war. Dann liegen sowohl die Beschreibung als auch die Patentansprüche auf Deutsch vor.",
                     "explanation_en": "Austria is not a party to the London Agreement. Therefore, it is basically irrelevant which language is the official language.   A translation into German is required, see National Law to the EPC. However, no translation would be required if German was the language of the proceedings and both the description and the patent claims are done in German.",
                     "explanation_fr": "L'Autriche n'est pas partie à l'accord de Londres. Par conséquent, la langue officielle n'a pas d'importance.   Une traduction en allemand est requise, voir la loi nationale de la CBE. Cependant, aucune traduction ne serait nécessaire si l'allemand était la langue de la procédure et si la description et les revendications du brevet étaient rédigées en allemand.",
                     "id": 120,
@@ -6113,26 +6119,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Zamfirescu hat das Recht ab dem #beginning#0#enddate#.",
-                            "text_en": "Zamfirescu has the right from #beginning#0#enddate#.",
-                            "text_fr": "Zamfirescu a le droit de #beginning#0#enddate#."
+                            "text_de": "Zamfirescu hat das Recht ab dem #date#0#enddate#.",
+                            "text_en": "Zamfirescu has the right from #date#0#enddate#.",
+                            "text_fr": "Zamfirescu a le droit de #date#0#enddate#."
                         },
                         {
-                            "text_de": "Zamfirescu hat das Recht ab dem #deadline#0|-3MM|-5DD#enddate#.",
-                            "text_en": "Zamfirescu has the right from the #deadline#0|-3MM|-5DD#enddate#.",
-                            "text_fr": "Zamfirescu a le droit à partir du #deadline#0|-3MM|-5DD#enddate#."
+                            "text_de": "Zamfirescu hat das Recht ab dem #date#2#enddate#.",
+                            "text_en": "Zamfirescu has the right from the #date#2#enddate#.",
+                            "text_fr": "Zamfirescu a le droit à partir du #date#2#enddate#."
                         },
                         {
-                            "text_de": "Zamfirescu hat das Recht ab dem #deadline#0|-1MM#enddate#.",
-                            "text_en": "Zamfirescu has the right from the #deadline#0|-1MM#enddate#.",
-                            "text_fr": "Zamfirescu a le droit à partir du #deadline#0|-1MM#enddate#."
+                            "text_de": "Zamfirescu hat das Recht ab dem #date#3#enddate#.",
+                            "text_en": "Zamfirescu has the right from the #date#3#enddate#.",
+                            "text_fr": "Zamfirescu a le droit à partir du #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Zamfirescu hat das Recht ab dem #deadline#0#enddate#.",
-                            "text_en": "Zamfirescu has the right from the #deadline#0#enddate#.",
-                            "text_fr": "Zamfirescu a le droit à partir du #deadline#0#enddate#."
+                            "text_de": "Zamfirescu hat das Recht ab dem #date#1#enddate#.",
+                            "text_en": "Zamfirescu has the right from the #date#1#enddate#.",
+                            "text_fr": "Zamfirescu a le droit à partir du #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -6140,7 +6146,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-3MM|-5DD",
+                        "deadline[0]|-1MM"
                     ],
                     "deadline": [
                         "+4YY|+15DD"
@@ -6153,9 +6161,9 @@
                     "id_old": 364,
                     "normen": "Artikel 64 (1) Rechte aus dem Patent",
                     "startdate": "",
-                    "text_de": "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# hat auf einen Bagger zum Abbau von Bodenschätzen am #beginning#0#enddate# wirksam eine europäische Patentanmeldung EP-1 eingereicht. Es wurden alle Vertragsstaaten benannt. Am #deadline#0|-3MM|-5DD#enddate# wurde eine Mitteilung nach Regel 71 (3) EPÜ versendet, am #deadline#0|-1MM#enddate# der Erteilungsbeschluss erlassen und am #deadline#0#enddate# die Erteilung veröffentlicht. Ab wann hat Zamfirescu das Recht, aus EP-1 Ansprüche geltend zu machen, wie es ein in dem betreffenden Staat erteiltes nationales Patent erlauben würde?",
-                    "text_en": "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# effectively filed a European patent application EP-1 on an excavator for mining mineral resources on #beginning#0#enddate#. All Contracting States were designated. On #deadline#0|-3MM|-5DD#enddate# a communication under Rule 71 (3) EPC was sent; on #deadline#0|-1MM#enddate# the grant decision was issued; and lastly, on #deadline#0#enddate# the grant was published. When exactly does Zamfirescu have the right to assert claims from EP-1 as would be allowed by a national patent granted in the relevant state?",
-                    "text_fr": "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# a effectivement déposé une demande de brevet européen EP-1 sur une excavatrice pour l'exploitation de ressources minérales le #beginning#0#enddate#. Tous les États contractants ont été désignés. Le #deadline#0|-3MM|-5DD#enddate#, une communication au titre de la règle 71 (3) CBE a été envoyée ; le #deadline#0|-1MM#enddate#, la décision de délivrance a été rendue ; et enfin, le #deadline#0#enddate#, la délivrance a été publiée. Quand exactement Zamfirescu a-t-il le droit de faire valoir des revendications de EP-1 qui seraient autorisées par un brevet national délivré dans l'État concerné ?"
+                    "text_de": "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# hat auf einen Bagger zum Abbau von Bodenschätzen am #date#0#enddate# wirksam eine europäische Patentanmeldung EP-1 eingereicht. Es wurden alle Vertragsstaaten benannt. Am #date#2#enddate# wurde eine Mitteilung nach Regel 71 (3) EPÜ versendet, am #date#3#enddate# der Erteilungsbeschluss erlassen und am #date#1#enddate# die Erteilung veröffentlicht. Ab wann hat Zamfirescu das Recht, aus EP-1 Ansprüche geltend zu machen, wie es ein in dem betreffenden Staat erteiltes nationales Patent erlauben würde?",
+                    "text_en": "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# effectively filed a European patent application EP-1 on an excavator for mining mineral resources on #date#0#enddate#. All Contracting States were designated. On #date#2#enddate# a communication under Rule 71 (3) EPC was sent; on #date#3#enddate# the grant decision was issued; and lastly, on #date#1#enddate# the grant was published. When exactly does Zamfirescu have the right to assert claims from EP-1 as would be allowed by a national patent granted in the relevant state?",
+                    "text_fr": "#linkwiki#Elisa_Leonida_Zamfirescu|Elisa Leonida Zamfirescu#endlink# a effectivement déposé une demande de brevet européen EP-1 sur une excavatrice pour l'exploitation de ressources minérales le #date#0#enddate#. Tous les États contractants ont été désignés. Le #date#2#enddate#, une communication au titre de la règle 71 (3) CBE a été envoyée ; le #date#3#enddate#, la décision de délivrance a été rendue ; et enfin, le #date#1#enddate#, la délivrance a été publiée. Quand exactement Zamfirescu a-t-il le droit de faire valoir des revendications de EP-1 qui seraient autorisées par un brevet national délivré dans l'État concerné ?"
                 },
                 {
                     "answers_false": [
@@ -6301,7 +6309,7 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Jahresgebühr für EP-1 für das fünfte Jahr können beim EPA wirksam entrichtet werden. ",
+                            "text_de": "Die Jahresgebühr für EP-1 für das fünfte Jahr kann beim EPA wirksam entrichtet werden. ",
                             "text_en": "The EP-1 annual fee for the fifth year can be effectively paid at the EPO.",
                             "text_fr": "La taxe annuelle EP-1 pour la cinquième année peut être effectivement payée à l'OEB."
                         },
@@ -6328,7 +6336,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-2MM|-9DD"
                     ],
                     "deadline": [
                         "+2YY|+9MM|+15DD"
@@ -6341,9 +6350,9 @@
                     "id_old": 367,
                     "normen": "Artikel 64 (3), 86 (2)",
                     "startdate": "",
-                    "text_de": "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# hat Kevlar-Fasern entwickelt und am #beginning#0#enddate# eine Europäische Patentanmeldung EP-1 zu ihrem Schutz eingereicht. Der Bescheid, dass ein Europäisches Patent erteilt wird, wurde am #deadline#0|-2MM|-9DD#enddate# erstellt und der Hinweis auf die Erteilung am #deadline#0#enddate# bekanntgemacht. Das Patent wurde in Deutschland und Frankreich validiert. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# developed Kevlar fibers and has filed a European Patent Application EP-1 for their protection on #beginning#0#enddate#. The notice that a European patent is granted was issued on #deadline#0|-2MM|-9DD#enddate# and the notice of grant was published on #deadline#0#enddate#. The patent has been validated in Germany and France. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# a développé des fibres de Kevlar et a déposé une demande de brevet européen EP-1 pour leur protection le #beginning#0#enddate#. L'avis de délivrance d'un brevet européen a été émis le #deadline#0|-2MM|-9DD#enddate# et l'avis de délivrance a été publié le #deadline#0#enddate#. Le brevet a été validé en Allemagne et en France. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# hat Kevlar-Fasern entwickelt und am #date#0#enddate# eine Europäische Patentanmeldung EP-1 zu ihrem Schutz eingereicht. Der Bescheid, dass ein Europäisches Patent erteilt wird, wurde am #date#2#enddate# erstellt und der Hinweis auf die Erteilung am #date#1#enddate# bekanntgemacht. Das Patent wurde in Deutschland und Frankreich validiert. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# developed Kevlar fibers and has filed a European Patent Application EP-1 for their protection on #date#0#enddate#. The notice that a European patent is granted was issued on #date#2#enddate# and the notice of grant was published on #date#1#enddate#. The patent has been validated in Germany and France. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Stephanie_Kwolek|Stephanie Kwolek#endlink# a développé des fibres de Kevlar et a déposé une demande de brevet européen EP-1 pour leur protection le #date#0#enddate#. L'avis de délivrance d'un brevet européen a été émis le #date#2#enddate# et l'avis de délivrance a été publié le #date#1#enddate#. Le brevet a été validé en Allemagne et en France. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -6365,9 +6374,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Eine Umschreibung kann mindestens bis zum #deadline#0#enddate# vorgenommen werden.\n",
-                            "text_en": "A rewrite can be made prior to #deadline#0#enddate#.",
-                            "text_fr": "Une réécriture peut être faite avant la #deadline#0#enddate#."
+                            "text_de": "Eine Umschreibung kann mindestens bis zum #date#1#enddate# vorgenommen werden.\n",
+                            "text_en": "A rewrite can be made prior to #date#1#enddate#.",
+                            "text_fr": "Une réécriture peut être faite avant la #date#1#enddate#."
                         },
                         {
                             "text_de": "Eine Umschreibung kann während der Dauer eines Einspruchsverfahrens gegen EP-1 eingetragen werden.\n",
@@ -6380,7 +6389,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+9MM"
@@ -6393,9 +6403,9 @@
                     "id_old": 368,
                     "normen": "Regel 22, 85",
                     "startdate": "MO|-2YY|-15DD",
-                    "text_de": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# hat auf eine Straßenlaterne am #startdate##enddate# eine Euroäische Patentanmeldung EP-1 eingereicht. Der Hinweis auf die Erteilung von EP-1 wurde am #beginning#0#enddate# bekanntgemacht. Perryman hat EP-1 zwei Wochen danach an #linkwiki#Bertha_Benz|Bertha Benz#endlink# verkauft, um Geld für weitere Entwicklungen zu erhalten. Bis wann kann Benz die Umschreibung beim EPA vornehmen lassen?",
-                    "text_en": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# filed a European patent application EP-1 on a streetlight on #startdate##enddate#. The notice of grant of EP-1 was published on #beginning#0#enddate#. Perryman sold EP-1 to #linkwiki#Bertha_Benz|Bertha Benz#endlink# two weeks after that, in orderto raise money for further development. What is the deadline for Benz to have the rewrite done at the EPA?",
-                    "text_fr": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# a déposé une demande de brevet européen EP-1 sur un lampadaire le #startdate##enddate#. L'avis de délivrance du EP-1 a été publié le #beginning#0#enddate#. Perryman a vendu EP-1 à #linkwiki#Bertha_Benz|Bertha Benz#endlink# deux semaines plus tard, afin de réunir des fonds pour poursuivre le développement. Quelle est la date limite pour que Benz fasse faire la réécriture à l'EPA ?"
+                    "text_de": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# hat auf eine Straßenlaterne am #date#2#enddate# eine Euroäische Patentanmeldung EP-1 eingereicht. Der Hinweis auf die Erteilung von EP-1 wurde am #date#0#enddate# bekanntgemacht. Perryman hat EP-1 zwei Wochen danach an #linkwiki#Bertha_Benz|Bertha Benz#endlink# verkauft, um Geld für weitere Entwicklungen zu erhalten. Bis wann kann Benz die Umschreibung beim EPA vornehmen lassen?",
+                    "text_en": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# filed a European patent application EP-1 on a streetlight on #date#2#enddate#. The notice of grant of EP-1 was published on #date#0#enddate#. Perryman sold EP-1 to #linkwiki#Bertha_Benz|Bertha Benz#endlink# two weeks after that, in orderto raise money for further development. What is the deadline for Benz to have the rewrite done at the EPA?",
+                    "text_fr": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# a déposé une demande de brevet européen EP-1 sur un lampadaire le #date#2#enddate#. L'avis de délivrance du EP-1 a été publié le #date#0#enddate#. Perryman a vendu EP-1 à #linkwiki#Bertha_Benz|Bertha Benz#endlink# deux semaines plus tard, afin de réunir des fonds pour poursuivre le développement. Quelle est la date limite pour que Benz fasse faire la réécriture à l'EPA ?"
                 },
                 {
                     "answers_false": [
@@ -6440,9 +6450,9 @@
                     "id_old": 369,
                     "normen": "Artikel 64 (1), 65",
                     "startdate": "DO",
-                    "text_de": "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# hat auf ein Elektronikbauteil ein europäisches Patent EP-1 erteilt bekommen. Der Hinweis auf die Erteilung von EP-1 wurde am #startdate##enddate# bekanntgemacht. Butticaz hat für alle Länder Benennungsgebühren gezahlt. Sie überlegt nun zur Reduzierung von Übersetungskosten, in allen Ländern mit der Möglichkeit eines schnellen Rechtsschutzes gegen Wettbewerber vorzugehen und nur dort Übersetzungen einzureichen und Gebühren EP-1 zu zahlen, wo sie sofort Erfolg hat. Hat Butticaz Aussichten, ihr Ziel zu erreichen?",
-                    "text_en": "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# has been granted a European patent EP-1 on an electronic component. The EP-1 grant notice was posted on #startdate##enddate#. Butticaz has paid designation fees for all countries. She is now considering how to reduce translation costs, in order to proceed against competitors in other countries with the possibility of fast legal protection and to file translations and pay EP-1 fees only where it has had immediate success. Does Butticaz have any prospects of achieving her goal?",
-                    "text_fr": "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# a obtenu un brevet européen EP-1 sur un composant électronique. L'avis de délivrance du brevet EP-1 a été publié le #startdate##enddate#. Butticaz a payé les taxes de désignation pour tous les pays. Elle réfléchit maintenant à la manière de réduire les coûts de traduction, afin de pouvoir agir contre des concurrents dans d'autres pays avec la possibilité d'une protection juridique rapide et de ne déposer des traductions et payer les taxes EP-1 que là où elle a eu un succès immédiat. Butticaz a-t-elle des chances d'atteindre son objectif ?"
+                    "text_de": "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# hat auf ein Elektronikbauteil ein europäisches Patent EP-1 erteilt bekommen. Der Hinweis auf die Erteilung von EP-1 wurde am #date#2#enddate# bekanntgemacht. Butticaz hat für alle Länder Benennungsgebühren gezahlt. Sie überlegt nun zur Reduzierung von Übersetungskosten, in allen Ländern mit der Möglichkeit eines schnellen Rechtsschutzes gegen Wettbewerber vorzugehen und nur dort Übersetzungen einzureichen und Gebühren EP-1 zu zahlen, wo sie sofort Erfolg hat. Hat Butticaz Aussichten, ihr Ziel zu erreichen?",
+                    "text_en": "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# has been granted a European patent EP-1 on an electronic component. The EP-1 grant notice was posted on #date#2#enddate#. Butticaz has paid designation fees for all countries. She is now considering how to reduce translation costs, in order to proceed against competitors in other countries with the possibility of fast legal protection and to file translations and pay EP-1 fees only where it has had immediate success. Does Butticaz have any prospects of achieving her goal?",
+                    "text_fr": "#linkwiki#Cécile_Butticaz|Cécile Butticaz#endlink# a obtenu un brevet européen EP-1 sur un composant électronique. L'avis de délivrance du brevet EP-1 a été publié le #date#2#enddate#. Butticaz a payé les taxes de désignation pour tous les pays. Elle réfléchit maintenant à la manière de réduire les coûts de traduction, afin de pouvoir agir contre des concurrents dans d'autres pays avec la possibilité d'une protection juridique rapide et de ne déposer des traductions et payer les taxes EP-1 que là où elle a eu un succès immédiat. Butticaz a-t-elle des chances d'atteindre son objectif?"
                 },
                 {
                     "answers_false": [
@@ -6474,7 +6484,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+9MM"
@@ -6487,9 +6498,9 @@
                     "id_old": 370,
                     "normen": "Regel 85 Nationales Recht IX 6",
                     "startdate": "DO|-6MM",
-                    "text_de": "#linkwiki#Grace_Hopper|Grace Hopper#endlink# hat auf einen Computer ein Europäisches Patent EP-1 erteilt bekommen. Der Hinweis auf die Erteilung von EP-1 wurde am #beginning#0#enddate# bekanntgemacht. Hopper hat EP-1 danach an #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# verkauft, um Geld für weitere Entwicklungen zu erhalten. Die Umschreibung haben Sie am #startdate##enddate# in das europäische Register eintragen lassen. In welchen Ländern kann Kuzora-Ziarno ohne weitere Schritte beim nationalen Patentamt gegen einen Verletzer vorgehen?",
-                    "text_en": "#linkwiki#Grace_Hopper|Grace Hopper#endlink# has been granted a European patent EP-1 on a computer. The notice of grant of EP-1 was published on #beginning#0#enddate#. Hopper subsequently sold EP-1 to #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# to raise money for further development. You have registered the transfer in the European register on #startdate##enddate#. In which countries can Kuzora-Ziarno take action against an infringer without further action at the national patent office?",
-                    "text_fr": "#linkwiki#Grace_Hopper|Grace Hopper#endlink# a obtenu un brevet européen EP-1 sur un ordinateur. L'avis de délivrance du EP-1 a été publié le #beginning#0#enddate#. Hopper a ensuite vendu EP-1 à #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# afin de lever des fonds pour poursuivre son développement. Vous avez enregistré le transfert dans le registre européen le #startdate##enddate#. Dans quels pays Kuzora-Ziarno peut-elle intenter une action en justice contre un contrefacteur sans avoir à entreprendre d'autres démarches auprès de l'office national des brevets ?"
+                    "text_de": "#linkwiki#Grace_Hopper|Grace Hopper#endlink# hat auf einen Computer ein Europäisches Patent EP-1 erteilt bekommen. Der Hinweis auf die Erteilung von EP-1 wurde am #date#0#enddate# bekanntgemacht. Hopper hat EP-1 danach an #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# verkauft, um Geld für weitere Entwicklungen zu erhalten. Die Umschreibung haben Sie am #date#2#enddate# in das europäische Register eintragen lassen. In welchen Ländern kann Kuzora-Ziarno ohne weitere Schritte beim nationalen Patentamt gegen einen Verletzer vorgehen?",
+                    "text_en": "#linkwiki#Grace_Hopper|Grace Hopper#endlink# has been granted a European patent EP-1 on a computer. The notice of grant of EP-1 was published on #date#0#enddate#. Hopper subsequently sold EP-1 to #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# to raise money for further development. You have registered the transfer in the European register on #date#2#enddate#. In which countries can Kuzora-Ziarno take action against an infringer without further action at the national patent office?",
+                    "text_fr": "#linkwiki#Grace_Hopper|Grace Hopper#endlink# a obtenu un brevet européen EP-1 sur un ordinateur. L'avis de délivrance du EP-1 a été publié le #date#0#enddate#. Hopper a ensuite vendu EP-1 à #linkwiki#Irena_Kuzora-Ziarno|Irena Kuzora-Ziarno#endlink# afin de lever des fonds pour poursuivre son développement. Vous avez enregistré le transfert dans le registre européen le #date#2#enddate#. Dans quels pays Kuzora-Ziarno peut-elle intenter une action en justice contre un contrefacteur sans avoir à entreprendre d'autres démarches auprès de l'office national des brevets?"
                 }
             ],
             "info_de": "Rechte aus dem europäischen Patent, das Europäische Patent als Gegenstand des Vermögens, Verwendung, Strategien.",
