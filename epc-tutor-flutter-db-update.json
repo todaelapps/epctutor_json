@@ -1,0 +1,619 @@
+{
+    "category": [
+        {
+            "cases": [],
+            "info_de": "Die Vertretung vor den Organen des Europäischen Patentamts.",
+            "info_en": "Representation before the bodies of the European Patent Office.",
+            "info_fr": "Représentation devant les organes de l'Office européen des brevets.",
+            "name_de": "Vertretung",
+            "name_en": "Representation",
+            "name_fr": "Représentation",
+            "number": 0,
+            "version": 1
+        },
+        {
+            "info_de": "Patentierbarkeit der Erfindungen, Ausnahmen der Patentierbarkeit, Stand der Technik, Neuheit, Erfinderische Tätigkeit, Einheitlichkeit, Offenbarung, Ansprüche, sowie die Priorität.",
+            "info_en": "Patentability of inventions, exceptions to patentability, prior art, novelty, inventive step, unity, disclosure, claims, and priority.",
+            "info_fr": "Brevetabilité des inventions, exceptions à la brevetabilité, état de la technique, nouveauté, activité inventive, unité, divulgation, revendications et priorité.",
+            "name_de": "Materielles Patentrecht",
+            "name_en": "Substantive patent law",
+            "name_fr": "Droit substantiel des brevets",
+            "number": 1,
+            "version": 1
+        },
+        {
+            "cases": [
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Der Anmeldetag wird vor der Veröffentlichung der A1- oder A2-Schrift durch die Prüfungsabteilung festgelegt. Sie prüft, ob die Anmeldung den Erfordernissen für die Zuerkennung eines Anmeldetags genügt.",
+                            "text_en": "The filing date is determined by the Examining Division before the publication of the A1 or A2 script. It examines whether the application meets the requirements for the granting of a filing date.",
+                            "text_fr": "La date de dépôt est déterminée par la division d'examen avant la publication de l'écriture A1 ou A2. Elle examine si la demande remplit les conditions pour l'octroi d'une date de dépôt."
+                        },
+                        {
+                            "text_de": "Der Anmeldetag ergibt sich automatisch: es ist derjenige Tag, an dem der Anmelder das allererste Mal mit dem Europäischen Patentamt in Kontakt wegen der betreffenden Anmeldung steht.",
+                            "text_en": "The filing date is automatic: it is the date on which the applicant first contacts the European Patent Office about the application in question.",
+                            "text_fr": "La date de dépôt est automatique : il s'agit de la date à laquelle le demandeur prend pour la première fois contact avec l'Office européen des brevets au sujet de la demande en question."
+                        },
+                        {
+                            "text_de": "Der Anmeldetag wird vom Anmelder festgelegt. Er muss prüfen, welches Datum angemessen ist. Es muss zwischen dem Einreichen der Beschreibung und vor der Veröffentlichung der Anmeldung liegen.",
+                            "text_en": "The filing date is determined by the applicant. He must check which date is appropriate. It must be between the filing of the description and before the publication of the application.",
+                            "text_fr": "La date de dépôt est déterminée par le demandeur. Il doit vérifier quelle est la date appropriée. Elle doit être comprise entre le dépôt de la description et avant la publication de la demande."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Das Europäische Patentamt prüft im Rahmen der Eingangs- und Formalprüfung, ob die Anmeldung den Erfordernissen für die Zuerkennung eines Anmeldetags genügt. ",
+                            "text_en": "The European Patent Office checks within the scope of the receipt and formal examination whether the application meets the requirements for the granting of a filing date.",
+                            "text_fr": "L'Office européen des brevets vérifie dans le cadre de la réception et de l'examen formel si la demande remplit les conditions pour l'attribution d'une date de dépôt."
+                        }
+                    ],
+                    "beginning": [
+                        "-2MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "deadline[0]"
+                    ],
+                    "deadline": [
+                        "+2MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Nach #linkepc#ar90|Artikel 90 (1) EPÜ#endlink# prüft das Europäische Patentamt im Rahmen der Eingangs- und Formalprüfung, ob die Anmeldung den Erfordernissen für die Zuerkennung eines Anmeldetags genügt.",
+                    "explanation_en": "According to #linkepc#ar90|Article 90 (1) EPC#endlink# the European Patent Office examines within the scope of the receiving and formal examination whether the application meets the requirements for the grant of a filing date.",
+                    "explanation_fr": "Selon #linkepc#ar90|Article 90 (1) CBE#endlink# l'Office européen des brevets examine, dans le cadre de l'examen de réception et de l'examen formel, si la demande remplit les conditions pour l'octroi d'une date de dépôt.",
+                    "id": 66,
+                    "id_old": 335,
+                    "normen": "Artikel 90 Anmeldetag EIngangsprüfung",
+                    "startdate": "MO",
+                    "text_de": "Der Anmeldetag ist ein zentrales Element einer europäischen Patentanmeldung. Wann und wie wird er festgestellt?",
+                    "text_en": "The filing date is a central element of a European patent application. When and how is it established?",
+                    "text_fr": "La date de dépôt est un élément central d'une demande de brevet européen. Quand et comment est-elle établie ?"
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Das Europäische Patentamt recherchiert zum ersten unabhängigen Anspruch und seinen Unteransprüchen.",
+                            "text_en": "The European Patent Office searches the first independent claim and its sub-claims.",
+                            "text_fr": "L'Office européen des brevets effectue une recherche sur la première revendication indépendante et ses sous-revendications."
+                        },
+                        {
+                            "text_de": "Das Europäische Patentamt recherchiert zum ersten unabhängigen Anspruch und seinen Unteransprüchen in jeder Kategorie.",
+                            "text_en": "The European Patent Office searches the first independent claim and its sub-claims in each category.",
+                            "text_fr": "L'Office européen des brevets recherche la première revendication indépendante et ses sous-revendications dans chaque catégorie."
+                        },
+                        {
+                            "text_de": "Das Europäische Patentamt würfelt einen der nebengeordneten Ansprüche aus und recherchiert zu diesem und davon abhängigen Unteransprüchen.",
+                            "text_en": "The European Patent Office rolls the dice on one of the subsidiary claims and searches  the claim and dependent sub-claims.",
+                            "text_fr": "L'Office européen des brevets jette les dés sur l'une des revendications subsidiaires et effectue une recherche sur la revendication et les sous-revendications dépendantes."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Das Europäische Patentamt stellt die Recherche zurück und erstellt einen Mängelbescheid, in dem zur Auswahl eines der unabhängigen Ansprüche aufgefordert wird.",
+                            "text_en": "The European Patent Office puts the search on hold and issues a deficiency letter requesting selection of one of the independent claims.",
+                            "text_fr": "L'Office européen des brevets met la recherche en attente et émet une lettre d'insuffisance demandant la sélection d'une des revendications indépendantes."
+                        }
+                    ],
+                    "beginning": [
+                        "-2MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "deadline[0]"
+                    ],
+                    "deadline": [
+                        "+2MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Nach #linkepc#r62a|Regel 62a (1) EPÜ#endlink# fordert das Europäische Patentamt den Anmelder auf, innerhalb einer Frist von zwei Monaten die Regel 43 Absatz 2 entsprechenden Patentansprüche anzugeben, auf deren Grundlage die Recherche durchzuführen ist. Dies geschieht dann, wenn das Europäische Patentamt der Auffassung ist, dass die Patentansprüche in der ursprünglich eingereichten Fassung Regel 43 Absatz 2 nicht entsprechen. Dies ist spätestens bei drei nebengeordneten Ansprüchen in derselben Kategorie der Fall. Jedenfalls recherchiert das Europäische Patentamt nicht sofort den ersten Anspruch. Gewürfelt wird ebenfalls nicht.",
+                    "explanation_en": "According to #linkepc#r62a|Rule 62a (1) EPC#endlink# the European Patent Office requests the applicant to indicate the patent claims corresponding to Rule 43, paragraph 2 within a period of two months, on the basis of which the search is to be carried out. This is done if the European Patent Office considers that the patent claims as originally filed do not comply with Rule 43, paragraph 2. This is the case at the latest when there are three secondary claims in the same category. In any case, the European Patent Office does not immediately search the first claim. There is also no dice rolling.",
+                    "explanation_fr": "Selon #linkepc#r62a|Règle 62a (1) CBE#endlink#, l'Office européen des brevets demande au demandeur d'indiquer dans un délai de deux mois les revendications de brevet correspondant à la règle 43, paragraphe 2, sur la base desquelles la recherche doit être effectuée. Ceci est fait si l'Office européen des brevets considère que les revendications de brevet telles que déposées à l'origine ne sont pas conformes à la règle 43, paragraphe 2. C'est le cas au plus tard lorsqu'il y a trois revendications secondaires dans la même catégorie. Dans tous les cas, l'Office européen des brevets ne procède pas à une recherche immédiate de la première revendication. Il n'y a pas non plus de jet de dés.",
+                    "id": 67,
+                    "id_old": 74,
+                    "normen": "Regel 43",
+                    "startdate": "MO",
+                    "text_de": "#linkwiki#James_Prescott_Joule|James Prescott Joule#endlink# trinkt gerne Bier und hat daher ein fortgeschrittenes Gewicht erreicht. Da er Sport weniger zugeneigt ist, hat er eine Wärmemaschine gebaut, mit der man durch Schwitzen abnimmt. Da ihm mehrere Varianten eingefallen sind, hat er eine Patentanmeldung EP-1 mit vier unabhängigen Vorrichtungsansprüchen eingereicht, die jeweils wenigstens ein Merkmal enthalten, das in keinem der anderen Ansprüche enthalten ist.  Wie wird das Europäische Patentamt verfahren?",
+                    "text_en": "#linkwiki#James_Prescott_Joule|James Prescott Joule#endlink# likes to drink beer and has gained considerable weight as a result. Since he is less inclined to work out, he has built a heat machine that allows you to lose weight by sweating. Since he has thought of several variations, he has filed a patent application EP-1 with four independent device claims, each of which contains at least one feature that is not contained in any of the other claims.  How will the European Patent Office proceed?",
+                    "text_fr": "#linkwiki#James_Prescott_Joule|James Prescott Joule#endlink# aime boire de la bière et a pris beaucoup de poids en conséquence. Comme il est moins enclin à faire du sport, il a construit une machine à chaleur qui permet de perdre du poids en transpirant. Comme il a pensé à plusieurs variantes, il a déposé une demande de brevet EP-1 avec quatre revendications indépendantes pour le dispositif, chacune d'entre elles contenant au moins une caractéristique qui n'est contenue dans aucune des autres revendications.  Comment l'Office européen des brevets va-t-il procéder ?"
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Lord Kelvin kann nichts machen, da die Veröffentlichung gemäß der Vorgaben des EPÜ erfolgt.",
+                            "text_en": "Lord Kelvin can't do anything, because the publication is done according to the requirements of the EPC.",
+                            "text_fr": "Lord Kelvin ne peut rien faire, car la publication est faite selon les exigences de l'EPC."
+                        },
+                        {
+                            "text_de": "Lord Kelvin muss eine Gebühr zahlen, dann wird die Patentanmeldung sofort veröffentlicht.",
+                            "text_en": "Lord Kelvin must pay a fee; only then is the patent application published immediately.",
+                            "text_fr": "Lord Kelvin doit payer une taxe ; ce n'est qu'ensuite que la demande de brevet est publiée immédiatement."
+                        },
+                        {
+                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am #date#1#enddate# veröffentlicht.",
+                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on #date#1#enddate#.",
+                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le #date#1#enddate#."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am Mittwoch nach dem #date#3#enddate#, also am #date#5#enddate#, veröffentlicht.",
+                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on Thursday after the #date#3#enddate#, which is #date#5#enddate#.",
+                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le jeudi après la #date#3#enddate#, qui est #date#5#enddate#."
+                        }
+                    ],
+                    "beginning": [
+                        "-15MM",
+                        "-15MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "beginning[0]|+17MM",
+                        "deadline[0]",
+                        "deadline[1]",
+                        "startdate|+3MM|+4DD",
+                        "startdate|+3MM|+3DD"
+                    ],
+                    "deadline": [
+                        "+12MM",
+                        "+18MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Die Patentanmeldung wird nach #linkepc#ar93|Artikel 93 EPÜ#endlink# 18 Monate nach dem Anmeldetag bzw. Prioritätstag veröffentlicht, wobei die Veröffentlichung immer donnerstags statt findet. Sie erfolgt also am #deadline#0#enddate# und Lord Kelvin muss daher nichts unternehmen.",
+                    "explanation_en": "According to #linkepc#ar93|Article 93 EPC#endlink#, the patent application is published 18 months after the filing date or priority date, and publication always takes place on Thursdays. It  takes place on #deadline#0#enddate# and Lord Kelvin therefore does not have to take any action.",
+                    "explanation_fr": "Selon #linkepc#ar93|Article 93 CBE#endlink#, la demande de brevet est publiée 18 mois après la date de dépôt ou la date de priorité, et la publication a toujours lieu le jeudi. Elle a lieu le #deadline#0#enddate# et Lord Kelvin n'a donc pas à prendre de mesures.",
+                    "id": 68,
+                    "id_old": 75,
+                    "normen": "Artikel 93",
+                    "startdate": "MO",
+                    "text_de": "Am #date#0#enddate# hat #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# eine britische Anmeldung GB-1 betreffend einen Kühlschrank eingereicht. Am #date#2#enddate# reicht er eine europäische Anmeldung EP-1 ein, die die Priorität der GB-1 wirksam in Anspruch nimmt. Er hat nunmehr erfahren, dass sein ärgster Wettbewerber Lord Arktos ebenfalls plant, eine europäische Patentanmeldung einzureichen, und zwar nicht vor dem #date#4#enddate#, da einige abschließende Experimente noch fehlen. Lord Kelvin weiß, dass seine Anmeldung \"besserer\" Stand der Technik ist, wenn sie vorveröffentlicht ist. Er möchte von Ihnen wissen, was er tun muss. ",
+                    "text_en": "On #date#0#enddate#, #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# filed a UK GB-1 application relating to a refrigerator. On #date#2#enddate# he files a European application EP-1 effectively claiming priority to GB-1. He has now learned that his worst competitor, Lord Arktos, is also planning to file a European patent application, but not before #date#4#enddate# because some final experiments are still missing. Lord Kelvin knows that his application is \"better\" prior art if it is pre-published. He would like to know from you what he needs to do.",
+                    "text_fr": "Le #date#0#enddate#, #linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# dépose une demande GB-1 britannique relative à un réfrigérateur. Le jour de la #date#2#enddate#, il dépose une demande européenne EP-1 revendiquant effectivement la priorité sur la GB-1. Il apprend alors que son pire concurrent, Lord Arktos, prévoit également de déposer une demande de brevet européen, mais pas avant la #date#4#enddate# car il manque encore quelques expériences finales. Lord Kelvin sait que sa demande constitue un \"meilleur\" art antérieur si elle est prépubliée. Il aimerait que vous lui disiez ce qu'il doit faire."
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Lord Kelvin muss eine Gebühr zahlen, dann wird die Patentanmeldung sofort veröffentlicht.",
+                            "text_en": "Lord Kelvin must pay a fee; only then is the patent application published immediately.",
+                            "text_fr": "Lord Kelvin doit payer une taxe ; ce n'est qu'ensuite que la demande de brevet est publiée immédiatement."
+                        },
+                        {
+                            "text_de": "Lord Kelvin muss nichts machen, die Patentanmeldung EP-1 wird am #date#4#enddate# veröffentlicht.",
+                            "text_en": "Lord Kelvin doesn't have to do anything, due to the fact that the EP-1 patent application will be published on #date#4#enddate#.",
+                            "text_fr": "Lord Kelvin n'a rien à faire, étant donné que la demande de brevet EP-1 sera publiée le #date#4#enddate#."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Lord Kelvin kann einen Antrag stellen, um eine vorzeitige Veröffentlichung, und zwar vor dem #date#2#enddate#, seiner eigenen Anmeldung EP-1 zu erreichen.",
+                            "text_en": "Lord Kelvin may submit a request to achieve an early release of his own EP-1 application before the #date#2#enddate#.",
+                            "text_fr": "Lord Kelvin peut soumettre une demande pour obtenir une libération anticipée de sa propre demande EP-1 avant le #date#2#enddate#."
+                        },
+                        {
+                            "text_de": "Lord Kelvin kann seine Erfindung vor dem #date#2#enddate# mündlich der Öffentlichkeit zugänglich machen, um eine Vorveröffentlichung zu erreichen.",
+                            "text_en": "Lord Kelvin may orally disclose his invention for pre-publication to the public prior to the #date#2#enddate#.",
+                            "text_fr": "Lord Kelvin peut divulguer oralement son invention en vue d'une prépublication publique avant la #date#2#enddate#."
+                        }
+                    ],
+                    "beginning": [
+                        "-0DD",
+                        "-15MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "beginning[1]",
+                        "deadline[0]",
+                        "deadline[1]",
+                        "deadline|0|-14DD"
+                    ],
+                    "deadline": [
+                        "+2MM|+14DD",
+                        "+2MM|+14DD"
+                    ],
+                    "difficulty": "2",
+                    "explanation_de": "Die Rechtsposition von Lord Kelvin verbessert sich, wenn seine Erfindung Stand der Technik gemäß #linkepc#ar54|Artikel 54 (2) EPÜ#endlink#, also vorveröffentlicht, ist. Dies kann nach #linkepc#ar93|Artikel 93 (1) b) EPÜ#endlink# auf Antrag jederzeit nach Einreichung und insbesondere vor Ablauf der 18-Monats-Frist geschehen. Anderweitige Veröffentlichungen bleiben unbenommen. Er kann also mündlich veröffentlich oder noch besser rechtzeitig einen entsprechenden Antrag stellen.",
+                    "explanation_en": "Lord Kelvin's legal position improves if his invention is prior art according to #linkepc#ar54|Article 54 (2) EPC#endlink#, i.e. pre-published. This can be done according to #linkepc#ar93|Article 93 (1) b) EPC#endlink# upon request at any time after filing and in particular before expiry of the 18-month period. Other publications remain unaffected. Thus, he may publish orally or, even better, file a corresponding request in due time.",
+                    "explanation_fr": "La situation juridique de Lord Kelvin s'améliore si son invention fait partie de l'état de la technique au sens de l'article 54 (2) de la CBE, c'est-à-dire si elle est prépubliée. Cela peut être fait conformément à l'article 93 (1) b) de la CBE sur demande à tout moment après le dépôt et en particulier avant l'expiration du délai de 18 mois. Les autres publications ne sont pas concernées. Ainsi, il peut publier oralement ou, mieux encore, déposer une requête correspondante en temps utile.",
+                    "id": 69,
+                    "id_old": 76,
+                    "normen": "Artikel 93 iVm Artikel 54",
+                    "startdate": "",
+                    "text_de": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# erfährt heute, am #date#0#enddate#, dass sein Konkurrent Lord Arktos seine europäische Patentanmeldung EP-2 doch bereits am #date#2#enddate# einreichen möchte. Seine eigene Anmeldung EP-1 war am #date#1#enddate# eingereicht worden. Was kann Lord Kelvin unternehmen, um seine Rechtsposition gegenüber Lord Arktos zu verbessern? ",
+                    "text_en": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# learns today, on #date#0#enddate#, that his competitor, Lord Arktos, wants to file his European patent application EP-2 on #date#2#enddate# after all. His own application EP-1 had been filed on #date#1#enddate#. What can Lord Kelvin do to improve his legal position against Lord Arktos?",
+                    "text_fr": "#linkwiki#William_Thomson,_1._Baron_Kelvin|Lord Kelvin#endlink# apprend aujourd'hui, le #date#0#enddate#, que son concurrent, Lord Arktos, veut déposer sa demande de brevet européen EP-2 le #date#2#enddate# après tout. Sa propre demande EP-1 avait été déposée le #date#1#enddate#. Que peut faire Lord Kelvin pour améliorer sa position juridique face à Lord Arktos ?"
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Das EPA stellt eine Rechnung, solange hat Josephine Cochrane Zeit.",
+                            "text_en": "The EPA will issue a bill; that's how long Josephine Cochrane has.",
+                            "text_fr": "L'EPA va émettre un projet de loi, c'est le temps qu'a Josephine Cochrane."
+                        },
+                        {
+                            "text_de": "Das EPA stellt eine Rechnung mit Frist, solange hat Josephine Cochrane Zeit.",
+                            "text_en": "The EPO issues a bill with a deadline; that's how long Josephine Cochrane has.",
+                            "text_fr": "L'OEB émet un projet de loi avec un délai ; c'est le temps dont dispose Josephine Cochrane."
+                        },
+                        {
+                            "text_de": "Das EPA stellt eine Rechnung mit Frist, nach dem Eingang hat Josephine Cochrane 1 Monat Zeit, um die Rechnung zu begleichen.",
+                            "text_en": "The EPO issues an invoice with a deadline; after receipt, Josephine Cochrane has 1 month to pay the invoice.",
+                            "text_fr": "L'OEB émet une facture avec un délai ; après réception, Josephine Cochrane a 1 mois pour payer la facture."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Wenn Cochrane die Anmeldegebühren nicht bis zum #date#2#enddate# bezahlt, gilt die Anmeldung als zurückgenommen.",
+                            "text_en": "If Cochrane does not pay the registration fees by the #date#2#enddate#, the registration will be considered withdrawn.",
+                            "text_fr": "Si Cochrane ne paie pas les frais d'inscription avant le #date#2#enddate#, l'inscription sera considérée comme retirée."
+                        },
+                        {
+                            "text_de": "Bei Nichtzahlung der Anmeldegebühr macht das EPA auf den Rechtsverlust und die Möglichkeit einer Weiterbehandlung aufmerksam. ",
+                            "text_en": "In case of non-payment of the filing fee, the EPO draws attention to the loss of rights and the possibility of further processing.",
+                            "text_fr": "En cas de non-paiement de la taxe de dépôt, l'OEB attire l'attention sur la perte des droits et la possibilité d'un traitement ultérieur."
+                        }
+                    ],
+                    "beginning": [
+                        "-20DD"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "deadline[0]|+10DD",
+                        "deadline[0]"
+                    ],
+                    "deadline": [
+                        "+1MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Das EPA stellt keine Rechnungen. Wird bei der Prüfung der Patentanmeldung EP-1 festgestellt, dass keine Anmeldegebühr oder Recherchengebühr fristgerecht bezahlt ist wird ein Rechtsverlust festgestellt. Über den Rechtsverlust wird aber informiert und auf die Möglichkeit einer Weiterbehandlung samt ihrer Voraussetzungen hingewiesen. ",
+                    "explanation_en": "The EPO does not issue invoices. If during the examination of the EP-1 patent application it is found that no filing fee or search fee has been paid in due time, a loss of rights is established. However, the applicant is informed about the loss of rights and the possibility of further processing, including its requirements, is pointed out.",
+                    "explanation_fr": "L'OEB ne délivre pas de factures. Si, au cours de l'examen de la demande de brevet EP-1, il est constaté qu'aucune taxe de dépôt ou de recherche n'a été payée en temps voulu, une perte de droits est établie. Toutefois, le demandeur est informé de la perte de ses droits et la possibilité d'un traitement ultérieur, y compris ses exigences, est indiquée.",
+                    "id": 70,
+                    "id_old": 77,
+                    "normen": "Artikel 94 Prüfung",
+                    "startdate": "MO",
+                    "text_de": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# ist das Spülen leid. Sie hat deswegen eine Geschirrspülmaschine konstruiert und eine europäische Patentanmeldung EP-1 am #date#0#enddate# eingereicht. Da sie momentan knapp bei Kasse ist aber am #date#1#enddate# eine hohe Überweisung erwartet, will sie die Zahlung der offenen Gebühren bis dahin aufschieben. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# is tired of washing dishes. She has therefore designed a dishwashing machine and filed a European patent application EP-1 on #date#0#enddate#. Since she is currently short of cash but expects a large remittance by #date#1#enddate#, she wants to postpone paying the outstanding fees until then. What is the legal situation?",
+                    "text_fr": "#linkwiki#Josephine_Cochrane|Josephine Cochrane#endlink# en a assez de faire la vaisselle. Elle a donc conçu un lave-vaisselle et déposé une demande de brevet européen EP-1 le #date#0#enddate#. Comme elle est actuellement à court d'argent mais qu'elle attend un versement important pour le #date#1#enddate#, elle souhaite reporter le paiement des taxes dues à ce moment-là. Quelle est la situation juridique ?"
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Käthe Paulus kann noch auf den Prüfungsbescheid reagieren, da das europäische Patentamt die Fristüberschreitung noch nicht bemerkt hat.",
+                            "text_en": "Käthe Paulus can still react to the examination notice, since the European Patent Office has not yet noticed the missed deadline.",
+                            "text_fr": "Käthe Paulus peut encore réagir à l'avis d'examen, puisque l'Office européen des brevets n'a pas encore constaté le dépassement du délai."
+                        },
+                        {
+                            "text_de": "Das europäische Patentamt kann einen Erteilungsbeschluss erlassen, da die aufgezeigten Mängel nur geringfügig waren und es nicht gerechtfertigt wäre, aus diesem Grund eine Patenterteilung zu versagen.",
+                            "text_en": "The European Patent Office can issue a grant decision since the defects pointed out were only minor, and it would not be justified to refuse to grant a patent for this reason.",
+                            "text_fr": "L'Office européen des brevets peut émettre une décision de délivrance puisque les défauts signalés ne sont que mineurs et qu'il ne serait pas justifié de refuser de délivrer un brevet pour cette raison."
+                        },
+                        {
+                            "text_de": "Das europäische Patentamt erlässt einen Zurückweisungsbeschluss, da die Erfordernisse zur Erteilung eines Patentes nicht erfüllt wurden.",
+                            "text_en": "The European Patent Office issues a rejection decision because the requirements for the grant of a patent have not been met.",
+                            "text_fr": "L'Office européen des brevets émet une décision de rejet parce que les conditions requises pour la délivrance d'un brevet ne sont pas remplies."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Das europäische Patentamt informiert über den Rechtsverlust und die Voraussetzungen einer Weiterbehandlung.",
+                            "text_en": "The European Patent Office provides information on the loss of rights and the requirements for further processing.",
+                            "text_fr": "L'Office européen des brevets fournit des informations sur la perte des droits et les exigences pour la poursuite du traitement."
+                        }
+                    ],
+                    "beginning": [
+                        "-5MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "deadline[0]"
+                    ],
+                    "deadline": [
+                        "+2MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Bei Versäumnis einer Frist tritt die Rechtsfolge, hier: Fiktion einer Zurücknahme der Anmeldung nach #linkepc#ar94|Artikel 94 (4) EPÜ#endlink#, automatisch ein. Wann das europäische Patentamt darauf aufmerksam wird ist irrelevant. Auch kann kein Erteilungsbeschluss erlassen werden solange Mängel vorliegen. Somit muss Paulus eine Weiterbehandlung beantragen, um das Prüfungsverfahren fortsetzen zu können.",
+                    "explanation_en": "If a time limit is missed, the legal consequence occurs, here: Fiction of a withdrawal of the application according to #linkepc#ar94|Article 94 (4) EPC#endlink#, occurs automatically. When the European Patent Office becomes aware of this is irrelevant. Also, no grant decision can be issued as long as there are deficiencies. Thus, Paulus must request further processing in order to continue the examination procedure.",
+                    "explanation_fr": "Si un délai n'est pas respecté, la conséquence légale se produit, ici : La fiction d'un retrait de la demande selon #linkepc#ar94|Article 94 (4) CBE#endlink#, se produit automatiquement. Le moment où l'Office européen des brevets en prend connaissance est sans importance. De même, aucune décision de délivrance ne peut être émise tant qu'il y a des irrégularités. Ainsi, Paulus doit demander un traitement supplémentaire afin de poursuivre la procédure d'examen.",
+                    "id": 71,
+                    "id_old": 78,
+                    "normen": "Artikel 94 (4) fehlende Eingabe auf Prüfungsbescheid",
+                    "startdate": "MO",
+                    "text_de": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# ist Berufsluftschifferin und Fallschirmspringerin. Die zusammengerollten Fallschirme, die sie verwendet, sind problemanfällig und gefährlich. Sie schneidert daher einen zusammenlegbaren Fallschirm. Um diese Idee für sich zu schützen, reicht sie eine europäische Patentanmeldung EP-1 ein. Nach der Stellung des Prüfungsantrages und der Zahlung aller notwendigen Gebühren muss sie viel Zeit in den Aufbau einer Firma zur Herstellung ihrer Fallschirme investieren. Einen Prüfungsbescheid des europäischen Patentamtes vom #date#0#enddate#, der einige formale Mängel aufzeigt und eine viermonatige Antwortfrist vorgibt, übersieht sie in den Papierbergen. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# is a professional air skipper and parachutist. The rolled-up parachutes she uses are problem-prone and dangerous. She has created a solution to this by tailoring a collapsible parachute. To protect this idea for herself, she files a European patent application EP-1. After filing the examination request and paying all the necessary fees, she has to invest a lot of time in setting up a company to manufacture her parachutes. She overlooks an examination notice from the European Patent Office dated #date#0#enddate#, amongst all of the paperwork, which points out some formal deficiencies and specifies a four-month response period,. What is the legal situation?",
+                    "text_fr": "#linkwiki#K%C3%A4the_Paulus|Käthe Paulus#endlink# est une skippeuse et parachutiste professionnelle. Les parachutes enroulés qu'elle utilise posent des problèmes et sont dangereux. Elle a créé une solution à ce problème en concevant un parachute pliable. Afin de protéger cette idée pour elle-même, elle dépose une demande de brevet européen EP-1. Après avoir déposé la requête en examen et payé toutes les taxes nécessaires, elle doit investir beaucoup de temps dans la création d'une entreprise pour fabriquer ses parachutes. Parmi toutes les formalités administratives, elle oublie un avis d'examen de l'Office européen des brevets daté du #date#0#enddate#, qui signale certaines lacunes formelles et fixe un délai de réponse de quatre mois. Quelle est la situation juridique ?"
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Hasenstab kann die Veröffentlichung nicht mehr verhindern, da der Erteilungsbeschluss bereits gefallen ist.",
+                            "text_en": "Hasenstab can no longer prevent publication, as the decision to grant has already been made.",
+                            "text_fr": "Hasenstab ne peut plus empêcher la publication, car la décision d'octroi a déjà été prise."
+                        },
+                        {
+                            "text_de": "Hasenstab kann  den Erteilungsbeschluss anfechten.",
+                            "text_en": "Hasenstab may challenge the decision to grant.",
+                            "text_fr": "Hasenstab peut contester la décision d'octroi."
+                        },
+                        {
+                            "text_de": "Hasenstab kann Antrag auf Nichtnennung stellen.",
+                            "text_en": "Hasenstab may submit a request not to be nominated.",
+                            "text_fr": "M. Hasenstab peut demander à ne pas être nommé."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Hasenstab kann die Anmeldung zurücknehmen. Geschieht dies vor Abschluss der technischen Vorbereitungen für die Veröffentlichung wird die Patentschrift nicht veröffentlicht.",
+                            "text_en": "Hasenstab may withdraw the application. If this happens before completion of the technical preparations for publication, the patent specification will not be published.",
+                            "text_fr": "Hasenstab peut retirer sa demande. Si cela se produit avant l'achèvement des préparatifs techniques de la publication, le fascicule de brevet ne sera pas publié."
+                        }
+                    ],
+                    "beginning": [
+                        "-2MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "deadline[0]"
+                    ],
+                    "deadline": [
+                        "+2MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Gemäß #linkepc#ar98|Artikel 98 EPÜ#endlink# erfolgt die Veröffentlichung der Patentschrift so bald wie möglich nach Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt. Nimmt Hasenstab die Anmeldung vor Abschluss der technischen Vorbereitungen für die Veröffentlichung zurück wird die Patentschrift nicht veröffentlicht. Eine Nichtnennung kann er zwar als Erfinder erreichen, nicht aber als Anmelder.",
+                    "explanation_en": "According to #linkepc#ar98|Article 98 EPC#endlink# the publication of the patent specification takes place as soon as the mention of the grant of the European patent in the European Patent Bulletin has been published. If Hasenstab withdraws the application before completion of the technical preparations for publication, the patent specification will not be published. He can achieve non-nomination as inventor, but not as applicant.",
+                    "explanation_fr": "Selon l'article 98 de la CBE, la publication du fascicule de brevet a lieu dès que la mention de la délivrance du brevet européen dans le Bulletin européen des brevets a été publiée. Si Hasenstab retire sa demande avant l'achèvement des préparatifs techniques de la publication, le fascicule de brevet ne sera pas publié. Il peut obtenir la non-nomination en tant qu'inventeur, mais pas en tant que demandeur.",
+                    "id": 72,
+                    "id_old": 79,
+                    "normen": "Artikel 98 Veröffentlichung der Patentschrift",
+                    "startdate": "MO",
+                    "text_de": "#linkwiki#Johann_Adam_Hasenstab|Johann Adam Hasenstab#endlink# ist Wilderer im Spessart. Als er seine Freundin Anna Margaretha kennenlernt, die überzeugte Veganerin ist, muss er ihr versprechen, ebenfalls kein Fleich mehr zu essen. So ganz kann er darauf aber nicht verzichten, wobei er seine Jagderfolge gleich vor Ort zubereitet und verzehrt. Dabei erfindet er einen Einweggrill, den er in einer europäischen Patentanmeldung EP-1 anmeldet. Die Prüfungsabteilung ist sofort überzeugt und sendet ihm einen Erteilungsbeschluss. Beim Durchlesen des Beschlusses erkennt er, dass mit der Patenterteilug auch eine Veröffentlichung der Patentschrift erfolgt. Diese könnte seinem Schwager, der bei einem Grillhersteller arbeitet, auffallen. Hasenstab möchte auf keine Fall seine Freundin verlieren, die ihm die heimliche Jagd nicht verzeihen würde. Was kann er tun?",
+                    "text_en": "#linkwiki#Johann_Adam_Hasenstab|Johann Adam Hasenstab#endlink# is a poacher in the region of Spessart in Germany. After meeting his girlfriend Anna Margaretha, who is a convinced vegan, he has made a promise to her not to eat meat anymore. At the same time, he can't quite do without it, so he secretly prepares and eats his meaty entrees during the hunt. In the process, he invents a disposable grill, which he registers in a European patent application EP-1. The examining division is immediately convinced and sends him a grant decision. When reading the decision, he realizes that the patent specification is also published with the patent grant. This could come to the attention of his brother-in-law, who works for a grill manufacturer. Hasenstab does not want to lose his girlfriend, who would not forgive him for his secret indulgences. What can he do?",
+                    "text_fr": "#linkwiki#Johann_Adam_Hasenstab|Johann Adam Hasenstab#endlink# est un braconnier de la région de Spessart en Allemagne. Après avoir rencontré sa petite amie Anna Margaretha, qui est une végétalienne convaincue, il lui a fait la promesse de ne plus manger de viande. En même temps, il ne peut pas s'en passer, alors il prépare et mange secrètement ses entrées charnues pendant la chasse. Ce faisant, il invente un gril jetable qu'il dépose dans une demande de brevet européen EP-1. La division d'examen est immédiatement convaincue et lui envoie une décision de délivrance. En lisant la décision, il se rend compte que le fascicule de brevet est également publié avec la délivrance du brevet. Cela pourrait attirer l'attention de son beau-frère, qui travaille pour un fabricant de grils. Hasenstab ne veut pas perdre sa petite amie, qui ne lui pardonnerait pas ses indulgences secrètes. Que peut-il faire ?"
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Nein, für Übersetzungen ist das Übersetzungsbüro des Europäischen Patentamtes zuständig. Der Prüfer schreibt die Erfindung auf griechisch mit und gibt sie dann an das Übersetzungsbüro.",
+                            "text_en": "No, the translation office of the European Patent Office is responsible for translations. The examiner writes down the invention in Greek and then gives it to the translation office.",
+                            "text_fr": "Non, le bureau de traduction de l'Office européen des brevets est responsable des traductions. L'examinateur rédige l'invention en grec et la remet ensuite à l'office de traduction."
+                        },
+                        {
+                            "text_de": "Ja, aber nur, wenn Archimedes die Figuren der Anmeldung innerhalb von 1 Moant nachreicht. Ansonsten gilt die Anmeldung als zurückgenommen.",
+                            "text_en": "Yes, but only if Archimedes submits the figures of the application within 1 month; otherwise, the application is considered withdrawn.",
+                            "text_fr": "Oui, mais seulement si Archimède soumet les chiffres de la demande dans un délai d'un mois ; sinon, la demande est considérée comme retirée."
+                        },
+                        {
+                            "text_de": "Ja, allerdings muss Archimedes die Übersetzung bezahlen. Die entsprechende Gebühr ist der Gebührenordnung zu entnehmen.",
+                            "text_en": "Yes, but Archimedes must pay for the translation. The corresponding fee can be found in the fee schedule.",
+                            "text_fr": "Oui, mais Archimède doit payer la traduction. Le tarif correspondant se trouve dans la grille tarifaire."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Nein, da eine Europäische Patentanmeldung nur schriftlich eingereicht werden darf.",
+                            "text_en": "No, because a European patent application may only be filed in writing.",
+                            "text_fr": "Non, car une demande de brevet européen ne peut être déposée que par écrit."
+                        }
+                    ],
+                    "beginning": [
+                        "-2MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "deadline[0]"
+                    ],
+                    "deadline": [
+                        "+2MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Gemäß #linkepc#r35|Regel 35 (1) EPÜ#endlink# können Europäische Patentanmeldungen nur schriftlich eingereicht werden. Alle anderen Lösungen sind obsolet.",
+                    "explanation_en": "According to #linkepc#r35|Rule 35 (1) EPC#endlink# European patent applications can only be filed in writing. All other solutions are obsolete.",
+                    "explanation_fr": "Selon la #linkepc#r35|Règle 35 (1) CBE#endlink# les demandes de brevet européen ne peuvent être déposées que par écrit. Toutes les autres solutions sont obsolètes.",
+                    "id": 73,
+                    "id_old": 336,
+                    "normen": "Regel 35 (1) schriftliche Einreichung",
+                    "startdate": "MO",
+                    "text_de": "#linkwiki#Archimedes|Archimedes#endlink# hat das Prinzip des Auftriebs entdeckt und ein Schiff gebaut, das dieses nutzt. Nackt in der Badewanne sitzend ruft er direkt beim Europäischen Patentamt an und hat Glück, da er einen griechischen Prüfer am Telefon hat. Diesem möchte er gleich seine Erfindung auf griechisch diktieren. Der Prüfer soll sie dann direkt in eine der Amtssprachen übersetzen. Geht das?",
+                    "text_en": "#linkwiki#Archimedes|Archimedes#endlink# has discovered the principle of buoyancy and built a ship that uses it. While soaking in the bathtub, he directly calls the European Patent Office and is happy to have a Greek examiner on the phone. He wants to dictate his invention to the examiner in Greek. The examiner should then translate it directly into one of the official languages. Is that possible?",
+                    "text_fr": "#linkwiki#Archimedes|Archimedes#endlink# a découvert le principe de la flottabilité et construit un navire qui l'utilise. Tout en faisant trempette dans sa baignoire, il appelle directement l'Office européen des brevets et est heureux d'avoir un examinateur grec au téléphone. Il veut dicter son invention à l'examinateur en grec. L'examinateur devrait ensuite la traduire directement dans l'une des langues officielles. Est-ce possible ?"
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Beim Europäischen Patentamt in Reykjavik.",
+                            "text_en": "At the European Patent Office in Reykjavik.",
+                            "text_fr": "A l'Office européen des brevets à Reykjavik."
+                        },
+                        {
+                            "text_de": "Beim Europäischen Patentamt in Wien.",
+                            "text_en": "At the European Patent Office in Vienna.",
+                            "text_fr": "A l'Office européen des brevets à Vienne."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Beim Europäischen Patentamt in Den Haag.",
+                            "text_en": "At the European Patent Office in The Hague.",
+                            "text_fr": "A l'Office européen des brevets à La Haye."
+                        },
+                        {
+                            "text_de": "Beim Europäischen Patentamt in München.",
+                            "text_en": "At the European Patent Office in Munich.",
+                            "text_fr": "A l'Office européen des brevets à Munich."
+                        },
+                        {
+                            "text_de": "Beim Deutschen Patent- und Markenamt in München.",
+                            "text_en": "At the German Patent and Trademark Office in Munich.",
+                            "text_fr": "A l'Office allemand des brevets et des marques à Munich."
+                        },
+                        {
+                            "text_de": "Beim Österreichischen Patentamt in Wien.",
+                            "text_en": "At the Austrian Patent Office in Vienna.",
+                            "text_fr": "A l'Office autrichien des brevets à Vienne."
+                        },
+                        {
+                            "text_de": "Beim Eidgenössisches Institut für Geistiges Eigentum in Bern.",
+                            "text_en": "At the Swiss Federal Institute of Intellectual Property in Bern.",
+                            "text_fr": "A l'Institut fédéral de la propriété intellectuelle à Berne."
+                        }
+                    ],
+                    "beginning": [
+                        "-2MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "deadline[0]"
+                    ],
+                    "deadline": [
+                        "+2MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Gemäß #linkepc#r35|Regel 35 (1) EPÜ#endlink# können Europäische Patentanmeldungen beim Europäischen Patentamt in München, Den Haag oder Berlin oder bei den in Artikel 75 Absatz 1 b) genannten Behörden eingereicht werden. Der entsprechenden Länderliste ist entnehmbar, dass die nationalen Ämter in Deutschland, Österreich und der Schweiz dieses Recht gestatten.",
+                    "explanation_en": "According to #linkepc#r35|Rule 35 (1) EPC#endlink# European patent applications may be filed at the European Patent Office in Munich, The Hague, Berlin or at the authorities mentioned in Article 75, paragraph 1 b). It can be seen from the corresponding country list that the national offices in Germany, Austria and Switzerland allow this right.",
+                    "explanation_fr": "Selon la #linkepc#r35|Règle 35 (1) CBE#endlink# les demandes de brevet européen peuvent être déposées auprès de l'Office européen des brevets à Munich, La Haye, Berlin ou auprès des autorités mentionnées à l'article 75, paragraphe 1 b). Il ressort de la liste des pays correspondants que les offices nationaux d'Allemagne, d'Autriche et de Suisse autorisent ce droit.",
+                    "id": 74,
+                    "id_old": 337,
+                    "normen": "Regel 35 (1) Einreichungsort",
+                    "startdate": "MO",
+                    "text_de": "#linkwiki#Archytas_von_Tarent|Archytas von Tarent#endlink# hat einen Würfel mit einer besonders guten Verteilungshäufigkeit der Zahlen gebaut. Eine entsprechende Europäische Patentanmeldung hat er ebenfalls ausgearbeitet. Wo kann er diese einreichen?",
+                    "text_en": "#linkwiki#Archytas_of_Tarent|Archytas of Tarent#endlink# has built a cube with a particularly good distribution frequency of the numbers. He has also prepared a corresponding European patent application. Where can he file it?",
+                    "text_fr": "#linkwiki#Archytas_of_Tarent|Archytas of Tarent#endlink# a construit un cube dont la fréquence de distribution des chiffres est particulièrement bonne. Il a également préparé une demande de brevet européen correspondante. Où peut-il la déposer ?"
+                },
+                {
+                    "answers_false": [
+                        {
+                            "text_de": "Ja, jede europäische Patentanmeldung und Teilanmeldung kann in jeder beliebigen Sprache eingereicht werden.",
+                            "text_en": "Yes, any European patent application and divisional application can be filed in any language.",
+                            "text_fr": "Oui, toute demande de brevet européen et demande divisionnaire peut être déposée dans n'importe quelle langue."
+                        },
+                        {
+                            "text_de": "Nein, die Teilanmeldung ist in einer Amtssprache einzureichen. Amtssprachen sind Deutsch, Englisch oder Französisch.",
+                            "text_en": "No, the divisional application must be filed in one official language. Official languages are English, French and German.",
+                            "text_fr": "Non, la demande divisionnaire doit être déposée dans une seule langue officielle. Les langues officielles sont l'anglais, le français et l'allemand."
+                        },
+                        {
+                            "text_de": "Nein, die Teilanmeldung ist in der Verfahrenssprache der Stammanmeldung einzureichen. Verfahrenssprache ist Englisch.",
+                            "text_en": "No, the divisional application must be filed in the language of the proceedings of the parent application. The language of the proceedings is English.",
+                            "text_fr": "Non, la demande divisionnaire doit être déposée dans la langue de procédure de la demande principale. La langue de la procédure est l'anglais."
+                        }
+                    ],
+                    "answers_true": [
+                        {
+                            "text_de": "Ja, weil Aristoteles die Stammanmeldung ebenfalls auf griechisch eingereicht hat.",
+                            "text_en": "Yes, because Aristotle also filed the root application in Greek.",
+                            "text_fr": "Oui, car Aristote a aussi déposé l'application de la racine en grec."
+                        }
+                    ],
+                    "beginning": [
+                        "-2MM"
+                    ],
+                    "date": [
+                        "beginning[0]",
+                        "deadline[0]"
+                    ],
+                    "deadline": [
+                        "+2MM"
+                    ],
+                    "difficulty": "1",
+                    "explanation_de": "Eine Teilanmeldung ist nach #linkepc#r36|Regel 36 (1) EPÜ#endlink# in der Verfahrenssprache der früheren Anmeldung einzureichen. Sie kann, wenn Letztere nicht in einer Amtssprache des Europäischen Patentamts abgefasst war, in der Sprache der früheren Anmeldung eingereicht werden. Somit kann Aristoteles EP-2 auf griechisch einreichen.",
+                    "explanation_en": "According to #linkepc#r36|Rule 36 (1) EPC#endlink#, a divisional application must be filed in the language of the proceedings of the earlier application. It may be filed in the language of the earlier application if the latter was not in an official language of the European Patent Office. Thus, Aristotle may file EP-2 in Greek.",
+                    "explanation_fr": "Selon la #linkepc#r36|Règle 36 (1) CBE#endlink#, une demande divisionnaire doit être déposée dans la langue de procédure de la demande antérieure. Elle peut être déposée dans la langue de la demande antérieure si cette dernière n'était pas dans une langue officielle de l'Office européen des brevets. Ainsi, Aristote peut déposer EP-2 en grec.",
+                    "id": 75,
+                    "id_old": 338,
+                    "normen": "Regel 36 Teilanmeldungen",
+                    "startdate": "MO",
+                    "text_de": "#linkwiki#Aristoteles|Aristoteles#endlink# hat eine Europäische Patentanmeldung EP-1 auf griechisch eingereicht und diese in Englisch übersetzen lassen. Nun möchte er eine Teilanmeldung EP-2 mit EP-1 als Stammanmeldung einreichen. Um diese schnell einzureichen, möchte er die griechischen Originalunterlagen selbst überarbeiten und einreichen und eine Übersetzung nachreichen. Ist das möglich?",
+                    "text_en": "#linkwiki#Aristoteles|Aristoteles#endlink# has filed a European patent application EP-1 in Greek and had it translated into English. Now he wants to file a divisional application EP-2 with EP-1 as parent application. To file this quickly he would like to revise and file the original Greek documents himself and file a translation afterwards. Is this possible?",
+                    "text_fr": "#linkwiki#Aristoteles|Aristoteles#endlink# a déposé une demande de brevet européen EP-1 en grec et l'a fait traduire en anglais. Il souhaite maintenant déposer une demande divisionnaire EP-2 avec EP-1 comme demande principale. Pour déposer cette demande rapidement, il aimerait réviser et déposer lui-même les documents originaux en grec et déposer ensuite une traduction. Cela est-il possible ?"
+                }
+            ],
+            "info_de": "Anmeldetag, Teilung, Recherche, Veröffentlichung, Prüfungsverfahren, Änderungen und Ergänzungen, sowie die Patenterteilung, bzw. Zurückweisung.",
+            "info_en": "Filing date, division, search, publication, examination procedure, amendments and supplements, and patent grant, or rejection.",
+            "info_fr": "Date de dépôt, division, recherche, publication, procédure d'examen, modifications et suppléments, et délivrance ou rejet du brevet.",
+            "name_de": "Erteilungsverfahren",
+            "name_en": "Granting procedure",
+            "name_fr": "Procédure de délivrance",
+            "number": 2,
+            "version": 1
+        },
+        {
+            "info_de": "Rechte aus dem europäischen Patent, das Europäische Patent als Gegenstand des Vermögens, Verwendung, Strategien.",
+            "info_en": "Rights arising from the European patent, the European patent as an object of property, use, strategies.",
+            "info_fr": "Droits découlant du brevet européen, le brevet européen en tant qu'objet de propriété, d'utilisation, de stratégies.",
+            "name_de": "Das Europäische Patent",
+            "name_en": "The European Patent",
+            "name_fr": "Le brevet européen",
+            "number": 3,
+            "version": 1
+        },
+        {
+            "info_de": "Einspruch, Einspruchsgründe, Prüfung des Einspruchs, Widerruf oder Aufrechterhaltung des europäischen Patents, Beschränkung oder Widerruf des europäischen Patents. ",
+            "info_en": "Opposition, grounds for opposition, examination of opposition, revocation or maintenance of European patent, limitation or revocation of European patent.",
+            "info_fr": "Opposition, motifs d'opposition, examen de l'opposition, révocation ou maintien du brevet européen, limitation ou révocation du brevet européen.",
+            "name_de": "Einspruchs- und Beschränkungsverfahren",
+            "name_en": "Opposition and restriction procedures",
+            "name_fr": "Procédures d'opposition et de limitation",
+            "number": 4,
+            "version": 1
+        },
+        {
+            "info_de": "Beschwerdefähige Entscheidungen, Frist und Form der Beschwerde, Beschwerdeberechtigung, Ablauf des Beschwerdeverfahrens, Beschwerdekammern.",
+            "info_en": "Decisions subject to appeal, time limit and form of appeal, entitlement to appeal, course of appeal proceedings, Boards of Appeal.",
+            "info_fr": "Décisions susceptibles de recours, délai et forme du recours, droit de recours, déroulement de la procédure de recours, chambres de recours.",
+            "name_de": "Beschwerdeverfahren",
+            "name_en": "Complaints procedure",
+            "name_fr": "Procédure de réclamation",
+            "number": 5,
+            "version": 1
+        },
+        {
+            "info_de": "Allgemeine Vorschriften für das Verfahren, rechtliches Gehör und Grundlage der Entscheidungen, Ermittlungen von Amts wegen, Einwendungen Dritter, Weiterbehandlung, Wiedereinsetzung, Zustellung, Änderungen, Unterrichtung der Öffentlichkeit.",
+            "info_en": "General rules of procedure, right to be heard and basis of decisions, ex officio investigations, third-party objections, further processing, reinstatement, service, amendments, information of the public.",
+            "info_fr": "Règles générales de procédure, droit d'être entendu et fondement des décisions, enquêtes d'office, tierces objections, traitement ultérieur, réintégration, service, modifications, information du public.",
+            "name_de": "Gemeinsame Vorschriften",
+            "name_en": "Common rules",
+            "name_fr": "Règles communes",
+            "number": 6,
+            "version": 1
+        },
+        {
+            "info_de": "Sprachen in den Verfahren vor dem Europäischen Patentamt, sowie in der Kommunikation mit dem EPA.",
+            "info_en": "languages in proceedings before the European Patent Office, as well as in communication with the EPO.",
+            "info_fr": "langues dans les procédures devant l'Office européen des brevets, ainsi que dans la communication avec l'OEB.",
+            "name_de": "Sprachen",
+            "name_en": "Languages",
+            "name_fr": "Langues",
+            "number": 7,
+            "version": 1
+        },
+        {
+            "info_de": "Fristenberechnung, vom EPA bestimmte Fristen, verspäteter Zugang von Schriftstücken, Fristverlängerung, Aussetzung, bzw. Unterbrechung des Verfahrens.",
+            "info_en": "Calculation of time limits, time limits set by the EPO, late receipt of documents, extension of time limits, suspension or interruption of proceedings.",
+            "info_fr": "Calcul des délais, délais fixés par l'OEB, réception tardive de documents, prolongation des délais, suspension ou interruption de la procédure.",
+            "name_de": "Fristen",
+            "name_en": "Deadlines",
+            "name_fr": "Délais",
+            "number": 8,
+            "version": 1
+        },
+        {
+            "info_de": "Gebühren für die einzelnen Verfahrensschritte vor dem EPA, Zahlungsfristen, Zahlungsmodalitäten, Zuschläge, Gebührenermäßigungen",
+            "info_en": "Fees for the individual procedural steps before the EPO, payment deadlines, payment modalities, surcharges, fee reductions",
+            "info_fr": "Taxes pour les différentes étapes de la procédure devant l'OEB, délais de paiement, modalités de paiement, suppléments, réductions de taxes.",
+            "name_de": "Gebühren",
+            "name_en": "Fees",
+            "name_fr": "Frais",
+            "number": 9,
+            "version": 1
+        }
+    ],
+    "global": {
+        "appinfo_de": "Dies ist die Beschreibung der Activity <<info>> .Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren.",
+        "appinfo_en": "This is the description of the activity <<info>> .But one day a small line of dummy text, her name was Lorem Ipsum, decided to go out into the wide grammar. The great Oxmox advised her against it, because it was teeming with nasty commas, wild question marks and sneaky semicolons, but the little blind text was not deterred.",
+        "appinfo_fr": "Voici la description de l'activité <<info>>. Un jour, une petite ligne de texte aveugle, qui s'appelait Lorem Ipsum, décida de partir à la découverte de la vaste grammaire. Le grand Oxmox lui déconseilla de le faire, car il regorgeait de virgules maléfiques, de points d'interrogation sauvages et de sémicules sournois, mais le petit texte aveugle ne se laissa pas décourager.",
+        "appversion": 1.001,
+        "linkappeal": "http://www.epo.org/law-practice/case-law-appeals/recent/",
+        "linkepc": "http://www.epo.org/law-practice/legal-texts/html/epc/2016/",
+        "linkgl": "http://www.epo.org/law-practice/legal-texts/html/guidelines/",
+        "linkwiki": "https://de.wikipedia.org/wiki/"
+    }
+}
