@@ -6437,7 +6437,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+9MM"
@@ -6544,7 +6545,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "|-6MM|-10DD"
                     ],
                     "deadline": [
                         "+2MM"
@@ -6556,10 +6559,10 @@
                     "id": 130,
                     "id_old": 82,
                     "normen": "Artikel 99 TM Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents ",
-                    "startdate": "MO|-36MM",
-                    "text_de": "#linkwiki#Jacobus_Henricus_van_’t_Hoff|Jacobus Henricus van ’t Hoff#endlink# verwendet für Versuche über den osmotischen Druck semipermeable Membranen von #linkwiki#Moritz_Traube|Moritz Traube#endlink#. ’t Hoff hat bei einem Besuch Traubes herausgefunden, dass Traube am #startdate##enddate# eine Patentanmeldung EP-1 eingereicht hat. Beim Lesen der Post seines Besuchers fand er einen Erteilungsbeschluss vom #beginning#0|-6MM|-10DD#enddate#. Auch hat er mitbekommen, dass Traube alle Anforderungen wie bspw. die Bezahlung der Erteilungsgebühr erfüllt hat. Der Hinweis auf die Veröffentlichung des europäischen Patentes EP-1 wurde daraufhin am #beginning#0#enddate# veröffentlicht. ’t Hoff möchte Traube einen Streich spielen und ihn durch das Einlegen eines Einspruchs ärgern. Welches Ereignis löste den Beginn der Einspruchsfrist aus?",
-                    "text_en": "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# uses semipermeable membranes from #linkwiki#Moritz_Traube|Moritz Traube#endlink# for experiments on osmotic pressure. while visiting Traube, 't Hofffound that Traube had filed a patent application EP-1 on #startdate##enddate#. Reading his visitor's mail, he also uncovered a grant decision dated #beginning#0|-6MM|-10DD#enddate#. and noticed that Traube had fulfilled all the requirements, such as paying the grant fee. The notice of publication of the European patent EP-1 was then published on #beginning#0#enddate#. 't Hoff is jealous of Traube and has decided to file an opposition. Which event therefore triggers the start of the opposition period?",
-                    "text_fr": "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# utilise des membranes semi-perméables de #linkwiki#Moritz_Traube|Moritz Traube#endlink# pour des expériences sur la pression osmotique. Lors d'une visite chez Traube, 't Hoff découvre que Traube a déposé une demande de brevet EP-1 le #startdate##enddate#. En lisant le courrier de son visiteur, il a également découvert une décision de subvention datée du #beginning#0|-6MM|-10DD#enddate#. et a constaté que Traube avait rempli toutes les conditions, comme le paiement de la taxe de subvention. L'avis de publication du brevet européen EP-1 a ensuite été publié le #beginning#0#enddate#. 't Hoff est jaloux de Traube et a décidé de former une opposition. Quel événement déclenche donc le début du délai d'opposition ?"
+                    "startdate": "beginning[0]|MO|-36MM",
+                    "text_de": "#linkwiki#Jacobus_Henricus_van_’t_Hoff|Jacobus Henricus van ’t Hoff#endlink# verwendet für Versuche über den osmotischen Druck semipermeable Membranen von #linkwiki#Moritz_Traube|Moritz Traube#endlink#. ’t Hoff hat bei einem Besuch Traubes herausgefunden, dass Traube am #date#2#enddate# eine Patentanmeldung EP-1 eingereicht hat. Beim Lesen der Post seines Besuchers fand er einen Erteilungsbeschluss vom #date#3#enddate#. Auch hat er mitbekommen, dass Traube alle Anforderungen wie bspw. die Bezahlung der Erteilungsgebühr erfüllt hat. Der Hinweis auf die Veröffentlichung des europäischen Patentes EP-1 wurde daraufhin am #date#0#enddate# veröffentlicht. ’t Hoff möchte Traube einen Streich spielen und ihn durch das Einlegen eines Einspruchs ärgern. Welches Ereignis löste den Beginn der Einspruchsfrist aus?",
+                    "text_en": "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# uses semipermeable membranes from #linkwiki#Moritz_Traube|Moritz Traube#endlink# for experiments on osmotic pressure. while visiting Traube, 't Hoff found that Traube had filed a patent application EP-1 on #date#2#enddate#. Reading his visitor's mail, he also uncovered a grant decision dated #date#3#enddate#. and noticed that Traube had fulfilled all the requirements, such as paying the grant fee. The notice of publication of the European patent EP-1 was then published on #date#0#enddate#. 't Hoff is jealous of Traube and has decided to file an opposition. Which event therefore triggers the start of the opposition period?",
+                    "text_fr": "#linkwiki#Jacobus_Henricus_van_'t_Hoff|Jacobus Henricus van 't Hoff#endlink# utilise des membranes semi-perméables de #linkwiki#Moritz_Traube|Moritz Traube#endlink# pour des expériences sur la pression osmotique. Lors d'une visite chez Traube, 't Hoff découvre que Traube a déposé une demande de brevet EP-1 le #date#2#enddate#. En lisant le courrier de son visiteur, il a également découvert une décision de subvention datée du #date#3#enddate#. et a constaté que Traube avait rempli toutes les conditions, comme le paiement de la taxe de subvention. L'avis de publication du brevet européen EP-1 a ensuite été publié le #date#0#enddate#. 't Hoff est jaloux de Traube et a décidé de former une opposition. Quel événement déclenche donc le début du délai d'opposition ?"
                 },
                 {
                     "answers_false": [
@@ -6611,26 +6614,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Am #deadline#0|-2MM#enddate#.",
-                            "text_en": "On #deadline#0|-2MM#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-2MM#enddate#."
+                            "text_de": "Am #date#4#enddate#.",
+                            "text_en": "On #date#4#enddate#.",
+                            "text_fr": "Le jour de la #date#4#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|-1MM#enddate#.",
-                            "text_en": "On #deadline#0|-1MM#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-1MM#enddate#."
+                            "text_de": "Am #date#3#enddate#.",
+                            "text_en": "On #date#3#enddate#.",
+                            "text_fr": "Le jour de la #date#3#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|+1MM#enddate#.",
-                            "text_en": "On #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|+1MM#enddate#."
+                            "text_de": "Am #date#2#enddate#.",
+                            "text_en": "On #date#2#enddate#.",
+                            "text_fr": "Le jour de la #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #deadline#0#enddate#.",
-                            "text_en": "On #deadline#0#enddate#.",
-                            "text_fr": "Le #deadline#0#enddate#."
+                            "text_de": "Am #date#1#enddate#.",
+                            "text_en": "On #date#1#enddate#.",
+                            "text_fr": "Le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -6638,7 +6641,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+1MM",
+                        "deadline[0]|-1MM",
+                        "deadline[0]|-2MM"
                     ],
                     "deadline": [
                         "+9MM"
@@ -6651,9 +6657,9 @@
                     "id_old": 84,
                     "normen": "Artikel 99 TM Frist",
                     "startdate": "MO|-6MM|+12DD",
-                    "text_de": "#linkwiki#Emil_Fischer|Emil Fischer#endlink# hat ein Verfahren zur Erzeugung von Zucker gefunden. Zu seinem Leidwesen recherchiert er ein Patent EP-1, dessen Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt am #beginning#0#enddate# erfolgte. Das von ihm angestrebte Verfahren fällt in den Schutzbereich von EP-1, weswegen er gerne Einspruch gegen EP-1 einlegen möchte. Wann endet die Einspruchsfrist? ",
-                    "text_en": "#linkwiki#Emil_Fischer|Emil Fischer#endlink# has found a process for producing sugar. To his chagrin, he researches a patent EP-1, whose publication of the reference to the grant of the European patent in the European Patent Bulletin took place on #beginning#0#enddate#. The process he is seeking falls within the scope of protection of EP-1, which is why he would like to file an opposition against EP-1. When does the opposition period end?",
-                    "text_fr": "#linkwiki#Emil_Fischer|Emil Fischer#endlink# a trouvé un procédé pour produire du sucre. À son grand dam, il fait des recherches sur un brevet EP-1, dont la publication de la référence à la délivrance du brevet européen dans le Bulletin européen des brevets a eu lieu le #beginning#0#enddate#. Le procédé qu'il recherche entre dans le champ de protection de EP-1, c'est pourquoi il souhaite former une opposition contre EP-1. Quand le délai d'opposition prend-il fin ?"
+                    "text_de": "#linkwiki#Emil_Fischer|Emil Fischer#endlink# hat ein Verfahren zur Erzeugung von Zucker gefunden. Zu seinem Leidwesen recherchiert er ein Patent EP-1, dessen Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt am #date#0#enddate# erfolgte. Das von ihm angestrebte Verfahren fällt in den Schutzbereich von EP-1, weswegen er gerne Einspruch gegen EP-1 einlegen möchte. Wann endet die Einspruchsfrist? ",
+                    "text_en": "#linkwiki#Emil_Fischer|Emil Fischer#endlink# has found a process for producing sugar. To his chagrin, he researches a patent EP-1, whose publication of the reference to the grant of the European patent in the European Patent Bulletin took place on #date#0#enddate#. The process he is seeking falls within the scope of protection of EP-1, which is why he would like to file an opposition against EP-1. When does the opposition period end?",
+                    "text_fr": "#linkwiki#Emil_Fischer|Emil Fischer#endlink# a trouvé un procédé pour produire du sucre. À son grand dam, il fait des recherches sur un brevet EP-1, dont la publication de la référence à la délivrance du brevet européen dans le Bulletin européen des brevets a eu lieu le #date#0#enddate#. Le procédé qu'il recherche entre dans le champ de protection de EP-1, c'est pourquoi il souhaite former une opposition contre EP-1. Quand le délai d'opposition prend-il fin ?"
                 },
                 {
                     "answers_false": [
@@ -6792,9 +6798,9 @@
                     "id_old": 86,
                     "normen": "Artikel 99 TM Gebühr",
                     "startdate": "",
-                    "text_de": "#linkwiki#William_Ramsay|William Ramsay#endlink# leitet die Produktion einer Firma, die Gase erzeugt. V.a. die Edelgase Helium und Argon werden in Flaschen abgefüllt und verkauft. Er entdeckt ein Patent EP-1, das seinen Arbeitgeber stört. Er will deswegen Einspruch einlegen. Die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt erfolgte am #beginning#0#enddate#. Ramsay hat bereits einen Einspruchsschriftsatz fristgerecht eingereicht. Heute, am #deadline#0#enddate#, bespricht er mit seiner Anwältin den Fall und erwähnt, dass er die Einspruchsgebühr noch nicht bezahlt hat und er dies nächste Woche nachholen möchte. Was wird die Anwältin antworten?",
-                    "text_en": "#linkwiki#William_Ramsay|William Ramsay#endlink# manages the production of a company that produces gases. It is here that the noble gases helium and argon are bottled and sold. He discovers a patent EP-1 which disturbs his employer. He wants to file an opposition because of it. The notice of the grant of the European patent was published in the European Patent Bulletin on #beginning#0#enddate#. Ramsay has already filed a notice of opposition in due time. Today, on #deadline#0#enddate#, he discusses the case with his attorney and mentions that he has not yet paid the opposition fee and would like to do by next week. What will the lawyer reply?",
-                    "text_fr": "#linkwiki#William_Ramsay|William Ramsay#endlink# gère la production d'une entreprise qui produit des gaz. C'est là que sont mis en bouteille et vendus les gaz nobles que sont l'hélium et l'argon. Il découvre un brevet EP-1 qui dérange son employeur. Il veut faire une opposition à cause de cela. L'avis de délivrance du brevet européen a été publié dans le Bulletin européen des brevets le #beginning#0#enddate#. Ramsay a déjà déposé un avis d'opposition en temps voulu. Aujourd'hui, le #deadline#0#enddate#, il discute de l'affaire avec son avocat et mentionne qu'il n'a pas encore payé la taxe d'opposition et qu'il aimerait le faire d'ici la semaine prochaine. Que répondra l'avocat ?"
+                    "text_de": "#linkwiki#William_Ramsay|William Ramsay#endlink# leitet die Produktion einer Firma, die Gase erzeugt. V.a. die Edelgase Helium und Argon werden in Flaschen abgefüllt und verkauft. Er entdeckt ein Patent EP-1, das seinen Arbeitgeber stört. Er will deswegen Einspruch einlegen. Die Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt erfolgte am #date#0#enddate#. Ramsay hat bereits einen Einspruchsschriftsatz fristgerecht eingereicht. Heute, am #date#1#enddate#, bespricht er mit seiner Anwältin den Fall und erwähnt, dass er die Einspruchsgebühr noch nicht bezahlt hat und er dies nächste Woche nachholen möchte. Was wird die Anwältin antworten?",
+                    "text_en": "#linkwiki#William_Ramsay|William Ramsay#endlink# manages the production of a company that produces gases. It is here that the noble gases helium and argon are bottled and sold. He discovers a patent EP-1 which disturbs his employer. He wants to file an opposition because of it. The notice of the grant of the European patent was published in the European Patent Bulletin on #date#0#enddate#. Ramsay has already filed a notice of opposition in due time. Today, on #date#1#enddate#, he discusses the case with his attorney and mentions that he has not yet paid the opposition fee and would like to do by next week. What will the lawyer reply?",
+                    "text_fr": "#linkwiki#William_Ramsay|William Ramsay#endlink# gère la production d'une entreprise qui produit des gaz. C'est là que sont mis en bouteille et vendus les gaz nobles que sont l'hélium et l'argon. Il découvre un brevet EP-1 qui dérange son employeur. Il veut faire une opposition à cause de cela. L'avis de délivrance du brevet européen a été publié dans le Bulletin européen des brevets le #date#0#enddate#. Ramsay a déjà déposé un avis d'opposition en temps voulu. Aujourd'hui, le #date#1#enddate#, il discute de l'affaire avec son avocat et mentionne qu'il n'a pas encore payé la taxe d'opposition et qu'il aimerait le faire d'ici la semaine prochaine. Que répondra l'avocat?"
                 },
                 {
                     "answers_false": [
@@ -8054,7 +8060,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+2MM"
@@ -8067,9 +8074,9 @@
                     "id_old": 113,
                     "normen": "Regel 89 Beitrittsfrist",
                     "startdate": "MO|-2MM",
-                    "text_de": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# ist von #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# aus dem europäischen Patent EP-1 wegen der Verwendung einer zellfreien Hefelösung am #startdate##enddate# verklagt worden. Er erkundigt sich und findet heraus, dass die Einspruchsfrist abgelaufen ist. Auch findet er heraus, dass #linkwiki#William_John_Young|William John Young#endlink# bereits Einspruch gegen EP-1 eingelegt hat. Was kann er unternehmen, um seine Aussichten bei der Verletzungsklage zu verbessern?",
-                    "text_en": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# has been sued by #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# out of European patent EP-1 for using a cell-free yeast solution on #startdate##enddate#. He inquires and finds out that the opposition period has already expired. He also finds out that #linkwiki#William_John_Young|William John Young#endlink# has filed an objection to EP-1. What can he do to improve his prospects in the infringement suit?",
-                    "text_fr": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# a été poursuivi par #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# en vertu du brevet européen EP-1 pour avoir utilisé une solution de levure sans cellules le #startdate##enddate#. Il se renseigne et découvre que le délai d'opposition a déjà expiré. Il découvre également que #linkwiki#William_John_Young|William John Young#endlink# a déposé une objection à EP-1. Que peut-il faire pour améliorer ses chances dans le procès en contrefaçon ?"
+                    "text_de": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# ist von #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# aus dem europäischen Patent EP-1 wegen der Verwendung einer zellfreien Hefelösung am #date#2#enddate# verklagt worden. Er erkundigt sich und findet heraus, dass die Einspruchsfrist abgelaufen ist. Auch findet er heraus, dass #linkwiki#William_John_Young|William John Young#endlink# bereits Einspruch gegen EP-1 eingelegt hat. Was kann er unternehmen, um seine Aussichten bei der Verletzungsklage zu verbessern?",
+                    "text_en": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# has been sued by #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# out of European patent EP-1 for using a cell-free yeast solution on #date#2#enddate#. He inquires and finds out that the opposition period has already expired. He also finds out that #linkwiki#William_John_Young|William John Young#endlink# has filed an objection to EP-1. What can he do to improve his prospects in the infringement suit?",
+                    "text_fr": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# a été poursuivi par #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# en vertu du brevet européen EP-1 pour avoir utilisé une solution de levure sans cellules le #date#2#enddate#. Il se renseigne et découvre que le délai d'opposition a déjà expiré. Il découvre également que #linkwiki#William_John_Young|William John Young#endlink# a déposé une objection à EP-1. Que peut-il faire pour améliorer ses chances dans le procès en contrefaçon ?"
                 },
                 {
                     "answers_false": [
@@ -8148,7 +8155,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+2MM"
@@ -8161,9 +8169,9 @@
                     "id_old": 116,
                     "normen": "Regel 88 und Artikel 99 Beitrittsfrist, Einspruchsfrist",
                     "startdate": "MO|-10MM",
-                    "text_de": "#linkwiki#Hans_von_Euler-Chelpin|Hans von Euler-Chelpin#endlink# ist am #beginning#0#enddate# aus dem europäischen Patent EP-1 verklagt worden. Er erkundigt sich und findet heraus, dass die Bekanntmachung des Hinweises auf die Erteilung von EP-1 am #startdate##enddate# erfolgte. Auch fand er heraus, dass #linkwiki#Sven_Stolpe|Sven Stolpe#endlink# bereits Einspruch gegen EP-1 eingelegt hat. Er ist daher erst zu einer Weltreise aufgebrochen, die er sehr genossen hat. Jetzt ist er zurück und möchte von Ihnen wissen, welche Möglichkeiten er hat, gegen EP-1 vorzugehen.",
-                    "text_en": "#linkwiki#Hans_von_Euler-Chelpin|Hans von Euler-Chelpin#endlink# has been sued for European patent EP-1on #beginning#0#enddate#. He inquires and finds that the notice of grant of EP-1 was published on #startdate##enddate#. He also found out that #linkwiki#Sven_Stolpe|Sven Stolpe#endlink# has already appealed EP-1. Meanwhile, he has been on a world trip, which he enjoyed very much. Now that he has returned from his trip, he would like to know from you what possibilities he has to take action against EP-1.",
-                    "text_fr": "#linkwiki#Hans_von_Euler-Chelpin|Hans von Euler-Chelpin#endlink# a été poursuivi pour le brevet européen EP-1 le #beginning#0#enddate#. Il se renseigne et découvre que l'avis de délivrance du EP-1 a été publié le #startdate##enddate#. Il découvre également que #linkwiki#Sven_Stolpe|Sven Stolpe#endlink# a déjà fait appel de EP-1. Entre-temps, il a fait un tour du monde, qu'il a beaucoup apprécié. Maintenant qu'il est rentré de son voyage, il aimerait que vous lui disiez quelles sont ses possibilités d'action contre EP-1."
+                    "text_de": "#linkwiki#Hans_von_Euler-Chelpin|Hans von Euler-Chelpin#endlink# ist am #date#0#enddate# aus dem europäischen Patent EP-1 verklagt worden. Er erkundigt sich und findet heraus, dass die Bekanntmachung des Hinweises auf die Erteilung von EP-1 am #date#2#enddate# erfolgte. Auch fand er heraus, dass #linkwiki#Sven_Stolpe|Sven Stolpe#endlink# bereits Einspruch gegen EP-1 eingelegt hat. Er ist daher erst zu einer Weltreise aufgebrochen, die er sehr genossen hat. Jetzt ist er zurück und möchte von Ihnen wissen, welche Möglichkeiten er hat, gegen EP-1 vorzugehen.",
+                    "text_en": "#linkwiki#Hans_von_Euler-Chelpin|Hans von Euler-Chelpin#endlink# has been sued for European patent EP-1on #date#0#enddate#. He inquires and finds that the notice of grant of EP-1 was published on #date#2#enddate#. He also found out that #linkwiki#Sven_Stolpe|Sven Stolpe#endlink# has already appealed EP-1. Meanwhile, he has been on a world trip, which he enjoyed very much. Now that he has returned from his trip, he would like to know from you what possibilities he has to take action against EP-1.",
+                    "text_fr": "#linkwiki#Hans_von_Euler-Chelpin|Hans von Euler-Chelpin#endlink# a été poursuivi pour le brevet européen EP-1 le #date#0#enddate#. Il se renseigne et découvre que l'avis de délivrance du EP-1 a été publié le #date#2#enddate#. Il découvre également que #linkwiki#Sven_Stolpe|Sven Stolpe#endlink# a déjà fait appel de EP-1. Entre-temps, il a fait un tour du monde, qu'il a beaucoup apprécié. Maintenant qu'il est rentré de son voyage, il aimerait que vous lui disiez quelles sont ses possibilités d'action contre EP-1."
                 },
                 {
                     "answers_false": [
@@ -8180,9 +8188,9 @@
                             "text_fr": "L'acte d'opposition a été déposé dans le délai d'opposition."
                         },
                         {
-                            "text_de": "Falls die Einspruchsgebühr nicht bis #deadline#0#enddate# bezahlt wurde gilt der Einspruch als nicht eingelegt. ",
-                            "text_en": "If the appeal fee has not been paid by #deadline#0#enddate#, the appeal will be considered not filed.",
-                            "text_fr": "Si la taxe d'appel n'a pas été payée avant la date limite #0#enddate#, l'appel sera considéré comme non déposé."
+                            "text_de": "Falls die Einspruchsgebühr nicht bis #date#1#enddate# bezahlt wurde gilt der Einspruch als nicht eingelegt. ",
+                            "text_en": "If the appeal fee has not been paid by #date#1#enddate#, the appeal will be considered not filed.",
+                            "text_fr": "Si la taxe d'appel n'a pas été payée avant le #date#1#enddate#, l'appel sera considéré comme non déposé."
                         },
                         {
                             "text_de": "Wird die Patentinhaberin in der Einspruchsschrit nicht genannt kann dieser Mangel durch nachträgliche Nennung behoben werden.",
@@ -8195,22 +8203,23 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-2DD"
                     ],
                     "deadline": [
                         "+9MM"
                     ],
                     "difficulty": "2",
-                    "explanation_de": "Die Einspruchsfrist endet am #deadline#0#enddate#, der Einspruch ist daher fristgerecht eingereicht. In dieser Frist muss auch die Einspruchsgebühr bezahlt sein und der Einspruch substantiiert begründet sein. Die Nennung der Patentinhaberin kann normalerweise nachgeholt werden, da sich aus den restlichen Angaben die Inhaberin ermitteln lässt.",
-                    "explanation_en": "The objection period ends on #deadline#0#enddate#. The objection is therefore filed in due time. The opposition fee must also be paid within this period and must be substantiated. The naming of the patent proprietor can normally be made up for, since the proprietor can be determined from the remaining information.",
-                    "explanation_fr": "La période d'objection se termine le #deadline#0#enddate#. L'opposition est donc déposée en temps utile. La taxe d'opposition doit également être payée dans ce délai et doit être justifiée. La désignation du titulaire du brevet peut normalement être compensée, puisque le titulaire peut être déterminé à partir des informations restantes.",
+                    "explanation_de": "Die Einspruchsfrist endet am #date#1#enddate#, der Einspruch ist daher fristgerecht eingereicht. In dieser Frist muss auch die Einspruchsgebühr bezahlt sein und der Einspruch substantiiert begründet sein. Die Nennung der Patentinhaberin kann normalerweise nachgeholt werden, da sich aus den restlichen Angaben die Inhaberin ermitteln lässt.",
+                    "explanation_en": "The objection period ends on #date#1#enddate#. The objection is therefore filed in due time. The opposition fee must also be paid within this period and must be substantiated. The naming of the patent proprietor can normally be made up for, since the proprietor can be determined from the remaining information.",
+                    "explanation_fr": "La période d'objection se termine le #date#1#enddate#. L'opposition est donc déposée en temps utile. La taxe d'opposition doit également être payée dans ce délai et doit être justifiée. La désignation du titulaire du brevet peut normalement être compensée, puisque le titulaire peut être déterminé à partir des informations restantes.",
                     "id": 163,
                     "id_old": 117,
                     "normen": "todo",
                     "startdate": "",
-                    "text_de": "Der Hinweis auf die Veröffentlichung des europäischen Patentes EP-1 wurde am #beginning#0#enddate# veröffentlicht. Am #deadline#0|-2DD#enddate# hat #linkwiki#Hans_Fischer_(Chemiker)|Hans Fischer#endlink# eine Einspruchsschrift gegen EP-1 eingereicht. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "The notice of publication of European patent EP-1 was published on #beginning#0#enddate#. On #deadline#0|-2DD#enddate# #linkwiki#Hans_Fischer_(chemist)|Hans Fischer#endlink# filed a notice of opposition to EP-1. Which of the following statements is true?",
-                    "text_fr": "L'avis de publication du brevet européen EP-1 a été publié le #beginning#0#enddate#. Le #deadline#0|-2DD#enddate# #linkwiki#Hans_Fischer_(chimiste)|Hans Fischer#endlink# a déposé un avis d'opposition à EP-1. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "Der Hinweis auf die Veröffentlichung des europäischen Patentes EP-1 wurde am #date#0#enddate# veröffentlicht. Am #date#2#enddate# hat #linkwiki#Hans_Fischer_(Chemiker)|Hans Fischer#endlink# eine Einspruchsschrift gegen EP-1 eingereicht. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "The notice of publication of European patent EP-1 was published on #date#0#enddate#. On #date#2#enddate# #linkwiki#Hans_Fischer_(chemist)|Hans Fischer#endlink# filed a notice of opposition to EP-1. Which of the following statements is true?",
+                    "text_fr": "L'avis de publication du brevet européen EP-1 a été publié le #date#0#enddate#. Le #date#2#enddate# #linkwiki#Hans_Fischer_(chimiste)|Hans Fischer#endlink# a déposé un avis d'opposition à EP-1. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -8302,16 +8311,16 @@
                     "id_old": 119,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "Gegen das europäische Patent EP-1 betreffend eine Hochvakuumglühlampe wurde von #linkwiki#Irving_Langmuir|Irving Langmuir#endlink# wirksam Einspruch eingelegt. Langmuir begründete den Einspruch ausschließlich mit unzulässiger Erweiterung (Artikel 100 (c) EPÜ). Das Einspruchsverfahren ist anhängig. Heute, am #startdate##enddate#, erhält das EPA Einwendungen eines Dritten gegen EP-1. In den Einwendungen wird die Neuheit und die ausreichende Offenbarung von Anspruch 1 von EP-1 angegriffen. Was wird die Einspruchsabteilung unternehmen?",
-                    "text_en": "The European patent EP-1 concerning a high vacuum incandescent lamp was effectively opposed by #linkwiki#Irving_Langmuir|Irving Langmuir#endlink#. Langmuir based the opposition solely on inadmissible broadening (Article 100(c) EPC). The opposition proceedings are pending. Today, on #startdate##enddate#, the EPO receives objections to EP-1 from a third party. The objections challenge the novelty and sufficiency of disclosure of claim 1 of EP-1. What will the opposition division do?",
-                    "text_fr": "Le brevet européen EP-1 concernant une lampe à incandescence à vide poussé a fait l'objet d'une opposition effective par #linkwiki#Irving_Langmuir|Irving Langmuir#endlink#. Langmuir a fondé son opposition uniquement sur un élargissement inadmissible (article 100(c) CBE). La procédure d'opposition est en cours. Aujourd'hui, le #startdate##enddate#, l'OEB reçoit des objections à EP-1 de la part d'un tiers. Les objections contestent la nouveauté et la suffisance de la divulgation de la revendication 1 de EP-1. Que va faire la division d'opposition ?"
+                    "text_de": "Gegen das europäische Patent EP-1 betreffend eine Hochvakuumglühlampe wurde von #linkwiki#Irving_Langmuir|Irving Langmuir#endlink# wirksam Einspruch eingelegt. Langmuir begründete den Einspruch ausschließlich mit unzulässiger Erweiterung (Artikel 100 (c) EPÜ). Das Einspruchsverfahren ist anhängig. Heute, am #date#2#enddate#, erhält das EPA Einwendungen eines Dritten gegen EP-1. In den Einwendungen wird die Neuheit und die ausreichende Offenbarung von Anspruch 1 von EP-1 angegriffen. Was wird die Einspruchsabteilung unternehmen?",
+                    "text_en": "The European patent EP-1 concerning a high vacuum incandescent lamp was effectively opposed by #linkwiki#Irving_Langmuir|Irving Langmuir#endlink#. Langmuir based the opposition solely on inadmissible broadening (Article 100(c) EPC). The opposition proceedings are pending. Today, on #date#2#enddate#, the EPO receives objections to EP-1 from a third party. The objections challenge the novelty and sufficiency of disclosure of claim 1 of EP-1. What will the opposition division do?",
+                    "text_fr": "Le brevet européen EP-1 concernant une lampe à incandescence à vide poussé a fait l'objet d'une opposition effective par #linkwiki#Irving_Langmuir|Irving Langmuir#endlink#. Langmuir a fondé son opposition uniquement sur un élargissement inadmissible (article 100(c) CBE). La procédure d'opposition est en cours. Aujourd'hui, le #date#2#enddate#, l'OEB reçoit des objections à EP-1 de la part d'un tiers. Les objections contestent la nouveauté et la suffisance de la divulgation de la revendication 1 de EP-1. Que va faire la division d'opposition ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Ružička muss die Übersetzung der Einspruchsschrift bis spätestens #beginning#0|+6MM|+4DD#enddate# einreichen.",
-                            "text_en": "Ružička must submit the translation of the notice of opposition by #beginning#0|+6MM|+4DD#enddate# at the latest.",
-                            "text_fr": "M. Ružička doit soumettre la traduction de l'acte d'opposition au plus tard le #beginning#0|+6MM|+4DD#enddate#."
+                            "text_de": "Ružička muss die Übersetzung der Einspruchsschrift bis spätestens #date#3#enddate# einreichen.",
+                            "text_en": "Ružička must submit the translation of the notice of opposition by #date#3#enddate# at the latest.",
+                            "text_fr": "M. Ružička doit soumettre la traduction de l'acte d'opposition au plus tard le #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
@@ -8336,7 +8345,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+5MM|+4DD",
+                        "beginning[0]|+6MM|+4DD"
                     ],
                     "deadline": [
                         "+9MM"
@@ -8349,9 +8360,9 @@
                     "id_old": 120,
                     "normen": "Regel 6 (3) und (4) EPÜ, Regel 4 (1) EPÜ, Artikel 14 (4) EPÜ, Regel 6 (2) EPÜ",
                     "startdate": "MO",
-                    "text_de": "Am #beginning#0#enddate# wurde der Hinweis auf die Erteilung des europäischen Patentes EP-1 veröffentlicht. #linkwiki#Leopold_Ružička|Leopold Ružička#endlink# hat gegen das Patent EP-1 am #beginning#0|+5MM|+4DD#enddate# Einspruch auf kroatisch eingelegt. Die Verfahrenssprache ist englisch. Welche der folgenden Aussagen stimmt?",
-                    "text_en": "On #beginning#0#enddate# the notice of grant of European patent EP-1 was published. #linkwiki#Leopold_Ružička|Leopold Ružička#endlink# filed opposition to patent EP-1 on #beginning#0|+5MM|+4DD#enddate# in Croatian. The language of the proceedings is in English. Which of the following statements is true?",
-                    "text_fr": "Le #beginning#0#enddate# l'avis de délivrance du brevet européen EP-1 a été publié. #linkwiki#Leopold_Ružička|Leopold Ružička#endlink# a formé une opposition au brevet EP-1 le #beginning#0|+5MM|+4DD#enddate# en croate. La langue de la procédure est l'anglais. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "Am #date#0#enddate# wurde der Hinweis auf die Erteilung des europäischen Patentes EP-1 veröffentlicht. #linkwiki#Leopold_Ružička|Leopold Ružička#endlink# hat gegen das Patent EP-1 am #date#2#enddate# Einspruch auf kroatisch eingelegt. Die Verfahrenssprache ist englisch. Welche der folgenden Aussagen stimmt?",
+                    "text_en": "On #date#0#enddate# the notice of grant of European patent EP-1 was published. #linkwiki#Leopold_Ružička|Leopold Ružička#endlink# filed opposition to patent EP-1 on ##date#2#enddate# in Croatian. The language of the proceedings is in English. Which of the following statements is true?",
+                    "text_fr": "Le #date#0#enddate# l'avis de délivrance du brevet européen EP-1 a été publié. #linkwiki#Leopold_Ružička|Leopold Ružička#endlink# a formé une opposition au brevet EP-1 le #date#2#enddate# en croate. La langue de la procédure est l'anglais. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -8368,9 +8379,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Der Einspruch muss spätestens am #deadline#0#enddate# eingelegt werden.",
-                            "text_en": "The appeal must be filed no later than #deadline#0#enddate#.",
-                            "text_fr": "L'appel doit être déposé au plus tard le #deadline#0#enddate#."
+                            "text_de": "Der Einspruch muss spätestens am #date#1#enddate# eingelegt werden.",
+                            "text_en": "The appeal must be filed no later than #date#1#enddate#.",
+                            "text_fr": "L'appel doit être déposé au plus tard le #date#1#enddate#."
                         },
                         {
                             "text_de": "Von EP-2 muss keine Übersetzung eingereicht werden.",
@@ -8396,9 +8407,9 @@
                     "id_old": 121,
                     "normen": "",
                     "startdate": "",
-                    "text_de": "Der Hinweis auf die Erteilung des europäischen Patentes EP-1 wurde am #beginning#0#enddate# veröffentlicht. #linkwiki#George_de_Hevesy|George de Hevesy#endlink#, ungarischer Staatsbürger mit Wohnsitz in Großbritannien, möchte Einspruch gegen das Patent EP-1 einlegen. Verfahrenssprache von EP-1 ist englisch. Bei diesem Einspruch soll EP-2 als Stand der Technik verwendet werden. EP-2 ist in Deutsch veröffentlicht. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "The notice of grant of European patent EP-1 was published on #beginning#0#enddate#. #linkwiki#George_de_Hevesy|George de Hevesy#endlink#, a Hungarian citizen residing in the UK, wishes to oppose patent EP-1. The language of proceedings of EP-1 will be in English. EP-2 is to be used as prior art in this opposition. EP-2 has been published in German. Which of the following statements is correct?",
-                    "text_fr": "L'avis de délivrance du brevet européen EP-1 a été publié le #beginning#0#enddate#. #linkwiki#George_de_Hevesy|George de Hevesy#endlink#, un citoyen hongrois résidant au Royaume-Uni, souhaite faire opposition au brevet EP-1. La langue de procédure de EP-1 sera l'anglais. EP-2 doit être utilisé comme art antérieur dans cette opposition. EP-2 a été publié en allemand. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "Der Hinweis auf die Erteilung des europäischen Patentes EP-1 wurde am #date#0#enddate# veröffentlicht. #linkwiki#George_de_Hevesy|George de Hevesy#endlink#, ungarischer Staatsbürger mit Wohnsitz in Großbritannien, möchte Einspruch gegen das Patent EP-1 einlegen. Verfahrenssprache von EP-1 ist englisch. Bei diesem Einspruch soll EP-2 als Stand der Technik verwendet werden. EP-2 ist in Deutsch veröffentlicht. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "The notice of grant of European patent EP-1 was published on #date#0#enddate#. #linkwiki#George_de_Hevesy|George de Hevesy#endlink#, a Hungarian citizen residing in the UK, wishes to oppose patent EP-1. The language of proceedings of EP-1 will be in English. EP-2 is to be used as prior art in this opposition. EP-2 has been published in German. Which of the following statements is correct?",
+                    "text_fr": "L'avis de délivrance du brevet européen EP-1 a été publié le #date#0#enddate#. #linkwiki#George_de_Hevesy|George de Hevesy#endlink#, un citoyen hongrois résidant au Royaume-Uni, souhaite faire opposition au brevet EP-1. La langue de procédure de EP-1 sera l'anglais. EP-2 doit être utilisé comme art antérieur dans cette opposition. EP-2 a été publié en allemand. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -8430,7 +8441,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+2MM|+3DD"
                     ],
                     "deadline": [
                         "+9MM"
@@ -8443,33 +8455,33 @@
                     "id_old": 122,
                     "normen": "Artikel 107 EPÜ, Artikel 99 (1) EPÜ und G 9/93, G 3/97",
                     "startdate": "MO",
-                    "text_de": "Der Hinweis auf die Erteilung des europäischen Patentes EP-1 wurde am #beginning#0#enddate# veröffentlicht. Patentinhaberin ist die Firma Gutglauben, als Erfinder ist #linkwiki#Harold_C._Urey|Harold C. Urey#endlink# genannt. Urey hat Gutglauben am #beginning#0|+2MM|+3DD#enddate# im Streit verlassen. Urey hat seinen Wohnsitz in Großbritannien. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "The reference to the grant of the European patent EP-1 was published on #beginning#0#enddate#. The patent holder is a company named Gutglauben, and #linkwiki#Harold_C._Urey|Harold C. Urey#endlink# is named as the inventor. Urey left Gutglauben on #beginning#0|+2MM|+3DD#enddate# in dispute. Urey is a resident of the United Kingdom. Which of the following statements is true?",
-                    "text_fr": "La référence à la délivrance du brevet européen EP-1 a été publiée le #beginning#0#enddate#. Le titulaire du brevet est une société nommée Gutglauben, et #linkwiki#Harold_C._Urey|Harold C. Urey#endlink# est nommé comme inventeur. Urey a quitté Gutglauben le #beginning#0|+2MM|+3DD#enddate# en litige. Urey est un résident du Royaume-Uni. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "Der Hinweis auf die Erteilung des europäischen Patentes EP-1 wurde am #date#0#enddate# veröffentlicht. Patentinhaberin ist die Firma Gutglauben, als Erfinder ist #linkwiki#Harold_C._Urey|Harold C. Urey#endlink# genannt. Urey hat Gutglauben am #date#2#enddate# im Streit verlassen. Urey hat seinen Wohnsitz in Großbritannien. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "The reference to the grant of the European patent EP-1 was published on #date#0#enddate#. The patent holder is a company named Gutglauben, and #linkwiki#Harold_C._Urey|Harold C. Urey#endlink# is named as the inventor. Urey left Gutglauben on #date#2#enddate# in dispute. Urey is a resident of the United Kingdom. Which of the following statements is true?",
+                    "text_fr": "La référence à la délivrance du brevet européen EP-1 a été publiée le #date#0#enddate#. Le titulaire du brevet est une société nommée Gutglauben, et #linkwiki#Harold_C._Urey|Harold C. Urey#endlink# est nommé comme inventeur. Urey a quitté Gutglauben le #date#2#enddate# en litige. Urey est un résident du Royaume-Uni. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Einspruchsfrist ist leider bereits am #deadline#0|-7MM#enddate# abgelaufen, Kowarski kann daher keinen Einspruch mehr einlegen.",
-                            "text_en": "Unfortunately, the appeal period has already expired on #deadline#0|-7MM#enddate#, so Kowarski can no longer file an appeal.",
-                            "text_fr": "Malheureusement, la période d'appel a déjà expiré le #deadline#0|-7MM#enddate#, donc Kowarski ne peut plus déposer d'appel."
+                            "text_de": "Die Einspruchsfrist ist leider bereits am #date#6#enddate# abgelaufen, Kowarski kann daher keinen Einspruch mehr einlegen.",
+                            "text_en": "Unfortunately, the appeal period has already expired on #date#6#enddate#, so Kowarski can no longer file an appeal.",
+                            "text_fr": "Malheureusement, la période d'appel a déjà expiré le #date#6#enddate#, donc Kowarski ne peut plus déposer d'appel."
                         },
                         {
-                            "text_de": "Die Einspruchsfrist ist leider bereits am #deadline#0|-4MM#enddate# abgelaufen, Kowarski kann daher keinen Einspruch mehr einlegen.",
-                            "text_en": "Unfortunately, the deadline for appeals has already expired on #deadline#0|-4MM#enddate#, so Kowarski can no longer file an appeal.",
-                            "text_fr": "Malheureusement, le délai d'appel a déjà expiré le #deadline#0|-4MM#enddate#, donc Kowarski ne peut plus faire appel."
+                            "text_de": "Die Einspruchsfrist ist leider bereits am #date#5#enddate# abgelaufen, Kowarski kann daher keinen Einspruch mehr einlegen.",
+                            "text_en": "Unfortunately, the deadline for appeals has already expired on #date#5#enddate#, so Kowarski can no longer file an appeal.",
+                            "text_fr": "Malheureusement, le délai d'appel a déjà expiré le #date#5#enddate#, donc Kowarski ne peut plus faire appel."
                         },
                         {
-                            "text_de": "Die Einspruchsfrist läuft am #deadline#0|+1MM#enddate# ab, Kowarski kann noch einen Einspruch einlegen.",
-                            "text_en": "The appeal period expires on #deadline#0|+1MM#enddate#, to which Kowarski can still file an appeal.",
-                            "text_fr": "Le délai d'appel expire le #deadline#0|+1MM#enddate#, auquel Kowarski peut encore faire appel."
+                            "text_de": "Die Einspruchsfrist läuft am #date#4#enddate# ab, Kowarski kann noch einen Einspruch einlegen.",
+                            "text_en": "The appeal period expires on #date#4#enddate#, to which Kowarski can still file an appeal.",
+                            "text_fr": "Le délai d'appel expire le #date#4#enddate#, auquel Kowarski peut encore faire appel."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Einspruchsfrist läuft am #deadline#0#enddate# ab, Kowarski kann noch einen Einspruch einlegen.",
-                            "text_en": "The appeal period expires on #deadline#0#enddate#, to which Kowarski can still file an appeal.",
-                            "text_fr": "Le délai d'appel expire à la date #deadline#0#enddate#, à laquelle Kowarski peut encore déposer un appel."
+                            "text_de": "Die Einspruchsfrist läuft am #date#1#enddate# ab, Kowarski kann noch einen Einspruch einlegen.",
+                            "text_en": "The appeal period expires on #date#1#enddate#, to which Kowarski can still file an appeal.",
+                            "text_fr": "Le délai d'appel expire à la date #date#1#enddate#, à laquelle Kowarski peut encore déposer un appel."
                         }
                     ],
                     "beginning": [
@@ -8477,7 +8489,12 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-3YY|-3MM",
+                        "startdate|-1YY|-7MM",
+                        "deadline[0]|+1MM",
+                        "deadline[0]|-4MM",
+                        "deadline[0]|-7MM"
                     ],
                     "deadline": [
                         "+9MM"
@@ -8490,9 +8507,9 @@
                     "id_old": 123,
                     "normen": "",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Frédéric_Joliot-Curie|Frédéric Joliot-Curie#endlink# hat einen Nukliderzeuger verbessert und darauf am #startdate#-3YY|-3MM#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Die Offenlegungsschrift wurde am #startdate#-1YY|-7MM#enddate# veröffentlicht. Der Hinweis auf die Veröffentlichung des Patents erfolgte am #beginning#0#enddate#. #linkwiki#Lew_Kowarski|Lew Kowarski#endlink# hat bereits vor Joliot-Curie Nukliderzeuger entwickelt und möchte gegen das Patent EP-1 einsprechen, um sich diese Möglichkeiten offenzuhalten. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Frédéric_Joliot-Curie|Frédéric Joliot-Curie#endlink# improved a nuclide generator and filed a European patent application EP-1 on it on #startdate#-3YY|-3MM#enddate#. The disclosure document was published on #startdate#-1YY|-7MM#enddate#. The reference to the publication of the patent was made on #beginning#0#enddate#. #linkwiki#Lew_Kowarski|Lew Kowarski#endlink# had been developing nuclide generators before Joliot-Curie and wants to oppose the EP-1 patent to keep those options open. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Frédéric_Joliot-Curie|Frédéric Joliot-Curie#endlink# a amélioré un générateur de nucléides et a déposé une demande de brevet européen EP-1 à ce sujet le #startdate#-3YY|-3MM#enddate#. Le document d'information a été publié le #startdate#-1YY|-7MM#enddate#. La référence à la publication du brevet a été faite le #beginning#0#enddate#. #linkwiki#Lew_Kowarski|Lew Kowarski#endlink# avait développé des générateurs de nucléides avant Joliot-Curie et veut s'opposer au brevet EP-1 pour garder ces options ouvertes. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Frédéric_Joliot-Curie|Frédéric Joliot-Curie#endlink# hat einen Nukliderzeuger verbessert und darauf am #date#2#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Die Offenlegungsschrift wurde am #date#3#enddate# veröffentlicht. Der Hinweis auf die Veröffentlichung des Patents erfolgte am #date#0#enddate#. #linkwiki#Lew_Kowarski|Lew Kowarski#endlink# hat bereits vor Joliot-Curie Nukliderzeuger entwickelt und möchte gegen das Patent EP-1 einsprechen, um sich diese Möglichkeiten offenzuhalten. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Frédéric_Joliot-Curie|Frédéric Joliot-Curie#endlink# improved a nuclide generator and filed a European patent application EP-1 on it on #date#2#enddate#. The disclosure document was published on #date#3#enddate#. The reference to the publication of the patent was made on #date#0#enddate#. #linkwiki#Lew_Kowarski|Lew Kowarski#endlink# had been developing nuclide generators before Joliot-Curie and wants to oppose the EP-1 patent to keep those options open. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Frédéric_Joliot-Curie|Frédéric Joliot-Curie#endlink# a amélioré un générateur de nucléides et a déposé une demande de brevet européen EP-1 à ce sujet le #date#2#enddate#. Le document d'information a été publié le #date#3#enddate#. La référence à la publication du brevet a été faite le #date#0#enddate#. #linkwiki#Lew_Kowarski|Lew Kowarski#endlink# avait développé des générateurs de nucléides avant Joliot-Curie et veut s'opposer au brevet EP-1 pour garder ces options ouvertes. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -8524,7 +8541,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-15MM"
                     ],
                     "deadline": [
                         "+2MM"
@@ -8537,9 +8555,9 @@
                     "id_old": 124,
                     "normen": "Artikel 99, 105",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Carl_David_Anderson|Carl David Anderson#endlink# hat ein Patent EP-1 auf einen Myonenerzeuger, dessen Hinweis auf die Veröffentlichung am #startdate#-15MM#enddate# erfolgte, erteilt erhalten. Mit diesem Patent möchte er gegen seine Widersacherin #linkwiki#Irène_Joliot-Curie|Irène Joliot-Curie#endlink# vorgehen und mahnt diese wegen der Benutzung des durch EP-1 geschützten Gegenstandes ab. Mittels einer Akteneinsicht bringt Joliot-Curie in Erfahrung, dass #linkwiki#Paul_Dirac|Paul Dirac#endlink# bereits fristgerecht Einspruch gegen das Patent EP-1 eingelegt hat. Welche Möglichkeiten hat Joliot-Curie?",
-                    "text_en": "#linkwiki#Carl_David_Anderson|Carl David Anderson#endlink# has been granted a patent EP-1 for a muon generator, the reference of which was published on #startdate#-15MM#enddate#. He wants to use this patent to take action against his opponent #linkwiki#Irène_Joliot-Curie|Irène Joliot-Curie#endlink# and issues a warning against her for using the subject matter protected by EP-1. By means of a file inspection, Joliot-Curie learns that #linkwiki#Paul_Dirac|Paul Dirac#endlink# has already filed an opposition against the patent EP-1 in due time. What are Joliot-Curie's options?",
-                    "text_fr": "#linkwiki#Carl_David_Anderson|Carl David Anderson#endlink# a obtenu un brevet EP-1 pour un générateur de muons, dont la référence a été publiée le #startdate#-15MM#enddate#. Il souhaite utiliser ce brevet pour agir contre son adversaire #linkwiki#Irène_Joliot-Curie|Irène Joliot-Curie#endlink# et émet un avertissement à son encontre pour avoir utilisé l'objet protégé par EP-1. Par le biais d'une inspection des dossiers, Joliot-Curie apprend que #linkwiki#Paul_Dirac|Paul Dirac#endlink# a déjà formé une opposition contre le brevet EP-1 en temps voulu. Quelles sont les options de Joliot-Curie ?"
+                    "text_de": "#linkwiki#Carl_David_Anderson|Carl David Anderson#endlink# hat ein Patent EP-1 auf einen Myonenerzeuger, dessen Hinweis auf die Veröffentlichung am #date#2#enddate# erfolgte, erteilt erhalten. Mit diesem Patent möchte er gegen seine Widersacherin #linkwiki#Irène_Joliot-Curie|Irène Joliot-Curie#endlink# vorgehen und mahnt diese wegen der Benutzung des durch EP-1 geschützten Gegenstandes ab. Mittels einer Akteneinsicht bringt Joliot-Curie in Erfahrung, dass #linkwiki#Paul_Dirac|Paul Dirac#endlink# bereits fristgerecht Einspruch gegen das Patent EP-1 eingelegt hat. Welche Möglichkeiten hat Joliot-Curie?",
+                    "text_en": "#linkwiki#Carl_David_Anderson|Carl David Anderson#endlink# has been granted a patent EP-1 for a muon generator, the reference of which was published on #date#2#enddate#. He wants to use this patent to take action against his opponent #linkwiki#Irène_Joliot-Curie|Irène Joliot-Curie#endlink# and issues a warning against her for using the subject matter protected by EP-1. By means of a file inspection, Joliot-Curie learns that #linkwiki#Paul_Dirac|Paul Dirac#endlink# has already filed an opposition against the patent EP-1 in due time. What are Joliot-Curie's options?",
+                    "text_fr": "#linkwiki#Carl_David_Anderson|Carl David Anderson#endlink# a obtenu un brevet EP-1 pour un générateur de muons, dont la référence a été publiée le #date#2#enddate#. Il souhaite utiliser ce brevet pour agir contre son adversaire #linkwiki#Irène_Joliot-Curie|Irène Joliot-Curie#endlink# et émet un avertissement à son encontre pour avoir utilisé l'objet protégé par EP-1. Par le biais d'une inspection des dossiers, Joliot-Curie apprend que #linkwiki#Paul_Dirac|Paul Dirac#endlink# a déjà formé une opposition contre le brevet EP-1 en temps voulu. Quelles sont les options de Joliot-Curie ?"
                 },
                 {
                     "answers_false": [
@@ -8571,7 +8589,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-15MM"
                     ],
                     "deadline": [
                         "+2MM"
@@ -8584,9 +8603,9 @@
                     "id_old": 125,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Arnold_Sommerfeld|Arnold Sommerfeld#endlink# hat in vielen Ländern Patente erteilt bekommen, unter anderem das Patent EP-1, dessen Hinweis auf die Veröffentlichung am #startdate#-15MM#enddate# erfolgte. Mit diesem Patent möchte Sommerfeld gegen seinen Widersacher #linkwiki#Wilhelm_Müller_(Physiker)|Wilhelm Müller#endlink# vorgehen und schickt diesem wegen der Benutzung des durch EP-1 geschützten Gegenstandes eine Berechtigungsanfrage. Mittels einer Akteneinsicht bringt Müller in Erfahrung, dass  bereits fristgerecht Einspruch gegen das Patent EP-1 eingelegt wurde. Welche Möglichkeiten hat Müller?",
-                    "text_en": "#linkwiki#Arnold_Sommerfeld|Arnold Sommerfeld#endlink# has been granted patents in many countries, among them the patent EP-1, whose reference was published on #startdate#-15MM#enddate#. Sommerfeld wants to use this patent against his opponent #linkwiki#Wilhelm_Müller_(physicist)|Wilhelm Müller#endlink# and sends him an authorization request because of the use of the subject matter protected by EP-1. By means of a file inspection, Müller learns that an opposition against the patent EP-1 has already been filed in due time. What options does Müller have?",
-                    "text_fr": "#linkwiki#Arnold_Sommerfeld|Arnold Sommerfeld#endlink# a obtenu des brevets dans de nombreux pays, dont le brevet EP-1, dont la référence a été publiée le #startdate#-15MM#enddate#. Sommerfeld souhaite utiliser ce brevet contre son adversaire #linkwiki#Wilhelm_Müller_(physicien)|Wilhelm Müller#endlink# et lui adresse une demande d'autorisation en raison de l'utilisation de l'objet protégé par EP-1. Par une inspection des dossiers, Müller apprend qu'une opposition contre le brevet EP-1 a déjà été déposée en temps utile. Quelles sont les possibilités qui s'offrent à Müller ?"
+                    "text_de": "#linkwiki#Arnold_Sommerfeld|Arnold Sommerfeld#endlink# hat in vielen Ländern Patente erteilt bekommen, unter anderem das Patent EP-1, dessen Hinweis auf die Veröffentlichung am #date#2#enddate# erfolgte. Mit diesem Patent möchte Sommerfeld gegen seinen Widersacher #linkwiki#Wilhelm_Müller_(Physiker)|Wilhelm Müller#endlink# vorgehen und schickt diesem wegen der Benutzung des durch EP-1 geschützten Gegenstandes eine Berechtigungsanfrage. Mittels einer Akteneinsicht bringt Müller in Erfahrung, dass  bereits fristgerecht Einspruch gegen das Patent EP-1 eingelegt wurde. Welche Möglichkeiten hat Müller?",
+                    "text_en": "#linkwiki#Arnold_Sommerfeld|Arnold Sommerfeld#endlink# has been granted patents in many countries, among them the patent EP-1, whose reference was published on #date#2#enddate#. Sommerfeld wants to use this patent against his opponent #linkwiki#Wilhelm_Müller_(physicist)|Wilhelm Müller#endlink# and sends him an authorization request because of the use of the subject matter protected by EP-1. By means of a file inspection, Müller learns that an opposition against the patent EP-1 has already been filed in due time. What options does Müller have?",
+                    "text_fr": "#linkwiki#Arnold_Sommerfeld|Arnold Sommerfeld#endlink# a obtenu des brevets dans de nombreux pays, dont le brevet EP-1, dont la référence a été publiée le #date#2#enddate#. Sommerfeld souhaite utiliser ce brevet contre son adversaire #linkwiki#Wilhelm_Müller_(physicien)|Wilhelm Müller#endlink# et lui adresse une demande d'autorisation en raison de l'utilisation de l'objet protégé par EP-1. Par une inspection des dossiers, Müller apprend qu'une opposition contre le brevet EP-1 a déjà été déposée en temps utile. Quelles sont les possibilités qui s'offrent à Müller ?"
                 },
                 {
                     "answers_false": [
@@ -8819,7 +8838,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+8MM|+3DD",
+                        "deadline[0]|+7DD"
                     ],
                     "deadline": [
                         "+9MM"
@@ -8832,9 +8853,9 @@
                     "id_old": 129,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Annie_Jump_Cannon|Annie Jump Cannon#endlink# ist Astronomin und hat ein Verfahren zur automatisierten Bestimmung der Spektralklassen von Sternen erarbeitet. Für dieses Verfahren hat sie ein europäisches Patent EP-1 erteilt bekommen. Der Hinweis auf die Veröffentlichung erfolgte am #beginning#0#enddate#. Am #beginning#0|+8MM|+3DD#enddate# reichte #linkwiki#Edwin_Hubble|Edwin Hubble#endlink#gegen EP-1 einen Einspruch ein und bezahlte auch die Einspruchsgebühr. Da er gerade mit der Klassifizierung von Spiralgalaxien beschäftigt war reichte er nur zwei seiner älteren Veröffentlichungen ohne weitere Kommentare zum Stand der Technik ein. Der Gegenstand des Streitpatentes ist seiner Meinung nach prima facie ersichtlich. Am #deadline#0|+7DD#enddate# sieht er, dass er in der Eile vergessen hatte, seinen Namen auf dem Einspruch zu nennen und holt dies sofort nach. Er möchte nicht, dass eine mündliche Verhandlung ohne ihn stattfindet.  Heute kommt er zu ihnen und möchte, dass Sie die Vertretung übernehmen, da seine Arbeit keine Störungen erlaubt. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Annie_Jump_Cannon|Annie Jump Cannon#endlink# is an astronomer who has developed a method for automated determination of the spectral classes of stars. She has been granted a European patent EP-1 for this method. Reference to the publication was made on #beginning#0#enddate#. On #beginning#0|+8MM|+3DD#enddate# #linkwiki#Edwin_Hubble|Edwin Hubble#endlink# filed an opposition to EP-1 and has paid the opposition fee. Since he was busy classifying spiral galaxies, he submitted only two of his older publications without further comments on the prior art. In his opinion, the subject matter of the patent in suit is prima facie obvious. On #deadline#0|+7DD#enddate# he sees that in his haste he had forgotten to put his name on the opposition and immediately makes up for it. He does not want a hearing to take place without him.  Today, he comes to you and wants you to represent him as his work does not allow for any disruptions. What is the legal situation?",
-                    "text_fr": "#linkwiki#Annie_Jump_Cannon|Annie Jump Cannon#endlink# est une astronome qui a mis au point une méthode de détermination automatique des classes spectrales des étoiles. Elle a obtenu un brevet européen EP-1 pour cette méthode. Une référence à la publication a été faite le #beginning#0#enddate#. Le #beginning#0|+8MM|+3DD#enddate# #linkwiki#Edwin_Hubble|Edwin Hubble#endlink# a déposé une opposition à EP-1 et a payé la taxe d'opposition. Comme il était occupé à classer les galaxies spirales, il n'a soumis que deux de ses anciennes publications sans autre commentaire sur l'art antérieur. Selon lui, l'objet du brevet en question est à première vue évident. Le jour de la #deadline#0|+7DD#enddate#, il s'aperçoit que dans sa précipitation, il a oublié de mettre son nom sur l'opposition et se rattrape immédiatement. Il ne veut pas que l'audience se déroule sans lui.  Aujourd'hui, il vient vous voir et souhaite que vous le représentiez car son travail ne lui permet pas d'être dérangé. Quelle est la situation juridique ?"
+                    "text_de": "#linkwiki#Annie_Jump_Cannon|Annie Jump Cannon#endlink# ist Astronomin und hat ein Verfahren zur automatisierten Bestimmung der Spektralklassen von Sternen erarbeitet. Für dieses Verfahren hat sie ein europäisches Patent EP-1 erteilt bekommen. Der Hinweis auf die Veröffentlichung erfolgte am #date#0#enddate#. Am #date#2#enddate# reichte #linkwiki#Edwin_Hubble|Edwin Hubble#endlink#gegen EP-1 einen Einspruch ein und bezahlte auch die Einspruchsgebühr. Da er gerade mit der Klassifizierung von Spiralgalaxien beschäftigt war reichte er nur zwei seiner älteren Veröffentlichungen ohne weitere Kommentare zum Stand der Technik ein. Der Gegenstand des Streitpatentes ist seiner Meinung nach prima facie ersichtlich. Am #date#3#enddate# sieht er, dass er in der Eile vergessen hatte, seinen Namen auf dem Einspruch zu nennen und holt dies sofort nach. Er möchte nicht, dass eine mündliche Verhandlung ohne ihn stattfindet.  Heute kommt er zu ihnen und möchte, dass Sie die Vertretung übernehmen, da seine Arbeit keine Störungen erlaubt. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#Annie_Jump_Cannon|Annie Jump Cannon#endlink# is an astronomer who has developed a method for automated determination of the spectral classes of stars. She has been granted a European patent EP-1 for this method. Reference to the publication was made on #date#0#enddate#. On #date#2#enddate# #linkwiki#Edwin_Hubble|Edwin Hubble#endlink# filed an opposition to EP-1 and has paid the opposition fee. Since he was busy classifying spiral galaxies, he submitted only two of his older publications without further comments on the prior art. In his opinion, the subject matter of the patent in suit is prima facie obvious. On #date#3#enddate# he sees that in his haste he had forgotten to put his name on the opposition and immediately makes up for it. He does not want a hearing to take place without him.  Today, he comes to you and wants you to represent him as his work does not allow for any disruptions. What is the legal situation?",
+                    "text_fr": "#linkwiki#Annie_Jump_Cannon|Annie Jump Cannon#endlink# est une astronome qui a mis au point une méthode de détermination automatique des classes spectrales des étoiles. Elle a obtenu un brevet européen EP-1 pour cette méthode. Une référence à la publication a été faite le #date#0#enddate#. Le #date#2#enddate# #linkwiki#Edwin_Hubble|Edwin Hubble#endlink# a déposé une opposition à EP-1 et a payé la taxe d'opposition. Comme il était occupé à classer les galaxies spirales, il n'a soumis que deux de ses anciennes publications sans autre commentaire sur l'art antérieur. Selon lui, l'objet du brevet en question est à première vue évident. Le jour de la #date#3#enddate#, il s'aperçoit que dans sa précipitation, il a oublié de mettre son nom sur l'opposition et se rattrape immédiatement. Il ne veut pas que l'audience se déroule sans lui.  Aujourd'hui, il vient vous voir et souhaite que vous le représentiez car son travail ne lui permet pas d'être dérangé. Quelle est la situation juridique ?"
                 },
                 {
                     "answers_false": [
@@ -9035,9 +9056,9 @@
                     "id_old": 133,
                     "normen": "",
                     "startdate": "",
-                    "text_de": "#linkwiki#Leonardo_Fibonacci|Leonardo Fibonacci#endlink# hat eine Folge von Erfindungen gehabt, die er in mehreren europäischen Patentanmeldungen zu schützen versucht hat. Unter anderem hat er das europäische Patent EP-1 erteilt bekommen. Der Hinweis auf die Veröffentlichung von EP-1 ist am #beginning#0#enddate# erfolgt. Heute, am #startdate##enddate#, bemerkt Fibonacci, dass Anspruch 1 von EP-1 ein überflüssiges Merkmal enthält. Was kann Fibonacci unternehmen, um das Merkmal wieder loszuwerden?",
-                    "text_en": "#linkwiki#Leonardo_Fibonacci|Leonardo Fibonacci#endlink# has had a succession of inventions that he has tried to protect in several European patent applications. Among others, he has been granted the European patent EP-1. The reference to the publication of EP-1 has been made on #beginning#0#enddate#. Today, on #startdate##enddate#, Fibonacci notices that claim 1 of EP-1 contains a superfluous feature. What can Fibonacci do to get rid of the feature?",
-                    "text_fr": "#linkwiki#Leonardo_Fibonacci|Leonardo Fibonacci#endlink# a eu une succession d'inventions qu'il a tenté de protéger dans plusieurs demandes de brevets européens. Entre autres, il a obtenu le brevet européen EP-1. La référence à la publication de EP-1 a été faite le #beginning#0#enddate#. Aujourd'hui, le #beginning##enddate#, Fibonacci constate que la revendication 1 de EP-1 contient une caractéristique superflue. Que peut faire Fibonacci pour se débarrasser de cette caractéristique ?"
+                    "text_de": "#linkwiki#Leonardo_Fibonacci|Leonardo Fibonacci#endlink# hat eine Folge von Erfindungen gehabt, die er in mehreren europäischen Patentanmeldungen zu schützen versucht hat. Unter anderem hat er das europäische Patent EP-1 erteilt bekommen. Der Hinweis auf die Veröffentlichung von EP-1 ist am #date#0#enddate# erfolgt. Heute, am #date#2#enddate#, bemerkt Fibonacci, dass Anspruch 1 von EP-1 ein überflüssiges Merkmal enthält. Was kann Fibonacci unternehmen, um das Merkmal wieder loszuwerden?",
+                    "text_en": "#linkwiki#Leonardo_Fibonacci|Leonardo Fibonacci#endlink# has had a succession of inventions that he has tried to protect in several European patent applications. Among others, he has been granted the European patent EP-1. The reference to the publication of EP-1 has been made on #date#0#enddate#. Today, on #date#2#enddate#, Fibonacci notices that claim 1 of EP-1 contains a superfluous feature. What can Fibonacci do to get rid of the feature?",
+                    "text_fr": "#linkwiki#Leonardo_Fibonacci|Leonardo Fibonacci#endlink# a eu une succession d'inventions qu'il a tenté de protéger dans plusieurs demandes de brevets européens. Entre autres, il a obtenu le brevet européen EP-1. La référence à la publication de EP-1 a été faite le #date#0#enddate#. Aujourd'hui, le #date#2#enddate#, Fibonacci constate que la revendication 1 de EP-1 contient une caractéristique superflue. Que peut faire Fibonacci pour se débarrasser de cette caractéristique ?"
                 },
                 {
                     "answers_false": [
@@ -9136,9 +9157,9 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Alder kann auf jeden Fall am #beginning#0|+25MM#enddate# EP-1 erfolgreich wegen einer unzulässigen Erweiterung angreifen.",
-                            "text_en": "In any case, Alder can successfully attack EP-1 on #beginning#0|+25MM#enddate# for an improper extension.",
-                            "text_fr": "Dans tous les cas, l'aulne peut attaquer avec succès l'EP-1 sur #beginning#0|+25MM#enddate# pour une extension inappropriée."
+                            "text_de": "Alder kann auf jeden Fall am #date#6#enddate# EP-1 erfolgreich wegen einer unzulässigen Erweiterung angreifen.",
+                            "text_en": "In any case, Alder can successfully attack EP-1 on #date#6#enddate# for an improper extension.",
+                            "text_fr": "Dans tous les cas, l'aulne peut attaquer avec succès l'EP-1 sur #date#6#enddate# pour une extension inappropriée."
                         },
                         {
                             "text_de": "DE-1 ist Stand der Technik nach Art. 54 (2) EPÜ für EP-1.",
@@ -9166,7 +9187,10 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "startdate",
+                        "beginning[0]|+15MM|+7DD",
+                        "beginning[0]|+25MM"
                     ],
                     "deadline": [
                         "+2MM",
@@ -9180,9 +9204,9 @@
                     "id_old": 405,
                     "normen": "Art 133 Vertretung, Sprachen, ",
                     "startdate": "MO|-48MM",
-                    "text_de": "#linkwiki#Otto_Diels|Otto Diels#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 auf eine sogenannte Dien-Synthese eingereicht. EP-1 nimmt die Priorität einer belgischen Patentanmeldung BE-1 in Anspruch. BE-1 hat einen Anmeldetag vom #startdate##enddate#. Die Erteilung von EP-1 wurde am #beginning#0|+15MM|+7DD#enddate# veröffentlicht. Gegen EP-1 hat #linkwiki#Kurt_Alder|Kurt Alder#endlink# Einspruch eingelegt. Als ehemaliger Schüler Diels’ arbeitet er im gleichen Bereich und möchte sich dieses Verfahren offen halten. Sein einziger Stand der Technik ist eine deutsche Patentanmeldung DE-1, die am #beginning#1#enddate# eingereicht und am #deadline#1#enddate# veröffentlicht wurde. Alder greift EP-1 wegen mangelnder erfinderischer Tätigkeit gegenüber DE-1 an. Gehen Sie davon aus, dass EP-1 neu gegenüber DE-1 ist, aber keine erfinderische Tätigkeit aufweist. Welche der nachfolgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Otto_Diels|Otto Diels#endlink# filed a European patent application EP-1 for a so-called diene synthesis on #beginning#0#enddate#. EP-1 claims priority to a Belgian patent application BE-1. BE-1 has a filing date of #startdate##enddate#. EP-1's grant was published on #beginning#0|+15MM|+7DD#enddate#. EP-1 has been appealed by #linkwiki#Kurt_Alder|Kurt Alder#endlink#. As a former student of Diels, he works in the same field and wants to keep this procedure open. His only prior art is a German patent application DE-1, filed on #beginning#1#enddate# and published on #deadline#1#enddate#. Alder attacks EP-1 for lack of inventive step over DE-1. Assume that EP-1 is novel over DE-1 but lacks inventive step. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Otto_Diels|Otto Diels#endlink# a déposé une demande de brevet européen EP-1 pour une synthèse dite diénique le #beginning#0#enddate#. EP-1 revendique la priorité à une demande de brevet belge BE-1. BE-1 a une date de dépôt de #startdate##enddate#. La délivrance de EP-1 a été publiée le #beginning#0|+15MM|+7DD#enddate#. EP-1 a fait l'objet d'un appel par #linkwiki#Kurt_Alder|Kurt Alder#endlink#. En tant qu'ancien élève de Diels, il travaille dans le même domaine et veut garder cette procédure ouverte. Son seul art antérieur est une demande de brevet allemand DE-1, déposée le #beginning#1#enddate# et publiée le #deadline#1#enddate#. Alder attaque EP-1 pour manque d'activité inventive par rapport à DE-1. Supposons que EP-1 est nouvelle par rapport à DE-1 mais manque d'activité inventive. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Otto_Diels|Otto Diels#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 auf eine sogenannte Dien-Synthese eingereicht. EP-1 nimmt die Priorität einer belgischen Patentanmeldung BE-1 in Anspruch. BE-1 hat einen Anmeldetag vom #date#4#enddate#. Die Erteilung von EP-1 wurde am #date#5#enddate# veröffentlicht. Gegen EP-1 hat #linkwiki#Kurt_Alder|Kurt Alder#endlink# Einspruch eingelegt. Als ehemaliger Schüler Diels’ arbeitet er im gleichen Bereich und möchte sich dieses Verfahren offen halten. Sein einziger Stand der Technik ist eine deutsche Patentanmeldung DE-1, die am #date#1#enddate# eingereicht und am #date#3#enddate# veröffentlicht wurde. Alder greift EP-1 wegen mangelnder erfinderischer Tätigkeit gegenüber DE-1 an. Gehen Sie davon aus, dass EP-1 neu gegenüber DE-1 ist, aber keine erfinderische Tätigkeit aufweist. Welche der nachfolgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Otto_Diels|Otto Diels#endlink# filed a European patent application EP-1 for a so-called diene synthesis on #date#0#enddate#. EP-1 claims priority to a Belgian patent application BE-1. BE-1 has a filing date of #date#4#enddate#. EP-1's grant was published on #date#5#enddate#. EP-1 has been appealed by #linkwiki#Kurt_Alder|Kurt Alder#endlink#. As a former student of Diels, he works in the same field and wants to keep this procedure open. His only prior art is a German patent application DE-1, filed on #date#1#enddate# and published on #date#3#enddate#. Alder attacks EP-1 for lack of inventive step over DE-1. Assume that EP-1 is novel over DE-1 but lacks inventive step. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Otto_Diels|Otto Diels#endlink# a déposé une demande de brevet européen EP-1 pour une synthèse dite diénique le #date#0#enddate#. EP-1 revendique la priorité à une demande de brevet belge BE-1. BE-1 a une date de dépôt de #date#4#enddate#. La délivrance de EP-1 a été publiée le #date#5#enddate#. EP-1 a fait l'objet d'un appel par #linkwiki#Kurt_Alder|Kurt Alder#endlink#. En tant qu'ancien élève de Diels, il travaille dans le même domaine et veut garder cette procédure ouverte. Son seul art antérieur est une demande de brevet allemand DE-1, déposée le #date#1#enddate# et publiée le #date#3#enddate#. Alder attaque EP-1 pour manque d'activité inventive par rapport à DE-1. Supposons que EP-1 est nouvelle par rapport à DE-1 mais manque d'activité inventive. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -9192,16 +9216,16 @@
                             "text_fr": "Bassi a droit à une réduction de la taxe d'appel."
                         },
                         {
-                            "text_de": "Bassi muss eine Übersetzung der Einspruchsschrift bis zum #startdate#-14DD#enddate# einreichen.",
-                            "text_en": "Bassi must submit a translation of the notice of appeal by #startdate#-14DD#enddate#.",
-                            "text_fr": "Bassi doit soumettre une traduction de l'avis d'appel avant le #startdate#-14DD#enddate#."
+                            "text_de": "Bassi muss eine Übersetzung der Einspruchsschrift bis zum #date#5#enddate# einreichen.",
+                            "text_en": "Bassi must submit a translation of the notice of appeal by #date#5#enddate#.",
+                            "text_fr": "Bassi doit soumettre une traduction de l'avis d'appel avant le #date#5#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bassi muss eine Übersetzung der Einspruchsschrift bis zum #deadline#0#enddate# einreichen.",
-                            "text_en": "Bassi must submit a translation of the notice of appeal by the #deadline#0#enddate#.",
-                            "text_fr": "Bassi doit soumettre une traduction de l'avis d'appel avant la #deadline#0#enddate#."
+                            "text_de": "Bassi muss eine Übersetzung der Einspruchsschrift bis zum #date#2#enddate# einreichen.",
+                            "text_en": "Bassi must submit a translation of the notice of appeal by the #date#2#enddate#.",
+                            "text_fr": "Bassi doit soumettre une traduction de l'avis d'appel avant la #date#2#enddate#."
                         },
                         {
                             "text_de": "Bassi muss bis zum Ende der Einspruchsfrist keine Übersetzung von IT-1 und IT-2 einreichen.",
@@ -9217,7 +9241,9 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "startdate|-2MM|-14DD",
+                        "startdate|-14DD"
                     ],
                     "deadline": [
                         "+2MM",
@@ -9231,9 +9257,9 @@
                     "id_old": 422,
                     "normen": "Regel 6 (2), (3), (4) EPÜ",
                     "startdate": "",
-                    "text_de": "#linkwiki#Laura_Bassi|Laura Bassi#endlink# hat gegen das Europäische Patent EP-1, das einen Gasblasengenerator schützt, Einspruch eingelegt. Die Erteilung von EP-1 wurde am #beginning#0#enddate# veröffentlicht. Da Bassi unsicher mit den fremdsprachigen juristischen Fachausdrücken ist hat sie den Einspruch auf italienisch verfasst und am #startdate#-2MM|-14DD#enddate# eingereicht. Im Stand der Technik der Einspruchsbegründung sind auch zwei italienischsprachiege Druckschriften IT-1 und IT-2. Welche der nachfolgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Laura_Bassi|Laura Bassi#endlink# has filed an opposition to European Patent EP-1, which protects a gas bubble generator. The grant of EP-1 was published on #beginning#0#enddate#. Because Bassi is unfamiliar with foreign language legal terminology, she has drafted the opposition in Italian and filed it on #startdate#-2MM|-14DD#enddate#. In the prior art of the statement of opposition, there are also two Italian-language printed documents IT-1 and IT-2. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Laura_Bassi|Laura Bassi#endlink# a déposé une opposition au brevet européen EP-1, qui protège un générateur de bulles de gaz. La délivrance du EP-1 a été publiée le #beginning#0#enddate#. Comme Bassi n'est pas familière avec la terminologie juridique des langues étrangères, elle a rédigé l'opposition en italien et l'a déposée le #startdate#-2MM|-14DD#enddate#. Dans l'état de la technique de la déclaration d'opposition, on trouve également deux imprimés en langue italienne IT-1 et IT-2. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Laura_Bassi|Laura Bassi#endlink# hat gegen das Europäische Patent EP-1, das einen Gasblasengenerator schützt, Einspruch eingelegt. Die Erteilung von EP-1 wurde am #date#0#enddate# veröffentlicht. Da Bassi unsicher mit den fremdsprachigen juristischen Fachausdrücken ist hat sie den Einspruch auf italienisch verfasst und am #date#4#enddate# eingereicht. Im Stand der Technik der Einspruchsbegründung sind auch zwei italienischsprachiege Druckschriften IT-1 und IT-2. Welche der nachfolgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Laura_Bassi|Laura Bassi#endlink# has filed an opposition to European Patent EP-1, which protects a gas bubble generator. The grant of EP-1 was published on #date#0#enddate#. Because Bassi is unfamiliar with foreign language legal terminology, she has drafted the opposition in Italian and filed it on #date#4#enddate#. In the prior art of the statement of opposition, there are also two Italian-language printed documents IT-1 and IT-2. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Laura_Bassi|Laura Bassi#endlink# a déposé une opposition au brevet européen EP-1, qui protège un générateur de bulles de gaz. La délivrance du EP-1 a été publiée le #date#0#enddate#. Comme Bassi n'est pas familière avec la terminologie juridique des langues étrangères, elle a rédigé l'opposition en italien et l'a déposée le #date#4#enddate#. Dans l'état de la technique de la déclaration d'opposition, on trouve également deux imprimés en langue italienne IT-1 et IT-2. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -9268,7 +9294,9 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "deadline[0]|-5DD",
+                        "deadline[0]|+5DD"
                     ],
                     "deadline": [
                         "+2MM",
@@ -9282,9 +9310,9 @@
                     "id_old": 429,
                     "normen": "Artikel 14, Regel 6 (2), 83 EPÜ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Jaroslav_Heyrovský|Jaroslav Heyrovský#endlink# aus Prag hat ein Europäisches Patent EP-1 entdeckt, dessen Erteilung am #beginning#0#enddate# bekannt gemacht wurde. Er legt gegen EP-1 am #deadline#0|-5DD#enddate# Einspruch ein, wobei die Begründung auf tschechisch ist. Die Druckschriften EP-2 und EP-3 sind zwar mit Aktenzeichen benannt, aber nicht beigelegt. Heyrovský reicht eine Übersetzung des Einspruchsschriftsatzes am #deadline#0|+5DD#enddate# nach. EP-2 und EP-3 hat er bis heute nicht nachgereicht. Welche der nachfolgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Jaroslav_Heyrovský|Jaroslav Heyrovský#endlink# from Prague had discovered a European Patent EP-1, the grant of which was announced on #beginning#0#enddate#. He has filed an opposition to EP-1 on #deadline#0|-5DD#enddate#, with the grounds thereof written in Czech. Printed documents EP-2 and EP-3 are named with file numbers, but have not been attached. Heyrovský submits a translation of the opposition brief on #deadline#0|+5DD#enddate#. He has not submitted EP-2 and EP-3 to date. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Jaroslav_Heyrovský|Jaroslav Heyrovský#endlink# de Prague avait découvert un brevet européen EP-1, dont la délivrance a été annoncée le #beginning#0#enddate#. Il a formé une opposition à EP-1 le #deadline#0|-5DD#enddate#, avec les motifs de celle-ci rédigés en tchèque. Les documents imprimés EP-2 et EP-3 sont désignés par des numéros de dossier, mais n'ont pas été joints. Heyrovský soumet une traduction du mémoire d'opposition le #deadline#0|+5DD#enddate#. Il n'a pas soumis EP-2 et EP-3 à ce jour. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Jaroslav_Heyrovský|Jaroslav Heyrovský#endlink# aus Prag hat ein Europäisches Patent EP-1 entdeckt, dessen Erteilung am #date#0#enddate# bekannt gemacht wurde. Er legt gegen EP-1 am #date#4#enddate# Einspruch ein, wobei die Begründung auf tschechisch ist. Die Druckschriften EP-2 und EP-3 sind zwar mit Aktenzeichen benannt, aber nicht beigelegt. Heyrovský reicht eine Übersetzung des Einspruchsschriftsatzes am #date#5#enddate# nach. EP-2 und EP-3 hat er bis heute nicht nachgereicht. Welche der nachfolgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Jaroslav_Heyrovský|Jaroslav Heyrovský#endlink# from Prague had discovered a European Patent EP-1, the grant of which was announced on #date#0#enddate#. He has filed an opposition to EP-1 on #date#4#enddate#, with the grounds thereof written in Czech. Printed documents EP-2 and EP-3 are named with file numbers, but have not been attached. Heyrovský submits a translation of the opposition brief on #date#5#enddate#. He has not submitted EP-2 and EP-3 to date. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Jaroslav_Heyrovský|Jaroslav Heyrovský#endlink# de Prague avait découvert un brevet européen EP-1, dont la délivrance a été annoncée le #date#0#enddate#. Il a formé une opposition à EP-1 le #date#4#enddate#, avec les motifs de celle-ci rédigés en tchèque. Les documents imprimés EP-2 et EP-3 sont désignés par des numéros de dossier, mais n'ont pas été joints. Heyrovský soumet une traduction du mémoire d'opposition le #date#5#enddate#. Il n'a pas soumis EP-2 et EP-3 à ce jour. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -9319,7 +9347,9 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "startdate|-4YY|-2MM|+14DD",
+                        "startdate|-4YY|-3MM"
                     ],
                     "deadline": [
                         "+2MM",
@@ -9333,9 +9363,9 @@
                     "id_old": 430,
                     "normen": "Artikel 54 (2), 100 EPÜ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Edwin_Mattison_McMillan|Edwin Mattison McMillan#endlink# hat ein Europäisches Patent EP-1 auf ein Verfahren zur Herstellung von Transuran entdeckt, dessen Erteilung am #beginning#0#enddate# bekannt gemacht wurde. EP-1 wurde am #startdate#-4YY|-2MM|+14DD#enddate# von #linkwiki#Glenn_T._Seaborg|Glenn T. Seaborg#endlink# eingereicht.  Da McMillan und Seaborg sich bereits seit längerem kennen weiß McMillan, das Seaborg am #startdate#-4YY|-3MM#enddate# das Verfahren im Rahmen einer Vorlesung gezeigt hat. Außerdem meint McMillan, dass der Hauptanspruch unklar sei, es könnten viel zu viele Verfahren und auch bekannte Verfahren betroffen sein. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Edwin_Mattison_McMillan|Edwin Mattison McMillan#endlink# had discovered a European Patent EP-1 on a process for the production of transuranic, the grant of which was announced on #beginning#0#enddate#. EP-1 was filed on #startdate#-4YY|-2MM|+14DD#enddate# by #linkwiki#Glenn_T._Seaborg|Glenn T. Seaborg#endlink#.  Since McMillan and Seaborg have known each other for some time, McMillan knows that Seaborg showed the procedure during a lecture on #startdate#-4YY|-3MM#enddate#. In addition, McMillan thinks that the main claim is unclear; there could be known processes be covered. What is the legal position?",
-                    "text_fr": "#linkwiki#Edwin_Mattison_McMillan|Edwin Mattison McMillan#endlink# avait découvert un brevet européen EP-1 sur un procédé de production de transuraniens, dont la délivrance a été annoncée le #beginning#0#enddate#. EP-1 a été déposé le #startdate#-4YY|-2MM|+14DD#enddate# par #linkwiki#Glenn_T._Seaborg|Glenn T. Seaborg#endlink#.  Comme McMillan et Seaborg se connaissent depuis un certain temps, McMillan sait que Seaborg a montré la procédure lors d'une conférence le #startdate#-4YY|-3MM#enddate#. En outre, McMillan pense que la revendication principale n'est pas claire ; il pourrait y avoir des processus connus couverts. Quelle est la position juridique ?"
+                    "text_de": "#linkwiki#Edwin_Mattison_McMillan|Edwin Mattison McMillan#endlink# hat ein Europäisches Patent EP-1 auf ein Verfahren zur Herstellung von Transuran entdeckt, dessen Erteilung am #date#0#enddate# bekannt gemacht wurde. EP-1 wurde am #date#4#enddate# von #linkwiki#Glenn_T._Seaborg|Glenn T. Seaborg#endlink# eingereicht.  Da McMillan und Seaborg sich bereits seit längerem kennen weiß McMillan, das Seaborg am #date#5#enddate# das Verfahren im Rahmen einer Vorlesung gezeigt hat. Außerdem meint McMillan, dass der Hauptanspruch unklar sei, es könnten viel zu viele Verfahren und auch bekannte Verfahren betroffen sein. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#Edwin_Mattison_McMillan|Edwin Mattison McMillan#endlink# had discovered a European Patent EP-1 on a process for the production of transuranic, the grant of which was announced on #date#0#enddate#. EP-1 was filed on #date#4#enddate# by #linkwiki#Glenn_T._Seaborg|Glenn T. Seaborg#endlink#.  Since McMillan and Seaborg have known each other for some time, McMillan knows that Seaborg showed the procedure during a lecture on #date#5#enddate#. In addition, McMillan thinks that the main claim is unclear; there could be known processes be covered. What is the legal position?",
+                    "text_fr": "#linkwiki#Edwin_Mattison_McMillan|Edwin Mattison McMillan#endlink# avait découvert un brevet européen EP-1 sur un procédé de production de transuraniens, dont la délivrance a été annoncée le #date#0#enddate#. EP-1 a été déposé le #date#4#enddate# par #linkwiki#Glenn_T._Seaborg|Glenn T. Seaborg#endlink#.  Comme McMillan et Seaborg se connaissent depuis un certain temps, McMillan sait que Seaborg a montré la procédure lors d'une conférence le #date#5#enddate#. En outre, McMillan pense que la revendication principale n'est pas claire ; il pourrait y avoir des processus connus couverts. Quelle est la position juridique ?"
                 },
                 {
                     "answers_false": [
@@ -9345,9 +9375,9 @@
                             "text_fr": "Martin peut étendre son objection à la revendication 2, même après l'expiration du délai d'objection, tant qu'il a valablement objecté à la revendication 1."
                         },
                         {
-                            "text_de": "Die Frist zur Einreichung des Einspruchs endet am #deadline#0#enddate#, die zur Einreichung der Begründung des Einspruchs am #deadline#1#enddate#.\n",
-                            "text_en": "The deadline for filing the objection is #deadline#0#enddate#, and the deadline for filing the statement of grounds for the objection is #deadline#1#enddate#.",
-                            "text_fr": "La date limite pour le dépôt de l'objection est le #deadline#0#enddate#, et la date limite pour le dépôt de l'exposé des motifs de l'objection est le #deadline#1#enddate#."
+                            "text_de": "Die Frist zur Einreichung des Einspruchs endet am #date#2#enddate#, die zur Einreichung der Begründung des Einspruchs am #deadline#1#enddate#.\n",
+                            "text_en": "The deadline for filing the objection is #date#2#enddate#, and the deadline for filing the statement of grounds for the objection is #deadline#1#enddate#.",
+                            "text_fr": "La date limite pour le dépôt de l'objection est le #date#2#enddate#, et la date limite pour le dépôt de l'exposé des motifs de l'objection est le #deadline#1#enddate#."
                         },
                         {
                             "text_de": "Martin kann EP-1 wegen mangelnder Einheitlichkeit angreifen.",
@@ -9384,9 +9414,9 @@
                     "id_old": 436,
                     "normen": "Artikel 100 EPÜ, Regel 76 (2) EPÜ",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Archer_J._P._Martin|Archer J. P. Martin#endlink# hat ein Europäisches Patent EP-1 entdeckt, dessen Erteilung am #beginning#0#enddate# bekannt gemacht wurde. EP-1 beansprucht in Anspruch 1 einen Verteilungschromatographen und in Anspruch 2 ein Verfahren zur Herstellung des Vitamins B2. Da ihn EP-1 somit gleich doppelt stört möchte er gern Einspruch einlegen. Er hat bislang allerdings nur Material gegen Anspruch 1 gefunden. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Archer_J._P._Martin|Archer J. P. Martin#endlink# had discovered a European Patent EP-1, the grant of which was announced on #beginning#0#enddate#. EP-1 claims in claim 1 a partition chromatograph and in claim 2 a process for producing vitamin B2. Since EP-1 thus bothers him twice, he would like to file an opposition. However, he has only found material against claim 1 so far. What is the legal situation?",
-                    "text_fr": "#linkwiki#Archer_J._P._Martin|Archer J. P. Martin#endlink# avait découvert un brevet européen EP-1, dont la délivrance a été annoncée le #beginning#0#enddate#. EP-1 revendique dans sa revendication 1 un chromatographe de partage et dans sa revendication 2 un procédé de production de vitamine B2. Comme EP-1 le dérange donc deux fois, il souhaite former une opposition. Cependant, il n'a trouvé jusqu'à présent que des éléments contre la revendication 1. Quelle est la situation juridique ?"
+                    "text_de": "#linkwiki#Archer_J._P._Martin|Archer J. P. Martin#endlink# hat ein Europäisches Patent EP-1 entdeckt, dessen Erteilung am #date#0#enddate# bekannt gemacht wurde. EP-1 beansprucht in Anspruch 1 einen Verteilungschromatographen und in Anspruch 2 ein Verfahren zur Herstellung des Vitamins B2. Da ihn EP-1 somit gleich doppelt stört möchte er gern Einspruch einlegen. Er hat bislang allerdings nur Material gegen Anspruch 1 gefunden. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#Archer_J._P._Martin|Archer J. P. Martin#endlink# had discovered a European Patent EP-1, the grant of which was announced on #date#0#enddate#. EP-1 claims in claim 1 a partition chromatograph and in claim 2 a process for producing vitamin B2. Since EP-1 thus bothers him twice, he would like to file an opposition. However, he has only found material against claim 1 so far. What is the legal situation?",
+                    "text_fr": "#linkwiki#Archer_J._P._Martin|Archer J. P. Martin#endlink# avait découvert un brevet européen EP-1, dont la délivrance a été annoncée le #date#0#enddate#. EP-1 revendique dans sa revendication 1 un chromatographe de partage et dans sa revendication 2 un procédé de production de vitamine B2. Comme EP-1 le dérange donc deux fois, il souhaite former une opposition. Cependant, il n'a trouvé jusqu'à présent que des éléments contre la revendication 1. Quelle est la situation juridique ?"
                 }
             ],
             "info_de": "Einspruch, Einspruchsgründe, Prüfung des Einspruchs, Widerruf oder Aufrechterhaltung des europäischen Patents, Beschränkung oder Widerruf des europäischen Patents. ",
