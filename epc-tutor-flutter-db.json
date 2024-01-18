@@ -9433,9 +9433,9 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Beschwerdebegründung muss spätestens am #deadline#0#enddate# eingereicht werden.",
-                            "text_en": "The statement of grounds of appeal must be filed no later than #deadline#0#enddate#.",
-                            "text_fr": "L'exposé des motifs de l'appel doit être déposé au plus tard le #deadline#0#enddate#."
+                            "text_de": "Die Beschwerdebegründung muss spätestens am #date#1#enddate# eingereicht werden.",
+                            "text_en": "The statement of grounds of appeal must be filed no later than #date#1#enddate#.",
+                            "text_fr": "L'exposé des motifs de l'appel doit être déposé au plus tard le #date#1#enddate#."
                         },
                         {
                             "text_de": "Die Beschwerde wird der Beschwerdekammer vorgelegt, wenn ihr nicht innerhalb von zwei Monaten abgeholfen wird.",
@@ -9450,9 +9450,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bei Rücknahme der Beschwerde heute, am #startdate##enddate#, wird die Beschwerdegebühr zurückgezahlt. ",
-                            "text_en": "If the appeal is withdrawn on this day,#startdate##enddate#, the appeal fee will be refunded.",
-                            "text_fr": "Si l'appel est retiré ce jour-là, #startdate##enddate#, la taxe d'appel sera remboursée."
+                            "text_de": "Bei Rücknahme der Beschwerde heute, am #date#3#enddate#, wird die Beschwerdegebühr zurückgezahlt. ",
+                            "text_en": "If the appeal is withdrawn on this day, #date#3#enddate#, the appeal fee will be refunded.",
+                            "text_fr": "Si l'appel est retiré ce jour-là, #date#3#enddate#, la taxe d'appel sera remboursée."
                         }
                     ],
                     "beginning": [
@@ -9460,7 +9460,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-2MM|-3DD"
                     ],
                     "deadline": [
                         "+10DD|+4MM"
@@ -9473,9 +9474,9 @@
                     "id_old": 134,
                     "normen": "Art 109, R 103",
                     "startdate": "",
-                    "text_de": "Mit Datum vom #beginning#0#enddate# wurde die europäische Patentanmeldung EP-1 zurückgewiesen. Gegen diese Entscheidung wurde am #startdate#-2MM|-3DD#enddate# wirksam eine Beschwerdesschrift eingereicht. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "On #beginning#0#enddate# the European patent application EP-1 was rejected. A notice of appeal against this decision was validly filed on #startdate#-2MM|-3DD#enddate#. Which of the following statements is true?",
-                    "text_fr": "Le #beginning#0#enddate#, la demande de brevet européen EP-1 a été rejetée. Un acte de recours contre cette décision a été valablement déposé le #startdate#-2MM|-3DD#enddate#. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "Mit Datum vom #date#0#enddate# wurde die europäische Patentanmeldung EP-1 zurückgewiesen. Gegen diese Entscheidung wurde am #date#2#enddate# wirksam eine Beschwerdesschrift eingereicht. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "On #date#0#enddate# the European patent application EP-1 was rejected. A notice of appeal against this decision was validly filed on #date#2#enddate#. Which of the following statements is true?",
+                    "text_fr": "Le #date#0#enddate#, la demande de brevet européen EP-1 a été rejetée. Un acte de recours contre cette décision a été valablement déposé le #date#2#enddate#. Laquelle des affirmations suivantes est vraie?"
                 },
                 {
                     "answers_false": [
@@ -9792,7 +9793,9 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "startdate|-1MM|-14DD",
+                        "startdate"
                     ],
                     "deadline": [
                         "+2MM",
@@ -9806,9 +9809,9 @@
                     "id_old": 141,
                     "normen": "Artikel 108 Beschwerdefrist",
                     "startdate": "",
-                    "text_de": "#linkwiki#Theodore_Roosevelt|Theodore Roosevelt#endlink# hat eine europäische Patentanmeldung EP-1 auf ein Kriegsschiff eingereicht. EP-1 wird mit Beschluss vom #beginning#0#enddate# zurückgewiesen. Am #startdate#-1MM|-14DD#enddate# reicht er eine Beschwerde gegen den Zurückweisungsbeschluss ein. Heute, am #startdate##enddate#, reicht er eine Beschwerdebegründung nach. Ist die Beschwerde fristgerecht eingereicht worden?",
-                    "text_en": "#linkwiki#Theodore_Roosevelt|Theodore Roosevelt#endlink# has filed a European patent application EP-1 on a warship. EP-1 is rejected by decision of #beginning#0#enddate#. On #startdate#-1MM|-14DD#enddate# he files an appeal against the rejection decision. Today, on #startdate#enddate#, he files a statement of grounds of appeal. Has the appeal been filed within the time limit?",
-                    "text_fr": "#linkwiki#Theodore_Roosevelt|Theodore Roosevelt#endlink# a déposé une demande de brevet européen EP-1 sur un navire de guerre. EP-1 est rejetée par décision du #beginning#0#enddate#. Le #startdate#-1MM|-14DD#enddate#, il dépose un recours contre la décision de rejet. Aujourd'hui, à la #startdate##enddate#, il dépose un mémoire de recours. Le recours a-t-il été déposé dans le délai imparti ?"
+                    "text_de": "#linkwiki#Theodore_Roosevelt|Theodore Roosevelt#endlink# hat eine europäische Patentanmeldung EP-1 auf ein Kriegsschiff eingereicht. EP-1 wird mit Beschluss vom #date#0#enddate# zurückgewiesen. Am #date#4#enddate# reicht er eine Beschwerde gegen den Zurückweisungsbeschluss ein. Heute, am #date#5#enddate#, reicht er eine Beschwerdebegründung nach. Ist die Beschwerde fristgerecht eingereicht worden?",
+                    "text_en": "#linkwiki#Theodore_Roosevelt|Theodore Roosevelt#endlink# has filed a European patent application EP-1 on a warship. EP-1 is rejected by decision of #date#0#enddate#. On #date#4#enddate# he files an appeal against the rejection decision. Today, on #date#5#enddate#, he files a statement of grounds of appeal. Has the appeal been filed within the time limit?",
+                    "text_fr": "#linkwiki#Theodore_Roosevelt|Theodore Roosevelt#endlink# a déposé une demande de brevet européen EP-1 sur un navire de guerre. EP-1 est rejetée par décision du #date#0#enddate#. Le #date#4#enddate#, il dépose un recours contre la décision de rejet. Aujourd'hui, à la #date#5#enddate#, il dépose un mémoire de recours. Le recours a-t-il été déposé dans le délai imparti ?"
                 },
                 {
                     "answers_false": [
@@ -9853,16 +9856,16 @@
                     "id_old": 142,
                     "normen": "Artikel 108 Beschwerdefrist",
                     "startdate": "",
-                    "text_de": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# hat eine Druckerpresse entwickelt und darauf eine europäische Patentanmeldung EP-1 angemeldet. Die Prüfungsabteilung hat EP-1 mit Beschluss vom #beginning#0#enddate# zurückgewiesen. Heute, am #startdate##enddate#, kommt Moneta zu Ihnen und möchte wissen, wie er gegen den Beschluss vorgehen kann.  ",
-                    "text_en": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# has developed a printing press and filed a European patent application EP-1 on it. The Examining Division rejected EP-1 by decision dated #beginning#0#enddate#. Today, on #beginning#0#enddate#, Moneta comes to you and wants to know how to proceed against the decision. How would you consult him?",
-                    "text_fr": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# a mis au point une presse à imprimer et a déposé une demande de brevet européen EP-1 à ce sujet. La division d'examen a rejeté la demande EP-1 par décision en date du #beginning#0#enddate#. Aujourd'hui, le #beginning#0#enddate#, Moneta vient vous voir et veut savoir comment procéder contre cette décision. Comment le consulteriez-vous ?"
+                    "text_de": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# hat eine Druckerpresse entwickelt und darauf eine europäische Patentanmeldung EP-1 angemeldet. Die Prüfungsabteilung hat EP-1 mit Beschluss vom #date#0#enddate# zurückgewiesen. Heute, am #date#2#enddate#, kommt Moneta zu Ihnen und möchte wissen, wie er gegen den Beschluss vorgehen kann.  ",
+                    "text_en": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# has developed a printing press and filed a European patent application EP-1 on it. The Examining Division rejected EP-1 by decision dated #date#0#enddate#. Today, on #date#2#enddate#, Moneta comes to you and wants to know how to proceed against the decision. How would you consult him?",
+                    "text_fr": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# a mis au point une presse à imprimer et a déposé une demande de brevet européen EP-1 à ce sujet. La division d'examen a rejeté la demande EP-1 par décision en date du #date#0#enddate#. Aujourd'hui, le #date#2#enddate#, Moneta vient vous voir et veut savoir comment procéder contre cette décision. Comment le consulteriez-vous ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Beschwerdebegründung muss bis zum #deadline#0#enddate# (Beschwerdebegründungsfrist) beim Europäischen Patentamt eingereicht werden.",
-                            "text_en": "The statement of grounds of appeal must be filed with the European Patent Office by the #deadline#0#enddate# (time limit for filing the statement of grounds of appeal).",
-                            "text_fr": "Le mémoire exposant les motifs du recours doit être déposé auprès de l'Office européen des brevets avant le #deadline#0#enddate# (délai de dépôt du mémoire exposant les motifs du recours)."
+                            "text_de": "Die Beschwerdebegründung muss bis zum #date#1#enddate# (Beschwerdebegründungsfrist) beim Europäischen Patentamt eingereicht werden.",
+                            "text_en": "The statement of grounds of appeal must be filed with the European Patent Office by the #date#1#enddate# (time limit for filing the statement of grounds of appeal).",
+                            "text_fr": "Le mémoire exposant les motifs du recours doit être déposé auprès de l'Office européen des brevets avant le #date#1#enddate# (délai de dépôt du mémoire exposant les motifs du recours)."
                         },
                         {
                             "text_de": "Die Beschwerdefrist ist überschritten. Die Beschwerde kann aber schriftlich zusammen mit einem Antrag auf Weiterbehandlung eingereicht werden. ",
@@ -9870,9 +9873,9 @@
                             "text_fr": "Le délai d'appel a été dépassé. Toutefois, le recours peut être introduit par écrit, accompagné d'une demande de poursuite du traitement."
                         },
                         {
-                            "text_de": "Die Bezahlung der Beschwerdegebühr erlaubt gleichzeitig eine Auslegung dahingehend, dass eine Beschwerde eingereicht ist. Durch die Angabe des Aktenzeichens sind alle formalen Voraussetzungen erfüllt. Die Beschwerdebegründung muss bis zum #deadline#0#enddate# (Beschwerdebegründungsfrist) beim Europäischen Patentamt eingereicht werden.",
-                            "text_en": "The payment of the appeal fee simultaneously allows an interpretation to the effect that an appeal has been filed. By indicating the file number, all formal requirements are fulfilled. The statement of grounds of appeal must be filed with the European Patent Office by the #deadline#0#enddate# (time limit for filing the statement of grounds of appeal).",
-                            "text_fr": "Le paiement de la taxe de recours permet simultanément d'interpréter qu'un recours a été déposé. En indiquant le numéro de dossier, toutes les conditions de forme sont remplies. Le mémoire exposant les motifs du recours doit être déposé auprès de l'Office européen des brevets avant le #deadline#0#enddate# (délai de dépôt du mémoire exposant les motifs du recours)."
+                            "text_de": "Die Bezahlung der Beschwerdegebühr erlaubt gleichzeitig eine Auslegung dahingehend, dass eine Beschwerde eingereicht ist. Durch die Angabe des Aktenzeichens sind alle formalen Voraussetzungen erfüllt. Die Beschwerdebegründung muss bis zum #date#1#enddate# (Beschwerdebegründungsfrist) beim Europäischen Patentamt eingereicht werden.",
+                            "text_en": "The payment of the appeal fee simultaneously allows an interpretation to the effect that an appeal has been filed. By indicating the file number, all formal requirements are fulfilled. The statement of grounds of appeal must be filed with the European Patent Office by the #date#1#enddate# (time limit for filing the statement of grounds of appeal).",
+                            "text_fr": "Le paiement de la taxe de recours permet simultanément d'interpréter qu'un recours a été déposé. En indiquant le numéro de dossier, toutes les conditions de forme sont remplies. Le mémoire exposant les motifs du recours doit être déposé auprès de l'Office européen des brevets avant le #date#1#enddate# (délai de dépôt du mémoire exposant les motifs du recours)."
                         }
                     ],
                     "answers_true": [
@@ -9887,7 +9890,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-1MM",
+                        "startdate"
                     ],
                     "deadline": [
                         "+10DD|+4MM"
@@ -9900,9 +9905,9 @@
                     "id_old": 143,
                     "normen": "Artikel 108 Beschwerdefrist/Auslegung der Gebührenzahlung",
                     "startdate": "",
-                    "text_de": "#linkwiki#Louis_Renault_(Jurist)|Louis Renault#endlink# hat eine Buchsortiermaschine entwickelt und darauf eine europäische Patentanmeldung EP-1 angemeldet. Die Prüfungsabteilung hat EP-1 mit Beschluss vom #beginning#0#enddate# zurückgewiesen.  Am #startdate#-1MM#enddate# hat er unter Angabe des korrekten Aktenzeichens eine komplette Beschwerdegebühr bezahlt. Heute, am #startdate##enddate#, kommt Renault zu Ihnen und möchte, dass Sie eine Beschwerdebegründung ausarbeiten. Was sagen Sie ihm? ",
-                    "text_en": "#linkwiki#Louis_Renault_(lawyer)|Louis Renault#endlink# has developed a book sorting machine and filed a European patent application EP-1 on it. The Examining Division rejected EP-1 by decision dated #beginning#0#enddate#.  On #startdate#-1MM#enddate# he paid a complete appeal fee, indicating the correct file number. Today, on #startdate##enddate#, Renault comes to you and wants you to prepare a statement of grounds for appeal. What do you tell him?",
-                    "text_fr": "#linkwiki#Louis_Renault_(avocat)|Louis Renault#endlink# a développé une machine à trier les livres et a déposé une demande de brevet européen EP-1 à ce sujet. La division d'examen a rejeté la demande EP-1 par une décision datée du #beginning#0#enddate#.  Le #startdate#-1MM#enddate#, il a payé une taxe de recours complète, en indiquant le numéro de dossier correct. Aujourd'hui, le #beginning##enddate#, Renault vient vous voir et souhaite que vous prépariez un mémoire de recours. Que lui répondez-vous ?"
+                    "text_de": "#linkwiki#Louis_Renault_(Jurist)|Louis Renault#endlink# hat eine Buchsortiermaschine entwickelt und darauf eine europäische Patentanmeldung EP-1 angemeldet. Die Prüfungsabteilung hat EP-1 mit Beschluss vom #date#0#enddate# zurückgewiesen.  Am #date#2#enddate# hat er unter Angabe des korrekten Aktenzeichens eine komplette Beschwerdegebühr bezahlt. Heute, am #date#3#enddate#, kommt Renault zu Ihnen und möchte, dass Sie eine Beschwerdebegründung ausarbeiten. Was sagen Sie ihm? ",
+                    "text_en": "#linkwiki#Louis_Renault_(lawyer)|Louis Renault#endlink# has developed a book sorting machine and filed a European patent application EP-1 on it. The Examining Division rejected EP-1 by decision dated #date#0#enddate#.  On #date#2#enddate# he paid a complete appeal fee, indicating the correct file number. Today, on #date#3#enddate#, Renault comes to you and wants you to prepare a statement of grounds for appeal. What do you tell him?",
+                    "text_fr": "#linkwiki#Louis_Renault_(avocat)|Louis Renault#endlink# a développé une machine à trier les livres et a déposé une demande de brevet européen EP-1 à ce sujet. La division d'examen a rejeté la demande EP-1 par une décision datée du #date#0#enddate#.  Le #date#2#enddate#, il a payé une taxe de recours complète, en indiquant le numéro de dossier correct. Aujourd'hui, le #date#3#enddate#, Renault vient vous voir et souhaite que vous prépariez un mémoire de recours. Que lui répondez-vous ?"
                 },
                 {
                     "answers_false": [
@@ -9934,7 +9939,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-2MM|-14DD",
+                        "startdate|-14DD"
                     ],
                     "deadline": [
                         "+2MM"
@@ -9947,9 +9954,9 @@
                     "id_old": 144,
                     "normen": "Wiedereinsetzung/Weiterbehandlung",
                     "startdate": "-2MM|-14DD",
-                    "text_de": "#linkwiki#Klas_Pontus_Arnoldson|Klas Pontus Arnoldson#endlink# hat eine automatische Bahnschranke entwickelt und darauf eine europäische Patentanmeldung EP-1 angemeldet. Die Prüfungsabteilung hat EP-1 mit Beschluss vom #beginning#0#enddate# zurückgewiesen. Vom #startdate#-2MM|-14DD#enddate# bis zum #startdate#-14DD#enddate# erkrankt er aufgrund seiner Tätigkeit an einer langwierigen Lungenentzündung und ist nachweislich im gesamten Zeitraum bettlägerig. Heute ist er wieder gesund und möchte gegen den Zurückweisungbeschluss vorgehen. Was kann er unternehmen? ",
-                    "text_en": "#linkwiki#Klas_Pontus_Arnoldson|Klas Pontus Arnoldson#endlink# has developed an automatic railroad barrier and filed a European patent application EP-1 on it. The Examining Division rejected EP-1 by decision dated #beginning#0#enddate#. From #startdate#-2MM|-14DD#enddate# to #startdate#-14DD#enddate# he fell ill with protracted pneumonia as a result of his work and was demonstrably bedridden throughout the period. Today, he is well again and wants to appeal the rejection decision. What can he do?",
-                    "text_fr": "#linkwiki#Klas_Pontus_Arnoldson|Klas Pontus Arnoldson#endlink# a développé une barrière ferroviaire automatique et a déposé une demande de brevet européen EP-1 à ce sujet. La division d'examen a rejeté la demande EP-1 par une décision datée du #beginning#0#enddate#. De #startdate#-2MM|-14DD#enddate# à #startdate#-14DD#enddate#, il est tombé malade d'une pneumonie prolongée en raison de son travail et a été manifestement alité pendant toute cette période. Aujourd'hui, il est rétabli et veut faire appel de la décision de rejet. Que peut-il faire ?"
+                    "text_de": "#linkwiki#Klas_Pontus_Arnoldson|Klas Pontus Arnoldson#endlink# hat eine automatische Bahnschranke entwickelt und darauf eine europäische Patentanmeldung EP-1 angemeldet. Die Prüfungsabteilung hat EP-1 mit Beschluss vom #date#0#enddate# zurückgewiesen. Vom #date#2#enddate# bis zum #date#3#enddate# erkrankt er aufgrund seiner Tätigkeit an einer langwierigen Lungenentzündung und ist nachweislich im gesamten Zeitraum bettlägerig. Heute ist er wieder gesund und möchte gegen den Zurückweisungbeschluss vorgehen. Was kann er unternehmen? ",
+                    "text_en": "#linkwiki#Klas_Pontus_Arnoldson|Klas Pontus Arnoldson#endlink# has developed an automatic railroad barrier and filed a European patent application EP-1 on it. The Examining Division rejected EP-1 by decision dated #date#0#enddate#. From #date#2#enddate# to #date#3#enddate# he fell ill with protracted pneumonia as a result of his work and was demonstrably bedridden throughout the period. Today, he is well again and wants to appeal the rejection decision. What can he do?",
+                    "text_fr": "#linkwiki#Klas_Pontus_Arnoldson|Klas Pontus Arnoldson#endlink# a développé une barrière ferroviaire automatique et a déposé une demande de brevet européen EP-1 à ce sujet. La division d'examen a rejeté la demande EP-1 par une décision datée du #date#0#enddate#. De #date#2#enddate# à #date#3#enddate#, il est tombé malade d'une pneumonie prolongée en raison de son travail et a été manifestement alité pendant toute cette période. Aujourd'hui, il est rétabli et veut faire appel de la décision de rejet. Que peut-il faire ?"
                 },
                 {
                     "answers_false": [
@@ -10028,7 +10035,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-1MM|-8DD"
                     ],
                     "deadline": [
                         "+2MM"
@@ -10041,9 +10049,9 @@
                     "id_old": 146,
                     "normen": "Artikel 108 Beschwerdegebühr",
                     "startdate": "",
-                    "text_de": "#linkwiki#Auguste_Beernaert|Auguste Beernaert#endlink# hat eine europäische Patentanmeldung EP-1 auf einen sicheren Schiffsmotor eingereicht. EP-1 wird mit Beschluss vom #beginning#0#enddate# zurückgewiesen. Am #startdate#-1MM|-8DD#enddate# reicht er Beschwerde gegen den Zurückweisungsbeschluss ein. Er ist etwas knapp bei Kasse und zahlt daher erst heute, am #startdate##enddate# die Beschwerdegebühr. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Auguste_Beernaert|Auguste Beernaert#endlink# has filed a European patent application EP-1 on a safe marine engine. EP-1 is rejected by decision on #beginning#0#enddate#. On #beginning#-1MM|-8DD#enddate# he files an appeal against the rejection decision. He is a bit short on cash and therefore only pays the appeal fee today, on #startdate##enddate#. What is the legal situation?",
-                    "text_fr": "#linkwiki#Auguste_Beernaert|Auguste Beernaert#endlink# a déposé une demande de brevet européen EP-1 sur un moteur marin sûr. EP-1 est rejetée par décision le #beginning#0#enddate#. Le #startdate#-1MM|-8DD#enddate#, il dépose un recours contre la décision de rejet. Il est un peu à court d'argent et ne paie donc la taxe de recours qu'aujourd'hui, le #startdate##enddate#. Quelle est la situation juridique ?"
+                    "text_de": "#linkwiki#Auguste_Beernaert|Auguste Beernaert#endlink# hat eine europäische Patentanmeldung EP-1 auf einen sicheren Schiffsmotor eingereicht. EP-1 wird mit Beschluss vom #date#0#enddate# zurückgewiesen. Am #date#2#enddate# reicht er Beschwerde gegen den Zurückweisungsbeschluss ein. Er ist etwas knapp bei Kasse und zahlt daher erst heute, am #date#3#enddate# die Beschwerdegebühr. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#Auguste_Beernaert|Auguste Beernaert#endlink# has filed a European patent application EP-1 on a safe marine engine. EP-1 is rejected by decision on #date#0#enddate#. On #date#2#enddate# he files an appeal against the rejection decision. He is a bit short on cash and therefore only pays the appeal fee today, on #date#3#enddate#. What is the legal situation?",
+                    "text_fr": "#linkwiki#Auguste_Beernaert|Auguste Beernaert#endlink# a déposé une demande de brevet européen EP-1 sur un moteur marin sûr. EP-1 est rejetée par décision le #date#0#enddate#. Le #date#2#enddate#, il dépose un recours contre la décision de rejet. Il est un peu à court d'argent et ne paie donc la taxe de recours qu'aujourd'hui, le #date#3#enddate#. Quelle est la situation juridique ?"
                 },
                 {
                     "answers_false": [
@@ -10236,7 +10244,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+2MM",
+                        "startdate"
                     ],
                     "deadline": [
                         "+2MM"
@@ -10249,9 +10259,9 @@
                     "id_old": 150,
                     "normen": "Artikel 109 Abhilfe",
                     "startdate": "",
-                    "text_de": "#linkwiki#Cyril_Norman_Hinshelwood|Cyril Hinshelwood#endlink# hat eine europäische Patentanmeldung EP-1 auf eine Durchführung einer Kettenreaktion bei der Erzeugung von Wasser eingereicht. Die Prüfungsstelle hat die Anmeldung zurückgewiesen. Hinshelwood meint, dass die Prüfungsstelle die Anmeldung nicht verstanden hat und legt fristgerecht am #beginning#0#enddate# Beschwerde ein. Die Beschwerdebegründung reicht er am #beginning#0|+2MM#enddate# nach. Der Prüfer der Prüfungsstelle hat nach dem Lesen der Beschwerdebegründung die Ansicht erlangt, dass eine Patenterteilung doch gerchtfertigt wäre. Was kann er heute, am #startdate##enddate# machen, um eine Patenterteilung zu erreichen? ",
-                    "text_en": "#linkwiki#Cyril_Norman_Hinshelwood|Cyril Hinshelwood#endlink# filed a European patent application EP-1 on the performance of a chain reaction in the generation of water. The Examining Division has rejected the application.  Hinshelwood thinks that the Examining Division did not understand the application and files an appeal in due time on #beginning#0#enddate#. He files the grounds of appeal on #beginning#0|+2MM#enddate#. After reading the grounds of appeal, the examiner of the Examining Division has come to the conclusion that a patent grant would be justified after all. What can he do today, on #startdate##enddate#, to obtain a patent grant?",
-                    "text_fr": "#linkwiki#Cyril_Norman_Hinshelwood|Cyril Hinshelwood#endlink# a déposé une demande de brevet européen EP-1 sur la réalisation d'une réaction en chaîne dans la génération d'eau. La division d'examen a rejeté la demande.  Hinshelwood pense que la Division d'examen n'a pas compris la demande et dépose un recours en temps utile sur #beginning#0#enddate#. Il dépose les motifs du recours le #beginning#0|+2MM#enddate#. Après avoir lu les motifs du recours, l'examinateur de la division d'examen est arrivé à la conclusion que la délivrance du brevet serait finalement justifiée. Que peut-il faire aujourd'hui, le #beginning##enddate#, pour obtenir la délivrance du brevet ?"
+                    "text_de": "#linkwiki#Cyril_Norman_Hinshelwood|Cyril Hinshelwood#endlink# hat eine europäische Patentanmeldung EP-1 auf eine Durchführung einer Kettenreaktion bei der Erzeugung von Wasser eingereicht. Die Prüfungsstelle hat die Anmeldung zurückgewiesen. Hinshelwood meint, dass die Prüfungsstelle die Anmeldung nicht verstanden hat und legt fristgerecht am #date#0#enddate# Beschwerde ein. Die Beschwerdebegründung reicht er am #date#2#enddate# nach. Der Prüfer der Prüfungsstelle hat nach dem Lesen der Beschwerdebegründung die Ansicht erlangt, dass eine Patenterteilung doch gerchtfertigt wäre. Was kann er heute, am #date#3#enddate# machen, um eine Patenterteilung zu erreichen? ",
+                    "text_en": "#linkwiki#Cyril_Norman_Hinshelwood|Cyril Hinshelwood#endlink# filed a European patent application EP-1 on the performance of a chain reaction in the generation of water. The Examining Division has rejected the application.  Hinshelwood thinks that the Examining Division did not understand the application and files an appeal in due time on #date#0#enddate#. He files the grounds of appeal on #date#2#enddate#. After reading the grounds of appeal, the examiner of the Examining Division has come to the conclusion that a patent grant would be justified after all. What can he do today, on #date#3#enddate#, to obtain a patent grant?",
+                    "text_fr": "#linkwiki#Cyril_Norman_Hinshelwood|Cyril Hinshelwood#endlink# a déposé une demande de brevet européen EP-1 sur la réalisation d'une réaction en chaîne dans la génération d'eau. La division d'examen a rejeté la demande.  Hinshelwood pense que la Division d'examen n'a pas compris la demande et dépose un recours en temps utile sur #date#0#enddate#. Il dépose les motifs du recours le #date#2#enddate#. Après avoir lu les motifs du recours, l'examinateur de la division d'examen est arrivé à la conclusion que la délivrance du brevet serait finalement justifiée. Que peut-il faire aujourd'hui, le #date#3#enddate#, pour obtenir la délivrance du brevet ?"
                 },
                 {
                     "answers_false": [
@@ -11199,9 +11209,9 @@
                             "text_fr": "La division d'examen peut accorder un redressement contre la décision si Angell dépose une demande de redressement recevable."
                         },
                         {
-                            "text_de": "Die Beschwerdebegründung muss bis zum #startdate#+10DD|+3MM#enddate# eingereicht sein.",
-                            "text_en": "The statement of grounds of appeal must be filed by #startdate#+10DD|+3MM#enddate#.",
-                            "text_fr": "Le mémoire exposant les motifs du recours doit être déposé au plus tard le #startdate#+10DD|+3MM#enddate#."
+                            "text_de": "Die Beschwerdebegründung muss bis zum #date#4#enddate# eingereicht sein.",
+                            "text_en": "The statement of grounds of appeal must be filed by #date#4#enddate#.",
+                            "text_fr": "Le mémoire exposant les motifs du recours doit être déposé au plus tard le #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
@@ -11221,7 +11231,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-1MM|+10DD",
+                        "startdate",
+                        "startdate|+10DD|+3MM"
                     ],
                     "deadline": [
                         "+2MM|+10DD"
@@ -11234,9 +11247,9 @@
                     "id_old": 407,
                     "normen": "",
                     "startdate": "",
-                    "text_de": "#linkwiki#Norman_Angell|Norman Angell#endlink# hat eine europäische Patentanmeldung EP-1 eingereicht. Zum Leidwesen von Angell wurde EP-1 wegen mangelnder erfinderischer Tätigkeit zurückgewiesen. Die Entscheidung trägt als Datum den #beginning#0#enddate#. Gegen diesen Beschluss hat Angell am #startdate#-1MM|+10DD#enddate# Beschwerde eingelegt. Markieren Sie die folgenden Aussagen, wenn sie heute, am #startdate##enddate#, wahr sind.",
-                    "text_en": "#linkwiki#Norman_Angell|Norman Angell#endlink# has filed a European patent application EP-1. Unfortunately for Angell, EP-1 was rejected for lack of inventive step. The decision bears #beginning#0#enddate# as its date. Angell filed an appeal against this decision on #startdate#-1MM|+10DD#enddate#. Mark the following statements if they are true today, #startdate##enddate#.",
-                    "text_fr": "#linkwiki#Norman_Angell|Norman Angell#endlink# a déposé une demande de brevet européen EP-1. Malheureusement pour Angell, EP-1 a été rejetée pour manque d'activité inventive. La décision porte comme date #beginning#0#enddate#. Angell a déposé un recours contre cette décision le #startdate#-1MM|+10DD#enddate#. Cochez les affirmations suivantes si elles sont vraies aujourd'hui, #startdate##enddate#."
+                    "text_de": "#linkwiki#Norman_Angell|Norman Angell#endlink# hat eine europäische Patentanmeldung EP-1 eingereicht. Zum Leidwesen von Angell wurde EP-1 wegen mangelnder erfinderischer Tätigkeit zurückgewiesen. Die Entscheidung trägt als Datum den #date#0#enddate#. Gegen diesen Beschluss hat Angell am #date#2#enddate# Beschwerde eingelegt. Markieren Sie die folgenden Aussagen, wenn sie heute, am #date#3#enddate#, wahr sind.",
+                    "text_en": "#linkwiki#Norman_Angell|Norman Angell#endlink# has filed a European patent application EP-1. Unfortunately for Angell, EP-1 was rejected for lack of inventive step. The decision bears #date#0#enddate# as its date. Angell filed an appeal against this decision on #date#2#enddate#. Mark the following statements if they are true today, #date#3#enddate#.",
+                    "text_fr": "#linkwiki#Norman_Angell|Norman Angell#endlink# a déposé une demande de brevet européen EP-1. Malheureusement pour Angell, EP-1 a été rejetée pour manque d'activité inventive. La décision porte comme date #date#0#enddate#. Angell a déposé un recours contre cette décision le #date#2#enddate#. Cochez les affirmations suivantes si elles sont vraies aujourd'hui, #date#3#enddate#."
                 },
                 {
                     "answers_false": [
