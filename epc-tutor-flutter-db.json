@@ -14176,9 +14176,9 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+4MM#enddate#.",
-                            "text_en": "By #deadline#0|+4MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+4MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
                             "text_de": "Lawrence muss keinen neuen Verteter bestellen. Da das Krankheitsende absehbar ist wird das Verfahren bis zur Gesundung des zugelassenen Verteters unterbrochen.",
@@ -14186,16 +14186,16 @@
                             "text_fr": "Lawrence n'a pas besoin de désigner un nouveau représentant. La fin de la maladie étant prévisible, la procédure est suspendue jusqu'au rétablissement du représentant agréé."
                         },
                         {
-                            "text_de": "Bis zum #deadline#1#enddate#.",
-                            "text_en": "By #deadline#1#enddate#.",
-                            "text_fr": "Avant le #deadline#1#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Lawrence wird, wenn er bis zum #deadline#1#enddate# keinen neuen Verteter benannt hat, vom EPA aufgefordert dies zu tun.",
-                            "text_en": "If Lawrence has not named a new representative by the #deadline#1#enddate#, he will be required by EPA or EPO? to do so.",
-                            "text_fr": "Si Lawrence n'a pas nommé un nouveau représentant avant le #deadline#1#enddate#, il sera tenu par l'EPA ou l'EPO ? de le faire."
+                            "text_de": "Lawrence wird, wenn er bis zum #date#3#enddate# keinen neuen Verteter benannt hat, vom EPA aufgefordert dies zu tun.",
+                            "text_en": "If Lawrence has not named a new representative by the #date#3#enddate#, he will be required by EPA or EPO? to do so.",
+                            "text_fr": "Si Lawrence n'a pas nommé un nouveau représentant avant le #date#3#enddate#, il sera tenu par l'EPA ou l'EPO ? de le faire."
                         }
                     ],
                     "beginning": [
@@ -14206,7 +14206,8 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "deadline[0]|+4MM"
                     ],
                     "deadline": [
                         "+2MM|+10DD",
@@ -14220,9 +14221,9 @@
                     "id_old": 226,
                     "normen": "Regel 142 Unterbrechung IV 1c)",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Ernest_Lawrence|Ernest Lawrence#endlink# hat ein Zyklotron entwickelt und auf diese Erfindung am #beginning#0#enddate# eine Europäische Patentanmeldung EP-1 angemeldet. Er hat so große Sorgen ein Patent erteilt zu bekommen, dass er seinen zugelassenen Verteter mehrmals täglich kontaktiert. Nach fünf Monaten muss der Verteter stationär in ein Krankenhaus, um seine angegriffenen Nerven zu erholen. Die Ärzte gehen davon aus, dass der Verteter ein halbes Jahr zur Gesundung benötigt. Die Erkrankung wird dem Europäischen Patentamt am #beginning#1#enddate# mitgeteilt. Wie lange hat Lawrence Zeit, einen neuen Verteter zu bestellen?",
-                    "text_en": "#linkwiki#Ernest_Lawrence|Ernest Lawrence#endlink# developed a cyclotron and has filed a European patent application EP-1 on this invention on #beginning#0#enddate#. He is so worried about getting a patent granted that he contacts his authorized representative several times a day. After five months, the representative has to be hospitalized to recover his damaged nerves. Doctors estimate that Lawrence’s representative will need six months to recover. The illness will be reported to the European Patent Office on #beginning#1#enddate. How long does Lawrence have to order a new representative?",
-                    "text_fr": "#linkwiki#Ernest_Lawrence|Ernest Lawrence#endlink# a mis au point un cyclotron et a déposé une demande de brevet européen EP-1 sur cette invention le #beginning#0#enddate#. Il est tellement préoccupé par l'obtention du brevet qu'il contacte son mandataire plusieurs fois par jour. Après cinq mois, le représentant doit être hospitalisé pour récupérer ses nerfs endommagés. Les médecins estiment que le représentant de Lawrence aura besoin de six mois pour se rétablir. La maladie sera signalée à l'Office européen des brevets le #beginning#1#enddate#. Combien de temps Lawrence a-t-il pour commander un nouveau représentant ?"
+                    "text_de": "#linkwiki#Ernest_Lawrence|Ernest Lawrence#endlink# hat ein Zyklotron entwickelt und auf diese Erfindung am #date#0#enddate# eine Europäische Patentanmeldung EP-1 angemeldet. Er hat so große Sorgen ein Patent erteilt zu bekommen, dass er seinen zugelassenen Verteter mehrmals täglich kontaktiert. Nach fünf Monaten muss der Verteter stationär in ein Krankenhaus, um seine angegriffenen Nerven zu erholen. Die Ärzte gehen davon aus, dass der Verteter ein halbes Jahr zur Gesundung benötigt. Die Erkrankung wird dem Europäischen Patentamt am #date#1#enddate# mitgeteilt. Wie lange hat Lawrence Zeit, einen neuen Verteter zu bestellen?",
+                    "text_en": "#linkwiki#Ernest_Lawrence|Ernest Lawrence#endlink# developed a cyclotron and has filed a European patent application EP-1 on this invention on #date#0#enddate#. He is so worried about getting a patent granted that he contacts his authorized representative several times a day. After five months, the representative has to be hospitalized to recover his damaged nerves. Doctors estimate that Lawrence’s representative will need six months to recover. The illness will be reported to the European Patent Office on #date#1#enddate#. How long does Lawrence have to order a new representative?",
+                    "text_fr": "#linkwiki#Ernest_Lawrence|Ernest Lawrence#endlink# a mis au point un cyclotron et a déposé une demande de brevet européen EP-1 sur cette invention le #date#0#enddate#. Il est tellement préoccupé par l'obtention du brevet qu'il contacte son mandataire plusieurs fois par jour. Après cinq mois, le représentant doit être hospitalisé pour récupérer ses nerfs endommagés. Les médecins estiment que le représentant de Lawrence aura besoin de six mois pour se rétablir. La maladie sera signalée à l'Office européen des brevets le #date#1#enddate#. Combien de temps Lawrence a-t-il pour commander un nouveau représentant ?"
                 },
                 {
                     "answers_false": [
@@ -14237,16 +14238,16 @@
                             "text_fr": "Bridgman doit désigner un nouveau représentant. Or, le délai prévu à la règle 142(3) CBE est de trois mois."
                         },
                         {
-                            "text_de": "Bridgman muss bis zum #deadline#1|+1DD#enddate# einen neuen Verteter benannt haben.",
-                            "text_en": "Bridgman must have a new representative named by #deadline#1|+1DD#enddate#.",
-                            "text_fr": "Bridgman doit avoir un nouveau représentant nommé d'ici #deadline#1|+1DD#enddate#."
+                            "text_de": "Bridgman muss bis zum #date#4#enddate# einen neuen Verteter benannt haben.",
+                            "text_en": "Bridgman must have a new representative named by #date#4#enddate#.",
+                            "text_fr": "Bridgman doit avoir un nouveau représentant nommé d'ici #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bridgman muss bis zum #deadline#1#enddate# einen neuen Verteter benannt haben.",
-                            "text_en": "Bridgman must have a new representative named by the #deadline#1#enddate#.",
-                            "text_fr": "Bridgman doit avoir un nouveau représentant nommé avant la #deadline#1#enddate#."
+                            "text_de": "Bridgman muss bis zum #date#3#enddate# einen neuen Verteter benannt haben.",
+                            "text_en": "Bridgman must have a new representative named by the #date#3#enddate#.",
+                            "text_fr": "Bridgman doit avoir un nouveau représentant nommé avant la #date#3#enddate#."
                         }
                     ],
                     "beginning": [
@@ -14257,7 +14258,8 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "deadline[1]|+1DD"
                     ],
                     "deadline": [
                         "+2MM|+10DD",
@@ -14271,33 +14273,33 @@
                     "id_old": 227,
                     "normen": "Regel 142 Unterbrechung IV 1c)",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Percy_Williams_Bridgman|Percy William Bridgman#endlink# hat eine Vorrichtung zur Erzeugung von hohen Drücken entwickelt und auf diese Erfindung am #beginning#0#enddate# eine Europäische Patentanmeldung EP-1 eingereicht. Einer seiner Freunde ist zugelassener Vetreter und vetritt ihn vor dem Europäischen Patentamt. Aufgrund einer schweren Erkrankung verliert sein Freund die Geschäftsfähigkeit. Bridgman ist sehr betroffen und beachtet die Schreiben des Europäischen Patentamtes zunächst nicht. Vor fünf Tagen öffnet er diese aber doch. In einer Mitteilung, die ihm am #beginning#1#enddate# zugestellt wurde und am Tag vorher verfasst wurde, wird er aufgefordert, innerhalb von zwei Monaten einen neuen Verteter zu bestellen. Andernfalls gelte EP-1 als zurückgenommen. Wass muss Bridgman unternehmen um EP-1 zu retten?",
-                    "text_en": "#linkwiki#Percy_Williams_Bridgman|Percy William Bridgman#endlink# developed a device for generating high pressures and has filed a European patent application EP-1 on this invention on #beginning#0#enddate#. One of his friends is an admitted representative and represents him before the European Patent Office. Due to a serious illness, his friend loses his legal capacity. Bridgman is very concerned and does not pay attention to the letters from the European Patent Office at first. Five days ago, however, he does open them. In a notice delivered to him on #beginning#1#enddate# and written the day before, he is asked to appoint a new representative within two months. Otherwise, EP-1 would be considered withdrawn. What does Bridgman need to do to save EP-1?",
-                    "text_fr": "#linkwiki#Percy_Williams_Bridgman|Percy William Bridgman#endlink# a mis au point un dispositif permettant de générer des pressions élevées et a déposé une demande de brevet européen EP-1 sur cette invention le #beginning#0#enddate#. L'un de ses amis est un mandataire agréé et le représente devant l'Office européen des brevets. Suite à une grave maladie, son ami perd sa capacité juridique. Bridgman est très inquiet et ne prête d'abord pas attention aux lettres de l'Office européen des brevets. Il y a cinq jours, cependant, il les ouvre. Dans un avis qui lui a été remis le #beginning#1#enddate# et écrit la veille, il lui est demandé de désigner un nouveau mandataire dans les deux mois. Sinon, l'EP-1 sera considéré comme retiré. Que doit faire Bridgman pour sauver EP-1 ?"
+                    "text_de": "#linkwiki#Percy_Williams_Bridgman|Percy William Bridgman#endlink# hat eine Vorrichtung zur Erzeugung von hohen Drücken entwickelt und auf diese Erfindung am #date#0#enddate# eine Europäische Patentanmeldung EP-1 eingereicht. Einer seiner Freunde ist zugelassener Vetreter und vetritt ihn vor dem Europäischen Patentamt. Aufgrund einer schweren Erkrankung verliert sein Freund die Geschäftsfähigkeit. Bridgman ist sehr betroffen und beachtet die Schreiben des Europäischen Patentamtes zunächst nicht. Vor fünf Tagen öffnet er diese aber doch. In einer Mitteilung, die ihm am #date#1#enddate# zugestellt wurde und am Tag vorher verfasst wurde, wird er aufgefordert, innerhalb von zwei Monaten einen neuen Verteter zu bestellen. Andernfalls gelte EP-1 als zurückgenommen. Wass muss Bridgman unternehmen um EP-1 zu retten?",
+                    "text_en": "#linkwiki#Percy_Williams_Bridgman|Percy William Bridgman#endlink# developed a device for generating high pressures and has filed a European patent application EP-1 on this invention on #date#0#enddate#. One of his friends is an admitted representative and represents him before the European Patent Office. Due to a serious illness, his friend loses his legal capacity. Bridgman is very concerned and does not pay attention to the letters from the European Patent Office at first. Five days ago, however, he does open them. In a notice delivered to him on #date#1#enddate# and written the day before, he is asked to appoint a new representative within two months. Otherwise, EP-1 would be considered withdrawn. What does Bridgman need to do to save EP-1?",
+                    "text_fr": "#linkwiki#Percy_Williams_Bridgman|Percy William Bridgman#endlink# a mis au point un dispositif permettant de générer des pressions élevées et a déposé une demande de brevet européen EP-1 sur cette invention le #date#0#enddate#. L'un de ses amis est un mandataire agréé et le représente devant l'Office européen des brevets. Suite à une grave maladie, son ami perd sa capacité juridique. Bridgman est très inquiet et ne prête d'abord pas attention aux lettres de l'Office européen des brevets. Il y a cinq jours, cependant, il les ouvre. Dans un avis qui lui a été remis le #date#1#enddate# et écrit la veille, il lui est demandé de désigner un nouveau mandataire dans les deux mois. Sinon, l'EP-1 sera considéré comme retiré. Que doit faire Bridgman pour sauver EP-1 ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Frist läuft bis zum #deadline#1#enddate#.",
-                            "text_en": "The deadline is #deadline#1#enddate#.",
-                            "text_fr": "La date limite est #deadline#1#enddate#."
+                            "text_de": "Die Frist läuft bis zum #date#4#enddate#.",
+                            "text_en": "The deadline is #date#4#enddate#.",
+                            "text_fr": "La date limite est #date#4#enddate#."
                         },
                         {
-                            "text_de": "Die Frist läuft bis zum #deadline#2#enddate#.",
-                            "text_en": "The deadline is #deadline#2#enddate#.",
-                            "text_fr": "La date limite est #deadline#2#enddate#."
+                            "text_de": "Die Frist läuft bis zum #date#5#enddate#.",
+                            "text_en": "The deadline is #date#5#enddate#.",
+                            "text_fr": "La date limite est #date#5#enddate#."
                         },
                         {
-                            "text_de": "Die Frist läuft bis zum #deadline#0|+15DD#enddate#.",
-                            "text_en": "The deadline is #deadline#0|+15DD#enddate#.",
-                            "text_fr": "La date limite est #deadline#0|+15DD#enddate#."
+                            "text_de": "Die Frist läuft bis zum #date#6#enddate#.",
+                            "text_en": "The deadline is #date#6#enddate#.",
+                            "text_fr": "La date limite est #date#6#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist läuft bis zum #deadline#0#enddate#.",
-                            "text_en": "The deadline is #deadline#0#enddate#.",
-                            "text_fr": "La date limite est #deadline#0#enddate#."
+                            "text_de": "Die Frist läuft bis zum #date#3#enddate#.",
+                            "text_en": "The deadline is #date#3#enddate#.",
+                            "text_fr": "La date limite est #date#3#enddate#."
                         }
                     ],
                     "beginning": [
@@ -14311,7 +14313,8 @@
                         "beginning[2]",
                         "deadline[0]",
                         "deadline[1]",
-                        "deadline[2]"
+                        "deadline[2]",
+                        "deadline[0]|+15DD"
                     ],
                     "deadline": [
                         "+6MM",
@@ -14326,33 +14329,33 @@
                     "id_old": 228,
                     "normen": "Regel 142 (4) Unterbrechung V ",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Edward_Victor_Appleton|Edward Victor Appleton#endlink# hat ein Radar-Verfahren entwickelt und auf diese Erfindung eine Europäische Patentanmeldung EP-1 eingereicht. Auf die Veröffentlichung des europäischen Recherchenberichts wird am #beginning#0#enddate# hingewiesen. Sein Verteter hat  am #beginning#1#enddate# einen schweren Autounfall, was dem Europäischen Patentamt sofort angezeigt wird. Aufgrund des Unfalls ist der Verteter bis zum #beginning#2#enddate# geschäftsunfähig. Bis wann lief/läuft die Frist zur Stellung des Prüfungsantrags?",
-                    "text_en": "#linkwiki#Edward_Victor_Appleton|Edward Victor Appleton#endlink# developed a radar method and has filed a European patent application EP-1 on this invention. Reference is made to the publication of the European search report on #beginning#0#enddate#. His representative unfortunately had a serious car accident on #beginning#1#enddate#, which  has been immediately reported to the European Patent Office. Due to the accident, the representative is legally incapacitated until #beginning#2#enddate#. What was/is the deadline for filing the request for examination?",
-                    "text_fr": "#linkwiki#Edward_Victor_Appleton|Edward Victor Appleton#endlink# a développé une méthode radar et a déposé une demande de brevet européen EP-1 sur cette invention. Il est fait référence à la publication du rapport de recherche européen le #beginning#0#enddate#. Son représentant a malheureusement eu un grave accident de voiture le #beginning#1#enddate#, qui a été immédiatement signalé à l'Office européen des brevets. En raison de cet accident, le mandataire est dans l'incapacité légale de travailler jusqu'au #beginning#2#enddate#. Quel était/est le délai pour déposer la requête en examen ?"
+                    "text_de": "#linkwiki#Edward_Victor_Appleton|Edward Victor Appleton#endlink# hat ein Radar-Verfahren entwickelt und auf diese Erfindung eine Europäische Patentanmeldung EP-1 eingereicht. Auf die Veröffentlichung des europäischen Recherchenberichts wird am #date#0#enddate# hingewiesen. Sein Verteter hat  am #date#1#enddate# einen schweren Autounfall, was dem Europäischen Patentamt sofort angezeigt wird. Aufgrund des Unfalls ist der Verteter bis zum #date#2#enddate# geschäftsunfähig. Bis wann lief/läuft die Frist zur Stellung des Prüfungsantrags?",
+                    "text_en": "#linkwiki#Edward_Victor_Appleton|Edward Victor Appleton#endlink# developed a radar method and has filed a European patent application EP-1 on this invention. Reference is made to the publication of the European search report on #date#0#enddate#. His representative unfortunately had a serious car accident on #date#1#enddate#, which  has been immediately reported to the European Patent Office. Due to the accident, the representative is legally incapacitated until #date#2#enddate#. What was/is the deadline for filing the request for examination?",
+                    "text_fr": "#linkwiki#Edward_Victor_Appleton|Edward Victor Appleton#endlink# a développé une méthode radar et a déposé une demande de brevet européen EP-1 sur cette invention. Il est fait référence à la publication du rapport de recherche européen le #date#0#enddate#. Son représentant a malheureusement eu un grave accident de voiture le #date#1#enddate#, qui a été immédiatement signalé à l'Office européen des brevets. En raison de cet accident, le mandataire est dans l'incapacité légale de travailler jusqu'au #date#2#enddate#. Quel était/est le délai pour déposer la requête en examen ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Frist lief bis zum #deadline#1#enddate#.",
-                            "text_en": "The deadline ran until #deadline#1#enddate#.",
-                            "text_fr": "Le délai courait jusqu'à #deadline#1#enddate#."
+                            "text_de": "Die Frist lief bis zum #date#4#enddate#.",
+                            "text_en": "The deadline ran until #date#4#enddate#.",
+                            "text_fr": "Le délai courait jusqu'à #date#4#enddate#."
                         },
                         {
-                            "text_de": "Die Frist lief bis zum #deadline#0#enddate#.",
-                            "text_en": "The deadline ran until #deadline#0#enddate#.",
-                            "text_fr": "Le délai courait jusqu'à #deadline#0#enddate#."
+                            "text_de": "Die Frist lief bis zum #date#3#enddate#.",
+                            "text_en": "The deadline ran until #date#3#enddate#.",
+                            "text_fr": "Le délai courait jusqu'à #date#3#enddate#."
                         },
                         {
-                            "text_de": "Die Frist lief bis zum #deadline#0|+15DD#enddate#.",
-                            "text_en": "The deadline ran until #deadline#0|+15DD#enddate#.",
-                            "text_fr": "Le délai courait jusqu'à #deadline#0|+15DD#enddate#."
+                            "text_de": "Die Frist lief bis zum #date#6#enddate#.",
+                            "text_en": "The deadline ran until #date#6#enddate#.",
+                            "text_fr": "Le délai courait jusqu'à #date#6#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist läuft bis zum #deadline#2#enddate#.",
-                            "text_en": "The deadline is #deadline#2#enddate#.",
-                            "text_fr": "La date limite est #deadline#2#enddate#."
+                            "text_de": "Die Frist läuft bis zum #date#5#enddate#.",
+                            "text_en": "The deadline is #date#5#enddate#.",
+                            "text_fr": "La date limite est #date#5#enddate#."
                         }
                     ],
                     "beginning": [
@@ -14366,7 +14369,8 @@
                         "beginning[2]",
                         "deadline[0]",
                         "deadline[1]",
-                        "deadline[2]"
+                        "deadline[2]",
+                        "deadline[0]|+15DD"
                     ],
                     "deadline": [
                         "+6MM",
@@ -14381,9 +14385,9 @@
                     "id_old": 229,
                     "normen": "Regel 142 (4) Unterbrechung VI",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Gabriela_Mistral|Gabriela Mistral#endlink# hat eine Schneidemaschine für Buchseiten erforscht und auf diese Erfindung eine Europäische Patentanmeldung EP-1 eingereicht. Auf die Veröffentlichung des europäischen Recherchenberichts von EP-1 wird am #beginning#0#enddate# hingewiesen. Mistrals Verteter stirbt plötzlich am #beginning#1#enddate# einen schweren Autounfall, was dem Europäischen Patentamt sofort angezeigt wird. Ein neuer Verteter wird am #beginning#2#enddate# bestellt. Bis wann lief/läuft die Frist zur Stellung des Prüfungsantrags?",
-                    "text_en": "#linkwiki#Gabriela_Mistral|Gabriela Mistral#endlink# has been researching a book page cutting machine and has recently filed a European patent application EP-1 on this invention. Reference is made to the publication of the EP-1 European search report on #beginning#0#enddate#. Mistral's representative dies suddenly in a serious car accident on #beginning#1#enddate#, which is immediately reported to the European Patent Office. A new representative is appointed on #beginning#2#enddate#. What was/is the deadline for filing the request for examination?",
-                    "text_fr": "#linkwiki#Gabriela_Mistral|Gabriela Mistral#endlink# a effectué des recherches sur une machine à découper les pages de livres et a récemment déposé une demande de brevet européen EP-1 sur cette invention. Il est fait référence à la publication du rapport de recherche européenne EP-1 le #beginning#0#enddate#. Le mandataire de Mistral meurt subitement dans un grave accident de voiture le #beginning#1#enddate#, ce qui est immédiatement signalé à l'Office européen des brevets. Un nouveau mandataire est nommé le #beginning#2#enddate#. Quel était/est le délai pour déposer la requête en examen ?"
+                    "text_de": "#linkwiki#Gabriela_Mistral|Gabriela Mistral#endlink# hat eine Schneidemaschine für Buchseiten erforscht und auf diese Erfindung eine Europäische Patentanmeldung EP-1 eingereicht. Auf die Veröffentlichung des europäischen Recherchenberichts von EP-1 wird am #date#0#enddate# hingewiesen. Mistrals Verteter stirbt plötzlich am #date#1#enddate# einen schweren Autounfall, was dem Europäischen Patentamt sofort angezeigt wird. Ein neuer Verteter wird am #date#2#enddate# bestellt. Bis wann lief/läuft die Frist zur Stellung des Prüfungsantrags?",
+                    "text_en": "#linkwiki#Gabriela_Mistral|Gabriela Mistral#endlink# has been researching a book page cutting machine and has recently filed a European patent application EP-1 on this invention. Reference is made to the publication of the EP-1 European search report on #date#0#enddate#. Mistral's representative dies suddenly in a serious car accident on #date#1#enddate#, which is immediately reported to the European Patent Office. A new representative is appointed on #date#2#enddate#. What was/is the deadline for filing the request for examination?",
+                    "text_fr": "#linkwiki#Gabriela_Mistral|Gabriela Mistral#endlink# a effectué des recherches sur une machine à découper les pages de livres et a récemment déposé une demande de brevet européen EP-1 sur cette invention. Il est fait référence à la publication du rapport de recherche européenne EP-1 le #date#0#enddate#. Le mandataire de Mistral meurt subitement dans un grave accident de voiture le #date#1#enddate#, ce qui est immédiatement signalé à l'Office européen des brevets. Un nouveau mandataire est nommé le #date#2#enddate#. Quel était/est le délai pour déposer la requête en examen ?"
                 },
                 {
                     "answers_false": [
@@ -14751,7 +14755,8 @@
                         "beginning[2]",
                         "deadline[0]",
                         "deadline[1]",
-                        "deadline[2]"
+                        "deadline[2]",
+                        "deadline[0]|+1DD"
                     ],
                     "deadline": [
                         "+2MM|+10DD",
@@ -14759,16 +14764,16 @@
                         "+2MM"
                     ],
                     "difficulty": "3",
-                    "explanation_de": "Die Frist zur Beantragung einer Weiterbehandlung ist am #deadline#0#enddate# abgelaufen. Eine Weiterbehandlung hängt auch nicht davon ab, ob die gebotene Sorgfalt beachtet wurde.\n\nHinsichtlich der Wiedereinsetzung muss man beachten, dass man den Antrag natürlich auch stellen kann, wenn die gebotene Sorgfalt nicht gewaltet hat. Dies sind die Fälle, in denen dem Antrag nicht statt gegeben wird",
+                    "explanation_de": "Die Frist zur Beantragung einer Weiterbehandlung ist am #date#3#enddate# abgelaufen. Eine Weiterbehandlung hängt auch nicht davon ab, ob die gebotene Sorgfalt beachtet wurde.\n\nHinsichtlich der Wiedereinsetzung muss man beachten, dass man den Antrag natürlich auch stellen kann, wenn die gebotene Sorgfalt nicht gewaltet hat. Dies sind die Fälle, in denen dem Antrag nicht statt gegeben wird.",
                     "explanation_en": "With regard to reinstatement, it is important to note that the application can, of course, be made even if due diligence was not exercised. These are the cases in which an application is not granted.",
                     "explanation_fr": "En ce qui concerne la réintégration, il est important de noter que la demande peut, bien entendu, être faite même si la diligence raisonnable n'a pas été exercée. Voici les cas dans lesquels une demande n'est pas accordée.",
                     "id": 291,
                     "id_old": 437,
                     "normen": "Artikel 121, 122 EPÜ Weiterbehandlung, Wiedereinsetzung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#John_Cockcroft|John Cockcroft#endlink# hat in einer Anmeldung EP-1 einen Bescheid mit einer Frist erhalten. Da er diesen nicht beantwortet hat er am am #beginning#0#enddate# die Mitteilung über den Rechtsverlust zugestellt bekommen. Diese Mitteilung findet er am #deadline#0|+1DD#enddate# in Unterlagen für einen Vortrag zur Erfindung. Was kann Cockcroft unternehmen?",
-                    "text_en": "#linkwiki#John_Cockcroft|John Cockcroft#endlink# received a notice with a deadline in an EP-1 application. Since he did not answer it, he has been served with the notice of loss of rights on #beginning#0#enddate#. He finds this notice on #deadline#0|+1DD#enddate# in documents for a presentation on the invention. What can Cockcroft do?",
-                    "text_fr": "#linkwiki#John_Cockcroft|John Cockcroft#endlink# a reçu un avis avec un délai dans une demande EP-1. Comme il n'y a pas répondu, il a reçu l'avis de perte de droits le #beginning#0#enddate#. Il trouve cet avis le #deadline#0|+1DD#enddate# dans des documents pour une présentation de l'invention. Que peut faire Cockcroft ?"
+                    "text_de": "#linkwiki#John_Cockcroft|John Cockcroft#endlink# hat in einer Anmeldung EP-1 einen Bescheid mit einer Frist erhalten. Da er diesen nicht beantwortet hat er am am #date#0#enddate# die Mitteilung über den Rechtsverlust zugestellt bekommen. Diese Mitteilung findet er am #date#6#enddate# in Unterlagen für einen Vortrag zur Erfindung. Was kann Cockcroft unternehmen?",
+                    "text_en": "#linkwiki#John_Cockcroft|John Cockcroft#endlink# received a notice with a deadline in an EP-1 application. Since he did not answer it, he has been served with the notice of loss of rights on #date#0#enddate#. He finds this notice on #date#6#enddate# in documents for a presentation on the invention. What can Cockcroft do?",
+                    "text_fr": "#linkwiki#John_Cockcroft|John Cockcroft#endlink# a reçu un avis avec un délai dans une demande EP-1. Comme il n'y a pas répondu, il a reçu l'avis de perte de droits le #date#0#enddate#. Il trouve cet avis le #date#6#enddate# dans des documents pour une présentation de l'invention. Que peut faire Cockcroft ?"
                 }
             ],
             "info_de": "Allgemeine Vorschriften für das Verfahren, rechtliches Gehör und Grundlage der Entscheidungen, Ermittlungen von Amts wegen, Einwendungen Dritter, Weiterbehandlung, Wiedereinsetzung, Zustellung, Änderungen, Unterrichtung der Öffentlichkeit.",
