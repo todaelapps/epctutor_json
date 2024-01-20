@@ -2746,7 +2746,7 @@
             "info_fr": "Brevetabilité des inventions, exceptions à la brevetabilité, état de la technique, nouveauté, activité inventive, unité, divulgation, revendications et priorité.",
             "name_de": "Materielles Patentrecht",
             "name_en": "Substantive patent law",
-            "name_fr": "Droit substantiel des brevets",
+            "name_fr": "Droit des brevets",
             "number": 1,
             "version": 1
         },
@@ -5719,8 +5719,8 @@
             "info_en": "Filing date, division, search, publication, examination procedure, amendments and supplements, and patent grant, or rejection.",
             "info_fr": "Date de dépôt, division, recherche, publication, procédure d'examen, modifications et suppléments, et délivrance ou rejet du brevet.",
             "name_de": "Erteilungsverfahren",
-            "name_en": "Granting procedure",
-            "name_fr": "Procédure de délivrance",
+            "name_en": "Procedure up to grant",
+            "name_fr": "Procédure jusqu'à la délivrance",
             "number": 2,
             "version": 1
         },
@@ -9423,7 +9423,7 @@
             "info_en": "Opposition, grounds for opposition, examination of opposition, revocation or maintenance of European patent, limitation or revocation of European patent.",
             "info_fr": "Opposition, motifs d'opposition, examen de l'opposition, révocation ou maintien du brevet européen, limitation ou révocation du brevet européen.",
             "name_de": "Einspruchs- und Beschränkungsverfahren",
-            "name_en": "Opposition and restriction procedures",
+            "name_en": "Opposition and limitation procedures",
             "name_fr": "Procédures d'opposition et de limitation",
             "number": 4,
             "version": 1
@@ -11281,7 +11281,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+10DD|+2MM"
@@ -11294,17 +11295,17 @@
                     "id_old": 431,
                     "normen": "",
                     "startdate": "WE|-42DD",
-                    "text_de": "#linkwiki#Arthur_Henderson|Arthur Henderson#endlink# hat eine europäische Patentanmeldung EP-1 eingereicht. Das Prüfungsverfahren gestaltete sich schwierig. Schlußendlich wurde EP-1 in einer mündlichen Verhandlung zurückgewiesen. Die Verhandlung fand am #startdate##enddate# statt. Hier wurde Henderson das Ergebnis auch mitgeteilt. Der Beschluss wurde am #beginning#0#enddate# zugestellt. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Arthur_Henderson|Arthur Henderson#endlink# has filed a European patent application EP-1. The examination procedure proved difficult, though. Ultimately, EP-1 was rejected in an oral hearing. The hearing took place on #startdate##enddate#. This is also where Henderson was notified of the outcome. The decision was served on #beginning#0#enddate#. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Arthur_Henderson|Arthur Henderson#endlink# a déposé une demande de brevet européen EP-1. La procédure d'examen s'est toutefois avérée difficile. Finalement, EP-1 a été rejetée lors d'une audition orale. L'audience a eu lieu le #startdate##enddate#. C'est également à cette date que Henderson a été informé du résultat. La décision a été signifiée le #beginning#0#enddate#. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Arthur_Henderson|Arthur Henderson#endlink# hat eine europäische Patentanmeldung EP-1 eingereicht. Das Prüfungsverfahren gestaltete sich schwierig. Schlußendlich wurde EP-1 in einer mündlichen Verhandlung zurückgewiesen. Die Verhandlung fand am #date#2#enddate# statt. Hier wurde Henderson das Ergebnis auch mitgeteilt. Der Beschluss wurde am #beginning#0#enddate# zugestellt. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Arthur_Henderson|Arthur Henderson#endlink# has filed a European patent application EP-1. The examination procedure proved difficult, though. Ultimately, EP-1 was rejected in an oral hearing. The hearing took place on #date#2#enddate#. This is also where Henderson was notified of the outcome. The decision was served on #beginning#0#enddate#. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Arthur_Henderson|Arthur Henderson#endlink# a déposé une demande de brevet européen EP-1. La procédure d'examen s'est toutefois avérée difficile. Finalement, EP-1 a été rejetée lors d'une audition orale. L'audience a eu lieu le #date#2#enddate#. C'est également à cette date que Henderson a été informé du résultat. La décision a été signifiée le #beginning#0#enddate#. Laquelle des affirmations suivantes est correcte ?"
                 }
             ],
             "info_de": "Beschwerdefähige Entscheidungen, Frist und Form der Beschwerde, Beschwerdeberechtigung, Ablauf des Beschwerdeverfahrens, Beschwerdekammern.",
             "info_en": "Decisions subject to appeal, time limit and form of appeal, entitlement to appeal, course of appeal proceedings, Boards of Appeal.",
             "info_fr": "Décisions susceptibles de recours, délai et forme du recours, droit de recours, déroulement de la procédure de recours, chambres de recours.",
             "name_de": "Beschwerdeverfahren",
-            "name_en": "Complaints procedure",
-            "name_fr": "Procédure de réclamation",
+            "name_en": "Appeals procedure",
+            "name_fr": "Procédure de recours",
             "number": 5,
             "version": 1
         },
@@ -14770,7 +14771,7 @@
             "info_fr": "Règles générales de procédure, droit d'être entendu et fondement des décisions, enquêtes d'office, tierces objections, traitement ultérieur, réintégration, service, modifications, information du public.",
             "name_de": "Gemeinsame Vorschriften",
             "name_en": "Common rules",
-            "name_fr": "Règles communes",
+            "name_fr": "Dispositions communes",
             "number": 6,
             "version": 1
         },
