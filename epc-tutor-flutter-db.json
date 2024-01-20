@@ -11321,9 +11321,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #startdate#-1MM#enddate# war es noch möglich, die Jahresgebühr mit Zuschlagsgebühr zu bezahlen.",
-                            "text_en": "On #startdate#-1MM#enddate# it is still possible to pay the annual fee with surcharge.",
-                            "text_fr": "Le #startdate#-1MM#enddate#, il est encore possible de payer la cotisation annuelle avec une surcharge."
+                            "text_de": "Am #date#3#enddate# war es noch möglich, die Jahresgebühr mit Zuschlagsgebühr zu bezahlen.",
+                            "text_en": "On #date#3#enddate# it is still possible to pay the annual fee with surcharge.",
+                            "text_fr": "Le #date#3#enddate#, il est encore possible de payer la cotisation annuelle avec une surcharge."
                         },
                         {
                             "text_de": "Damit dem Antrag auf Wiedereinsetzung statt gegeben werden kann ist als eine Voraussetzung die dritte Jahresgebühr zu entrichten.",
@@ -11341,7 +11341,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-2YY|-8MM",
+                        "startdate|-1MM"
                     ],
                     "deadline": [
                         "+2MM"
@@ -11354,9 +11356,9 @@
                     "id_old": 170,
                     "normen": "Art. 122 EPÜ Wiedereinsetzung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Wilhelm_Conrad_Röntgen|Wilhelm Conrad Röntgen#endlink# mag eigentlich keine Patente. Um aber auch im Patentregister Stand der Technik zu schaffen hat er am #startdate#-2YY|-8MM#enddate# eine europäische Patentanmeldung eingereicht. Heute bemerkt er, dass die dritte Jahresgebühr nicht entrichtet wurde. Er beantragt Wiedereinsetzung in den vorigen Stand aufgrund einer Extremsituation, in der er sich befunden habe.",
-                    "text_en": "#linkwiki#Wilhelm_Conrad_Röntgen|Wilhelm Conrad Röntgen#endlink# does not really like patents; nevertheless, in order to create state of the art in the patent register, he has filed a European patent application on #startdate#-2YY|-8MM#enddate#. Today, he notices that the third renewal fee has not yet been paid. He requests restitutio in integrum due to an extreme situation he found himself in.",
-                    "text_fr": "#linkwiki#Wilhelm_Conrad_Röntgen|Wilhelm Conrad Röntgen#endlink# n'aime pas vraiment les brevets ; néanmoins, afin de créer un état de la technique dans le registre des brevets, il a déposé une demande de brevet européen le #startdate#-2YY|-8MM#enddate#. Aujourd'hui, il constate que la troisième taxe de renouvellement n'a pas encore été payée. Il demande la restitutio in integrum en raison d'une situation extrême dans laquelle il s'est trouvé."
+                    "text_de": "#linkwiki#Wilhelm_Conrad_Röntgen|Wilhelm Conrad Röntgen#endlink# mag eigentlich keine Patente. Um aber auch im Patentregister Stand der Technik zu schaffen hat er am #date#2#enddate# eine europäische Patentanmeldung eingereicht. Heute bemerkt er, dass die dritte Jahresgebühr nicht entrichtet wurde. Er beantragt Wiedereinsetzung in den vorigen Stand aufgrund einer Extremsituation, in der er sich befunden habe.",
+                    "text_en": "#linkwiki#Wilhelm_Conrad_Röntgen|Wilhelm Conrad Röntgen#endlink# does not really like patents; nevertheless, in order to create state of the art in the patent register, he has filed a European patent application on #date#2#enddate#. Today, he notices that the third renewal fee has not yet been paid. He requests restitutio in integrum due to an extreme situation he found himself in.",
+                    "text_fr": "#linkwiki#Wilhelm_Conrad_Röntgen|Wilhelm Conrad Röntgen#endlink# n'aime pas vraiment les brevets ; néanmoins, afin de créer un état de la technique dans le registre des brevets, il a déposé une demande de brevet européen le #date#2#enddate#. Aujourd'hui, il constate que la troisième taxe de renouvellement n'a pas encore été payée. Il demande la restitutio in integrum en raison d'une situation extrême dans laquelle il s'est trouvé."
                 },
                 {
                     "answers_false": [
@@ -12207,7 +12209,8 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "startdate"
                     ],
                     "deadline": [
                         "-2MM|-10DD",
@@ -12221,9 +12224,9 @@
                     "id_old": 188,
                     "normen": "Artikel 128 (1) Akteneinsicht",
                     "startdate": "SU|-1MM",
-                    "text_de": "#linkwiki#Max_von_Laue|Max von Laue#endlink# hat am #startdate##enddate# eine europäische Patentanmeldung EP-1 auf ein Beugungskristall angemeldet. Er möchte mit der Anmeldung werben und wartet darauf, dass die Anmeldung im Europäischen Patentregister eingetragen wird. Kann er in vier Monaten sicher mit einer Eintragung in das Europäische Patentregister rechnen?",
-                    "text_en": "#linkwiki#Max_von_Laue|Max von Laue#endlink# filed a European patent application EP-1 on a diffraction crystal on #startdate##enddate#. He wants to advertise with the application and is waiting for the application to be registered in the European Patent Register. Can he safely expect an entry in the European Patent Register within four months?",
-                    "text_fr": "#linkwiki#Max_von_Laue|Max von Laue#endlink# a déposé une demande de brevet européen EP-1 sur un cristal de diffraction le #startdate##enddate#. Il veut faire de la publicité avec cette demande et attend que la demande soit enregistrée dans le registre européen des brevets. Peut-il s'attendre sans risque à une inscription au Registre européen des brevets dans un délai de quatre mois ?"
+                    "text_de": "#linkwiki#Max_von_Laue|Max von Laue#endlink# hat am #date#2#enddate# eine europäische Patentanmeldung EP-1 auf ein Beugungskristall angemeldet. Er möchte mit der Anmeldung werben und wartet darauf, dass die Anmeldung im Europäischen Patentregister eingetragen wird. Kann er in vier Monaten sicher mit einer Eintragung in das Europäische Patentregister rechnen?",
+                    "text_en": "#linkwiki#Max_von_Laue|Max von Laue#endlink# filed a European patent application EP-1 on a diffraction crystal on #date#2#enddate#. He wants to advertise with the application and is waiting for the application to be registered in the European Patent Register. Can he safely expect an entry in the European Patent Register within four months?",
+                    "text_fr": "#linkwiki#Max_von_Laue|Max von Laue#endlink# a déposé une demande de brevet européen EP-1 sur un cristal de diffraction le #date#2#enddate#. Il veut faire de la publicité avec cette demande et attend que la demande soit enregistrée dans le registre européen des brevets. Peut-il s'attendre sans risque à une inscription au Registre européen des brevets dans un délai de quatre mois ?"
                 },
                 {
                     "answers_false": [
@@ -12564,7 +12567,8 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "beginning [0]|+14DD"
                     ],
                     "deadline": [
                         "+2MM|+10DD",
@@ -12578,9 +12582,9 @@
                     "id_old": 195,
                     "normen": "Regel 115 (1) Ladung zur mündlichen Verhandlung",
                     "startdate": "SU",
-                    "text_de": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# hat gegen ein Europäisches Patent EP-1 Einspruch eingelegt. Am #beginning#0#enddate# erhält er eine Ladung für eine mündliche Verhandlung am #beginning#0|+14DD#enddate#. Er hat an diesem Tag Urlaub und möchte diesen nicht verschieben. Muss Guillaume an der mündlichen Verhandlung teilnehmen? ",
-                    "text_en": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# has filed an opposition to a European patent EP-1. On #beginning#0#enddate# he receives a summons for oral proceedings on #beginning#0|+14DD#enddate#. He is on vacation that day and does not want to reschedule. Does Guillaume have to attend the oral hearing?",
-                    "text_fr": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# a formé une opposition à un brevet européen EP-1. Le #beginning#0#enddate#, il reçoit une convocation pour une procédure orale le #beginning#0|+14DD#enddate#. Il est en vacances ce jour-là et ne veut pas reporter la date. Guillaume doit-il assister à l'audience orale ?"
+                    "text_de": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# hat gegen ein Europäisches Patent EP-1 Einspruch eingelegt. Am #date#0#enddate# erhält er eine Ladung für eine mündliche Verhandlung am #date#4#enddate#. Er hat an diesem Tag Urlaub und möchte diesen nicht verschieben. Muss Guillaume an der mündlichen Verhandlung teilnehmen? ",
+                    "text_en": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# has filed an opposition to a European patent EP-1. On #date#0#enddate# he receives a summons for oral proceedings on #date#4#enddate#. He is on vacation that day and does not want to reschedule. Does Guillaume have to attend the oral hearing?",
+                    "text_fr": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# a formé une opposition à un brevet européen EP-1. Le #date#0#enddate#, il reçoit une convocation pour une procédure orale le #date#4#enddate#. Il est en vacances ce jour-là et ne veut pas reporter la date. Guillaume doit-il assister à l'audience orale ?"
                 },
                 {
                     "answers_false": [
@@ -12634,9 +12638,9 @@
                     "id_old": 196,
                     "normen": "Regel 115 (2) Ladung zur mündlichen Verhandlung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Albert_Einstein|Albert Einstein#endlink# hat gegen ein Europäisches Patent EP-1 Einspruch eingelegt. Am #beginning#0#enddate# erhält er eine Ladung für eine mündliche Verhandlung, die heute stattfindet. Er hat heute Urlaub und möchte diesen nicht verschieben. Muss Einstein an der mündlichen Verhandlung teilnehmen? ",
-                    "text_en": "#linkwiki#Albert_Einstein|Albert Einstein#endlink# has filed an opposition against a European patent EP-1. On #beginning#0#enddate# he receives a summons for oral proceedings, which is scheduled to take place today. He has vacation today and does not want to postpone it. Does Einstein have to attend the oral proceedings?",
-                    "text_fr": "#linkwiki#Albert_Einstein|Albert Einstein#endlink# a formé une opposition contre un brevet européen EP-1. Le #beginning#0#enddate#, il reçoit une convocation à une procédure orale, qui doit avoir lieu aujourd'hui. Il a des vacances aujourd'hui et ne veut pas les reporter. Einstein est-il obligé d'assister à la procédure orale ?"
+                    "text_de": "#linkwiki#Albert_Einstein|Albert Einstein#endlink# hat gegen ein Europäisches Patent EP-1 Einspruch eingelegt. Am #date#0#enddate# erhält er eine Ladung für eine mündliche Verhandlung, die heute stattfindet. Er hat heute Urlaub und möchte diesen nicht verschieben. Muss Einstein an der mündlichen Verhandlung teilnehmen? ",
+                    "text_en": "#linkwiki#Albert_Einstein|Albert Einstein#endlink# has filed an opposition against a European patent EP-1. On #date#0#enddate# he receives a summons for oral proceedings, which is scheduled to take place today. He has vacation today and does not want to postpone it. Does Einstein have to attend the oral proceedings?",
+                    "text_fr": "#linkwiki#Albert_Einstein|Albert Einstein#endlink# a formé une opposition contre un brevet européen EP-1. Le #date#0#enddate#, il reçoit une convocation à une procédure orale, qui doit avoir lieu aujourd'hui. Il a des vacances aujourd'hui et ne veut pas les reporter. Einstein est-il obligé d'assister à la procédure orale ?"
                 },
                 {
                     "answers_false": [
@@ -12671,7 +12675,8 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "beginning[0]|+1MM|+10DD"
                     ],
                     "deadline": [
                         "+2MM|+10DD",
@@ -12685,9 +12690,9 @@
                     "id_old": 197,
                     "normen": "Regel 116 (1) Ladung zur mündlichen Verhandlung - Fristen",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Niels_Bohr|Niels Bohr#endlink# hat Beschwerde gegen einen Beschluss einer Einspruchsabteilung eingelegt. In der Ladung zur mündlichen Verhandlung vom #beginning#0#enddate# ist als Schriftsatzfrist der #beginning#0|+1MM|+10DD#enddate# verkündet worden. Bohr hat zur heutigen mündlichen Verhandlung einen neuen Schriftsatz mitgebracht. Er sieht die gesetzte Schriftsatzfrist als obsolet an, da die Mindestfrist von zwei Monaten nach #linkepc#r132|Regel 132 EPÜ#endlink# missachtet worden sei. Wie wird die Beschwerdekammer die von ihr gesetzte Frsit beurteilen?",
-                    "text_en": "#linkwiki#Niels_Bohr|Niels Bohr#endlink# has filed an appeal against a decision of an opposition division. In the summons to oral proceedings dated #beginning#0#enddate#, the #beginning#0|+1MM|+10DD#enddate# has been announced as the deadline for filing a brief. Bohr brought a new brief to today's oral argument. He considers the set time limit for filing as obsolete, since the minimum time limit of two months as found in #linkepc#r132|Rule 132 EPC#endlink# has been disregarded. How will the Board of Appeal assess the time limit set by it?",
-                    "text_fr": "#linkwiki#Niels_Bohr|Niels Bohr#endlink# a formé un recours contre une décision d'une division d'opposition. Dans la convocation à la procédure orale datée du #beginning#0#enddate#, le #beginning#0|+1MM|+10DD#enddate# a été annoncé comme date limite pour déposer un mémoire. Bohr a apporté un nouveau mémoire à la plaidoirie d'aujourd'hui. Il considère le délai fixé pour le dépôt comme obsolète, puisque le délai minimum de deux mois tel qu'il figure dans #linkepc#r132|Règle 132 CBE#endlink# n'a pas été respecté. Comment la chambre de recours apprécie-t-elle le délai qu'elle a fixé ?"
+                    "text_de": "#linkwiki#Niels_Bohr|Niels Bohr#endlink# hat Beschwerde gegen einen Beschluss einer Einspruchsabteilung eingelegt. In der Ladung zur mündlichen Verhandlung vom #date#0#enddate# ist als Schriftsatzfrist der #date#4#enddate# verkündet worden. Bohr hat zur heutigen mündlichen Verhandlung einen neuen Schriftsatz mitgebracht. Er sieht die gesetzte Schriftsatzfrist als obsolet an, da die Mindestfrist von zwei Monaten nach #linkepc#r132|Regel 132 EPÜ#endlink# missachtet worden sei. Wie wird die Beschwerdekammer die von ihr gesetzte Frsit beurteilen?",
+                    "text_en": "#linkwiki#Niels_Bohr|Niels Bohr#endlink# has filed an appeal against a decision of an opposition division. In the summons to oral proceedings dated #date#0#enddate#, the #date#4#enddate# has been announced as the deadline for filing a brief. Bohr brought a new brief to today's oral argument. He considers the set time limit for filing as obsolete, since the minimum time limit of two months as found in #linkepc#r132|Rule 132 EPC#endlink# has been disregarded. How will the Board of Appeal assess the time limit set by it?",
+                    "text_fr": "#linkwiki#Niels_Bohr|Niels Bohr#endlink# a formé un recours contre une décision d'une division d'opposition. Dans la convocation à la procédure orale datée du #date#0#enddate#, le #date#4#enddate#a été annoncé comme date limite pour déposer un mémoire. Bohr a apporté un nouveau mémoire à la plaidoirie d'aujourd'hui. Il considère le délai fixé pour le dépôt comme obsolète, puisque le délai minimum de deux mois tel qu'il figure dans #linkepc#r132|Règle 132 CBE#endlink# n'a pas été respecté. Comment la chambre de recours apprécie-t-elle le délai qu'elle a fixé ?"
                 },
                 {
                     "answers_false": [
@@ -12736,9 +12741,9 @@
                     "id_old": 198,
                     "normen": "Regel 116 (1) Ladung zur mündlichen Verhandlung - Fristen",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# hat ein Verfahren zur Ladungsbestimmung kleiner Ladungen gefunden. Dieses Verfahren ist Gegenstand einer von ihm eingereichten Europäischen Patentanmeldung EP-1. Leider hat der Prüfer seine Anmeldung zurückgewiesen. Gegen den Zurückweisungsbeschluss hat er Beschwerde eingelegt. In der Ladung zur mündlichen Verhandlung vom #beginning#0#enddate# wird er darauf hingewiesen, dass sein Anspruchssatz nicht den Erfordernissen des EPÜ genügt. Als Frist zur Einreichung geänderter Unterlagen ist ein Monat gesetzt worden. Millikan hat keine Zeit zur Ausarbeitung neuer Unterlagen vor Ablauf der Frist. Er bringt diese daher zur heutigen mündlichen Verhandlung mit. Wie wird die Beschwerdekammer entscheiden?",
-                    "text_en": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# has found a method for measuring the elementary electric charge. This method is the subject of a European patent application EP-1 filed by him. Unfortunately, the examiner has rejected his application. He has since filed an appeal against the rejection decision. In the summons to oral proceedings dated #beginning#0#enddate#, he is advised that his set claim does not meet the requirements of the EPC. One month has been set as the deadline for filing amended documents. Millikan does not have time to prepare new documents before the deadline. He will therefore bring them to today's oral proceedings. How will the Board of Appeal decide?",
-                    "text_fr": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# a trouvé une méthode pour mesurer la charge électrique élémentaire. Cette méthode fait l'objet d'une demande de brevet européen EP-1 déposée par lui. Malheureusement, l'examinateur a rejeté sa demande. Il a depuis lors formé un recours contre cette décision de rejet. Dans la convocation à la procédure orale datée du #beginning#0#enddate#, il est informé que sa revendication établie ne répond pas aux exigences de la CBE. Un mois a été fixé comme délai pour déposer des documents modifiés. Millikan n'a pas le temps de préparer de nouveaux documents avant la date limite. Il les apportera donc à la procédure orale d'aujourd'hui. Quelle sera la décision de la chambre de recours ?"
+                    "text_de": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# hat ein Verfahren zur Ladungsbestimmung kleiner Ladungen gefunden. Dieses Verfahren ist Gegenstand einer von ihm eingereichten Europäischen Patentanmeldung EP-1. Leider hat der Prüfer seine Anmeldung zurückgewiesen. Gegen den Zurückweisungsbeschluss hat er Beschwerde eingelegt. In der Ladung zur mündlichen Verhandlung vom #date#0#enddate# wird er darauf hingewiesen, dass sein Anspruchssatz nicht den Erfordernissen des EPÜ genügt. Als Frist zur Einreichung geänderter Unterlagen ist ein Monat gesetzt worden. Millikan hat keine Zeit zur Ausarbeitung neuer Unterlagen vor Ablauf der Frist. Er bringt diese daher zur heutigen mündlichen Verhandlung mit. Wie wird die Beschwerdekammer entscheiden?",
+                    "text_en": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# has found a method for measuring the elementary electric charge. This method is the subject of a European patent application EP-1 filed by him. Unfortunately, the examiner has rejected his application. He has since filed an appeal against the rejection decision. In the summons to oral proceedings dated #date#0#enddate#, he is advised that his set claim does not meet the requirements of the EPC. One month has been set as the deadline for filing amended documents. Millikan does not have time to prepare new documents before the deadline. He will therefore bring them to today's oral proceedings. How will the Board of Appeal decide?",
+                    "text_fr": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# a trouvé une méthode pour mesurer la charge électrique élémentaire. Cette méthode fait l'objet d'une demande de brevet européen EP-1 déposée par lui. Malheureusement, l'examinateur a rejeté sa demande. Il a depuis lors formé un recours contre cette décision de rejet. Dans la convocation à la procédure orale datée du #date#0#enddate#, il est informé que sa revendication établie ne répond pas aux exigences de la CBE. Un mois a été fixé comme délai pour déposer des documents modifiés. Millikan n'a pas le temps de préparer de nouveaux documents avant la date limite. Il les apportera donc à la procédure orale d'aujourd'hui. Quelle sera la décision de la chambre de recours ?"
                 },
                 {
                     "answers_false": [
