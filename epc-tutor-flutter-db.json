@@ -14807,9 +14807,9 @@
                             "text_fr": "Moneta a droit à une réduction des frais d'inscription."
                         },
                         {
-                            "text_de": "Innerhalb von zwei Monaten ab #startdate##enddate# ist die Übersetzung der Beschreibung einzureichen.",
-                            "text_en": "The translation of the description shall be submitted within two months from #startdate##enddate#.",
-                            "text_fr": "La traduction de la description doit être soumise dans un délai de deux mois à compter de la #startdate##enddate#."
+                            "text_de": "Innerhalb von zwei Monaten ab #date#2#enddate# ist die Übersetzung der Beschreibung einzureichen.",
+                            "text_en": "The translation of the description shall be submitted within two months from #date#2#enddate#.",
+                            "text_fr": "La traduction de la description doit être soumise dans un délai de deux mois à compter de la #date#2#enddate#."
                         }
                     ],
                     "beginning": [
@@ -14817,7 +14817,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate"
                     ],
                     "deadline": [
                         "+2MM"
@@ -14830,9 +14831,9 @@
                     "id_old": 236,
                     "normen": "todo",
                     "startdate": "",
-                    "text_de": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# hat heute, am #startdate##enddate#, eine europäische Patentanmeldung EP-1 beim EPA eingreicht. Moneta hat seinen Wohnsitz in Italien. Die Beschreibung der EP1 ist auf italienisch abgefasst. Außerdem umfasst EP-1 eine Beschreibung, Zusammenfassung und Figuren. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# filed a European patent application EP-1 with the EPO today, on #startdate##enddate#. Moneta is a resident of Italy. The description of EP1 is in Italian. In addition, EP-1 includes a description, abstract, and figures. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# a déposé une demande de brevet européen EP-1 auprès de l'OEB aujourd'hui, le #startdate##enddate#. Moneta est un résident de l'Italie. La description de la demande EP-1 est en italien. En outre, EP-1 comprend une description, un abrégé et des figures. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# hat heute, am #date#2#enddate#, eine europäische Patentanmeldung EP-1 beim EPA eingreicht. Moneta hat seinen Wohnsitz in Italien. Die Beschreibung der EP1 ist auf italienisch abgefasst. Außerdem umfasst EP-1 eine Beschreibung, Zusammenfassung und Figuren. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# filed a European patent application EP-1 with the EPO today, on #date#2#enddate#. Moneta is a resident of Italy. The description of EP1 is in Italian. In addition, EP-1 includes a description, abstract, and figures. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Ernesto_Teodoro_Moneta|Ernesto Teodoro Moneta#endlink# a déposé une demande de brevet européen EP-1 auprès de l'OEB aujourd'hui, le #date#2#enddate#. Moneta est un résident de l'Italie. La description de la demande EP-1 est en italien. En outre, EP-1 comprend une description, un abrégé et des figures. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -14924,9 +14925,9 @@
                     "id_old": 238,
                     "normen": "Artikel 14 (2) Amtssprachen iVm Regel 6 (1) ",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Henry_Dunant|Henry Dunant#endlink# hat am #beginning#0#enddate# auf eine Vorrichtung zur Veränderung von Erbgut eine Europäische Patentanmeldung EP-1 eingereicht. Um seine Spanischkenntnisse zu erweitern hat er EP-1 auf spanisch eingereicht. Dies fand er so anstrengend, dass er sofort in einen neunwöchigen Urlaub aufgebrochen ist. Wie ist der Stand von EP-1?",
-                    "text_en": "#linkwiki#Henry_Dunant|Henry Dunant#endlink# filed a European patent application EP-1 on #beginning#0#enddate# on a device for modifying genetic material. In order to increase his knowledge of Spanish, he filed EP-1 in Spanish. He found this so exhausting that he immediately left for a nine-week vacation. What is the status of EP-1?",
-                    "text_fr": "#linkwiki#Henry_Dunant|Henry Dunant#endlink# a déposé une demande de brevet européen EP-1 le #beginning#0#enddate# sur un dispositif de modification du matériel génétique. Afin d'améliorer sa connaissance de l'espagnol, il a déposé EP-1 en espagnol. Il a trouvé cela si épuisant qu'il est immédiatement parti pour des vacances de neuf semaines. Quel est le statut de l'EP-1 ?"
+                    "text_de": "#linkwiki#Henry_Dunant|Henry Dunant#endlink# hat am #date#0#enddate# auf eine Vorrichtung zur Veränderung von Erbgut eine Europäische Patentanmeldung EP-1 eingereicht. Um seine Spanischkenntnisse zu erweitern hat er EP-1 auf spanisch eingereicht. Dies fand er so anstrengend, dass er sofort in einen neunwöchigen Urlaub aufgebrochen ist. Wie ist der Stand von EP-1?",
+                    "text_en": "#linkwiki#Henry_Dunant|Henry Dunant#endlink# filed a European patent application EP-1 on #date#0#enddate# on a device for modifying genetic material. In order to increase his knowledge of Spanish, he filed EP-1 in Spanish. He found this so exhausting that he immediately left for a nine-week vacation. What is the status of EP-1?",
+                    "text_fr": "#linkwiki#Henry_Dunant|Henry Dunant#endlink# a déposé une demande de brevet européen EP-1 le #date#0#enddate# sur un dispositif de modification du matériel génétique. Afin d'améliorer sa connaissance de l'espagnol, il a déposé EP-1 en espagnol. Il a trouvé cela si épuisant qu'il est immédiatement parti pour des vacances de neuf semaines. Quel est le statut de l'EP-1 ?"
                 },
                 {
                     "answers_false": [
@@ -14971,9 +14972,9 @@
                     "id_old": 239,
                     "normen": "Artikel 14 (2) Korrekturen von Übersetzungsfehlern",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Wendell_Meredith_Stanley|Wendell Meredith Stanley#endlink# hat am #beginning#0#enddate# auf eine Europäische Patentanmeldung EP-1 eingereicht. EP-1 betrifft ein Verfahren zur Kristallisation von Viren. Da er wenig Zeit hat, hat ein Mitarbeiter von ihm EP-1 geschrieben. Da der Mitarbeiter besser Dänisch als Englisch beherrscht ist EP-1 auf Dänisch eingereicht und fristgerecht ins Englische übersetzt worden. Bei der Beantwortung eines Prüfungsbescheides zu EP-1 bemerkt Stanley, dass es in einer entscheidenden Passage zu einem Übersetzungsfehler gekommen ist. Kann Stanley eine Berichtigung erreichen?",
-                    "text_en": "#linkwiki#Wendell_Meredith_Stanley|Wendell Meredith Stanley#endlink# filed a European patent application EP-1 on #beginning#0#enddate#. EP-1 concerns a method for crystallizing viruses. Since he has little time, an associate of his had written EP-1. Since the employee has a better command of Danish than English, EP-1 has been filed in Danish and translated into English in due time. In responding to an examination notice on EP-1, Stanley notices that there has been a translation error in a crucial passage. Can Stanley obtain a correction?",
-                    "text_fr": "#linkwiki#Wendell_Meredith_Stanley|Wendell Meredith Stanley#endlink# a déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. EP-1 concerne une méthode de cristallisation de virus. Comme il dispose de peu de temps, un de ses collaborateurs avait rédigé EP-1. Comme l'employé maîtrise mieux le danois que l'anglais, EP-1 a été déposé en danois et traduit en anglais en temps voulu. En répondant à un avis d'examen sur EP-1, Stanley remarque qu'il y a eu une erreur de traduction dans un passage crucial. Stanley peut-il obtenir une correction ?"
+                    "text_de": "#linkwiki#Wendell_Meredith_Stanley|Wendell Meredith Stanley#endlink# hat am #date#0#enddate# auf eine Europäische Patentanmeldung EP-1 eingereicht. EP-1 betrifft ein Verfahren zur Kristallisation von Viren. Da er wenig Zeit hat, hat ein Mitarbeiter von ihm EP-1 geschrieben. Da der Mitarbeiter besser Dänisch als Englisch beherrscht ist EP-1 auf Dänisch eingereicht und fristgerecht ins Englische übersetzt worden. Bei der Beantwortung eines Prüfungsbescheides zu EP-1 bemerkt Stanley, dass es in einer entscheidenden Passage zu einem Übersetzungsfehler gekommen ist. Kann Stanley eine Berichtigung erreichen?",
+                    "text_en": "#linkwiki#Wendell_Meredith_Stanley|Wendell Meredith Stanley#endlink# filed a European patent application EP-1 on #date#0#enddate#. EP-1 concerns a method for crystallizing viruses. Since he has little time, an associate of his had written EP-1. Since the employee has a better command of Danish than English, EP-1 has been filed in Danish and translated into English in due time. In responding to an examination notice on EP-1, Stanley notices that there has been a translation error in a crucial passage. Can Stanley obtain a correction?",
+                    "text_fr": "#linkwiki#Wendell_Meredith_Stanley|Wendell Meredith Stanley#endlink# a déposé une demande de brevet européen EP-1 le #date#0#enddate#. EP-1 concerne une méthode de cristallisation de virus. Comme il dispose de peu de temps, un de ses collaborateurs avait rédigé EP-1. Comme l'employé maîtrise mieux le danois que l'anglais, EP-1 a été déposé en danois et traduit en anglais en temps voulu. En répondant à un avis d'examen sur EP-1, Stanley remarque qu'il y a eu une erreur de traduction dans un passage crucial. Stanley peut-il obtenir une correction ?"
                 },
                 {
                     "answers_false": [
@@ -15018,9 +15019,9 @@
                     "id_old": 240,
                     "normen": "Artikel 14 (3) Verfahrenssprache",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#John_Howard_Northrop|John Howard Northrop#endlink# hat am #beginning#0#enddate# hat ein Verrichtung zur Enzymextraktion erforscht. Über einen befreundeten Verteter in Paris hat er eine Europäische Patentanmeldung EP-1 eingereicht. EP-1 ist ist Französisch abgefasst, alle Eingaben ebenfalls. Während des Prüfungsverfahrens geht die Freundschaft entzwei und Northrop beschließt, das Prüfungsverfahren selbst fortzuführen. Er beherrscht allerdings kein Französisch. Kann Northrop die nächsten Eingaben inkl. Ansprüche und Beschreibung auf Englisch einreichen?",
-                    "text_en": "#linkwiki#John_Howard_Northrop|John Howard Northrop#endlink# researched a device for enzyme extraction on #beginning#0#enddate#. He has filed a European patent application EP-1 through a friend in Paris. EP-1 has been written in French, to include all submissions. During the examination process, the friendship falls apart and Northrop decides to continue the examination process himself. However, he does not know French. Can Northrop submit the next submissions including claims and description in English?",
-                    "text_fr": "#linkwiki#John_Howard_Northrop|John Howard Northrop#endlink# a fait des recherches sur un dispositif d'extraction d'enzymes le #beginning#0#enddate#. Il a déposé une demande de brevet européen EP-1 par l'intermédiaire d'un ami à Paris. EP-1 a été rédigée en français, pour inclure toutes les soumissions. Au cours de la procédure d'examen, l'amitié se délite et Northrop décide de poursuivre lui-même la procédure d'examen. Cependant, il ne connaît pas le français. Northrop peut-il soumettre les prochaines soumissions, y compris les revendications et la description, en anglais ?"
+                    "text_de": "#linkwiki#John_Howard_Northrop|John Howard Northrop#endlink# hat am #date#0#enddate# hat ein Verrichtung zur Enzymextraktion erforscht. Über einen befreundeten Verteter in Paris hat er eine Europäische Patentanmeldung EP-1 eingereicht. EP-1 ist ist Französisch abgefasst, alle Eingaben ebenfalls. Während des Prüfungsverfahrens geht die Freundschaft entzwei und Northrop beschließt, das Prüfungsverfahren selbst fortzuführen. Er beherrscht allerdings kein Französisch. Kann Northrop die nächsten Eingaben inkl. Ansprüche und Beschreibung auf Englisch einreichen?",
+                    "text_en": "#linkwiki#John_Howard_Northrop|John Howard Northrop#endlink# researched a device for enzyme extraction on #date#0#enddate#. He has filed a European patent application EP-1 through a friend in Paris. EP-1 has been written in French, to include all submissions. During the examination process, the friendship falls apart and Northrop decides to continue the examination process himself. However, he does not know French. Can Northrop submit the next submissions including claims and description in English?",
+                    "text_fr": "#linkwiki#John_Howard_Northrop|John Howard Northrop#endlink# a fait des recherches sur un dispositif d'extraction d'enzymes le #date#0#enddate#. Il a déposé une demande de brevet européen EP-1 par l'intermédiaire d'un ami à Paris. EP-1 a été rédigée en français, pour inclure toutes les soumissions. Au cours de la procédure d'examen, l'amitié se délite et Northrop décide de poursuivre lui-même la procédure d'examen. Cependant, il ne connaît pas le français. Northrop peut-il soumettre les prochaines soumissions, y compris les revendications et la description, en anglais ?"
                 },
                 {
                     "answers_false": [
@@ -15790,9 +15791,9 @@
                             "text_fr": "Eliot n'est pas autorisé à déposer la demande en chinois car il n'est ni citoyen chinois, ni résident de Chine."
                         },
                         {
-                            "text_de": "Eliot muss die Übersetzung bis zum #deadline#0|+1MM#enddate# einreichen.",
-                            "text_en": "Eliot must submit the translation by #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Eliot doit soumettre la traduction avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Eliot muss die Übersetzung bis zum #date#2#enddate# einreichen.",
+                            "text_en": "Eliot must submit the translation by #date#2#enddate#.",
+                            "text_fr": "Eliot doit soumettre la traduction avant le #date#2#enddate#."
                         },
                         {
                             "text_de": "Chinesisch ist keine Amtssprache in einem der Mitgliedssaaten des EPA und kann daher nicht verwendet werden.",
@@ -15802,9 +15803,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Eliot muss die Übersetzung bis zum #deadline#0#enddate# einreichen.",
-                            "text_en": "Eliot must submit the translation by the #deadline#0#enddate#.",
-                            "text_fr": "Eliot doit soumettre la traduction avant la date limite ##0#enddate#."
+                            "text_de": "Eliot muss die Übersetzung bis zum #date#1#enddate# einreichen.",
+                            "text_en": "Eliot must submit the translation by the #date#1#enddate#.",
+                            "text_fr": "Eliot doit soumettre la traduction avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -15812,7 +15813,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+1MM"
                     ],
                     "deadline": [
                         "+2MM"
@@ -15825,9 +15827,9 @@
                     "id_old": 256,
                     "normen": "Artikel 14 (2) iVm R 6 (1) Frist Übersetzung Anmeldung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#T._S._Eliot|T. S. Eliot#endlink# hat asiatische Sprachen studiert und reicht zu Trainingszwecken am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 auf chinesisch ein. Falls dies möglich ist, bis wann ist eine Übersetzung einzureichen?",
-                    "text_en": "#linkwiki#T._S._Eliot|T. S. Eliot#endlink# has studied Asian languages and is filing a European patent application EP-1 in Chinese for training purposes on #beginning#0#enddate#. If this is possible, by when is a translation to be filed?",
-                    "text_fr": "#linkwiki#T._S._Eliot|T. S. Eliot#endlink# a étudié les langues asiatiques et dépose une demande de brevet européen EP-1 en chinois à des fins de formation le #beginning#0#enddate#. Si cela est possible, à quelle date une traduction doit-elle être déposée ?"
+                    "text_de": "#linkwiki#T._S._Eliot|T. S. Eliot#endlink# hat asiatische Sprachen studiert und reicht zu Trainingszwecken am #date#0#enddate# eine europäische Patentanmeldung EP-1 auf chinesisch ein. Falls dies möglich ist, bis wann ist eine Übersetzung einzureichen?",
+                    "text_en": "#linkwiki#T._S._Eliot|T. S. Eliot#endlink# has studied Asian languages and is filing a European patent application EP-1 in Chinese for training purposes on #date#0#enddate#. If this is possible, by when is a translation to be filed?",
+                    "text_fr": "#linkwiki#T._S._Eliot|T. S. Eliot#endlink# a étudié les langues asiatiques et dépose une demande de brevet européen EP-1 en chinois à des fins de formation le #date#0#enddate#. Si cela est possible, à quelle date une traduction doit-elle être déposée ?"
                 },
                 {
                     "answers_false": [
