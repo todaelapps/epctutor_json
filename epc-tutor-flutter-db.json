@@ -18496,26 +18496,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|+1MM|+1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|+1MM|+1DD#enddate#.",
-                            "text_fr": "La date limite de paiement des cotisations annuelles est #deadline#0|+1MM|+1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#3#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#3#enddate#.",
+                            "text_fr": "La date limite de paiement des cotisations annuelles est #date#3#enddate#."
                         },
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|-1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|-1DD#enddate#.",
-                            "text_fr": "La date limite de paiement des cotisations annuelles est #deadline#0|-1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#2#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#2#enddate#.",
+                            "text_fr": "La date limite de paiement des cotisations annuelles est #date#2#enddate#."
                         },
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|+1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|+1DD#enddate#.",
-                            "text_fr": "La date limite de paiement des cotisations annuelles est #deadline#0|+1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#4#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#4#enddate#.",
+                            "text_fr": "La date limite de paiement des cotisations annuelles est #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0#enddate#.",
-                            "text_fr": "La date limite de paiement des frais annuels est #deadline#0#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#1#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#1#enddate#.",
+                            "text_fr": "La date limite de paiement des frais annuels est #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -18523,7 +18523,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|+1MM|+1DD",
+                        "deadline[0]|+1DD"
                     ],
                     "deadline": [
                         "+24MM|MEND"
@@ -18536,9 +18539,9 @@
                     "id_old": 385,
                     "normen": "R 51 Jahresgebührenfrist",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Katharina_I._(Russland)|Katharina I.#endlink# hat am #beginning#0#enddate# rechtsgültig eine Europäische Patentanmeldung EP-1 eingereicht. An welchem Tag endet die Frist zur Zahlung der Jahresgebühr ohne Zuschlag für das dritte Jahr (also die erste zu zahlende Jahresgebühr)?",
-                    "text_en": "#linkwiki#Katharina_I._(Russia)|Katharina I.#endlink# validly filed a European patent application EP-1 on #beginning#0#enddate#. What date does the deadline for payment of the renewal fee without surcharge for the third year fall on(i.e. the first renewal fee to be paid)?",
-                    "text_fr": "#linkwiki#Katharina_I._(Russia)|Katharina I.#endlink# a valablement déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. A quelle date tombe la date limite de paiement de la taxe de renouvellement sans surtaxe pour la troisième année (c'est-à-dire la première taxe de renouvellement à payer) ?"
+                    "text_de": "#linkwiki#Katharina_I._(Russland)|Katharina I.#endlink# hat am #date#0#enddate# rechtsgültig eine Europäische Patentanmeldung EP-1 eingereicht. An welchem Tag endet die Frist zur Zahlung der Jahresgebühr ohne Zuschlag für das dritte Jahr (also die erste zu zahlende Jahresgebühr)?",
+                    "text_en": "#linkwiki#Katharina_I._(Russia)|Katharina I.#endlink# validly filed a European patent application EP-1 on #date#0#enddate#. What date does the deadline for payment of the renewal fee without surcharge for the third year fall on(i.e. the first renewal fee to be paid)?",
+                    "text_fr": "#linkwiki#Katharina_I._(Russia)|Katharina I.#endlink# a valablement déposé une demande de brevet européen EP-1 le #date#0#enddate#. A quelle date tombe la date limite de paiement de la taxe de renouvellement sans surtaxe pour la troisième année (c'est-à-dire la première taxe de renouvellement à payer) ?"
                 },
                 {
                     "answers_false": [
@@ -19389,26 +19392,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|+1MM|+1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|+1MM|+1DD#enddate#.",
-                            "text_fr": "La date limite de paiement des cotisations annuelles est #deadline#0|+1MM|+1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#3#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#3#enddate#.",
+                            "text_fr": "La date limite de paiement des cotisations annuelles est #date#3#enddate#."
                         },
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|-1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|-1DD#enddate#.",
-                            "text_fr": "La date limite de paiement des cotisations annuelles est #deadline#0|-1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#2#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#2#enddate#.",
+                            "text_fr": "La date limite de paiement des cotisations annuelles est #date#2#enddate#."
                         },
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|+1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|+1DD#enddate#.",
-                            "text_fr": "La date limite de paiement de la cotisation annuelle est #deadline#0|+1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#4#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#4#enddate#.",
+                            "text_fr": "La date limite de paiement de la cotisation annuelle est #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0#enddate#.",
-                            "text_fr": "La date limite de paiement des frais annuels est #deadline#0#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#1#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#1#enddate#.",
+                            "text_fr": "La date limite de paiement des frais annuels est #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -19416,7 +19419,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|+1MM|+1DD",
+                        "deadline[0]|+1DD"
                     ],
                     "deadline": [
                         "+36MM|MEND"
@@ -19429,33 +19435,33 @@
                     "id_old": 386,
                     "normen": "R 51 Jahresgebührenfrist mit SO? MMEND muss noch ergänzt werden",
                     "startdate": "SO|+7DD",
-                    "text_de": "#linkwiki#Victoria_(Vereinigtes_Königreich)|Königin Victoria#endlink# hat am #beginning#0#enddate# rechtsgültig eine Europäische Patentanmeldung EP-1 eingereicht. An welchem Tag endet die Frist zur Zahlung der Jahresgebühr ohne Zuschlag für das vierte Jahr?",
-                    "text_en": "#linkwiki#Victoria_(United_Kingdom)|Queen Victoria#endlink# validly filed a European patent application EP-1 on #beginning#0#enddate#. What date does the deadline for payment of the renewal fee without surcharge for the fourth year fall on?",
-                    "text_fr": "#linkwiki#Victoria_(United_Kingdom)|Queen Victoria#endlink# a valablement déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. A quelle date tombe la date limite de paiement de la taxe de renouvellement sans surtaxe pour la quatrième année ?"
+                    "text_de": "#linkwiki#Victoria_(Vereinigtes_Königreich)|Königin Victoria#endlink# hat am #date#0#enddate# rechtsgültig eine Europäische Patentanmeldung EP-1 eingereicht. An welchem Tag endet die Frist zur Zahlung der Jahresgebühr ohne Zuschlag für das vierte Jahr?",
+                    "text_en": "#linkwiki#Victoria_(United_Kingdom)|Queen Victoria#endlink# validly filed a European patent application EP-1 on #date#0#enddate#. What date does the deadline for payment of the renewal fee without surcharge for the fourth year fall on?",
+                    "text_fr": "#linkwiki#Victoria_(United_Kingdom)|Queen Victoria#endlink# a valablement déposé une demande de brevet européen EP-1 le #date#0#enddate#. A quelle date tombe la date limite de paiement de la taxe de renouvellement sans surtaxe pour la quatrième année ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|+1MM|+1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|+1MM|+1DD#enddate#.",
-                            "text_fr": "La date limite de paiement des cotisations annuelles est #deadline#0|+1MM|+1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#3#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#3#enddate#.",
+                            "text_fr": "La date limite de paiement des cotisations annuelles est #date#3#enddate#."
                         },
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|-1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|-1DD#enddate#.",
-                            "text_fr": "La date limite de paiement des cotisations annuelles est #deadline#0|-1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#2#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#2#enddate#.",
+                            "text_fr": "La date limite de paiement des cotisations annuelles est #date#2#enddate#."
                         },
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|+1DD#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|+1DD#enddate#.",
-                            "text_fr": "La date limite de paiement de la cotisation annuelle est #deadline#0|+1DD#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#4#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#4#enddate#.",
+                            "text_fr": "La date limite de paiement de la cotisation annuelle est #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0#enddate#.",
-                            "text_fr": "La date limite de paiement des frais annuels est #deadline#0#enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#1#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#1#enddate#.",
+                            "text_fr": "La date limite de paiement des frais annuels est #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -19463,7 +19469,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|+1MM|+1DD",
+                        "deadline[0]|+1DD"
                     ],
                     "deadline": [
                         "+42MM|MEND"
@@ -19476,33 +19485,33 @@
                     "id_old": 387,
                     "normen": "R 51 Jahresgebührenfrist mit Zuschlag MMEND muss noch ergänzt werden",
                     "startdate": "TU|+7DD",
-                    "text_de": "#linkwiki#Wilhelmina_(Niederlande)|Wilhelmina#endlink# hat am #beginning#0#enddate# rechtsgültig eine Europäische Patentanmeldung EP-1 eingereicht. An welchem Tag endet die Frist zur Zahlung der Jahresgebühr mit Zuschlag für das vierte Jahr?",
-                    "text_en": "#linkwiki#Wilhelmina_(Netherlands)|Wilhelmina#endlink# validly filed a European patent application EP-1 on #beginning#0#enddate#. Which date does the deadline for payment of the renewal fee with surcharge for the fourth year fall on?",
-                    "text_fr": "#linkwiki#Wilhelmina_(Netherlands)|Wilhelmina#endlink# a valablement déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. A quelle date tombe la date limite de paiement de la taxe de renouvellement avec surtaxe pour la quatrième année ?"
+                    "text_de": "#linkwiki#Wilhelmina_(Niederlande)|Wilhelmina#endlink# hat am #date#0#enddate# rechtsgültig eine Europäische Patentanmeldung EP-1 eingereicht. An welchem Tag endet die Frist zur Zahlung der Jahresgebühr mit Zuschlag für das vierte Jahr?",
+                    "text_en": "#linkwiki#Wilhelmina_(Netherlands)|Wilhelmina#endlink# validly filed a European patent application EP-1 on #date#0#enddate#. Which date does the deadline for payment of the renewal fee with surcharge for the fourth year fall on?",
+                    "text_fr": "#linkwiki#Wilhelmina_(Netherlands)|Wilhelmina#endlink# a valablement déposé une demande de brevet européen EP-1 le #date#0#enddate#. A quelle date tombe la date limite de paiement de la taxe de renouvellement avec surtaxe pour la quatrième année ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #deadline#0|+1MM|#enddate#.",
-                            "text_en": "The deadline for payment of annual fees is #deadline#0|+1MM|#enddate#.",
-                            "text_fr": "La date limite de paiement des cotisations annuelles est #deadline#0|+1MM|##enddate#."
+                            "text_de": "Die Frist zur Zahlung der Jahresgebühren endet am #date#6#enddate#.",
+                            "text_en": "The deadline for payment of annual fees is #date#6#enddate#.",
+                            "text_fr": "La date limite de paiement des cotisations annuelles est #date#6#enddate#."
                         },
                         {
-                            "text_de": "Die Jahresgebühren können bis zum #deadline#0|+2MM#enddate# ohne Zuschlag bezahlt werden.",
-                            "text_en": "Annual fees can be paid by #deadline#0|+2MM#enddate# without surcharge.",
-                            "text_fr": "Les cotisations annuelles peuvent être payées avant le #deadline#0|+2MM#enddate# sans surcharge."
+                            "text_de": "Die Jahresgebühren können bis zum #date#5#enddate# ohne Zuschlag bezahlt werden.",
+                            "text_en": "Annual fees can be paid by #date#5#enddate# without surcharge.",
+                            "text_fr": "Les cotisations annuelles peuvent être payées avant le #date#5#enddate# sans surcharge."
                         },
                         {
-                            "text_de": "Die Jahresgebühren können bis zum #deadline#0|+1MM#enddate# ohne Zuschlag bezahlt werden.",
-                            "text_en": "Annual fees can be paid by #deadline#0|+1MM#enddate# without surcharge.",
-                            "text_fr": "Les frais annuels peuvent être payés par #deadline#0|+1MM#enddate# sans surcharge."
+                            "text_de": "Die Jahresgebühren können bis zum #date#4#enddate# ohne Zuschlag bezahlt werden.",
+                            "text_en": "Annual fees can be paid by #date#4#enddate# without surcharge.",
+                            "text_fr": "Les frais annuels peuvent être payés par #date#4#enddate# sans surcharge."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Jahresgebühren können bis zum #deadline#0#enddate# ohne Zuschlag bezahlt werden.",
-                            "text_en": "Annual fees can be paid by #deadline#0#enddate# without surcharge.",
-                            "text_fr": "Les frais annuels peuvent être payés par #deadline#0#enddate# sans surcharge."
+                            "text_de": "Die Jahresgebühren können bis zum #date#1#enddate# ohne Zuschlag bezahlt werden.",
+                            "text_en": "Annual fees can be paid by #date#1#enddate# without surcharge.",
+                            "text_fr": "Les frais annuels peuvent être payés par #date#1#enddate# sans surcharge."
                         }
                     ],
                     "beginning": [
@@ -19510,7 +19519,12 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-10MM|-10DD",
+                        "startdate|-2MM|+10DD",
+                        "deadline[0]|+1MM",
+                        "deadline[0]|+2MM",
+                        "deadline[0]|+3MM"
                     ],
                     "deadline": [
                         "+4MM"
@@ -19523,9 +19537,9 @@
                     "id_old": 388,
                     "normen": "R 51 Jahresgebührenfrist und Wiedereinsetzung MMEND muss noch ergänzt werden",
                     "startdate": "TU",
-                    "text_de": "#linkwiki#Juliana_(Niederlande)|Juliana#endlink# hat mehrere Europäische Patentanmeldungen eingereicht. Durch die Behandlung einer Wunderheilerin fällt sie am #startdate#-10MM|-10DD#enddate# ins Koma und wacht erst am #startdate#-2MM|+10DD#enddate# daraus auf. Sie stellt Antrag auf Wiedereinsetzung in die versäumten Fristen zur Zahlung der Jahresgebühr. Dem Antrag wird am #beginning#0#enddate# statt gegeben. Wie lange kann sie ohne Zuschlag die Jahresgebühren zahlen?",
-                    "text_en": "#linkwiki#Juliana_(Netherlands)|Juliana#endlink# has filed several European patent applications. Due to the treatment of a faith healer, she falls into a coma on #startdate#-10MM|-10DD#enddate# and wakes up from it only on #startdate#-2MM|+10DD#enddate#. She files a motion to reinstate the missed deadlines for payment for the annual fee. The request is granted on #beginning#0#enddate#. How long does she have to pay the annual fees without surcharge?",
-                    "text_fr": "#linkwiki#Juliana_(Netherlands)|Juliana#endlink# a déposé plusieurs demandes de brevets européens. Suite au traitement d'un guérisseur, elle tombe dans le coma le #startdate#-10MM|-10DD#enddate# et ne s'en réveille que le #startdate#-2MM|+10DD#enddate#. Elle dépose une requête pour rétablir les délais manqués pour le paiement de la cotisation annuelle. La requête est accordée le #beginning#0#enddate#. Combien de temps a-t-elle pour payer les frais annuels sans surtaxe ?"
+                    "text_de": "#linkwiki#Juliana_(Niederlande)|Juliana#endlink# hat mehrere Europäische Patentanmeldungen eingereicht. Durch die Behandlung einer Wunderheilerin fällt sie am #date#2#enddate# ins Koma und wacht erst am #date#3#enddate# daraus auf. Sie stellt Antrag auf Wiedereinsetzung in die versäumten Fristen zur Zahlung der Jahresgebühr. Dem Antrag wird am #date#0#enddate# statt gegeben. Wie lange kann sie ohne Zuschlag die Jahresgebühren zahlen?",
+                    "text_en": "#linkwiki#Juliana_(Netherlands)|Juliana#endlink# has filed several European patent applications. Due to the treatment of a faith healer, she falls into a coma on #date#2#enddate# and wakes up from it only on #date#3#enddate#. She files a motion to reinstate the missed deadlines for payment for the annual fee. The request is granted on #date#0#enddate#. How long does she have to pay the annual fees without surcharge?",
+                    "text_fr": "#linkwiki#Juliana_(Netherlands)|Juliana#endlink# a déposé plusieurs demandes de brevets européens. Suite au traitement d'un guérisseur, elle tombe dans le coma le #date#2#enddate# et ne s'en réveille que le #date#3#enddate#. Elle dépose une requête pour rétablir les délais manqués pour le paiement de la cotisation annuelle. La requête est accordée le #date#0#enddate#. Combien de temps a-t-elle pour payer les frais annuels sans surtaxe ?"
                 },
                 {
                     "answers_false": [
@@ -19577,9 +19591,9 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die dritte Jahresgebühr kann mit Zuschlagsgebühr bis zum #deadline#0|+4MM#enddate# entrichtet werden.",
-                            "text_en": "The third annual fee can be paid with surcharge by #deadline#0|+4MM#enddate#.",
-                            "text_fr": "La troisième cotisation annuelle peut être payée avec une surtaxe avant le #deadline#0|+4MM#enddate#."
+                            "text_de": "Die dritte Jahresgebühr kann mit Zuschlagsgebühr bis zum #date#2#enddate# entrichtet werden.",
+                            "text_en": "The third annual fee can be paid with surcharge by #date#2#enddate#.",
+                            "text_fr": "La troisième cotisation annuelle peut être payée avec une surtaxe avant le #date#2#enddate#."
                         },
                         {
                             "text_de": "Ist die Frist zur Zahlung der Jahresgebühr mit Zuschlagsgebühr abgelaufen, kann Nofretete EP-1 durch Beantragung einer Weiterbehandlung weiterverfolgen.",
@@ -19589,9 +19603,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Jahresgebühr für das dritte Jahr ist am #deadline#0#enddate# fällig.",
-                            "text_en": "The annual fee for the third year is due on #deadline#0#enddate#.",
-                            "text_fr": "La cotisation annuelle pour la troisième année est due le #deadline#0#enddate#."
+                            "text_de": "Die Jahresgebühr für das dritte Jahr ist am #date#1#enddate# fällig.",
+                            "text_en": "The annual fee for the third year is due on #date#1#enddate#.",
+                            "text_fr": "La cotisation annuelle pour la troisième année est due le #date#1#enddate#."
                         },
                         {
                             "text_de": "Wird eine Jahresgebühr nicht rechtzeitig entrichtet gilt die Anmeldung als zurückgenommen.",
@@ -19604,7 +19618,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+4MM"
                     ],
                     "deadline": [
                         "+24MM|MEND"
@@ -19617,9 +19632,9 @@
                     "id_old": 311,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Nofretete|Nofretete#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 wirksam eingereicht. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Nofretete|Nofretete#endlink# effectively filed a European patent application EP-1 on #beginning#0#enddate#. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Nofretete|Nofretete#endlink# a effectivement déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Nofretete|Nofretete#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 wirksam eingereicht. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Nofretete|Nofretete#endlink# effectively filed a European patent application EP-1 on #date#0#enddate#. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Nofretete|Nofretete#endlink# a effectivement déposé une demande de brevet européen EP-1 le #date#0#enddate#. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -19711,9 +19726,9 @@
                     "id_old": 392,
                     "normen": "R 38 (2),  Art. 2 (1a) GebO RiLi Teil A, Kapitel III, Abschnitt 13.2. R 45 (1) EPÜ",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Amanirenas|Amanirenas#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 wirksam eingereicht. EP-1 umfasst 19 Ansprüche auf 6 Seiten, 40 Seiten Beschreibung, 5 Seiten Figuren und 2 Seiten Zusammenfassung. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Amanirenas|Amanirenas#endlink# effectively filed a European patent application EP-1 on #beginning#0#enddate#. EP-1 comprises 19 claims on 6 pages, 40 pages of description, 5 pages of figures, and 2 pages of abstract. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Amanirenas|Amanirenas#endlink# a effectivement déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. EP-1 comprend 19 revendications sur 6 pages, 40 pages de description, 5 pages de figures et 2 pages d'abrégé. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Amanirenas|Amanirenas#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 wirksam eingereicht. EP-1 umfasst 19 Ansprüche auf 6 Seiten, 40 Seiten Beschreibung, 5 Seiten Figuren und 2 Seiten Zusammenfassung. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Amanirenas|Amanirenas#endlink# effectively filed a European patent application EP-1 on #date#0#enddate#. EP-1 comprises 19 claims on 6 pages, 40 pages of description, 5 pages of figures, and 2 pages of abstract. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Amanirenas|Amanirenas#endlink# a effectivement déposé une demande de brevet européen EP-1 le #date#0#enddate#. EP-1 comprend 19 revendications sur 6 pages, 40 pages de description, 5 pages de figures et 2 pages d'abrégé. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -19765,21 +19780,21 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Jahresgebühr für das vierte Jahr kann am #deadline#0|+7MM|+10DD#enddate# wirksam entrichtet werden.",
-                            "text_en": "The annual fee for the fourth year can be effectively paid on #deadline#0|+7MM|+10DD#enddate#.",
-                            "text_fr": "La cotisation annuelle pour la quatrième année peut être effectivement payée le #deadline#0|+7MM|+10DD#enddate#."
+                            "text_de": "Die Jahresgebühr für das vierte Jahr kann am #date#3#enddate# wirksam entrichtet werden.",
+                            "text_en": "The annual fee for the fourth year can be effectively paid on #date#3#enddate#.",
+                            "text_fr": "La cotisation annuelle pour la quatrième année peut être effectivement payée le #date#3#enddate#."
                         },
                         {
-                            "text_de": "Wird die dritte Jahresgebühr am #deadline#0|+2MM|+13DD#enddate# entrichtet kann EP-1 weiterverfolgt werden.\n",
-                            "text_en": "If the third annual fee is paid on #deadline#0|+2MM|+13DD#enddate#, EP-1 can be pursued.",
-                            "text_fr": "Si la troisième cotisation annuelle est payée à la date limite #deadline#0|+2MM|+13DD#enddate#, EP-1 peut être poursuivi."
+                            "text_de": "Wird die dritte Jahresgebühr am #date#4#enddate# entrichtet kann EP-1 weiterverfolgt werden.\n",
+                            "text_en": "If the third annual fee is paid on #date#4#enddate#, EP-1 can be pursued.",
+                            "text_fr": "Si la troisième cotisation annuelle est payée à la date limite #date#4#enddate#, EP-1 peut être poursuivi."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Jahresgebühr für das dritte Jahr kann am #deadline#0|-5MM|+10DD#enddate# wirksam entrichtet werden.\n",
-                            "text_en": "The annual fee for the third year can be effectively paid on #deadline#0|-5MM|+10DD#enddate#.",
-                            "text_fr": "La cotisation annuelle pour la troisième année peut être effectivement payée le #deadline#0|-5MM|+10DD#enddate#."
+                            "text_de": "Die Jahresgebühr für das dritte Jahr kann am #date#2#enddate# wirksam entrichtet werden.\n",
+                            "text_en": "The annual fee for the third year can be effectively paid on #date#2#enddate#.",
+                            "text_fr": "La cotisation annuelle pour la troisième année peut être effectivement payée le #date#2#enddate#."
                         },
                         {
                             "text_de": "Die Dauer, in der eine wirksame Zahlung der dritten Jahresgebühr ohne oder mit Zuschlagsgebühr möglich ist, beträgt 1 Jahr.",
@@ -19792,7 +19807,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-5MM|+10DD",
+                        "deadline[0]|+7MM|+10DD",
+                        "deadline[0]|+2MM|+13DD"
                     ],
                     "deadline": [
                         "+24MM|MEND"
@@ -19805,9 +19823,9 @@
                     "id_old": 394,
                     "normen": "R 51 (1) und (2) EPÜ",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Kōgyoku|Kōgyoku#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 wirksam eingereicht. Welche der folgenden Aussagen stimt?",
-                    "text_en": "#linkwiki#Kōgyoku|Kōgyoku#endlink# effectively filed a European patent application EP-1 on #beginning#0#enddate#. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Kōgyoku|Kōgyoku#endlink# a effectivement déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Kōgyoku|Kōgyoku#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 wirksam eingereicht. Welche der folgenden Aussagen stimt?",
+                    "text_en": "#linkwiki#Kōgyoku|Kōgyoku#endlink# effectively filed a European patent application EP-1 on #date#0#enddate#. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Kōgyoku|Kōgyoku#endlink# a effectivement déposé une demande de brevet européen EP-1 le #date#0#enddate#. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -19852,9 +19870,9 @@
                     "id_old": 395,
                     "normen": "R 51 (1) und (2) EPÜ",
                     "startdate": "MO",
-                    "text_de": "Die Dänin #linkwiki#Margarethe_I.|Margarethe#endlink# wohnt in Oslo und hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese ist vollständig auf dänisch und enthält 20 Ansprüche. Welche der folgenden Aussagen stimt?",
-                    "text_en": "Danish #linkwiki#Margarethe_I.|Margarethe#endlink# lives in Oslo and filed a European patent application EP-1 on #beginning#0#enddate#. This is entirely in Danish and contains 20 claims. Which of the following statements is true?",
-                    "text_fr": "La Danoise #linkwiki#Margarethe_I.|Margarethe#endlink# vit à Oslo et a déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Celle-ci est entièrement rédigée en danois et contient 20 revendications. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "Die Dänin #linkwiki#Margarethe_I.|Margarethe#endlink# wohnt in Oslo und hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese ist vollständig auf dänisch und enthält 20 Ansprüche. Welche der folgenden Aussagen stimt?",
+                    "text_en": "Danish #linkwiki#Margarethe_I.|Margarethe#endlink# lives in Oslo and filed a European patent application EP-1 on #date#0#enddate#. This is entirely in Danish and contains 20 claims. Which of the following statements is true?",
+                    "text_fr": "La Danoise #linkwiki#Margarethe_I.|Margarethe#endlink# vit à Oslo et a déposé une demande de brevet européen EP-1 le #date#0#enddate#. Celle-ci est entièrement rédigée en danois et contient 20 revendications. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
@@ -19899,9 +19917,9 @@
                     "id_old": 396,
                     "normen": "R 51 (1) und (2) EPÜ",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Isabella_I._(Kastilien)|Isabella#endlink# hat am #beginning#0#enddate# bezüglich ihrer Europäischen Patentanmeldung EP-1 eine Mitteilung des EPA erhalten, in der sie zur Zahlung zweier weiterer Recherchengebühren aufgefordert wird. Die erste weitere Recherchengebühr betrifft die Ansprüche 9 bis 11 und die zweite Recherchengebühr die Ansprüche 12 bis 15. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Isabella_I._(Castile)|Isabella#endlink# received a communication regarding her European patent application EP-1 from the EPO on #beginning#0#enddate#, , requesting payment of two further search fees. The first further search fee concerns claims 9 to 11 and the second search fee concerns claims 12 to 15. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Isabella_I._(Castile)|Isabella#endlink# a reçu de l'OEB, le #beginning#0#enddate#, une communication concernant sa demande de brevet européen EP-1, demandant le paiement de deux taxes de recherche supplémentaires. La première taxe de recherche supplémentaire concerne les revendications 9 à 11 et la deuxième taxe de recherche concerne les revendications 12 à 15. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Isabella_I._(Kastilien)|Isabella#endlink# hat am #date#0#enddate# bezüglich ihrer Europäischen Patentanmeldung EP-1 eine Mitteilung des EPA erhalten, in der sie zur Zahlung zweier weiterer Recherchengebühren aufgefordert wird. Die erste weitere Recherchengebühr betrifft die Ansprüche 9 bis 11 und die zweite Recherchengebühr die Ansprüche 12 bis 15. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Isabella_I._(Castile)|Isabella#endlink# received a communication regarding her European patent application EP-1 from the EPO on #date#0#enddate#, requesting payment of two further search fees. The first further search fee concerns claims 9 to 11 and the second search fee concerns claims 12 to 15. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Isabella_I._(Castile)|Isabella#endlink# a reçu de l'OEB, le #date#0#enddate#, une communication concernant sa demande de brevet européen EP-1, demandant le paiement de deux taxes de recherche supplémentaires. La première taxe de recherche supplémentaire concerne les revendications 9 à 11 et la deuxième taxe de recherche concerne les revendications 12 à 15. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
@@ -19946,9 +19964,9 @@
                     "id_old": 399,
                     "normen": "R 6 iVm A 14 (2) 51 (1) und (2) EPÜ",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Emma_zu_Waldeck_und_Pyrmont|Emma zu Waldeck und Pyrmont#endlink# hat am #beginning#0#enddate# eine Europäische Patentanmeldung auf niederländisch eingereicht. Sie wohnt in den Niederlanden. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Emma_zu_Waldeck_und_Pyrmont|Emma zu Waldeck und Pyrmont#endlink# filed a European patent application in Dutch on #beginning#0#enddate#. She lives in the Netherlands. Which of the following statements is correct?",
-                    "text_fr": "#linkwiki#Emma_zu_Waldeck_und_Pyrmont|Emma zu Waldeck und Pyrmont#endlink# a déposé une demande de brevet européen en néerlandais le #beginning#0#enddate#. Elle vit aux Pays-Bas. Laquelle des affirmations suivantes est correcte ?"
+                    "text_de": "#linkwiki#Emma_zu_Waldeck_und_Pyrmont|Emma zu Waldeck und Pyrmont#endlink# hat am #date#0#enddate# eine Europäische Patentanmeldung auf niederländisch eingereicht. Sie wohnt in den Niederlanden. Welche der folgenden Aussagen ist richtig?",
+                    "text_en": "#linkwiki#Emma_zu_Waldeck_und_Pyrmont|Emma zu Waldeck und Pyrmont#endlink# filed a European patent application in Dutch on #date#0#enddate#. She lives in the Netherlands. Which of the following statements is correct?",
+                    "text_fr": "#linkwiki#Emma_zu_Waldeck_und_Pyrmont|Emma zu Waldeck und Pyrmont#endlink# a déposé une demande de brevet européen en néerlandais le #date#0#enddate#. Elle vit aux Pays-Bas. Laquelle des affirmations suivantes est correcte ?"
                 }
             ],
             "info_de": "Gebühren für die einzelnen Verfahrensschritte vor dem EPA, Zahlungsfristen, Zahlungsmodalitäten, Zuschläge, Gebührenermäßigungen",
