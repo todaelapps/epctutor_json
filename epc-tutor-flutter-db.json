@@ -16492,26 +16492,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Am #deadline#0|-2DD#enddate#.",
-                            "text_en": "On #deadline#0|-2DD#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-2DD#enddate#."
+                            "text_de": "Am #date#7#enddate#.",
+                            "text_en": "On #date#7#enddate#.",
+                            "text_fr": "Le jour de la #date#7#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|-1DD#enddate#.",
-                            "text_en": "On #deadline#0|-1DD#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-1DD#enddate#."
+                            "text_de": "Am #date#6#enddate#.",
+                            "text_en": "On #date#6#enddate#.",
+                            "text_fr": "Le jour de la #date#6#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|+1DD#enddate#.",
-                            "text_en": "On #deadline#0|+1DD#enddate#.",
-                            "text_fr": "À la #deadline#0|+1DD#enddate#."
+                            "text_de": "Am #date#5#enddate#.",
+                            "text_en": "On #date#5#enddate#.",
+                            "text_fr": "À la #date#5#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #deadline#0#enddate#.",
-                            "text_en": "On #deadline#0#enddate#.",
-                            "text_fr": "Le #deadline#0#enddate#."
+                            "text_de": "Am #date#2#enddate#.",
+                            "text_en": "On #date#2#enddate#.",
+                            "text_fr": "Le #date#2#enddate#."
                         }
                     ],
                     "beginning": [
@@ -16522,7 +16522,11 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "startdate|-3MM",
+                        "deadline[0]|+1DD",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|-2DD"
                     ],
                     "deadline": [
                         "+10DD|+2MM",
@@ -16536,33 +16540,33 @@
                     "id_old": 271,
                     "normen": "todo",
                     "startdate": "",
-                    "text_de": "Am #startdate#-3MM#enddate# wird eine europäische Patentanmeldung per Fax beim EPA in München eingereicht. Das EPA fordert den Anmelder schriftlich auf, innerhalb von zwei Monaten eine Bestätigung der Anmeldung einzureichen. Die Aufforderung des EPA ist vom #beginning#0#enddate# datiert. Wann muss die Bestätigung spätestens eingereicht werden?\r\n",
-                    "text_en": "On #startdate#-3MM#enddate# a European patent application is filed by fax with the EPO in Munich. The EPO requests the applicant in writing to file a confirmation of the application within two months. The EPO request is dated from #beginning#0#enddate#. When must the confirmation be filed at the latest?",
-                    "text_fr": "Le #startdate#-3MM#enddate#, une demande de brevet européen est déposée par fax auprès de l'OEB à Munich. L'OEB demande par écrit au demandeur de déposer une confirmation de la demande dans les deux mois. La demande de l'OEB est datée du #beginning#0#enddate#. Quand la confirmation doit-elle être déposée au plus tard ?"
+                    "text_de": "Am #date#4#enddate# wird eine europäische Patentanmeldung per Fax beim EPA in München eingereicht. Das EPA fordert den Anmelder schriftlich auf, innerhalb von zwei Monaten eine Bestätigung der Anmeldung einzureichen. Die Aufforderung des EPA ist vom #date#0#enddate# datiert. Wann muss die Bestätigung spätestens eingereicht werden?\n",
+                    "text_en": "On #date#4#enddate# a European patent application is filed by fax with the EPO in Munich. The EPO requests the applicant in writing to file a confirmation of the application within two months. The EPO request is dated from #date#0#enddate#. When must the confirmation be filed at the latest?",
+                    "text_fr": "Le #date#4#enddate#, une demande de brevet européen est déposée par fax auprès de l'OEB à Munich. L'OEB demande par écrit au demandeur de déposer une confirmation de la demande dans les deux mois. La demande de l'OEB est datée du #date#0#enddate#. Quand la confirmation doit-elle être déposée au plus tard ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Am #deadline#0|+2DD#enddate#.",
-                            "text_en": "On #deadline#0|+2DD#enddate#.",
-                            "text_fr": "Le jour de #deadline#0|+2DD#enddate#."
+                            "text_de": "Am #date#4#enddate#.",
+                            "text_en": "On #date#4#enddate#.",
+                            "text_fr": "Le jour de #date#4#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|-1DD#enddate#.",
-                            "text_en": "On #deadline#0|-1DD#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-1DD#enddate#."
+                            "text_de": "Am #date#3#enddate#.",
+                            "text_en": "On #date#3#enddate#.",
+                            "text_fr": "Le jour de la #date#3#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|+1DD#enddate#.",
-                            "text_en": "On #deadline#0|+1DD#enddate#.",
-                            "text_fr": "À la #deadline#0|+1DD#enddate#."
+                            "text_de": "Am #date#2#enddate#.",
+                            "text_en": "On #date#2#enddate#.",
+                            "text_fr": "À la #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #deadline#0#enddate#.",
-                            "text_en": "On #deadline#0#enddate#.",
-                            "text_fr": "Le #deadline#0#enddate#."
+                            "text_de": "Am #date#1#enddate#.",
+                            "text_en": "On #date#1#enddate#.",
+                            "text_fr": "Le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -16570,7 +16574,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+1DD",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|+2DD"
                     ],
                     "deadline": [
                         "+2MM"
@@ -16583,33 +16590,33 @@
                     "id_old": 272,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "Am #beginning#0#enddate# reichte ein niederländischer Anmelder eine europäische Patentanmeldung in Niederländisch beim EPA in Den Haag ein. Wann muss eine Übersetzung spätestens eingereicht werden?",
-                    "text_en": "On #beginning#0#enddate# a Dutch applicant filed a European patent application in Dutch at the EPO in The Hague. When must a translation be filed at the latest?",
-                    "text_fr": "Le #beginning#0#enddate#, un demandeur néerlandais a déposé une demande de brevet européen en néerlandais auprès de l'OEB à La Haye. Quand une traduction doit-elle être déposée au plus tard ?"
+                    "text_de": "Am #date#0#enddate# reichte ein niederländischer Anmelder eine europäische Patentanmeldung in Niederländisch beim EPA in Den Haag ein. Wann muss eine Übersetzung spätestens eingereicht werden?",
+                    "text_en": "On #date#0#enddate# a Dutch applicant filed a European patent application in Dutch at the EPO in The Hague. When must a translation be filed at the latest?",
+                    "text_fr": "Le #date#0#enddate#, un demandeur néerlandais a déposé une demande de brevet européen en néerlandais auprès de l'OEB à La Haye. Quand une traduction doit-elle être déposée au plus tard ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum  #deadline#0|-1DD#enddate#.",
-                            "text_en": "By #deadline#0|-1DD#enddate#.",
-                            "text_fr": "Avant le #deadline#0|-1DD#enddate#."
+                            "text_de": "Bis zum  #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+1DD#enddate#.",
-                            "text_en": "Until #deadline#0|+1DD#enddate#.",
-                            "text_fr": "Jusqu'à #deadline#0|+1DD#enddate#."
+                            "text_de": "Bis zum #date#2#enddate#.",
+                            "text_en": "Until #date#2#enddate#.",
+                            "text_fr": "Jusqu'à #date#2#enddate#."
                         },
                         {
-                            "text_de": "Bis zum  #deadline#0|+1MM#enddate#.",
-                            "text_en": "By #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Bis zum  #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum  #deadline#0#enddate#.",
-                            "text_en": "Until #deadline#0#enddate#.",
-                            "text_fr": "Jusqu'à ce que #deadline#0#enddate#."
+                            "text_de": "Bis zum  #date#1#enddate#.",
+                            "text_en": "Until #date#1#enddate#.",
+                            "text_fr": "Jusqu'à ce que #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -16617,7 +16624,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+1DD",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|+1MM"
                     ],
                     "deadline": [
                         "+1MM"
@@ -16630,21 +16640,21 @@
                     "id_old": 273,
                     "normen": "todo",
                     "startdate": "TU",
-                    "text_de": "Am #beginning#0#enddate# wird eine europäische Patentanmeldung in Koreanisch beim EPA in München eingereicht. Der Anmelder ist koreanischer Staatsangehöriger mit Wohnsitz in Korea. Bis wann muss eine Übersetzung spätestens eingereicht werden?",
-                    "text_en": "On #beginning#0#enddate# a European patent application in Korean is filed with the EPO in Munich. The applicant is a Korean citizen residing in Korea. When must a translation be filed at the latest?",
-                    "text_fr": "Le #beginning#0#enddate#, une demande de brevet européen en coréen est déposée auprès de l'OEB à Munich. Le demandeur est un citoyen coréen résidant en Corée. Quand une traduction doit-elle être déposée au plus tard ?"
+                    "text_de": "Am #date#0#enddate# wird eine europäische Patentanmeldung in Koreanisch beim EPA in München eingereicht. Der Anmelder ist koreanischer Staatsangehöriger mit Wohnsitz in Korea. Bis wann muss eine Übersetzung spätestens eingereicht werden?",
+                    "text_en": "On #date#0#enddate# a European patent application in Korean is filed with the EPO in Munich. The applicant is a Korean citizen residing in Korea. When must a translation be filed at the latest?",
+                    "text_fr": "Le #date#0#enddate#, une demande de brevet européen en coréen est déposée auprès de l'OEB à Munich. Le demandeur est un citoyen coréen résidant en Corée. Quand une traduction doit-elle être déposée au plus tard?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Wird die Eingabe am #deadline#0|+21DD#enddate# eingereicht, gilt sie als rechtzeitig eingegangen, da A noch keine Mitteilung über einen Rechtsverlust erhalten hat.",
-                            "text_en": "If the submission is made on #deadline#0|+21DD#enddate#, it is considered to have been received on time because A has not yet received notice of a loss of rights.",
-                            "text_fr": "Si la demande est faite à la date limite #deadline#0|+21DD#enddate#, elle est considérée comme ayant été reçue à temps parce que A n'a pas encore reçu de notification de perte de droits."
+                            "text_de": "Wird die Eingabe am #date#4#enddate# eingereicht, gilt sie als rechtzeitig eingegangen, da A noch keine Mitteilung über einen Rechtsverlust erhalten hat.",
+                            "text_en": "If the submission is made on #date#4#enddate#, it is considered to have been received on time because A has not yet received notice of a loss of rights.",
+                            "text_fr": "Si la demande est faite à la date limite #date#4#enddate#, elle est considérée comme ayant été reçue à temps parce que A n'a pas encore reçu de notification de perte de droits."
                         },
                         {
-                            "text_de": "Die Weiterbehandlung muss bis spätestens #deadline#0|+24DD#enddate# beantragt werden.",
-                            "text_en": "Continued treatment must be requested no later than #deadline#0|+24DD#enddate#.",
-                            "text_fr": "La poursuite du traitement doit être demandée au plus tard le #deadline#0|+24DD#enddate#."
+                            "text_de": "Die Weiterbehandlung muss bis spätestens #date#3#enddate# beantragt werden.",
+                            "text_en": "Continued treatment must be requested no later than #date#3#enddate#.",
+                            "text_fr": "La poursuite du traitement doit être demandée au plus tard le #date#3#enddate#."
                         },
                         {
                             "text_de": "Bis zur Mitteilung eines Rechtsverlustes kann wirksam eine Fristverlängerung von einem Monat beantragt werden.",
@@ -16654,9 +16664,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Frist zur Einreichung einer Eingabe ist am #deadline#0#enddate# abgelaufen.",
-                            "text_en": "The deadline for submitting a submission is #deadline#0#enddate#.",
-                            "text_fr": "La date limite pour soumettre une demande est #deadline#0#enddate#."
+                            "text_de": "Die Frist zur Einreichung einer Eingabe ist am #date#1#enddate# abgelaufen.",
+                            "text_en": "The deadline for submitting a submission is #date#1#enddate#.",
+                            "text_fr": "La date limite pour soumettre une demande est #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -16664,7 +16674,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+6DD",
+                        "deadline[0]|+24DD",
+                        "deadline[0]|+21DD"
                     ],
                     "deadline": [
                         "+10DD|+2MM"
@@ -16677,9 +16690,9 @@
                     "id_old": 274,
                     "normen": "todo",
                     "startdate": "SU|-20DD",
-                    "text_de": "Die Prüfungsabteilung hat einen Bescheid nach Art. 94 (3) EPÜ mit Datum vom #beginning#0#enddate# erlassen. Der Bescheid ging am #beginning#0|+6DD#enddate# beim Anmelder A ein. Die im Bescheid angegebene Frist beträgt zwei Monate. Bis jetzt haben Sie nichts unternommen. Bis wann kann  eine Eingabe zur Überwindung der gerügten Mängel einreicht werden?",
-                    "text_en": "The Examining Division issued a communication under Article 94(3) EPC dated #beginning#0#enddate#. The communication was received by applicant A on #beginning#0|+6DD#enddate#. The time limit stated in the communication has been noted as two months. Until now, you have not taken any action. When can a petition be filed to overcome the defects referenced by the communication?",
-                    "text_fr": "La division d'examen a émis une communication au titre de l'article 94(3) CBE en date du #beginning#0#enddate#. La communication a été reçue par le candidat A le #beginning#0|+6DD#enddate#. Le délai indiqué dans la communication a été noté comme étant de deux mois. Jusqu'à présent, vous n'avez pris aucune mesure. Quand une requête peut-elle être déposée pour surmonter les défauts mentionnés dans la communication ?"
+                    "text_de": "Die Prüfungsabteilung hat einen Bescheid nach Art. 94 (3) EPÜ mit Datum vom #date#0#enddate# erlassen. Der Bescheid ging am #date#2#enddate# beim Anmelder A ein. Die im Bescheid angegebene Frist beträgt zwei Monate. Bis jetzt haben Sie nichts unternommen. Bis wann kann  eine Eingabe zur Überwindung der gerügten Mängel einreicht werden?",
+                    "text_en": "The Examining Division issued a communication under Article 94(3) EPC dated #date#0#enddate#. The communication was received by applicant A on #date#2#enddate#. The time limit stated in the communication has been noted as two months. Until now, you have not taken any action. When can a petition be filed to overcome the defects referenced by the communication?",
+                    "text_fr": "La division d'examen a émis une communication au titre de l'article 94(3) CBE en date du #date#0#enddate#. La communication a été reçue par le candidat A le #date#2#enddate#. Le délai indiqué dans la communication a été noté comme étant de deux mois. Jusqu'à présent, vous n'avez pris aucune mesure. Quand une requête peut-elle être déposée pour surmonter les défauts mentionnés dans la communication ?"
                 },
                 {
                     "answers_false": [
@@ -16778,26 +16791,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Am #deadline#0|-2MM#enddate#.",
-                            "text_en": "On #deadline#0|-2MM#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-2MM#enddate#."
+                            "text_de": "Am #date#5#enddate#.",
+                            "text_en": "On #date#5#enddate#.",
+                            "text_fr": "Le jour de la #date#5#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|-2MM|+5DD#enddate#.",
-                            "text_en": "On #deadline#0|-2MM|+5DD#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-2MM|+5DD#enddate#."
+                            "text_de": "Am #date#4#enddate# .",
+                            "text_en": "On #date#4#enddate# .",
+                            "text_fr": "Le jour de la #date#4#enddate# ."
                         },
                         {
-                            "text_de": "Am #deadline#0|-2MM|-9DD#enddate#.",
-                            "text_en": "On #deadline#0|-2MM|-9DD#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-2MM|-9DD#enddate#."
+                            "text_de": "Am #date#3#enddate#.",
+                            "text_en": "On #date#3#enddate#.",
+                            "text_fr": "Le jour de la #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #deadline#0#enddate#.",
-                            "text_en": "On #deadline#0#enddate#.",
-                            "text_fr": "Le #deadline#0#enddate#."
+                            "text_de": "Am #date#1#enddate#.",
+                            "text_en": "On #date#1#enddate#.",
+                            "text_fr": "Le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -16805,7 +16818,11 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "deadline[0]|-2MM|-9DD",
+                        "deadline[0]|-2MM|+5DD",
+                        "deadline[0]|-2MM"
                     ],
                     "deadline": [
                         "+9MM"
@@ -16818,33 +16835,33 @@
                     "id_old": 278,
                     "normen": "todo",
                     "startdate": "SU|-2MM|-9DD",
-                    "text_de": "Ein europäisches Patent wurde am #startdate##enddate# erteilt. Die Veröffentlichung der Erteilung erfolgte versehentlich erst am #beginning#0#enddate#. Wann endet die Einspruchsfrist?",
-                    "text_en": "A European patent was granted on #startdate##enddate#. The publication of the grant was inadvertently made on #beginning#0#enddate#. When does the opposition period end?",
-                    "text_fr": "Un brevet européen a été délivré le #startdate##enddate#. La publication de la délivrance a été faite par inadvertance le #beginning#0#enddate#. Quand le délai d'opposition prend-il fin ?"
+                    "text_de": "Ein europäisches Patent wurde am #date#2#enddate# erteilt. Die Veröffentlichung der Erteilung erfolgte versehentlich erst am #date#0#enddate#. Wann endet die Einspruchsfrist?",
+                    "text_en": "A European patent was granted on #date#2#enddate#. The publication of the grant was inadvertently made on #date#0#enddate#. When does the opposition period end?",
+                    "text_fr": "Un brevet européen a été délivré le #date#2#enddate#. La publication de la délivrance a été faite par inadvertance le #date#0#enddate#. Quand le délai d'opposition prend-il fin ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Am #deadline#0|-1DD#enddate#.",
-                            "text_en": "On #deadline#0|-1DD#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|-1DD#enddate#."
+                            "text_de": "Am #date#5#enddate#.",
+                            "text_en": "On #date#5#enddate#.",
+                            "text_fr": "Le jour de la #date#5#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|+2DD#enddate#.",
-                            "text_en": "On #deadline#0|+2DD#enddate#.",
-                            "text_fr": "Le jour de #deadline#0|+2DD#enddate#."
+                            "text_de": "Am #date#4#enddate#.",
+                            "text_en": "On #date#4#enddate#.",
+                            "text_fr": "Le jour de #date#4#enddate#."
                         },
                         {
-                            "text_de": "Am #deadline#0|+1DD#enddate#.",
-                            "text_en": "On #deadline#0|+1DD#enddate#.",
-                            "text_fr": "À la #deadline#0|+1DD#enddate#."
+                            "text_de": "Am #date#3#enddate#.",
+                            "text_en": "On #date#3#enddate#.",
+                            "text_fr": "À la #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #deadline#0#enddate#.",
-                            "text_en": "On #deadline#0#enddate#.",
-                            "text_fr": "Le #deadline#0#enddate#."
+                            "text_de": "Am #date#1#enddate#.",
+                            "text_en": "On #date#1#enddate#.",
+                            "text_fr": "Le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -16852,7 +16869,11 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "deadline[0]|+1DD",
+                        "deadline[0]|+2DD",
+                        "deadline[0]|-1DD"
                     ],
                     "deadline": [
                         "+1MM"
@@ -16865,9 +16886,9 @@
                     "id_old": 279,
                     "normen": "todo",
                     "startdate": "MO|-8MM|-20DD",
-                    "text_de": "Die Veröffentlichung der Erteilung eines europäischen Patentes EP-1 erfolgte am #startdate##enddate#. Am #beginning#0#enddate# reichte ein Pole einen Einspruchsschriftsatz in polnisch beim europäischen Patentamt ein. Bis wann muss die Übersetzung des Einspruchsschriftsatzes nachgereicht werden?",
-                    "text_en": "The publication of a grant for the European patent EP-1 took place on #startdate##enddate#. On #beginning#0#enddate# a Pole filed a notice of opposition in Polish at the European Patent Office. When must the translation of the opposition be submitted?",
-                    "text_fr": "La publication d'une délivrance pour le brevet européen EP-1 a eu lieu le #startdate##enddate#. Le #beginning#0#enddate#, un Polonais a déposé un acte d'opposition en polonais auprès de l'Office européen des brevets. Quand la traduction de l'opposition doit-elle être soumise ?"
+                    "text_de": "Die Veröffentlichung der Erteilung eines europäischen Patentes EP-1 erfolgte am #date#2#enddate#. Am #date#0#enddate# reichte ein Pole einen Einspruchsschriftsatz in polnisch beim europäischen Patentamt ein. Bis wann muss die Übersetzung des Einspruchsschriftsatzes nachgereicht werden?",
+                    "text_en": "The publication of a grant for the European patent EP-1 took place on #date#2#enddate#. On #date#0#enddate# a Pole filed a notice of opposition in Polish at the European Patent Office. When must the translation of the opposition be submitted?",
+                    "text_fr": "La publication d'une délivrance pour le brevet européen EP-1 a eu lieu le #date#2#enddate#. Le #date#0#enddate#, un Polonais a déposé un acte d'opposition en polonais auprès de l'Office européen des brevets. Quand la traduction de l'opposition doit-elle être soumise?"
                 },
                 {
                     "answers_false": [
@@ -17134,7 +17155,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-3MM|-14DD",
+                        "startdate|-2MM"
                     ],
                     "deadline": [
                         "+10DD|+4MM"
@@ -17147,33 +17170,33 @@
                     "id_old": 285,
                     "normen": "todo",
                     "startdate": "",
-                    "text_de": "#linkwiki#Paul_Heyse|Paul Heyse#endlink# hat eine europäische Patentanmeldung EP-1 eingereicht. Nach längerem hin und hat der Prüfer die Anmeldung zurückgewiesen. Der Beschluss wurde am #beginning#0#enddate# zugestellt und am #startdate#-3MM|-14DD#enddate# Beschwerde eingelegt. Die Beschwerdebegründung, die auch neue Argumente enthält, wurde sechs Wochen später am #startdate#-2MM#enddate# eingereicht. Heute kommt er zu Ihnen und moniert, dass noch keine Entscheidung gefallen sei. Was raten Sie ihm?",
-                    "text_en": "#linkwiki#Paul_Heyse|Paul Heyse#endlink# has filed a European patent application EP-1. After a lengthy back and forth, the examiner has decided to reject the application. The decision had been finally served on #beginning#0#enddate#, and an appeal was filed on #startdate#-3MM|-14DD#enddate#. The grounds of appeal, including new arguments, were filed six weeks later on #startdate#-2MM#enddate#. Today he comes to you and complains that no decision has yet been made. How would you advise him?",
-                    "text_fr": "#linkwiki#Paul_Heyse|Paul Heyse#endlink# a déposé une demande de brevet européen EP-1. Après un long débat, l'examinateur a décidé de rejeter la demande. La décision a été finalement signifiée le #beginning#0#enddate#, et un appel a été déposé le #startdate#-3MM|-14DD#enddate#. Les motifs du recours, y compris les nouveaux arguments, ont été déposés six semaines plus tard, le #startdate#-2MM#enddate#. Aujourd'hui, il vient vous voir et se plaint qu'aucune décision n'a encore été prise. Quel conseil lui donneriez-vous ?"
+                    "text_de": "#linkwiki#Paul_Heyse|Paul Heyse#endlink# hat eine europäische Patentanmeldung EP-1 eingereicht. Nach längerem hin und hat der Prüfer die Anmeldung zurückgewiesen. Der Beschluss wurde am #date#0#enddate# zugestellt und am #date#2#enddate# Beschwerde eingelegt. Die Beschwerdebegründung, die auch neue Argumente enthält, wurde sechs Wochen später am #date#3#enddate# eingereicht. Heute kommt er zu Ihnen und moniert, dass noch keine Entscheidung gefallen sei. Was raten Sie ihm?",
+                    "text_en": "#linkwiki#Paul_Heyse|Paul Heyse#endlink# has filed a European patent application EP-1. After a lengthy back and forth, the examiner has decided to reject the application. The decision had been finally served on #date#0#enddate#, and an appeal was filed on #date#2#enddate#. The grounds of appeal, including new arguments, were filed six weeks later on #date#3#enddate#. Today he comes to you and complains that no decision has yet been made. How would you advise him?",
+                    "text_fr": "#linkwiki#Paul_Heyse|Paul Heyse#endlink# a déposé une demande de brevet européen EP-1. Après un long débat, l'examinateur a décidé de rejeter la demande. La décision a été finalement signifiée le #date#0#enddate#, et un appel a été déposé le #date#2#enddate#. Les motifs du recours, y compris les nouveaux arguments, ont été déposés six semaines plus tard, le #date#3#enddate#. Aujourd'hui, il vient vous voir et se plaint qu'aucune décision n'a encore été prise. Quel conseil lui donneriez-vous ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+2DD#enddate#.",
-                            "text_en": "By #deadline#0|+2DD#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+2DD#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+1DD#enddate#.",
-                            "text_en": "Until #deadline#0|+1DD#enddate#.",
-                            "text_fr": "Jusqu'à #deadline#0|+1DD#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "Until #date#3#enddate#.",
+                            "text_fr": "Jusqu'à #date#3#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|-1DD#enddate#.",
-                            "text_en": "By #deadline#0|-1DD#enddate#.",
-                            "text_fr": "Avant le #deadline#0|-1DD#enddate#."
+                            "text_de": "Bis zum #date#2#enddate#.",
+                            "text_en": "By #date#2#enddate#.",
+                            "text_fr": "Avant le #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "Until #deadline#0#enddate#.",
-                            "text_fr": "Jusqu'à ce que #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "Until #date#1#enddate#.",
+                            "text_fr": "Jusqu'à ce que #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17181,7 +17204,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|+1DD",
+                        "deadline[0]|+2DD"
                     ],
                     "deadline": [
                         "+2MM"
@@ -17194,9 +17220,9 @@
                     "id_old": 286,
                     "normen": "todo",
                     "startdate": "SU|+7DD",
-                    "text_de": "#linkwiki#Wilhelm_Wien|Wilhelm Wien#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 auf dänisch eingereicht. Bis wann muss eine Übersetzung der EP-1 eingereicht werden?",
-                    "text_en": "#linkwiki#Wilhelm_Wien|Wilhelm Wien#endlink# filed a European patent application EP-1 in Danish on #beginning#0#enddate#. When must a translation of the EP-1 be filed?",
-                    "text_fr": "#linkwiki#Wilhelmm_Wien|Wilhelm Wien#endlink# a déposé une demande de brevet européen EP-1 en danois le #beginning#0#enddate#. Quand une traduction de la demande EP-1 doit-elle être déposée ?"
+                    "text_de": "#linkwiki#Wilhelm_Wien|Wilhelm Wien#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 auf dänisch eingereicht. Bis wann muss eine Übersetzung der EP-1 eingereicht werden?",
+                    "text_en": "#linkwiki#Wilhelm_Wien|Wilhelm Wien#endlink# filed a European patent application EP-1 in Danish on #date#0#enddate#. When must a translation of the EP-1 be filed?",
+                    "text_fr": "#linkwiki#Wilhelmm_Wien|Wilhelm Wien#endlink# a déposé une demande de brevet européen EP-1 en danois le #date#0#enddate#. Quand une traduction de la demande EP-1 doit-elle être déposée ?"
                 },
                 {
                     "answers_false": [
@@ -17206,21 +17232,21 @@
                             "text_fr": "Aucune traduction ne doit être soumise, sinon la référence serait superflue."
                         },
                         {
-                            "text_de": "Ja, bis zum #deadline#0|+1DD#enddate#.",
-                            "text_en": "Yes, by #deadline#0|+1DD#enddate#.",
-                            "text_fr": "Oui, avant le #deadline#0|+1DD#enddate#."
+                            "text_de": "Ja, bis zum #date#3#enddate#.",
+                            "text_en": "Yes, by #date#3#enddate#.",
+                            "text_fr": "Oui, avant le #date#3#enddate#."
                         },
                         {
-                            "text_de": "Ja, bis zum #deadline#0|-1DD#enddate#.",
-                            "text_en": "Yes, by #deadline#0|-1DD#enddate#.",
-                            "text_fr": "Oui, avant le #deadline#0|-1DD#enddate#."
+                            "text_de": "Ja, bis zum #date#2#enddate#.",
+                            "text_en": "Yes, by #date#2#enddate#.",
+                            "text_fr": "Oui, avant le #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Ja, bis zum #deadline#0#enddate#.",
-                            "text_en": "Yes, by the #deadline#0#enddate#.",
-                            "text_fr": "Oui, avant la #deadline#0#enddate#."
+                            "text_de": "Ja, bis zum #date#1#enddate#.",
+                            "text_en": "Yes, by the #date#1#enddate#.",
+                            "text_fr": "Oui, avant la #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17228,7 +17254,9 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-1DD",
+                        "deadline[0]|+1DD"
                     ],
                     "deadline": [
                         "+2MM"
@@ -17241,9 +17269,9 @@
                     "id_old": 287,
                     "normen": "todo",
                     "startdate": "TU|+7DD",
-                    "text_de": "#linkwiki#Marie_Curie|Marie Curie#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 auf französisch eingereicht. Diese enthält eine Bezugnahme auf eine früher eingereichte spanische Anmeldung ES-1. Muss und wenn ja bis wann muss eine Übersetzung der ES-1 eingereicht werden?",
-                    "text_en": "#linkwiki#Marie_Curie|Marie Curie#endlink# filed a European patent application EP-1 in French on #beginning#0#enddate#. This contains a reference to an previously filed Spanish application ES-1. Does a translation of ES-1 have to be filed, and if so, when?",
-                    "text_fr": "#linkwiki#Marie_Curie|Marie Curie#endlink# a déposé une demande de brevet européen EP-1 en français le #beginning#0#enddate#. Cette demande contient une référence à une demande espagnole déposée précédemment (ES-1). Une traduction de la demande ES-1 doit-elle être déposée, et si oui, quand ?"
+                    "text_de": "#linkwiki#Marie_Curie|Marie Curie#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 auf französisch eingereicht. Diese enthält eine Bezugnahme auf eine früher eingereichte spanische Anmeldung ES-1. Muss und wenn ja bis wann muss eine Übersetzung der ES-1 eingereicht werden?",
+                    "text_en": "#linkwiki#Marie_Curie|Marie Curie#endlink# filed a European patent application EP-1 in French on #date#0#enddate#. This contains a reference to an previously filed Spanish application ES-1. Does a translation of ES-1 have to be filed, and if so, when?",
+                    "text_fr": "#linkwiki#Marie_Curie|Marie Curie#endlink# a déposé une demande de brevet européen EP-1 en français le #date#0#enddate#. Cette demande contient une référence à une demande espagnole déposée précédemment (ES-1). Une traduction de la demande ES-1 doit-elle être déposée, et si oui, quand ?"
                 },
                 {
                     "answers_false": [
@@ -17253,21 +17281,21 @@
                             "text_fr": "Aucune traduction ne doit être soumise, sinon la référence serait superflue."
                         },
                         {
-                            "text_de": "Nein, die Frist endete am #deadline#0|-1MM|-10DD#enddate#",
-                            "text_en": "No, the deadline ended on #deadline#0|-1MM|-10DD#enddate#.",
-                            "text_fr": "Non, le délai a pris fin le #deadline#0|-1MM|-10DD#enddate#."
+                            "text_de": "Nein, die Frist endete am #date#5#enddate#.",
+                            "text_en": "No, the deadline ended on #date#5#enddate#.",
+                            "text_fr": "Non, le délai a pris fin le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Nein, die Frist endete am #deadline#0|-1MM#enddate#.",
-                            "text_en": "No, the deadline ended on #deadline#0|-1MM#enddate#.",
-                            "text_fr": "Non, le délai a pris fin le #deadline#0|-1MM#enddate#."
+                            "text_de": "Nein, die Frist endete am #date#4#enddate#.",
+                            "text_en": "No, the deadline ended on #date#4#enddate#.",
+                            "text_fr": "Non, le délai a pris fin le #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Ja, die Frist zur Einreichung einer Übersetzung endet am #deadline#0#enddate#.",
-                            "text_en": "Yes, the deadline for submitting a translation is #deadline#0#enddate#.",
-                            "text_fr": "Oui, la date limite pour soumettre une traduction est #deadline#0#enddate#."
+                            "text_de": "Ja, die Frist zur Einreichung einer Übersetzung endet am #date#1#enddate#.",
+                            "text_en": "Yes, the deadline for submitting a translation is #date#1#enddate#.",
+                            "text_fr": "Oui, la date limite pour soumettre une traduction est #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17275,7 +17303,11 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "deadline[0]|-5DD",
+                        "deadline[0]|-1MM",
+                        "deadline[0]|-1MM|-10DD"
                     ],
                     "deadline": [
                         "+2MM|+10DD"
@@ -17288,9 +17320,9 @@
                     "id_old": 288,
                     "normen": "todo",
                     "startdate": "MO|-4MM",
-                    "text_de": "#linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink# hat am #startdate##enddate# eine europäische Patentanmeldung EP-1 auf einen Augenmuskelspanner eingereicht. Diese enthält eine Bezugnahme auf eine früher eingereichte portugisische Anmeldung PO-1. Er hat keine Übersetzung eingereicht. Daher erhält er eine Mitteilung vom #beginning#0#enddate#, in der das Europäische Patentamt zur Einreichung einer Übersetzung auffordert. Kann er am #deadline#0|-5DD#enddate# noch eine Übersetzung einreichen?",
-                    "text_en": "#linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink# filed a European patent application EP-1 on an eye muscle tensioner on #startdate##enddate#. This contains a reference to a previously filed Portuguese application PO-1. He has not filed a translation. Therefore, he receives a notice, dated #beginning#0#enddate#, requesting the European Patent Office to file a translation. Can he still file a translation on the #deadline#0|-5DD#enddate#?",
-                    "text_fr": "#linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink# a déposé une demande de brevet européen EP-1 sur un tendeur de muscles oculaires le #startdate##enddate#. Cette demande contient une référence à une demande portugaise PO-1 déposée précédemment. Il n'a pas déposé de traduction. Il reçoit donc un avis, daté du #beginning#0#enddate#, demandant à l'Office européen des brevets de déposer une traduction. Peut-il encore déposer une traduction à la #deadline#0|-5DD#enddate# ?"
+                    "text_de": "#linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink# hat am #date#2#enddate# eine europäische Patentanmeldung EP-1 auf einen Augenmuskelspanner eingereicht. Diese enthält eine Bezugnahme auf eine früher eingereichte portugisische Anmeldung PO-1. Er hat keine Übersetzung eingereicht. Daher erhält er eine Mitteilung vom #date#0#enddate#, in der das Europäische Patentamt zur Einreichung einer Übersetzung auffordert. Kann er am #date#3#enddate# noch eine Übersetzung einreichen?",
+                    "text_en": "#linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink# filed a European patent application EP-1 on an eye muscle tensioner on #date#2#enddate#. This contains a reference to a previously filed Portuguese application PO-1. He has not filed a translation. Therefore, he receives a notice, dated #date#0#enddate#, requesting the European Patent Office to file a translation. Can he still file a translation on the #date#3#enddate#?",
+                    "text_fr": "#linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink# a déposé une demande de brevet européen EP-1 sur un tendeur de muscles oculaires le #date#2#enddate#. Cette demande contient une référence à une demande portugaise PO-1 déposée précédemment. Il n'a pas déposé de traduction. Il reçoit donc un avis, daté du #date#0#enddate#, demandant à l'Office européen des brevets de déposer une traduction. Peut-il encore déposer une traduction à la #date#3#enddate#?"
                 },
                 {
                     "answers_false": [
@@ -17300,21 +17332,21 @@
                             "text_fr": "Millikan ne devrait pas avoir déjà déposé la demande elle-même et sans représentant. Par conséquent, il n'est pas nécessaire de désigner un représentant et la demande est réputée ne pas avoir été déposée."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+2MM#enddate#.",
-                            "text_en": "By #deadline#0|+3MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+2MM#enddate#."
+                            "text_de": "Bis zum #date#5#enddate#.",
+                            "text_en": "By #date#5#enddate#.",
+                            "text_fr": "Avant le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+1MM#enddate#.",
-                            "text_en": "By #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17322,7 +17354,11 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-14MM|+5DD",
+                        "startdate|-2MM|-20DD",
+                        "deadline[0]|+1MM",
+                        "deadline[0]|+2MM"
                     ],
                     "deadline": [
                         "+2MM|+10DD"
@@ -17335,33 +17371,33 @@
                     "id_old": 289,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# ist ein amerikanischer Nobelpreisträger und hat am #startdate#-14MM|+5DD#enddate# eine amerikanische Patentanmeldung US-1 auf eingereicht. Am #startdate#-2MM|-20DD#enddate# reicht er eine europäische Patentanmeldung EP-1 ein, die die Priorität von US-1 beansprucht. Er erhält eine Mitteilung des Europäischen Patentamtes vom #beginning#0#enddate#, in der es zur Benennung eines Vertreters auffordert. Bis wann ist der Vertreter zu benennen?",
-                    "text_en": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# is an American Nobel laureate who filed an American patent application US-1 on #startdate#-14MM|+5DD#enddate#. On #startdate#-2MM|-20DD#enddate# he files a European patent application EP-1 claiming priority to US-1. He receives a notice from the European Patent Office on #beginning#0#enddate#, requesting the appointment of a representative. When is the representative to be appointed?",
-                    "text_fr": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# est un lauréat américain du prix Nobel qui a déposé une demande de brevet américain US-1 le #startdate#-14MM|+5DD#enddate#. Le #date de début#-2MM|-20DD#enddate#, il dépose une demande de brevet européen EP-1 revendiquant la priorité sur US-1. Il reçoit un avis de l'Office européen des brevets le #début#0#enddate#, demandant la désignation d'un mandataire. Quand le mandataire doit-il être désigné ?"
+                    "text_de": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# ist ein amerikanischer Nobelpreisträger und hat am #date#2#enddate# eine amerikanische Patentanmeldung US-1 auf eingereicht. Am #date#3#enddate# reicht er eine europäische Patentanmeldung EP-1 ein, die die Priorität von US-1 beansprucht. Er erhält eine Mitteilung des Europäischen Patentamtes vom #date#0#enddate#, in der es zur Benennung eines Vertreters auffordert. Bis wann ist der Vertreter zu benennen?",
+                    "text_en": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# is an American Nobel laureate who filed an American patent application US-1 on #date#2#enddate#. On #date#3#enddate# he files a European patent application EP-1 claiming priority to US-1. He receives a notice from the European Patent Office on #date#0#enddate#, requesting the appointment of a representative. When is the representative to be appointed?",
+                    "text_fr": "#linkwiki#Robert_Andrews_Millikan|Robert Andrews Millikan#endlink# est un lauréat américain du prix Nobel qui a déposé une demande de brevet américain US-1 le #date#2#enddate#. Le #date#3#enddate#, il dépose une demande de brevet européen EP-1 revendiquant la priorité sur US-1. Il reçoit un avis de l'Office européen des brevets le #date#0#enddate#, demandant la désignation d'un mandataire. Quand le mandataire doit-il être désigné ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+1MM#enddate#.",
-                            "text_en": "By #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+3MM#enddate#.",
-                            "text_en": "By #deadline#0|+3MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+3MM#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+2MM#enddate#.",
-                            "text_en": "By #deadline#0|+2MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+2MM#enddate#."
+                            "text_de": "Bis zum #date#2#enddate#.",
+                            "text_en": "By #date#2#enddate#.",
+                            "text_fr": "Avant le #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17369,7 +17405,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+2MM",
+                        "deadline[0]|+3MM",
+                        "deadline[0]|+1MM"
                     ],
                     "deadline": [
                         "+1MM"
@@ -17382,33 +17421,33 @@
                     "id_old": 290,
                     "normen": "todo",
                     "startdate": "MO|+7DD",
-                    "text_de": "#linkwiki#Gustaf_Dal%C3%A9n|Gustaf Dalén#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Bis wann ist spätestens die Anmeldegebühr zu bezahlen?",
-                    "text_en": "#linkwiki#Gustaf_Dal%C3%A9n|Gustaf Dalén#endlink# filed a European patent application EP-1 on #beginning#0#enddate#. What is the latest date by which the application fee must be paid?",
-                    "text_fr": "#linkwiki#Gustaf_Dal%C3%A9n|Gustaf Dalén#endlink# a déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Quelle est la date ultime à laquelle la taxe de dépôt doit être payée ?"
+                    "text_de": "#linkwiki#Gustaf_Dal%C3%A9n|Gustaf Dalén#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Bis wann ist spätestens die Anmeldegebühr zu bezahlen?",
+                    "text_en": "#linkwiki#Gustaf_Dal%C3%A9n|Gustaf Dalén#endlink# filed a European patent application EP-1 on #date#0#enddate#. What is the latest date by which the application fee must be paid?",
+                    "text_fr": "#linkwiki#Gustaf_Dal%C3%A9n|Gustaf Dalén#endlink# a déposé une demande de brevet européen EP-1 le #date#0#enddate#. Quelle est la date ultime à laquelle la taxe de dépôt doit être payée ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+1MM#enddate#.",
-                            "text_en": "By #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+2MM#enddate#.",
-                            "text_en": "By #deadline#0|+2MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+2MM#enddate#."
+                            "text_de": "Bis zum #date#2#enddate#.",
+                            "text_en": "By #date#2#enddate#.",
+                            "text_fr": "Avant le #date#2#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+3MM#enddate#.",
-                            "text_en": "By #deadline#0|+3MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+3MM#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17416,7 +17455,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+2MM",
+                        "deadline[0]|+3MM",
+                        "deadline[0]|+1MM"
                     ],
                     "deadline": [
                         "+1MM"
@@ -17481,33 +17523,33 @@
                     "id_old": 292,
                     "normen": "todo",
                     "startdate": "MO|+7DD",
-                    "text_de": "#linkwiki#Paul_Sabatier_(Chemiker)|Paul Sabatier#endlink# hat am #beginning#0#enddate# eine europäische Patentanmeldung eingereicht. Für welche Arten der Einreichung läuft am #deadline#0#enddate# die Frist zur Zahlung der Anmelde- und Recherchegebühr ab?",
-                    "text_en": "#linkwiki#Paul_Sabatier_(chemist)|Paul Sabatier#endlink# filed a European patent application on #beginning#0#enddate#. For which types of filing does the #deadline#0#enddate# deadline for payment of the filing and search fee expire?",
-                    "text_fr": "#linkwiki#Paul_Sabatier_(chimiste)|Paul Sabatier#endlink# a déposé une demande de brevet européen le #beginning#0#enddate#. Pour quels types de dépôt le délai de #beginning#0#enddate# pour le paiement de la taxe de dépôt et de recherche expire-t-il ?"
+                    "text_de": "#linkwiki#Paul_Sabatier_(Chemiker)|Paul Sabatier#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung eingereicht. Für welche Arten der Einreichung läuft am #date#1#enddate# die Frist zur Zahlung der Anmelde- und Recherchegebühr ab?",
+                    "text_en": "#linkwiki#Paul_Sabatier_(chemist)|Paul Sabatier#endlink# filed a European patent application on #date#0#enddate#. For which types of filing does the #date#1#enddate# deadline for payment of the filing and search fee expire?",
+                    "text_fr": "#linkwiki#Paul_Sabatier_(chimiste)|Paul Sabatier#endlink# a déposé une demande de brevet européen le #date#0#enddate#. Pour quels types de dépôt le délai de #date#1#enddate# pour le paiement de la taxe de dépôt et de recherche expire-t-il ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Am #deadline#0|+1MM#enddate#.",
-                            "text_en": "On #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Le jour de la #deadline#0|+1MM#enddate#."
+                            "text_de": "Am #date#4#enddate#.",
+                            "text_en": "On #date#4#enddate#.",
+                            "text_fr": "Le jour de la #date#4#enddate#."
                         },
                         {
-                            "text_de": "Am #beginning#0|+1MM|+14DD#enddate#.",
-                            "text_en": "On #beginning#0|+1MM|+14DD#enddate#.",
-                            "text_fr": "Le #beginning#0|+1MM|+14DD#enddate#."
+                            "text_de": "Am #date#5#enddate#.",
+                            "text_en": "On #date#5#enddate#.",
+                            "text_fr": "Le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Am #startdate#+1MM#enddate#.",
-                            "text_en": "On #startdate#+1MM#enddate#.",
-                            "text_fr": "Le #startdate#+1MM#enddate#."
+                            "text_de": "Am #date#6#enddate#.",
+                            "text_en": "On #date#6#enddate#.",
+                            "text_fr": "Le #date#6#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #deadline#0#enddate#.",
-                            "text_en": "On #deadline#0#enddate#.",
-                            "text_fr": "Le #deadline#0#enddate#."
+                            "text_de": "Am #date#1#enddate#.",
+                            "text_en": "On #date#1#enddate#.",
+                            "text_fr": "Le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17515,7 +17557,12 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "beginning[0]|+14DD",
+                        "deadline[0]|+1MM",
+                        "beginning[0]|+1MM|+14DD",
+                        "startdate|+1MM"
                     ],
                     "deadline": [
                         "+1MM"
@@ -17528,21 +17575,21 @@
                     "id_old": 293,
                     "normen": "todo",
                     "startdate": "MO|-2MM",
-                    "text_de": "#linkwiki#Alexis_Carrel|Alexis Carrel#endlink# hat am #startdate##enddate# eine auf eine Blutgefäßklemme gerichtete europäische Patentanmeldung EP-1 durch Einwurf in den automatischen Briefkasten eingereicht. EP-1 enthält eine Beschreibung und Zeichnungen sowie einen Antrag auf Erteilung eines europäischen Patentes, der nur unleserlich unterschrieben ist und sonst keine Angaben enthält. Der Anmelder ist anhand der eingereichten Unterlagen nicht identifizierbar. Nachdem Carrel keine Rückmeldung erhält, meldet er sich am #beginning#0#enddate# zufällig telefonisch beim Amt und erfährt von seinem Missgeschick. Auch verabredet er mit dem Prüfer, einen Anspruchssatz nachzureichen, was er am #beginning#0|+14DD#enddate# macht. Wann endet(e) die Frist zur Zahlung der Anmelde- und Recherchegebühr?",
-                    "text_en": "#linkwiki#Alexis_Carrel|Alexis Carrel#endlink# filed a European patent application EP-1, directed to a blood vessel clamp, by dropping it in the automatic mailbox on #startdate##enddate#. EP-1 contains a description and drawings, as well as an application for a European patent, which has only been illegibly signed and otherwise contains no other information. The applicant cannot be identified from the documents submitted. Since Carrel has received no response, he decides to call the Office on #beginning#0#enddate# and learns of his mishap. He also arranges with the examiner to submit a claim record subsequently, which he does on #beginning#0|+14DD#enddate#. When is the deadline(s) for paying the filing and search fee?",
-                    "text_fr": "#linkwiki#Alexis_Carrel|Alexis Carrel#endlink# a déposé une demande de brevet européen EP-1, portant sur un clamp de vaisseau sanguin, en la déposant dans la boîte aux lettres automatique le #startdate##enddate#. EP-1 contient une description et des dessins, ainsi qu'une demande de brevet européen, qui n'a été signée que de manière illisible et ne contient aucune autre information. Le demandeur ne peut être identifié à partir des documents présentés. N'ayant reçu aucune réponse, Carrel décide d'appeler l'Office le #beginning#0#enddate# et apprend sa mésaventure. Il prend également des dispositions avec l'examinateur pour soumettre un dossier de demande ultérieurement, ce qu'il fait le #beginning#0|+14DD#enddate#. Quelle est la date limite pour le paiement de la taxe de dépôt et de recherche ?"
+                    "text_de": "#linkwiki#Alexis_Carrel|Alexis Carrel#endlink# hat am #date#2#enddate# eine auf eine Blutgefäßklemme gerichtete europäische Patentanmeldung EP-1 durch Einwurf in den automatischen Briefkasten eingereicht. EP-1 enthält eine Beschreibung und Zeichnungen sowie einen Antrag auf Erteilung eines europäischen Patentes, der nur unleserlich unterschrieben ist und sonst keine Angaben enthält. Der Anmelder ist anhand der eingereichten Unterlagen nicht identifizierbar. Nachdem Carrel keine Rückmeldung erhält, meldet er sich am #date#0#enddate# zufällig telefonisch beim Amt und erfährt von seinem Missgeschick. Auch verabredet er mit dem Prüfer, einen Anspruchssatz nachzureichen, was er am #date#3#enddate# macht. Wann endet(e) die Frist zur Zahlung der Anmelde- und Recherchegebühr?",
+                    "text_en": "#linkwiki#Alexis_Carrel|Alexis Carrel#endlink# filed a European patent application EP-1, directed to a blood vessel clamp, by dropping it in the automatic mailbox on #date#2#enddate#. EP-1 contains a description and drawings, as well as an application for a European patent, which has only been illegibly signed and otherwise contains no other information. The applicant cannot be identified from the documents submitted. Since Carrel has received no response, he decides to call the Office on #date#0#enddate# and learns of his mishap. He also arranges with the examiner to submit a claim record subsequently, which he does on #date#3#enddate#. When is the deadline(s) for paying the filing and search fee?",
+                    "text_fr": "#linkwiki#Alexis_Carrel|Alexis Carrel#endlink# a déposé une demande de brevet européen EP-1, portant sur un clamp de vaisseau sanguin, en la déposant dans la boîte aux lettres automatique le #date#2#enddate#. EP-1 contient une description et des dessins, ainsi qu'une demande de brevet européen, qui n'a été signée que de manière illisible et ne contient aucune autre information. Le demandeur ne peut être identifié à partir des documents présentés. N'ayant reçu aucune réponse, Carrel décide d'appeler l'Office le #date#0#enddate# et apprend sa mésaventure. Il prend également des dispositions avec l'examinateur pour soumettre un dossier de demande ultérieurement, ce qu'il fait le #date#3#enddate#. Quelle est la date limite pour le paiement de la taxe de dépôt et de recherche ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Am #beginning#0|+10DD#enddate#.",
-                            "text_en": "On #beginning#0|+10DD#enddate#.",
-                            "text_fr": "Le #beginning#0|+10DD#enddate#."
+                            "text_de": "Am #date#4#enddate#.",
+                            "text_en": "On #date#4#enddate#.",
+                            "text_fr": "Le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Am #beginning#0|-15DD#enddate#.",
-                            "text_en": "On #beginning#0|-15DD#enddate#.",
-                            "text_fr": "Le #beginning#0|-15DD#enddate#."
+                            "text_de": "Am #date#3#enddate#.",
+                            "text_en": "On #date#3#enddate#.",
+                            "text_fr": "Le #date#3#enddate#."
                         },
                         {
                             "text_de": "Der Anmeldetag kann erst festgelegt werden, wenn die Eingangsstelle die Vollständigkeit der Unterlagen anerkannt hat.",
@@ -17552,9 +17599,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #beginning#0#enddate#.",
-                            "text_en": "On #beginning#0#enddate#.",
-                            "text_fr": "Le #beginning#0#enddate#."
+                            "text_de": "Am #date#0#enddate#.",
+                            "text_en": "On #date#0#enddate#.",
+                            "text_fr": "Le #date#0#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17562,7 +17609,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-45DD",
+                        "beginning[0]|-15DD",
+                        "beginning[0]|+10DD"
                     ],
                     "deadline": [
                         "+15DD"
@@ -17575,16 +17625,16 @@
                     "id_old": 294,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Gerhart_Hauptmann|Gerhart Hauptmann#endlink# hat am #startdate#-45DD#enddate# eine auf einen Steinmetzhammer gerichtete europäische Patentanmeldung EP-1 eingereicht. EP-1 enthält eine Beschreibung. Offensichtlich fehlt jedoch ein Teil der Beschreibung und die Zeichnungen. Das europäische Patentamt sendet Hauptmann am #beginning#0|-15DD#enddate# eine Mitteilung, in der es zur Nachreichung der fehlenden Unterlagen auffordert. Am #beginning#0#enddate# reicht er die fehlenden Unterlagen nach.  Der Eingang der Unterlagen wird am #beginning#0|+10DD#enddate# bestätigt. Wann ist der Anmeldetag der Anmeldung?",
-                    "text_en": "#linkwiki#Gerhart_Hauptmann|Gerhart Hauptmann#endlink# filed a European patent application EP-1 directed to a mason's hammer on #startdate#-45DD#enddate#. EP-1 contains a description; however, it appears that part of the description and the drawings are missing. The European Patent Office sends Hauptmann a notice on #beginning#0|-15DD#enddate#, requesting that the missing documents be submitted. On #beginning#0#enddate# he complies and submits the missing documents.  The receipt of the documents is confirmed on #beginning#0|+10DD#enddate#. When is the filing date of the application?",
-                    "text_fr": "#linkwiki#Gerhart_Hauptmann|Gerhart Hauptmann#endlink# a déposé une demande de brevet européen EP-1 portant sur un marteau de maçon le #startdate#-45DD#enddate#. EP-1 contient une description ; cependant, il semble qu'une partie de la description et les dessins soient manquants. L'Office européen des brevets envoie à Hauptmann un avis le #beginning#0|-15DD#enddate#, demandant que les documents manquants soient soumis. Le #beginning#0#enddate#, il s'exécute et soumet les documents manquants.  La réception des documents est confirmée le #beginning#0|+10DD#enddate#. Quelle est la date de dépôt de la demande ?"
+                    "text_de": "#linkwiki#Gerhart_Hauptmann|Gerhart Hauptmann#endlink# hat am #date#2#enddate# eine auf einen Steinmetzhammer gerichtete europäische Patentanmeldung EP-1 eingereicht. EP-1 enthält eine Beschreibung. Offensichtlich fehlt jedoch ein Teil der Beschreibung und die Zeichnungen. Das europäische Patentamt sendet Hauptmann am #date#3#enddate# eine Mitteilung, in der es zur Nachreichung der fehlenden Unterlagen auffordert. Am #date#0#enddate# reicht er die fehlenden Unterlagen nach.  Der Eingang der Unterlagen wird am #date#4#enddate# bestätigt. Wann ist der Anmeldetag der Anmeldung?",
+                    "text_en": "#linkwiki#Gerhart_Hauptmann|Gerhart Hauptmann#endlink# filed a European patent application EP-1 directed to a mason's hammer on #date#2#enddate#. EP-1 contains a description; however, it appears that part of the description and the drawings are missing. The European Patent Office sends Hauptmann a notice on #date#3#enddate#, requesting that the missing documents be submitted. On #date#0#enddate# he complies and submits the missing documents.  The receipt of the documents is confirmed on #date#4#enddate#. When is the filing date of the application?",
+                    "text_fr": "#linkwiki#Gerhart_Hauptmann|Gerhart Hauptmann#endlink# a déposé une demande de brevet européen EP-1 portant sur un marteau de maçon le #date#2#enddate#. EP-1 contient une description ; cependant, il semble qu'une partie de la description et les dessins soient manquants. L'Office européen des brevets envoie à Hauptmann un avis le #date#3#enddate#, demandant que les documents manquants soient soumis. Le #date#0#enddate#, il s'exécute et soumet les documents manquants.  La réception des documents est confirmée le #date#4#enddate#. Quelle est la date de dépôt de la demande ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Am #beginning#0|+10DD#enddate#.",
-                            "text_en": "On #beginning#0|+10DD#enddate#.",
-                            "text_fr": "Le #beginning#0|+10DD#enddate#."
+                            "text_de": "Am #date#3#enddate#.",
+                            "text_en": "On #date#3#enddate#.",
+                            "text_fr": "Le #date#3#enddate#."
                         },
                         {
                             "text_de": "Heute.",
@@ -17599,9 +17649,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Am #beginning#0#enddate#.",
-                            "text_en": "On #beginning#0#enddate#.",
-                            "text_fr": "Le #beginning#0#enddate#."
+                            "text_de": "Am #date#0#enddate#.",
+                            "text_en": "On #date#0#enddate#.",
+                            "text_fr": "Le #date#0#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17609,7 +17659,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate|-1YY|-1MM",
+                        " beginning[0]|+10DD",
+                        "startdate"
                     ],
                     "deadline": [
                         "+2MM|+10DD"
@@ -17622,33 +17675,33 @@
                     "id_old": 295,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Elihu_Root|Elihu Root#endlink# reichte am #beginning#0#enddate# eine europäische Patentanmeldung EP-1. EP-1 betrifft ein Verfahren zur Steuerung eines Kriegsschiffes. EP-1 nimmt die Priorität einer amerikanischen Anmeldung US-1 vom #startdate#-1YY|-1MM#enddate# in Anspruch. Offensichtlich fehlt jedoch ein Teil der Beschreibung. Das europäische Patentamt sendet Hauptmann am #beginning#0|+10DD#enddate# eine Mitteilung, in der es zur Nachreichung der fehlenden Unterlagen auffordert. Heute, am #startdate##enddate#, reicht er die fehlenden Unterlagen nach. Wann ist der Anmeldetag von EP-1?",
-                    "text_en": "#linkwiki#Elihu_Root|Elihu Root#endlink# filed a European patent application EP-1 concerning a method of steering a warship on #beginning#0#enddate#. . EP-1 claims priority to an American application US-1 of #startdate#-1YY|-1MM#enddate#. Apparently, however, part of the description is missing. The European Patent Office sends Root a notice on #beginning#0|+10DD#enddate# requesting that the missing documents be submitted. Today, on #startdate##enddate#, he submits the missing documents. When is the filing date of EP-1?",
-                    "text_fr": "#linkwiki#Elihu_Root|Elihu Root#endlink# a déposé une demande de brevet européen EP-1 concernant une méthode pour diriger un navire de guerre le #beginning#0#enddate#. . EP-1 revendique la priorité à une demande américaine US-1 de #startdate#-1YY|-1MM#enddate#. Cependant, il semble qu'une partie de la description soit manquante. L'Office européen des brevets envoie à Root un avis le #beginning#0|+10DD#enddate# demandant que les documents manquants soient soumis. Aujourd'hui, le #startdate##enddate#, il soumet les documents manquants. Quelle est la date de dépôt de EP-1 ?"
+                    "text_de": "#linkwiki#Elihu_Root|Elihu Root#endlink# reichte am #date#0#enddate# eine europäische Patentanmeldung EP-1. EP-1 betrifft ein Verfahren zur Steuerung eines Kriegsschiffes. EP-1 nimmt die Priorität einer amerikanischen Anmeldung US-1 vom #date#2#enddate# in Anspruch. Offensichtlich fehlt jedoch ein Teil der Beschreibung. Das europäische Patentamt sendet Hauptmann am #date#3#enddate# eine Mitteilung, in der es zur Nachreichung der fehlenden Unterlagen auffordert. Heute, am #date#4#enddate#, reicht er die fehlenden Unterlagen nach. Wann ist der Anmeldetag von EP-1?",
+                    "text_en": "#linkwiki#Elihu_Root|Elihu Root#endlink# filed a European patent application EP-1 concerning a method of steering a warship on #date#0#enddate#. EP-1 claims priority to an American application US-1 of #date#2#enddate#. Apparently, however, part of the description is missing. The European Patent Office sends Root a notice on #date#3#enddate# requesting that the missing documents be submitted. Today, on #date#4#enddate#, he submits the missing documents. When is the filing date of EP-1?",
+                    "text_fr": "#linkwiki#Elihu_Root|Elihu Root#endlink# a déposé une demande de brevet européen EP-1 concernant une méthode pour diriger un navire de guerre le #date#0#enddate#. EP-1 revendique la priorité à une demande américaine US-1 de #date#2#enddate#. Cependant, il semble qu'une partie de la description soit manquante. L'Office européen des brevets envoie à Root un avis le #date#3#enddate# demandant que les documents manquants soient soumis. Aujourd'hui, le #date#4#enddate#, il soumet les documents manquants. Quelle est la date de dépôt de EP-1 ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+2MM#enddate#.",
-                            "text_en": "By #deadline#0|+2MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+2MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|-2MM#enddate#.",
-                            "text_en": "By #deadline#0|-2MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|-2MM#enddate#."
+                            "text_de": "Bis zum #date#5#enddate#.",
+                            "text_en": "By #date#5#enddate#.",
+                            "text_fr": "Avant le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Die Prioritätserklärung musste bis zum #startdate##enddate# eingereicht werden.",
-                            "text_en": "The priority declaration had to be submitted by #startdate##enddate#.",
-                            "text_fr": "La déclaration de priorité devait être soumise avant le #startdate##enddate#."
+                            "text_de": "Die Prioritätserklärung musste bis zum #date#3#enddate# eingereicht werden.",
+                            "text_en": "The priority declaration had to be submitted by #date#3#enddate#.",
+                            "text_fr": "La déclaration de priorité devait être soumise avant le #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17656,7 +17709,11 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+1YY",
+                        "startdate",
+                        "deadline[0]|+2MM",
+                        "deadline[0]|-2MM"
                     ],
                     "deadline": [
                         "+16MM"
@@ -17669,26 +17726,26 @@
                     "id_old": 296,
                     "normen": "todo",
                     "startdate": "SU",
-                    "text_de": "#linkwiki#Rabindranath_Tagore|Rabindranath Tagore#endlink# hat am #beginning#0#enddate# eine indische Patentanmeldung IP-1 eingereicht. Am #beginning#0|+1YY#enddate# reichte er eine europäische Patentanmeldung ein, die die Priorität von IP-1 in Anspruch nimmt. Bis wann muss die Prioritätserklärung nachgereicht werden?",
-                    "text_en": "#linkwiki#Rabindranath_Tagore|Rabindranath Tagore#endlink# filed an Indian patent application IP-1 on #beginning#0#enddate#. On #beginning#0|+1YY#enddate# he filed a European patent application claiming the priority of IP-1. When must the priority declaration be filed subsequently?",
-                    "text_fr": "#linkwiki#Rabindranath_Tagore|Rabindranath Tagore#endlink# a déposé une demande de brevet indien IP-1 le #beginning#0#enddate#. Le #beginning#0|+1YY#enddate#, il a déposé une demande de brevet européen revendiquant la priorité de l'IP-1. Quand la déclaration de priorité doit-elle être déposée ultérieurement ?"
+                    "text_de": "#linkwiki#Rabindranath_Tagore|Rabindranath Tagore#endlink# hat am #date#0#enddate# eine indische Patentanmeldung IP-1 eingereicht. Am #date#2#enddate# reichte er eine europäische Patentanmeldung ein, die die Priorität von IP-1 in Anspruch nimmt. Bis wann muss die Prioritätserklärung nachgereicht werden?",
+                    "text_en": "#linkwiki#Rabindranath_Tagore|Rabindranath Tagore#endlink# filed an Indian patent application IP-1 on #date#0#enddate#. On #date#2#enddate# he filed a European patent application claiming the priority of IP-1. When must the priority declaration be filed subsequently?",
+                    "text_fr": "#linkwiki#Rabindranath_Tagore|Rabindranath Tagore#endlink# a déposé une demande de brevet indien IP-1 le #date#0#enddate#. Le #date#2#enddate#, il a déposé une demande de brevet européen revendiquant la priorité de l'IP-1. Quand la déclaration de priorité doit-elle être déposée ultérieurement ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|-2MM#enddate#.",
-                            "text_en": "By #deadline#0|-2MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|-2MM#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+2MM#enddate#.",
-                            "text_en": "By #deadline#0|+2MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+2MM#enddate#."
+                            "text_de": "Bis zum #date#2#enddate#.",
+                            "text_en": "By #date#2#enddate#.",
+                            "text_fr": "Avant le #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
@@ -17703,7 +17760,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+2MM",
+                        "deadline[0]|-2MM",
+                        "startdate"
                     ],
                     "deadline": [
                         "+16MM"
@@ -17716,21 +17776,21 @@
                     "id_old": 297,
                     "normen": "todo",
                     "startdate": "SU",
-                    "text_de": "#linkwiki#Henri_La_Fontaine|Henri La Fontaine#endlink# hat am #beginning#0#enddate# eine französische Patentanmeldung FR-1 eingereicht. Am #startdate##enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Priorität von FR-1 in Anspruch nimmt. Bis wann muss die Prioritätserklärung nachgereicht werden?",
-                    "text_en": "#linkwiki#Henri_La_Fontaine|Henri La Fontaine#endlink# filed a French patent application FR-1 on #beginning#0#enddate#. On #startdate##enddate# he filed a European patent application EP-1 claiming the priority of FR-1. When must the priority declaration be filed subsequently?",
-                    "text_fr": "#linkwiki#Henri_La_Fontaine|Henri La Fontaine#endlink# a déposé une demande de brevet français FR-1 le #beginning#0#enddate#. Le #beginning##enddate#, il a déposé une demande de brevet européen EP-1 revendiquant la priorité de FR-1. Quand la déclaration de priorité doit-elle être déposée ultérieurement ?"
+                    "text_de": "#linkwiki#Henri_La_Fontaine|Henri La Fontaine#endlink# hat am #date#0#enddate# eine französische Patentanmeldung FR-1 eingereicht. #date#4#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Priorität von FR-1 in Anspruch nimmt. Bis wann muss die Prioritätserklärung nachgereicht werden?",
+                    "text_en": "#linkwiki#Henri_La_Fontaine|Henri La Fontaine#endlink# filed a French patent application FR-1 on #date#0#enddate#. On #date#4#enddate# he filed a European patent application EP-1 claiming the priority of FR-1. When must the priority declaration be filed subsequently?",
+                    "text_fr": "#linkwiki#Henri_La_Fontaine|Henri La Fontaine#endlink# a déposé une demande de brevet français FR-1 le #date#0#enddate#. Le #date#4#enddate#, il a déposé une demande de brevet européen EP-1 revendiquant la priorité de FR-1. Quand la déclaration de priorité doit-elle être déposée ultérieurement ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Die Prioritätserklärung von US-2 kann bis zum #deadline#0#enddate# hinzugefügt werden.",
-                            "text_en": "US-2 priority statement can be added no later than #deadline#0#enddate#.",
-                            "text_fr": "La déclaration de priorité US-2 peut être ajoutée au plus tard à la #deadline#0#enddate#."
+                            "text_de": "Die Prioritätserklärung von US-2 kann bis zum #date#2#enddate# hinzugefügt werden.",
+                            "text_en": "US-2 priority statement can be added no later than #date#2#enddate#.",
+                            "text_fr": "La déclaration de priorité US-2 peut être ajoutée au plus tard à la #date#2#enddate#."
                         },
                         {
-                            "text_de": "Die Prioritätserklärung von US-2 kann bis zum #startdate#+2MM#enddate# hinzugefügt werden.",
-                            "text_en": "US-2 priority statement can be added no later than #startdate#+2MM#enddate#.",
-                            "text_fr": "La déclaration de priorité US-2 peut être ajoutée au plus tard à la #startdate#+2MM#enddate#."
+                            "text_de": "Die Prioritätserklärung von US-2 kann bis zum #date#6#enddate# hinzugefügt werden.",
+                            "text_en": "US-2 priority statement can be added no later than #date#6#enddate#.",
+                            "text_fr": "La déclaration de priorité US-2 peut être ajoutée au plus tard à la #date#6#enddate#."
                         },
                         {
                             "text_de": "Eine Priorität kann nur innerhalb von 12 Monaten nach dem frühesten beanspruchten Prioritätstag in Anspruch genommen werden.",
@@ -17740,9 +17800,9 @@
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Die Prioritätserklärung von US-2 kann bis zum #deadline#1#enddate# hinzugefügt werden.",
-                            "text_en": "US-2 priority statement can be added no later than #deadline#1#enddate#.",
-                            "text_fr": "La déclaration de priorité US-2 peut être ajoutée au plus tard le #deadline#1#enddate#."
+                            "text_de": "Die Prioritätserklärung von US-2 kann bis zum #date#3#enddate# hinzugefügt werden.",
+                            "text_en": "US-2 priority statement can be added no later than #date#3#enddate#.",
+                            "text_fr": "La déclaration de priorité US-2 peut être ajoutée au plus tard le #date#3#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17753,7 +17813,10 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "startdate|-2MM|-12DD",
+                        "startdate",
+                        "startdate|+2MM"
                     ],
                     "deadline": [
                         "+16MM",
@@ -17767,33 +17830,33 @@
                     "id_old": 298,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Theodore_William_Richards|Theodore William Richards#endlink# hat am #beginning#0#enddate# eine US-Patentanmeldung US-1 eingereicht. Diese betrifft eine Waage zum Wiegen sehr kleiner Massen. Am #startdate#-2MM|-12DD#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Priorität von US-1 in Anspruch nimmt. Am #startdate##enddate# kam er zu Ihnen und bat um die weitere Aufnahme der Priortät einer US-Anmeldung US-2, die am #beginning#1#enddate# eingereicht wurde. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Theodore_William_Richards|Theodore William Richards#endlink# filed a US patent application US-1 on #beginning#0#enddate#,which relates to a scale for weighing very small masses. On #startdate#-2MM|-12DD#enddate# he filed a European patent application EP-1 claiming priority from US-1. On #startdate##enddate# he came to you and asked for further inclusion of the priority of a US application US-2 filed on #beginning#1#enddate#. What is the legal situation?",
-                    "text_fr": "#linkwiki#Theodore_William_Richards|Theodore William Richards#endlink# a déposé une demande de brevet américain US-1 le #beginning#0#enddate#,qui concerne une balance pour peser de très petites masses. Le #startdate#-2MM|-12DD#enddate#, il a déposé une demande de brevet européen EP-1 revendiquant la priorité de US-1. Le #beginning##enddate#, il est venu vous voir pour vous demander d'inclure la priorité d'une demande US-2 déposée le #beginning#1#enddate#. Quelle est la situation juridique ?"
+                    "text_de": "#linkwiki#Theodore_William_Richards|Theodore William Richards#endlink# hat am #date#0#enddate# eine US-Patentanmeldung US-1 eingereicht. Diese betrifft eine Waage zum Wiegen sehr kleiner Massen. Am #date#4#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Priorität von US-1 in Anspruch nimmt. Am #date#5#enddate# kam er zu Ihnen und bat um die weitere Aufnahme der Priortät einer US-Anmeldung US-2, die am #date#1#enddate# eingereicht wurde. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#Theodore_William_Richards|Theodore William Richards#endlink# filed a US patent application US-1 on #date#0#enddate#,which relates to a scale for weighing very small masses. On #date#4#enddate# he filed a European patent application EP-1 claiming priority from US-1. On #date#5#enddate# he came to you and asked for further inclusion of the priority of a US application US-2 filed on #date#1#enddate#. What is the legal situation?",
+                    "text_fr": "#linkwiki#Theodore_William_Richards|Theodore William Richards#endlink# a déposé une demande de brevet américain US-1 le #date#0#enddate#,qui concerne une balance pour peser de très petites masses. Le #date#4#enddate#, il a déposé une demande de brevet européen EP-1 revendiquant la priorité de US-1. Le #date#5#enddate#, il est venu vous voir pour vous demander d'inclure la priorité d'une demande US-2 déposée le #date#1#enddate#. Quelle est la situation juridique ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+11MM#enddate#.",
-                            "text_en": "By #deadline#0|+11MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+11MM#enddate#."
+                            "text_de": "Bis zum #date#8#enddate#.",
+                            "text_en": "By #date#8#enddate#.",
+                            "text_fr": "Avant le #date#8#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+4MM#enddate#.",
-                            "text_en": "By #deadline#0|+4MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+4MM#enddate#."
+                            "text_de": "Bis zum #date#6#enddate#.",
+                            "text_en": "By #date#6#enddate#.",
+                            "text_fr": "Avant le #date#6#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+6MM#enddate#.",
-                            "text_en": "By #deadline#0|+6MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+6MM#enddate#."
+                            "text_de": "Bis zum #date#7#enddate#.",
+                            "text_en": "By #date#7#enddate#.",
+                            "text_fr": "Avant le #date#7#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17801,7 +17864,14 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "beginning[0]|+1MM",
+                        "beginning[0]|+4MM",
+                        "beginning[0]|+6MM",
+                        "beginning[0]|+11MM",
+                        "deadline[0]|+4MM",
+                        "deadline[0]|+6MM",
+                        "deadline[0]|+11MM"
                     ],
                     "deadline": [
                         "+16MM"
@@ -17814,33 +17884,33 @@
                     "id_old": 299,
                     "normen": "todo",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Robert_Bárány|Robert Bárány#endlink# hat am #beginning#0#enddate# eine  österreichische Patentanmeldung AT-1 eingereicht. Diese betrifft eine Vorrichtung zum Spülen von Ohren. Am #beginning#0|+1MM#enddate# reichte er weitere Anmeldung AT-2 ein, die Verbesserungen gegenüber AT-1 enthält. Am #beginning#0|+4MM#enddate# folgten AT-3 und am #beginning#0|+6MM#enddate# AT-4, in denen er weitere Verbesserungen beanspruchte. Am #beginning#0|+11MM#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Prioritäten von AT-1, AT-2, AT-3 und AT-4 beansprucht. Bis wann sind die beglaubigten Abschriften von AT-1 bis AT-4 beim europäischen Patentamt einzureichen?",
-                    "text_en": "#linkwiki#Robert_Bárány|Robert Bárány#endlink# had filed an Austrian patent application AT-1 on #beginning#0#enddate#, which relates to a device for flushing ears. On #beginning#0|+1MM#enddate# he filed another application AT-2, which contains improvements over AT-1. On #beginning#0|+4MM#enddate# he had followed up with AT-3 and on #beginning#0|+6MM#enddate# AT-4, in which he claimed further improvements. On #beginning#0|+11MM#enddate# he filed a European patent application EP-1 claiming priorities from AT-1, AT-2, AT-3 and AT-4. When must the certified copies of AT-1 through AT-4 be filed with the European Patent Office?",
-                    "text_fr": "#linkwiki#Robert_Bárány|Robert Bárány#endlink# avait déposé une demande de brevet autrichien AT-1 le #beginning#0#enddate#, qui concerne un dispositif pour déboucher les oreilles. Le #beginning#0|+1MM#enddate#, il a déposé une autre demande AT-2, qui contient des améliorations par rapport à AT-1. Le #beginning#0|+4MM#enddate#, il a poursuivi avec AT-3 et le #beginning#0|+6MM#enddate# AT-4, dans laquelle il revendique de nouvelles améliorations. Le #beginning#0|+11MM#enddate#, il a déposé une demande de brevet européen EP-1 revendiquant les priorités des AT-1, AT-2, AT-3 et AT-4. Quand les copies certifiées conformes des AT-1 à AT-4 doivent-elles être déposées auprès de l'Office européen des brevets ?"
+                    "text_de": "#linkwiki#Robert_Bárány|Robert Bárány#endlink# hat am #date#0#enddate# eine  österreichische Patentanmeldung AT-1 eingereicht. Diese betrifft eine Vorrichtung zum Spülen von Ohren. Am #date#2#enddate# reichte er weitere Anmeldung AT-2 ein, die Verbesserungen gegenüber AT-1 enthält. Am #date#3#enddate# folgten AT-3 und am #date#4#enddate# AT-4, in denen er weitere Verbesserungen beanspruchte. Am #date#5#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Prioritäten von AT-1, AT-2, AT-3 und AT-4 beansprucht. Bis wann sind die beglaubigten Abschriften von AT-1 bis AT-4 beim europäischen Patentamt einzureichen?",
+                    "text_en": "#linkwiki#Robert_Bárány|Robert Bárány#endlink# had filed an Austrian patent application AT-1 on #date#0#enddate#, which relates to a device for flushing ears. On #date#2#enddate# he filed another application AT-2, which contains improvements over AT-1. On #date#3#enddate# he had followed up with AT-3 and on #date#4#enddate# AT-4, in which he claimed further improvements. On #date#5#enddate# he filed a European patent application EP-1 claiming priorities from AT-1, AT-2, AT-3 and AT-4. When must the certified copies of AT-1 through AT-4 be filed with the European Patent Office?",
+                    "text_fr": "#linkwiki#Robert_Bárány|Robert Bárány#endlink# avait déposé une demande de brevet autrichien AT-1 le #date#0#enddate#, qui concerne un dispositif pour déboucher les oreilles. Le #date#2#enddate#, il a déposé une autre demande AT-2, qui contient des améliorations par rapport à AT-1. Le #date#3#enddate#, il a poursuivi avec AT-3 et le #date#4#enddate# AT-4, dans laquelle il revendique de nouvelles améliorations. Le #date#5#enddate#, il a déposé une demande de brevet européen EP-1 revendiquant les priorités des AT-1, AT-2, AT-3 et AT-4. Quand les copies certifiées conformes des AT-1 à AT-4 doivent-elles être déposées auprès de l'Office européen des brevets?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Frühestens am #deadline#0|-6MM#enddate#.",
-                            "text_en": "Earliest on #deadline#0|-6MM#enddate#.",
-                            "text_fr": "Au plus tôt le #deadline#0|-6MM#enddate#."
+                            "text_de": "Frühestens am #date#6#enddate#.",
+                            "text_en": "Earliest on #date#6#enddate#.",
+                            "text_fr": "Au plus tôt le #date#6#enddate#."
                         },
                         {
-                            "text_de": "Frühestens am #deadline#0|+4MM#enddate#.",
-                            "text_en": "Earliest on #deadline#0|+4MM#enddate#.",
-                            "text_fr": "Au plus tôt le #deadline#0|+4MM#enddate#."
+                            "text_de": "Frühestens am #date#5#enddate#.",
+                            "text_en": "Earliest on #date#5#enddate#.",
+                            "text_fr": "Au plus tôt le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Frühestens am #deadline#0|+12MM#enddate#.",
-                            "text_en": "Earliest on #deadline#0|+12MM#enddate#.",
-                            "text_fr": "Au plus tôt le jour de la #deadline#0|+12MM#enddate#."
+                            "text_de": "Frühestens am #date#4#enddate#.",
+                            "text_en": "Earliest on #date#4#enddate#.",
+                            "text_fr": "Au plus tôt le jour de la #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0|+7DD#enddate#.",
-                            "text_en": "By #deadline#0|+7DD#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+7DD#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17848,7 +17918,12 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "deadline[0]|+7DD",
+                        "deadline[0]|+12MM",
+                        "deadline[0]|+4MM",
+                        "deadline[0]|-6MM"
                     ],
                     "deadline": [
                         "+18MM"
@@ -17861,9 +17936,9 @@
                     "id_old": 300,
                     "normen": "todo",
                     "startdate": "SA",
-                    "text_de": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# hat einen neuen Farbstoff entwickelt und am #beginning#0#enddate# eine  schweizer Patentanmeldung CH-1 eingereicht. Um einen weitreicherenden Schutz zu erhalten reichte er am #startdate##enddate# eine europäische Patentanmeldung EP-1 ein, die die Priorität von CH-1 beansprucht. Wann wird die Offenlegungsschrift von EP-1 veröffentlicht?",
-                    "text_en": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# had developed a new dye and filed a Swiss patent application CH-1 on #beginning#0#enddate#. To obtain broader protection, he filed a European patent application EP-1 on #startdate##enddate#, claiming priority from CH-1. When will the EP-1 disclosure document be published?",
-                    "text_fr": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# avait développé un nouveau colorant et déposé une demande de brevet suisse CH-1 le #beginning#0#enddate#. Pour obtenir une protection plus large, il a déposé une demande de brevet européen EP-1 le #beginning##enddate#, revendiquant la priorité du CH-1. Quand le document d'information EP-1 sera-t-il publié ?"
+                    "text_de": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# hat einen neuen Farbstoff entwickelt und am #date#0#enddate# eine  schweizer Patentanmeldung CH-1 eingereicht. Um einen weitreicherenden Schutz zu erhalten reichte er am #date#2#enddate# eine europäische Patentanmeldung EP-1 ein, die die Priorität von CH-1 beansprucht. Wann wird die Offenlegungsschrift von EP-1 veröffentlicht?",
+                    "text_en": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# had developed a new dye and filed a Swiss patent application CH-1 on #date#0#enddate#. To obtain broader protection, he filed a European patent application EP-1 on #date#2#enddate#, claiming priority from CH-1. When will the EP-1 disclosure document be published?",
+                    "text_fr": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# avait développé un nouveau colorant et déposé une demande de brevet suisse CH-1 le #date#0#enddate#. Pour obtenir une protection plus large, il a déposé une demande de brevet européen EP-1 le #date#2#enddate#, revendiquant la priorité du CH-1. Quand le document d'information EP-1 sera-t-il publié ?"
                 },
                 {
                     "answers_false": [
@@ -17915,26 +17990,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+3MM#enddate#.",
-                            "text_en": "By #deadline#0|+3MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+3MM#enddate#."
+                            "text_de": "Bis zum #date#5#enddate#.",
+                            "text_en": "By #date#5#enddate#.",
+                            "text_fr": "Avant le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+10MM#enddate#.",
-                            "text_en": "By #deadline#0|+10MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+10MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+6MM#enddate#.",
-                            "text_en": "By #deadline#0|+6MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+6MM#enddate#."
+                            "text_de": "Bis zum #date#6#enddate#.",
+                            "text_en": "By #date#6#enddate#.",
+                            "text_fr": "Avant le #date#6#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -17942,7 +18017,12 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "startdate|+5MM",
+                        "deadline[0]|+10MM",
+                        "deadline[0]|+3MM",
+                        "deadline[0]|-6MM"
                     ],
                     "deadline": [
                         "+6MM"
@@ -17955,9 +18035,9 @@
                     "id_old": 302,
                     "normen": "todo",
                     "startdate": "MO|-19MM",
-                    "text_de": "#linkwiki#Romain_Rolland|Romain Rolland#endlink# hat eine Vorrichtung zum Schutz von Vögeln vor Katzen erfunden und am #startdate##enddate# eine französische Patentanmeldung FR-1 eingereicht. Am  #startdate#+5MM#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Priorität von FR-1 beansprucht. Am #beginning#0#enddate# wurde der Recherchenbericht von EP-1 veröffentlicht. Bis wann muss Rolland die Benennungsgebühren bezahlen?",
-                    "text_en": "#linkwiki#Romain_Rolland|Romain Rolland#endlink# had invented a device for protecting birds from cats and filed a French patent application FR-1 on #startdate##enddate#. On #startdate#+5MM#enddate# he filed a European patent application EP-1, claiming priority from FR-1. On #beginning#0#enddate# the search report of EP-1 was published. When does Rolland have to pay the designation fees?",
-                    "text_fr": "#linkwiki#Romain_Rolland|Romain Rolland#endlink# avait inventé un dispositif pour protéger les oiseaux des chats et a déposé une demande de brevet français FR-1 le #startdate##enddate#. Le #startdate#+5MM#enddate#, il a déposé une demande de brevet européen EP-1, revendiquant la priorité de FR-1. Le #beginning#0#enddate#, le rapport de recherche de EP-1 a été publié. Quand Rolland doit-il payer les taxes de désignation ?"
+                    "text_de": "#linkwiki#Romain_Rolland|Romain Rolland#endlink# hat eine Vorrichtung zum Schutz von Vögeln vor Katzen erfunden und am #date#2#enddate# eine französische Patentanmeldung FR-1 eingereicht. Am  #date#3#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Priorität von FR-1 beansprucht. Am #date#0#enddate# wurde der Recherchenbericht von EP-1 veröffentlicht. Bis wann muss Rolland die Benennungsgebühren bezahlen?",
+                    "text_en": "#linkwiki#Romain_Rolland|Romain Rolland#endlink# had invented a device for protecting birds from cats and filed a French patent application FR-1 on #date#2#enddate#. On #date#3#enddate# he filed a European patent application EP-1, claiming priority from FR-1. On #date#0#enddate# the search report of EP-1 was published. When does Rolland have to pay the designation fees?",
+                    "text_fr": "#linkwiki#Romain_Rolland|Romain Rolland#endlink# avait inventé un dispositif pour protéger les oiseaux des chats et a déposé une demande de brevet français FR-1 le #date#2#enddate#. Le #date#3#enddate#, il a déposé une demande de brevet européen EP-1, revendiquant la priorité de FR-1. Le #date#0#enddate#, le rapport de recherche de EP-1 a été publié. Quand Rolland doit-il payer les taxes de désignation ?"
                 },
                 {
                     "answers_false": [
@@ -18009,26 +18089,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+6MM#enddate#.",
-                            "text_en": "By #deadline#0|+6MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+6MM#enddate#."
+                            "text_de": "Bis zum #date#6#enddate#.",
+                            "text_en": "By #date#6#enddate#.",
+                            "text_fr": "Avant le #date#6#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+10MM#enddate#.",
-                            "text_en": "By #deadline#0|+10MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+10MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+1MM#enddate#.",
-                            "text_en": "By #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Bis zum #date#5#enddate#.",
+                            "text_en": "By #date#5#enddate#.",
+                            "text_fr": "Avant le #date#5#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -18036,7 +18116,12 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "startdate|+5MM",
+                        "deadline[0]|+10MM",
+                        "deadline[0]|+1MM",
+                        "deadline[0]|+6MM"
                     ],
                     "deadline": [
                         "+6MM"
@@ -18049,9 +18134,9 @@
                     "id_old": 304,
                     "normen": "todo",
                     "startdate": "TU|-18MM",
-                    "text_de": "#linkwiki#Charles_Glover_Barkla|Charles Glover Barkla#endlink# hat einen Röntgenapparat entwickelt und am #startdate##enddate# eine britische Patentanmeldung GB-1 eingereicht. Am #startdate#+5MM#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Priorität von GB-1 beansprucht. Am #beginning#0#enddate# wurde der Recherchenbericht von EP-1 veröffentlicht. Bis wann muss Barkla die Prüfungsgebühr bezahlen?",
-                    "text_en": "#linkwiki#Charles_Glover_Barkla|Charles Glover Barkla#endlink# had developed an X-ray apparatus and filed a British patent application GB-1 on #startdate##enddate#. On #startdate#+5MM#enddate# he filed a European patent application EP-1, claiming priority from GB-1. On #beginning#0#enddate# the search report of EP-1 was published. When does Barkla have to pay the examination fee?",
-                    "text_fr": "#linkwiki#Charles_Glover_Barkla|Charles Glover Barkla#endlink# avait développé un appareil à rayons X et déposé une demande de brevet britannique GB-1 le #startdate##enddate#. Le #startdate#+5MM#enddate#, il a déposé une demande de brevet européen EP-1, revendiquant la priorité du GB-1. Le #beginning#0#enddate#, le rapport de recherche de EP-1 a été publié. Quand Barkla doit-elle payer la taxe d'examen ?"
+                    "text_de": "#linkwiki#Charles_Glover_Barkla|Charles Glover Barkla#endlink# hat einen Röntgenapparat entwickelt und am #date#2#enddate# eine britische Patentanmeldung GB-1 eingereicht. Am #date#3#enddate# reichte er eine europäische Patentanmeldung EP-1 ein, die die Priorität von GB-1 beansprucht. Am #date#0#enddate# wurde der Recherchenbericht von EP-1 veröffentlicht. Bis wann muss Barkla die Prüfungsgebühr bezahlen?",
+                    "text_en": "#linkwiki#Charles_Glover_Barkla|Charles Glover Barkla#endlink# had developed an X-ray apparatus and filed a British patent application GB-1 on #date#2#enddate#. On #date#3#enddate# he filed a European patent application EP-1, claiming priority from GB-1. On #date#0#enddate# the search report of EP-1 was published. When does Barkla have to pay the examination fee?",
+                    "text_fr": "#linkwiki#Charles_Glover_Barkla|Charles Glover Barkla#endlink# avait développé un appareil à rayons X et déposé une demande de brevet britannique GB-1 le #date#2#enddate#. Le #date#3#enddate#, il a déposé une demande de brevet européen EP-1, revendiquant la priorité du GB-1. Le #date#0#enddate#, le rapport de recherche de EP-1 a été publié. Quand Barkla doit-elle payer la taxe d'examen ?"
                 },
                 {
                     "answers_false": [
@@ -18103,26 +18188,26 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+4MM#enddate#.",
-                            "text_en": "By #deadline#0|+4MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+4MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+1MM#enddate#.",
-                            "text_en": "By #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+12MM#enddate#.",
-                            "text_en": "By #deadline#0|+12MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+12MM#enddate#."
+                            "text_de": "Bis zum #date#2#enddate#.",
+                            "text_en": "By #date#2#enddate#.",
+                            "text_fr": "Avant le #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -18130,7 +18215,10 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|+12MM",
+                        "deadline[0]|+1MM",
+                        "deadline[0]|+4MM"
                     ],
                     "deadline": [
                         "+24MM|MEND"
@@ -18143,33 +18231,33 @@
                     "id_old": 306,
                     "normen": "todo",
                     "startdate": "SU",
-                    "text_de": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# hat ein Immunserum entwickelt und am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Bis wann muss Bordet die Jahresgebühren für das dritte Laufjahr bezahlen?",
-                    "text_en": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# had developed an immune serum and filed a European patent application EP-1 on #beginning#0#enddate#. When does Bordet have to pay the annuities for the third running year?",
-                    "text_fr": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# avait mis au point un sérum immunitaire et déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Quand Bordet doit-il payer les annuités pour la troisième année consécutive ?"
+                    "text_de": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# hat ein Immunserum entwickelt und am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Bis wann muss Bordet die Jahresgebühren für das dritte Laufjahr bezahlen?",
+                    "text_en": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# had developed an immune serum and filed a European patent application EP-1 on #date#0#enddate#. When does Bordet have to pay the annuities for the third running year?",
+                    "text_fr": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# avait mis au point un sérum immunitaire et déposé une demande de brevet européen EP-1 le #date#0#enddate#. Quand Bordet doit-il payer les annuités pour la troisième année consécutive ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#1#enddate#.",
-                            "text_en": "By #deadline#1#enddate#.",
-                            "text_fr": "Avant le #deadline#1#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+1MM#enddate#.",
-                            "text_en": "By #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Bis zum #date#5#enddate#.",
+                            "text_en": "By #date#5#enddate#.",
+                            "text_fr": "Avant le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+12MM#enddate#.",
-                            "text_en": "By #deadline#0|+12MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+12MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#2#enddate#.",
+                            "text_en": "By #date#2#enddate#.",
+                            "text_fr": "Avant le #date#2#enddate#."
                         }
                     ],
                     "beginning": [
@@ -18180,7 +18268,9 @@
                         "beginning[0]",
                         "beginning[1]",
                         "deadline[0]",
-                        "deadline[1]"
+                        "deadline[1]",
+                        "deadline[0]|+12MM",
+                        "deadline[0]|+1MM"
                     ],
                     "deadline": [
                         "+24MM|MEND",
@@ -18194,9 +18284,9 @@
                     "id_old": 307,
                     "normen": "todo",
                     "startdate": "SU",
-                    "text_de": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# hat eine Präzisionsuhr entwickelt und am #beginning#1#enddate# eine schweizer Patentanmeldung CH-1 eingereicht. Am #beginning#0#enddate# meldet er eine europäische Patentanmeldung EP-1 an, die die Priorität von CH-1 beansprucht. Bis wann muss Bordet die Jahresgebühren für das dritte Laufjahr bezahlen?",
-                    "text_en": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# had developed a precision clock and filed a Swiss patent application CH-1 on #beginning#1#enddate#. On #beginning#0#enddate# he files a European patent application EP-1, claiming priority to CH-1. When must Bordet pay the annuities for the third running year?",
-                    "text_fr": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# avait développé une horloge de précision et déposé une demande de brevet suisse CH-1 le #beginning#1#enddate#. Le #beginning#0#enddate#, il dépose une demande de brevet européen EP-1, revendiquant la priorité sur CH-1. Quand Bordet doit-il payer les annuités pour la troisième année consécutive ?"
+                    "text_de": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# hat eine Präzisionsuhr entwickelt und am #date#1#enddate# eine schweizer Patentanmeldung CH-1 eingereicht. Am #date#0#enddate# meldet er eine europäische Patentanmeldung EP-1 an, die die Priorität von CH-1 beansprucht. Bis wann muss Bordet die Jahresgebühren für das dritte Laufjahr bezahlen?",
+                    "text_en": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# had developed a precision clock and filed a Swiss patent application CH-1 on #date#1#enddate#. On #date#0#enddate# he files a European patent application EP-1, claiming priority to CH-1. When must Bordet pay the annuities for the third running year?",
+                    "text_fr": "#linkwiki#Charles_Édouard_Guillaume|Charles Édouard Guillaume#endlink# avait développé une horloge de précision et déposé une demande de brevet suisse CH-1 le #date#1#enddate#. Le #date#0#enddate#, il dépose une demande de brevet européen EP-1, revendiquant la priorité sur CH-1. Quand Bordet doit-il payer les annuités pour la troisième année consécutive ?"
                 },
                 {
                     "answers_false": [
@@ -18211,16 +18301,16 @@
                             "text_fr": "L'Office européen des brevets envoie à Nernst des informations sur la perte des droits. Nernst peut alors demander un traitement supplémentaire dans les deux mois."
                         },
                         {
-                            "text_de": "Die Jahresgebühren waren bis zum #deadline#0|-6MM#enddate# zu zahlen. Die Anmeldung gilt als zurückgenommen.",
-                            "text_en": "Annual fees were due by #deadline#0|-6MM#enddate#. The registration is considered as withdrawn.",
-                            "text_fr": "Les frais annuels étaient dus avant la date limite #deadline#0|-6MM#enddate#. L'enregistrement est considéré comme retiré."
+                            "text_de": "Die Jahresgebühren waren bis zum #date#2#enddate# zu zahlen. Die Anmeldung gilt als zurückgenommen.",
+                            "text_en": "Annual fees were due by #date#2#enddate#. The registration is considered as withdrawn.",
+                            "text_fr": "Les frais annuels étaient dus avant la date limite #date#2#enddate#. L'enregistrement est considéré comme retiré."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Nernst kann die Jahresgebühren mit einem Zuschlag bis zum #deadline#0#enddate# entrichten.",
-                            "text_en": "Nernst can pay the annual fees with a surcharge by the #deadline#0#enddate.",
-                            "text_fr": "Nernst peut payer les frais annuels avec un supplément avant la #deadline#0#enddate#."
+                            "text_de": "Nernst kann die Jahresgebühren mit einem Zuschlag bis zum #date#1#enddate# entrichten.",
+                            "text_en": "Nernst can pay the annual fees with a surcharge by the #date#1#enddate#.",
+                            "text_fr": "Nernst peut payer les frais annuels avec un supplément avant la #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -18228,7 +18318,8 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "deadline[0]|-6MM"
                     ],
                     "deadline": [
                         "+30MM|MEND"
@@ -18241,33 +18332,33 @@
                     "id_old": 308,
                     "normen": "todo",
                     "startdate": "",
-                    "text_de": "#linkwiki#Walther_Nernst|Walther Nernst#endlink# hat eine Diffusionsvorrichtung entwickelt und am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 angemeldet. Heute stellt er fest, dass er die Zahlung der dritten Jaresgebühr versäumt hat. Kann er EP-1 noch retten?",
-                    "text_en": "#linkwiki#Walther_Nernst|Walther Nernst#endlink# had developed a diffusion device and filed a European patent application EP-1 on #beginning#0#enddate#. Today he discovers that he has missed the payment of the third year fee. Can he still save EP-1?",
-                    "text_fr": "#linkwiki#Walther_Nernst|Walther Nernst#endlink# avait développé un dispositif de diffusion et déposé une demande de brevet européen EP-1 le #beginning#0#enddate#. Il découvre aujourd'hui qu'il a manqué le paiement de la taxe de troisième année. Peut-il encore sauver EP-1 ?"
+                    "text_de": "#linkwiki#Walther_Nernst|Walther Nernst#endlink# hat eine Diffusionsvorrichtung entwickelt und am #date#0#enddate# eine europäische Patentanmeldung EP-1 angemeldet. Heute stellt er fest, dass er die Zahlung der dritten Jaresgebühr versäumt hat. Kann er EP-1 noch retten?",
+                    "text_en": "#linkwiki#Walther_Nernst|Walther Nernst#endlink# had developed a diffusion device and filed a European patent application EP-1 on #date#0#enddate# Today he discovers that he has missed the payment of the third year fee. Can he still save EP-1?",
+                    "text_fr": "#linkwiki#Walther_Nernst|Walther Nernst#endlink# avait développé un dispositif de diffusion et déposé une demande de brevet européen EP-1 le #date#0#enddate#. Il découvre aujourd'hui qu'il a manqué le paiement de la taxe de troisième année. Peut-il encore sauver EP-1 ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Bis zum #deadline#0|+4MM#enddate#.",
-                            "text_en": "By #deadline#0|+4MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+4MM#enddate#."
+                            "text_de": "Bis zum #date#5#enddate#.",
+                            "text_en": "By #date#5#enddate#.",
+                            "text_fr": "Avant le #date#5#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+1MM#enddate#.",
-                            "text_en": "By #deadline#0|+1MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+1MM#enddate#."
+                            "text_de": "Bis zum #date#4#enddate#.",
+                            "text_en": "By #date#4#enddate#.",
+                            "text_fr": "Avant le #date#4#enddate#."
                         },
                         {
-                            "text_de": "Bis zum #deadline#0|+12MM#enddate#.",
-                            "text_en": "By #deadline#0|+12MM#enddate#.",
-                            "text_fr": "Avant le #deadline#0|+12MM#enddate#."
+                            "text_de": "Bis zum #date#3#enddate#.",
+                            "text_en": "By #date#3#enddate#.",
+                            "text_fr": "Avant le #date#3#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Bis zum #deadline#0#enddate#.",
-                            "text_en": "By #deadline#0#enddate#.",
-                            "text_fr": "Avant le #deadline#0#enddate#."
+                            "text_de": "Bis zum #date#1#enddate#.",
+                            "text_en": "By #date#1#enddate#.",
+                            "text_fr": "Avant le #date#1#enddate#."
                         }
                     ],
                     "beginning": [
@@ -18275,7 +18366,11 @@
                     ],
                     "date": [
                         "beginning[0]",
-                        "deadline[0]"
+                        "deadline[0]",
+                        "startdate",
+                        "deadline[0]|+12MM",
+                        "deadline[0]|+1MM",
+                        "deadline[0]|+4MM"
                     ],
                     "deadline": [
                         "+36MM|MEND"
@@ -18288,9 +18383,9 @@
                     "id_old": 309,
                     "normen": "todo",
                     "startdate": "TH|-35MM",
-                    "text_de": "#linkwiki#August_Krogh|August Krogh#endlink# hat auf einen Regulator am #startdate##enddate# eine europäische Patentanmeldung EP-1 eingereicht. Bis wann muss Krogh die Jahresgebühren für das vierte Laufjahr bezahlen?",
-                    "text_en": "#linkwiki#August_Krogh|August Krogh#endlink# filed a European patent application EP-1 on a regulator on #startdate##enddate#. When does Krogh have to pay the annuities for the fourth running year?",
-                    "text_fr": "#linkwiki#August_Krogh|August Krogh#endlink# a déposé une demande de brevet européen EP-1 sur un régulateur le #startdate##enddate#. Quand Krogh doit-il payer les annuités pour la quatrième année consécutive ?"
+                    "text_de": "#linkwiki#August_Krogh|August Krogh#endlink# hat auf einen Regulator am #date#2#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Bis wann muss Krogh die Jahresgebühren für das vierte Laufjahr bezahlen?",
+                    "text_en": "#linkwiki#August_Krogh|August Krogh#endlink# filed a European patent application EP-1 on a regulator on #date#2#enddate#. When does Krogh have to pay the annuities for the fourth running year?",
+                    "text_fr": "#linkwiki#August_Krogh|August Krogh#endlink# a déposé une demande de brevet européen EP-1 sur un régulateur le #date#2#enddate#. Quand Krogh doit-il payer les annuités pour la quatrième année consécutive ?"
                 },
                 {
                     "answers_false": [
@@ -18335,9 +18430,9 @@
                     "id_old": 310,
                     "normen": "todo",
                     "startdate": "FR",
-                    "text_de": "#linkwiki#Frederick_Soddy|Frederick Soddy#endlink# hat einen Alphastrahler gebaut und darauf am #beginning#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Am #deadline#0#enddate# wird der Hinweis auf die Erteilung von EP-1 bekannt gemacht. An wen muss Soddy die Jahresgebühren für das fünfte Laufjahr zahlen?",
-                    "text_en": "#linkwiki#Frederick_Soddy|Frederick Soddy#endlink# had built an alpha emitter and filed a European patent application EP-1 on it on #beginning#0#enddate#. On #deadline#0#enddate# the notice of grant of EP-1 is published. To whom must Soddy pay the annuities for the fifth year of the run?",
-                    "text_fr": "#linkwiki#Frederick_Soddy|Frederick Soddy#endlink# avait construit un émetteur alpha et déposé une demande de brevet européen EP-1 sur celui-ci le #beginning#0#enddate#. Le #deadline#0#enddate#, l'avis de délivrance du EP-1 est publié. A qui Soddy doit-il payer les annuités pour la cinquième année de la course ?"
+                    "text_de": "#linkwiki#Frederick_Soddy|Frederick Soddy#endlink# hat einen Alphastrahler gebaut und darauf am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Am #date#1#enddate# wird der Hinweis auf die Erteilung von EP-1 bekannt gemacht. An wen muss Soddy die Jahresgebühren für das fünfte Laufjahr zahlen?",
+                    "text_en": "#linkwiki#Frederick_Soddy|Frederick Soddy#endlink# had built an alpha emitter and filed a European patent application EP-1 on it on #date#0#enddate#. On #date#1#enddate# the notice of grant of EP-1 is published. To whom must Soddy pay the annuities for the fifth year of the run?",
+                    "text_fr": "#linkwiki#Frederick_Soddy|Frederick Soddy#endlink# avait construit un émetteur alpha et déposé une demande de brevet européen EP-1 sur celui-ci le #date#0#enddate#. Le #date#1#enddate#, l'avis de délivrance du EP-1 est publié. A qui Soddy doit-il payer les annuités pour la cinquième année de la course ?"
                 }
             ],
             "info_de": "Fristenberechnung, vom EPA bestimmte Fristen, verspäteter Zugang von Schriftstücken, Fristverlängerung, Aussetzung, bzw. Unterbrechung des Verfahrens.",
