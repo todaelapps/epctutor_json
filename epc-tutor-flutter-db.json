@@ -959,17 +959,17 @@
                     "answers_true": [
                         {
                             "text_de": "Das Fachbuch ist kein Stand der Technik nach Artikel 54 (2) EPÜ für Anspruch 2.",
-                            "text_en": "The reference book is not prior art under Article 54(2) EPC for claim 2.",
+                            "text_en": "The technical book is not prior art under Article 54(2) EPC for claim 2.",
                             "text_fr": "Le livre de référence ne constitue pas un art antérieur au sens de l'article 54(2) CBE pour la revendication 2."
                         },
                         {
-                            "text_de": "Das Fachbuch ist Stand der Technik nach Artikel 54 (2) EPÜ für Anspruch 5.",
-                            "text_en": "The reference book is prior art under Article 54 (2) EPC for claim 5.",
-                            "text_fr": "Le livre de référence est un art antérieur selon l'article 54 (2) CBE pour la revendication 5."
+                            "text_de": "Das Fachbuch ist Stand der Technik nach Artikel 54 (2) EPÜ für Anspruch 4.",
+                            "text_en": "The technical book is prior art under Article 54 (2) EPC for claim 4.",
+                            "text_fr": "Le livre de référence est un art antérieur selon l'article 54 (2) CBE pour la revendication 4."
                         },
                         {
                             "text_de": "Das Fachbuch ist Stand der Technik nach Artikel 54 (2) EPÜ für Anspruch 3.",
-                            "text_en": "The reference book is prior art under Article 54 (2) EPC for claim 3.",
+                            "text_en": "The technical book is prior art under Article 54 (2) EPC for claim 3.",
                             "text_fr": "Le livre de référence est un art antérieur selon l'article 54 (2) CBE pour la revendication 3."
                         },
                         {
@@ -997,33 +997,33 @@
                     "id_old": 19,
                     "normen": "",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Edgar_Adrian,_1._Baron_Adrian|Edgar Douglas Adrian#endlink# hat am #date#0#enddate# eine britische Patentanmeldung BE-1 als Erstanmeldung wirksam  eingereicht. In GB-1 finden sich Anspruch 1 betreffend eine Vorrichtung A zur Nervenreizleitung und Anspruch 2 betreffend eine Substanz B zur Haltbarmachung von Zellen. Diese nimmt er neun Monate später zurück. Am #date#1#enddate# wird ein Fachbuch veröffentlich, das alle Ansprüche der GB-1 und darüber hinaus zwei weitere Substanzen C und D zur Haltbarmachung von Zellen offenbart. Am #date#2#enddate# reicht Adrian eine europäische Patentanmeldung EP-2 unter Inanspruchnahme der Priorität aus GB-1 ein. EP-2 hat vier Ansprüche. Anspruch 1 beansprucht eine Vorrichtung A zur Nervenreizleitung und Anspruch 2  eine Substanz B zur Haltbarmachung von Zellen. Die Ansprüche 3 und 4 betreffen Substanzen C bzw. E zur Haltbarmachung von Zellen. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Edgar_Adrian,_1._Baron_Adrian|Edgar Douglas Adrian#endlink# effectively filed a British patent application BE-1 as a first application on #date#0#enddate#. GB-1 contains claim 1 relating to a device A for nerve stimulus conduction while claim 2 relating to a substance B for preserving cells. He withdraws these claims nine months later. On #date#1#enddate#, a technical book is published disclosing all the claims of GB-1 and, in addition, two further substances C and D for preserving cells. On #date#2#enddate# Adrian files a European patent application EP-2 claiming priority from GB-1. EP-2 has four claims. Claim 1 declares device A for nerve stimulus conduction while claim 2 again relates to a substance B for preserving cells. Claims 3 and 4 concern substances C and E, respectively, for preserving cells. Which of the following statements is true?",
-                    "text_fr": "#linkwiki#Edgar_Adrian,_1._Baron_Adrian|Edgar Douglas Adrian#endlink# a effectivement déposé une demande de brevet britannique BE-1 comme première demande le #date#0#enddate#. La BE-1 contient la revendication 1 relative à un dispositif A pour la conduction de stimuli nerveux et la revendication 2 relative à une substance B pour la préservation des cellules. Il retire ces revendications neuf mois plus tard. Le #date#1#enddate#, un livre technique est publié divulguant toutes les revendications de GB-1 et, en plus, deux autres substances C et D pour préserver les cellules. Le #date#2#enddate#, Adrian dépose une demande de brevet européen EP-2 revendiquant la priorité de GB-1. EP-2 comporte quatre revendications. La revendication 1 déclare un dispositif A pour la conduction de stimulus nerveux tandis que la revendication 2 concerne à nouveau une substance B pour préserver les cellules. Les revendications 3 et 4 concernent des substances C et E, respectivement, pour la préservation des cellules. Laquelle des affirmations suivantes est vraie ?"
+                    "text_de": "#linkwiki#Edgar_Adrian,_1._Baron_Adrian|Edgar Douglas Adrian#endlink# hat am #date#0#enddate# eine britische Patentanmeldung GB-1 als Erstanmeldung wirksam  eingereicht. In GB-1 finden sich Anspruch 1 betreffend eine Vorrichtung A zur Nervenreizleitung und Anspruch 2 betreffend eine Substanz B zur Haltbarmachung von Zellen. Diese nimmt er neun Monate später zurück. Am #date#1#enddate# wird ein Fachbuch veröffentlich, das alle Ansprüche der GB-1 und darüber hinaus zwei weitere Substanzen C und D zur Haltbarmachung von Zellen offenbart. Am #date#2#enddate# reicht Adrian eine europäische Patentanmeldung EP-2 unter Inanspruchnahme der Priorität aus GB-1 ein. EP-2 hat vier Ansprüche. Anspruch 1 beansprucht eine Vorrichtung A zur Nervenreizleitung und Anspruch 2  eine Substanz B zur Haltbarmachung von Zellen. Die Ansprüche 3 und 4 betreffen Substanzen C bzw. E zur Haltbarmachung von Zellen. Welche der folgenden Aussagen ist wahr?",
+                    "text_en": "#linkwiki#Edgar_Adrian,_1._Baron_Adrian|Edgar Douglas Adrian#endlink# effectively filed a British patent application GB-1 as a first application on #date#0#enddate#. GB-1 contains claim 1 relating to a device A for nerve stimulus conduction and claim 2 relating to a substance B for preserving cells. He withdraws these claims nine months later. On #date#1#enddate#, a technical book is published disclosing all the claims of GB-1 and, in addition, two further substances C and D for preserving cells. On #date#2#enddate# Adrian files a European patent application EP-2 claiming priority from GB-1. EP-2 has four claims. Claim 1 declares device A for nerve stimulus conduction while claim 2 again relates to a substance B for preserving cells. Claims 3 and 4 concern substances C and E, respectively, for preserving cells. Which of the following statements is true?",
+                    "text_fr": "#linkwiki#Edgar_Adrian,_1._Baron_Adrian|Edgar Douglas Adrian#endlink# a effectivement déposé une demande de brevet britannique GB-1 comme première demande le #date#0#enddate#. La GB-1 contient la revendication 1 relative à un dispositif A pour la conduction de stimuli nerveux et la revendication 2 relative à une substance B pour la préservation des cellules. Il retire ces revendications neuf mois plus tard. Le #date#1#enddate#, un livre technique est publié divulguant toutes les revendications de GB-1 et, en plus, deux autres substances C et D pour préserver les cellules. Le #date#2#enddate#, Adrian dépose une demande de brevet européen EP-2 revendiquant la priorité de GB-1. EP-2 comporte quatre revendications. La revendication 1 déclare un dispositif A pour la conduction de stimulus nerveux tandis que la revendication 2 concerne à nouveau une substance B pour préserver les cellules. Les revendications 3 et 4 concernent des substances C et E, respectivement, pour la préservation des cellules. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "der Anmelder (noch) nicht auf eine Mitteilung nach Regel 71 (3) EPÜ geantwortet hat, wobei die Antwort spätestens am #date#1#enddate# einzureichen war.",
-                            "text_en": "The applicant has not (yet) replied to a communication under Rule 71(3) EPC, the reply having to be filed not later than #date#1#enddate#.",
-                            "text_fr": "Le demandeur n'a pas (encore) répondu à une communication au titre de la règle 71(3) CBE, la réponse devant être déposée au plus tard le #date#1#enddate#."
+                            "text_en": "the applicant has not (yet) replied to a communication under Rule 71(3) EPC, the reply having to be filed not later than #date#1#enddate#.",
+                            "text_fr": "le demandeur n'a pas (encore) répondu à une communication au titre de la règle 71(3) CBE, la réponse devant être déposée au plus tard le #date#1#enddate#."
                         },
                         {
                             "text_de": "der Anmelder eine am #date#2#enddate# fällige Jahresgebühr nicht bezahlt hat.",
-                            "text_en": "The applicant has not paid an annual fee due on #date#2#enddate#.",
-                            "text_fr": "Le demandeur n'a pas payé la cotisation annuelle due le #date#2#enddate#."
+                            "text_en": "the applicant has not paid an annual fee due on #date#2#enddate#.",
+                            "text_fr": "le demandeur n'a pas payé la cotisation annuelle due le #date#2#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "die Anmeldung mit Bescheid vom #date#3#enddate# zurückgewiesen wurde.",
-                            "text_en": "The application was rejected by decision made on #date#3#enddate#.",
-                            "text_fr": "La demande a été rejetée par décision prise le #date#3#enddate#."
+                            "text_en": "the application was refused by decision made on #date#3#enddate#.",
+                            "text_fr": "la demande a été rejetée par décision prise le #date#3#enddate#."
                         },
                         {
                             "text_de": "für die Anmeldung die Entscheidung auf die Erteilung eines europäischen Patentes mit Datum vom #date#0#enddate# versendet wurde.",
-                            "text_en": "For the application, the decision on the grant of a European patent was sent by the date of #date#0#enddate#.",
-                            "text_fr": "Pour la demande, la décision sur la délivrance d'un brevet européen a été envoyée à la date de #date#0#enddate#."
+                            "text_en": "for the application, the decision on the grant of a European patent was sent by the date of #date#0#enddate#.",
+                            "text_fr": "pour la demande, la décision sur la délivrance d'un brevet européen a été envoyée à la date de #date#0#enddate#."
                         }
                     ],
                     "beginning": [
@@ -1040,15 +1040,15 @@
                     ],
                     "difficulty": "2",
                     "explanation_de": "Gemäß der Prüfungsrichtlinien A-VI 1.1.1 ist eine Anmeldung bis zu (damit aber nicht mehr an) dem Tag anhängig, an dem im Europäischen Patentblatt auf die Patenterteilung hingewiesen wird. Eine Anmeldung ist auch dann nicht mehr anhängig, wenn sie zurückgenommen worden ist, als zurückgenommen gilt oder endgültig zurückgewiesen worden ist. Eine Anmeldung ist aber erst dann endgültig zurückgewiesen, wenn die Beschwerdefrist abgelaufen ist und keine Beschwerde eingelegt wurde.",
-                    "explanation_en": "According to Examination Guidelines A-VI 1.1.1, an application is pending until (but not on) the date on which the European Patent Bulletin mentions the grant of the patent. An application is also no longer pending if it has been withdrawn, is deemed to have been withdrawn or has been finally refused. However, an application is only finally rejected if the time limit for appeal has expired and no appeal has been filed.",
+                    "explanation_en": "According to Examination Guidelines A-VI 1.1.1, an application is pending until (but not on) the date on which the European Patent Bulletin mentions the grant of the patent. An application is also no longer pending if it has been withdrawn, is deemed to have been withdrawn or has been finally refused. However, an application is only finally refused if the time limit for appeal has expired and no appeal has been filed.",
                     "explanation_fr": "Selon les directives d'examen A-VI 1.1.1, une demande est pendante jusqu'à (mais pas à) la date à laquelle le Bulletin européen des brevets mentionne la délivrance du brevet. Une demande n'est également plus pendante si elle a été retirée, est réputée avoir été retirée ou a été définitivement rejetée. Toutefois, une demande n'est définitivement rejetée que si le délai de recours a expiré et qu'aucun recours n'a été déposé.",
                     "id": 20,
                     "id_old": 20,
                     "normen": "",
                     "startdate": "",
                     "text_de": "Eine europäische Anmeldung EP-1 ist heute, am #date#0#enddate#, anhängig, wenn",
-                    "text_en": "A European EP-1 application is pending today, on #date#0#enddate#, when.",
-                    "text_fr": "Une demande européenne EP-1 est en cours aujourd'hui, le #date#0#enddate#, lorsque."
+                    "text_en": "A European EP-1 application is pending today, on #date#0#enddate#, when",
+                    "text_fr": "Une demande européenne EP-1 est en cours aujourd'hui, le #date#0#enddate#, lorsque"
                 },
                 {
                     "answers_false": [
@@ -1096,7 +1096,7 @@
                     "normen": "Art 87 (1), Art 87 (3), R 131 (4), R 134 (1)",
                     "startdate": "SA",
                     "text_de": "Am #date#0#enddate# reichte #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# beim EPA eine europäische Patentanmeldung EP-1 auf einen Apparat zur Nervenstimulation ein. Am #date#1#enddate# reichte Sherrington beim USPTO eine US-Anmeldung US-2 ein, die die Priorität von EP-1 beansprucht. In Anspruch 1 wird der Apparat beansprucht, in Anspruch 2 zugehörige Klemmen. EP-1 wurde am #date#2#enddate# zurückgenommen. Am #date#3#enddate# reichte Sherrington die europäische Patentanmeldung EP-3 ein. EP-3 hat diesselben Ansprüche und Beschreibung wie US-2. Beansprucht EP-2 nur die Priorität von ...",
-                    "text_en": "On #date#0#enddate# #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# filed a European patent application EP-1 with the EPO on an apparatus for nerve stimulation. On #date#1#enddate# Sherrington filed a US application US-2 with the USPTO claiming priority to EP-1. Claim 1 declares the apparatus; claim 2 does the same for associated terminals. EP-1 was withdrawn on #date#2#enddate#. On #date#3#enddate# Sherrington filed European patent application EP-3. EP-3 has the same claims and description as US-2. Does EP-2 claim only the priority of ...",
+                    "text_en": "On #date#0#enddate# #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# filed a European patent application EP-1 with the EPO on an apparatus for nerve stimulation. On #date#1#enddate# Sherrington filed a US application US-2 with the USPTO claiming priority to EP-1. Claim 1 declares the apparatus; claim 2 does the same for associated clamps. EP-1 was withdrawn on #date#2#enddate#. On #date#3#enddate# Sherrington filed European patent application EP-3. EP-3 has the same claims and description as US-2. Does EP-2 claim only the priority of ...",
                     "text_fr": "Le #date#0#enddate# #linkwiki#Charles_Scott_Sherrington|Charles Sherrington#endlink# a déposé auprès de l'OEB une demande de brevet européen EP-1 portant sur un appareil de stimulation nerveuse. Le #date#1#enddate# Sherrington a déposé une demande américaine US-2 auprès de l'USPTO revendiquant la priorité sur EP-1. La revendication 1 déclare l'appareil ; la revendication 2 fait de même pour les terminaux associés. EP-1 a été retirée le #date#2#enddate#. Le #date#3#enddate#, Sherrington a déposé la demande de brevet européen EP-3. EP-3 a les mêmes revendications et la même description que US-2. Est-ce que EP-2 revendique seulement la priorité de ..."
                 },
                 {
@@ -1202,7 +1202,7 @@
                         },
                         {
                             "text_de": "Die Offenbarung war weder mündlich noch schriftlich und ist daher unproblematisch.",
-                            "text_en": "The revelation was neither oral nor written and is therefore unproblematic.",
+                            "text_en": "The disclosure was neither oral nor written and is therefore unproblematic.",
                             "text_fr": "La révélation n'était ni orale ni écrite et n'est donc pas problématique."
                         }
                     ],
@@ -1256,12 +1256,12 @@
                     "answers_true": [
                         {
                             "text_de": "Pawlow kann rechtsbeständig ein nationales Schutzrecht mit Neuheitsschonfrist, bspw. ein deutsches Gebrauchsmuster, anmelden.",
-                            "text_en": "Pavlov can apply for a national property right with a grace period, e.g. a German utility model, in a legally binding manner.",
+                            "text_en": "Pavlov can apply for a national property right with a grace period, e.g. a German utility model, in a legally valid manner.",
                             "text_fr": "Pavlov peut demander un droit de propriété national avec un délai de grâce, par exemple un modèle d'utilité allemand, de manière juridiquement contraignante."
                         },
                         {
                             "text_de": "Pawlow kann eine PCT-Anmeldung einreichen und rechtsbeständige Schutzrechte erhalten, indem er nationale Schutzrechte mit Neuheitsschonfrist weiterverfolgt.",
-                            "text_en": "Pavlov can file a PCT application and obtain legally stable IP rights by pursuing national IP rights with a grace period.",
+                            "text_en": "Pavlov can file a PCT application and obtain legally valid IP rights by pursuing national IP rights with a grace period.",
                             "text_fr": "Pavlov peut déposer une demande PCT et obtenir des droits de PI juridiquement stables en poursuivant les droits de PI nationaux avec une période de grâce."
                         }
                     ],
@@ -1296,7 +1296,7 @@
                         },
                         {
                             "text_de": "Ja, da die Offenbarungssprachen in keinem Vertragssaat Amtssprachen sind.",
-                            "text_en": "Yes, since the languages of revelation are not official languages in any treaty state.",
+                            "text_en": "Yes, since the languages of publication are not official languages in any Contracting State.",
                             "text_fr": "Oui, puisque les langues de la révélation ne sont pas des langues officielles dans aucun des États parties."
                         },
                         {
@@ -1389,7 +1389,7 @@
                     "normen": "Art 54 (3) Neuheit",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# hat den sogenannten Golgi-Apparat erfunden. Er hat vor gut achtzehn Monaten, am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Diese zeigt in den Figuren seinen Apparat komplett in allen Einzelheiten, insbesondere den Rahmen und eine Türe. Beansprucht und in der Beschreibung ausgeführt wird aber nur der Rahmen. EP-1 wurde am letzten Donnerstag, dem #date#1#enddate#, offengelegt. Vor vier Wochen, am #date#2#enddate#, also vor der Veröffentlichung von EP-1, hat er eine weitere europäische Patentanmeldung EP-2 eingereicht. Diese beansprucht in Anspruch 1 die Verbesserungen der Tür, wie sie auch in EP-1 gezeigt sind. In den Unteransprüchen 2 bis 5 werden Ausgestaltungen beansprucht, die seit der Einreichung von EP-1 entwickelt wurden. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows with figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate#. Four weeks ago, on #date#2#enddate#, that is, before EP-1 was disclosed, he filed another European patent application EP-2. This declared in claim 1 the improvements to the door as also shown in EP-1. Sub-claims 2 to 5 reveal embodiments developed since EP-1 was filed. Which of the following statements is correct?",
+                    "text_en": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# invented the so-called Golgi apparatus. He filed a European patent application EP-1 a good eighteen months ago, on #date#0#enddate#. This shows with figures his apparatus complete in all details, in particular the frame and a door. However, only the frame is claimed and detailed in the description. EP-1 was disclosed last Thursday, the #date#1#enddate#. Four weeks ago, on #date#2#enddate#, that is, before EP-1 was disclosed, he filed another European patent application EP-2. This declared in claim 1 the improvements to the door as also shown in EP-1. Sub-claims 2 to 5 claim embodiments developed since EP-1 was filed. Which of the following statements is correct?",
                     "text_fr": "#linkwiki#Camillo_Golgi|Camillo Golgi#endlink# a inventé l'appareil dit de Golgi. Il a déposé une demande de brevet européen EP-1 il y a dix-huit mois, le #date#0#enddate#. Celle-ci montre, chiffres à l'appui, son appareil complet dans tous ses détails, en particulier le cadre et une porte. Cependant, seul le cadre est revendiqué et détaillé dans la description. EP-1 a été divulgué jeudi dernier, le #date#1#enddate#. Il y a quatre semaines, le #date#2#enddate#, c'est-à-dire avant la divulgation de EP-1, il a déposé une autre demande de brevet européen EP-2. Celle-ci déclarait dans la revendication 1 les améliorations apportées à la porte telles qu'elles étaient également présentées dans EP-1. Les sous-créances 2 à 5 révèlent des modes de réalisation développés depuis le dépôt de la demande EP-1. Laquelle des affirmations suivantes est correcte?"
                 },
                 {
@@ -1429,7 +1429,7 @@
                     ],
                     "difficulty": "2",
                     "explanation_de": "Gemäß #linkepc#ar54|Artikel 54 (4) EPÜ#endlink# wird die Patentierbarkeit eines Stoffes wie Mors Bacteriae durch die Absätze 2 und 3 nicht ausgeschlossen, sofern sie zur Anwendung in einem in #linkepc#ar53| Artikel 53 c) EPÜ#endlink#  genannten Verfahren bestimmt sind und ihre Anwendung in einem dieser Verfahren nicht zum Stand der Technik gehört. Alle Verfahren sind therapeutische Verfahren. Die Behandlung von Bakterienerkrankungen ist bereits bekannt. Leberzirrhose und Alzheimer dagegen sind keine bakterielle Erkrankung.",
-                    "explanation_en": "According to #linkepc#ar54|Article 54 (4) EPC#endlink#, the patentability of a substance such as Mors Bacteriae is not excluded by paragraphs 2 and 3, provided that they are intended for use in a process referred to in #linkepc#ar53|Article 53 c) EPC#endlink# and their use in one of these processes is not prior art. All methods are therapeutic methods. Treatment of bacterial diseases is already known. Liver cirrhosis and Alzheimer's disease, on the other hand, are not bacterial diseases.",
+                    "explanation_en": "According to #linkepc#ar54|Article 54 (4) EPC#endlink#, the patentability of a substance such as Mors Bacteriae is not excluded by paragraphs 2 and 3, for use in a method referred to in #linkepc#ar53|Article 53 c) EPC#endlink#, provided that its use for any such method is not comprised in the state of the art. All methods are therapeutic methods. Treatment of bacterial diseases is already known. Liver cirrhosis and Alzheimer's disease, on the other hand, are not bacterial diseases.",
                     "explanation_fr": "Selon #linkepc#ar54|Article 54 (4) CBE#endlink#, la brevetabilité d'une substance telle que Mors Bacteriae n'est pas exclue par les paragraphes 2 et 3, à condition qu'elles soient destinées à être utilisées dans un procédé visé à #linkepc#ar53|Article 53 c) CBE#endlink# et que leur utilisation dans l'un de ces procédés ne relève pas de l'art antérieur. Toutes les méthodes sont des méthodes thérapeutiques. Le traitement des maladies bactériennes est déjà connu. En revanche, la cirrhose du foie et la maladie d'Alzheimer ne sont pas des maladies bactériennes.",
                     "id": 28,
                     "id_old": 26,
@@ -1443,7 +1443,7 @@
                     "answers_false": [
                         {
                             "text_de": "Die Veröffentlichung von Paul Finster nimmt EP-1 die Neuheit.",
-                            "text_en": "The Paul Finster’s release takes the novelty out of EP-1.",
+                            "text_en": "The Paul Finster’s publication takes the novelty out of EP-1.",
                             "text_fr": "La sortie du Paul Finster enlève toute nouveauté à l'EP-1."
                         },
                         {
@@ -1453,7 +1453,7 @@
                         },
                         {
                             "text_de": "Die Publikation von Paul FInster ist irrelevant, da die Veröffentlichung durch Laveran bereits neuheitsschädlich für EP-1 ist.",
-                            "text_en": "The publication by Paul FInster is irrelevant, as the publication by Laveran is already novelty damaging for EP-1.",
+                            "text_en": "The publication by Paul FInster is irrelevant, as the publication by Laveran is already novelty destroying for EP-1.",
                             "text_fr": "La publication de Paul FInster n'est pas pertinente, car la publication de Laveran est déjà une nouveauté dommageable pour EP-1."
                         }
                     ],
@@ -1523,8 +1523,8 @@
                         "+2MM"
                     ],
                     "difficulty": "1",
-                    "explanation_de": "Der Gegenstand einer Erfindung ergibt sich nach #linkepc#ar56|Artikel 56 EPÜ#endlink#in naheliegender Weise, wenn ausgehend vom nächstliegenden Stand der Technik unter Berücksichtigung weiteren Stands der Technik die Erfindung erhalten wird. Dies ist im vorliegenden Fall nicht gegeben, da keine der Druckschriften EP-2 oder EP-3  offenbart, Schritt c nach Schritt b auszuführen. Weiterer Stand der Technik existiert nach Angabe nicht. EP-1 ist daher neu und erfinderisch gegenüber EP-2, EP-3 und einer Kombination von EP-2 mit EP-3.",
-                    "explanation_en": "according to #linkepc#ar56|Article 56 EPC#endlink#, the subject-matter of an invention results in an obvious way. If starting from the closest prior art and taking into account further prior art, the invention will be obtained. This is not given in the present case, since none of the publications EP-2 or EP-3 discloses to carry out step c after step b. Further prior art does not exist according to the specification. EP-1 is therefore new and inventive over EP-2, EP-3 and a combination of EP-2 with EP-3.",
+                    "explanation_de": "Der Gegenstand einer Erfindung ergibt sich nach #linkepc#ar56|Artikel 56 EPÜ#endlink# in naheliegender Weise, wenn ausgehend vom nächstliegenden Stand der Technik unter Berücksichtigung weiteren Stands der Technik die Erfindung erhalten wird. Dies ist im vorliegenden Fall nicht gegeben, da keine der Druckschriften EP-2 oder EP-3  offenbart, Schritt c nach Schritt b auszuführen. Weiterer Stand der Technik existiert nach der Angabe nicht. EP-1 ist daher neu und erfinderisch gegenüber EP-2, EP-3 und einer Kombination von EP-2 mit EP-3.",
+                    "explanation_en": "According to #linkepc#ar56|Article 56 EPC#endlink#, the subject-matter of an invention results in an obvious way if starting from the closest prior art and taking into account further prior art, the invention will be obtained. This is not given in the present case, since none of the publications EP-2 or EP-3 discloses to carry out step c after step b. Further prior art does not exist according to the specification. EP-1 is therefore new and inventive over EP-2, EP-3 and a combination of EP-2 with EP-3.",
                     "explanation_fr": "Selon #linkepc#ar56|Article 56 CBE#endlink#, l'objet d'une invention résulte d'une manière évidente. Si l'on part de l'art antérieur le plus proche et que l'on tient compte de l'art antérieur ultérieur, l'invention sera obtenue. Ceci n'est pas donné dans le cas présent, car aucune des publications EP-2 ou EP-3 ne divulgue d'effectuer l'étape c après l'étape b. L'art antérieur supplémentaire n'existe pas selon la spécification. EP-1 est donc nouvelle et inventive par rapport à EP-2, EP-3 et une combinaison de EP-2 avec EP-3.",
                     "id": 30,
                     "id_old": 28,
