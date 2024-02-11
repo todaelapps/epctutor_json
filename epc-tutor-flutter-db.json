@@ -1555,7 +1555,7 @@
                         },
                         {
                             "text_de": "EP-1 ist neu und beruht auf einer erfinderischen Tätigkeit.",
-                            "text_en": "EP-1 is new and based on inventive activity.",
+                            "text_en": "EP-1 is new and based on an inventive step.",
                             "text_fr": "EP-1 est nouveau et basé sur l'activité inventive."
                         }
                     ],
@@ -1579,7 +1579,7 @@
                     "normen": "Art. 56 SdT 54 3 unberücksichtigt",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# hat ein Färbeverfahren entwickelt. Es wurde in der europäischen Patentanmeldung EP-1 am #date#1#enddate# angemeldet und umfasst die Schritte a, b, c und d. Als Stand der Technik werden die am #date#0#enddate# angemeldete EP-2 und die am #date#2#enddate# angemeldete EP-3 genannt. EP-2 zeigt die Schritte a, b und c. EP-3 zeigt die Schritte a, b und d. Ein Fachmann würde die Schriften auch kombinieren und dann zum geltenden Anspruch 1 gelangen. Weiterer Stand der Technik existiert zu diesem Problem nicht. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# has developed a dyeing process. It was filed in European patent application EP-1 on #date#1#enddate# and includes steps a, b, c, and d. EP-2 filed on #date#0#enddate# and EP-3 filed on #date#2#enddate# are cited as prior art. EP-2 shows steps a, b, and c. EP-3 shows steps a, b and d. A person skilled in the art would also combine the fonts and then arrive at the applicable claim 1. Further prior art does not exist on this problem. Which of the following statements is correct?",
+                    "text_en": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# has developed a dyeing process. It was filed in European patent application EP-1 on #date#1#enddate# and includes steps a, b, c, and d. EP-2 filed on #date#0#enddate# and EP-3 filed on #date#2#enddate# are cited as prior art. EP-2 shows steps a, b, and c. EP-3 shows steps a, b and d. A person skilled in the art would also combine the documents and then arrive at the current claim 1. Further prior art does not exist on this problem. Which of the following statements is correct?",
                     "text_fr": "#linkwiki#Paul_Ehrlich|Paul Ehrlich#endlink# a développé un procédé de teinture. Il a été déposé dans la demande de brevet européen EP-1 le #date#1#enddate# et comprend les étapes a, b, c, et d. EP-2 déposé le #date#0#enddate# et EP-3 déposé le #date#2#enddate# sont cités comme art antérieur. EP-2 montre les étapes a, b et c. EP-3 montre les étapes a, b et d. Un homme du métier combinerait également les polices et arriverait alors à la revendication 1 applicable. Il n'existe pas d'autres antériorités sur ce problème. Laquelle des affirmations suivantes est correcte?"
                 },
                 {
@@ -1598,12 +1598,12 @@
                     "answers_true": [
                         {
                             "text_de": "Kocher muss auf die Beanstandungen des Prüfers erwidern, auch wenn sie offensichtlich nicht zutreffen.",
-                            "text_en": "Kocher must respond to the auditor's objections, even if they are obviously not accurate.",
+                            "text_en": "Kocher must respond to the examiner's objections, even if they are obviously not accurate.",
                             "text_fr": "Kocher doit répondre aux objections de l'auditeur, même si elles sont manifestement inexactes."
                         },
                         {
                             "text_de": "Kocher kann ein Europäisches Patent erhalten, wenn die anderen Patentierungsvoraussetzungen erfüllt sind.",
-                            "text_en": "Kocher can obtain a European patent if the other patenting requirements are met.",
+                            "text_en": "Kocher can obtain a European patent if the other patenting conditions are met.",
                             "text_fr": "Kocher peut obtenir un brevet européen si les autres conditions de brevetage sont remplies."
                         }
                     ],
@@ -1625,8 +1625,8 @@
                     "id_old": 333,
                     "normen": "Art 57 gewerbliche Anwendbarkeit Art 53 c) med. Verfahren",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# hat ein Skalpell zur Durchführung von chirurgischen Eingriffen entwickelt und darauf eine europäische Anmeldung EP-1 eingereicht. Der Prüfer moniert, dass der Arztberuf zum freien Gewerbe zähle und damit die gewerbliche Anwendbarkeit fehle. Auch seien chirurgische EIngriffe vom Patentschutz ausgenommen. Kann Kocher ein Patent erhalten, wenn die anderen Patentierungsvoraussetzungen erfüllt sind?  ",
-                    "text_en": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# has developed a scalpel for performing surgical procedures and filed a European application EP-1 on it. The examiner complains that the medical profession is part of the free trade and thus the industrial applicability is missing. Surgical interventions are also excluded from patent protection. Can Kocher obtain a patent if the other patenting requirements have been met?",
+                    "text_de": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# hat ein Skalpell zur Durchführung von chirurgischen Eingriffen entwickelt und darauf eine europäische Anmeldung EP-1 eingereicht. Der Prüfer moniert, dass der Arztberuf zu den freien Berufen zähle und damit die gewerbliche Anwendbarkeit fehle. Auch seien chirurgische EIngriffe vom Patentschutz ausgenommen. Kann Kocher ein Patent erhalten, wenn die anderen Patentierungsvoraussetzungen erfüllt sind?  ",
+                    "text_en": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# has developed a scalpel for performing surgical procedures and filed a European application EP-1 on it. The examiner complains that the medical profession is part of the freelance professions and thus the industrial applicability is missing. Surgical interventions are also excluded from patent protection. Can Kocher obtain a patent if the other patenting requirements have been met?",
                     "text_fr": "#linkwiki#Theodor_Kocher|Theodor Kocher#endlink# a développé un scalpel pour effectuer des procédures chirurgicales et a déposé une demande européenne EP-1 à ce sujet. L'examinateur lui reproche que la profession médicale fait partie du libre-échange et que l'applicabilité industrielle fait donc défaut. Les interventions chirurgicales sont également exclues de la protection par brevet. Kocher peut-il obtenir un brevet si les autres conditions de brevetabilité sont remplies?"
                 },
                 {
@@ -1645,12 +1645,12 @@
                     "answers_true": [
                         {
                             "text_de": "Albrecht Kossel und Allvar Gullstrand können eine juritsische Person gründen, die EP-1 anmeldet.",
-                            "text_en": "Albrecht Kossel and Allvar Gullstrand can form a legal entity to register EP-1.",
+                            "text_en": "Albrecht Kossel and Allvar Gullstrand can form a legal entity to file EP-1.",
                             "text_fr": "Albrecht Kossel et Allvar Gullstrand peuvent former une entité juridique pour enregistrer EP-1."
                         },
                         {
                             "text_de": "Albrecht Kossel und Allvar Gullstrand können die Anmeldung als gemeinsame Anmelder anmelden.",
-                            "text_en": "Albrecht Kossel and Allvar Gullstrand can register the application as joint applicants.",
+                            "text_en": "Albrecht Kossel and Allvar Gullstrand can file the application as joint applicants.",
                             "text_fr": "Albrecht Kossel et Allvar Gullstrand peuvent enregistrer la demande en tant que codemandeurs."
                         }
                     ],
@@ -1673,7 +1673,7 @@
                     "normen": "Art. 58 Recht zur Anmeldung Art 59 mehrere Anmelder",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Albrecht_Kossel|Albrecht Kossel#endlink# möchte eine europäische Anmeldung EP-1 über eine gemeinsam mit #linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink# geschaffene Untersuchungseinrichtung einreichen. Albrecht Kossel ist der Auffassung, dass es nur einen Anmelder geben könne und möchte eine GmbH gründen, die die Anmeldung vornimmt. Allvar Gullstrand meint, dass er in diesem Fall alleiniger Anmelder sein sollte, da er die größeren Beiträge geleistet habe. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Albrecht_Kossel|Albrecht Kossel#endlink# wants to file a European application EP-1 through an examination facility created jointly with #linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink#. Albrecht Kossel believes that there can only be one applicant and would like to create a limited liability company to do the filing. Allvar Gullstrand thinks that he should be the sole applicant in this case, since he has made the larger contributions. What is the legal situation?",
+                    "text_en": "#linkwiki#Albrecht_Kossel|Albrecht Kossel#endlink# wants to file a European application EP-1 about an examination facility created jointly with #linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink#. Albrecht Kossel believes that there can only be one applicant and would like to create a limited liability company to do the filing. Allvar Gullstrand thinks that he should be the sole applicant in this case, since he has made the larger contributions. What is the legal situation?",
                     "text_fr": "#linkwiki#Albrecht_Kossel|Albrecht Kossel#endlink# veut déposer une demande européenne EP-1 par le biais d'une installation d'examen créée conjointement avec #linkwiki#Allvar_Gullstrand|Allvar Gullstrand#endlink#. Albrecht Kossel pense qu'il ne peut y avoir qu'un seul demandeur et souhaite créer une société à responsabilité limitée pour effectuer le dépôt. Allvar Gullstrand pense qu'il devrait être le seul demandeur dans ce cas, puisqu'il a fait les plus grosses contributions. Quelle est la situation juridique?"
                 },
                 {
@@ -1685,14 +1685,14 @@
                         },
                         {
                             "text_de": "Whipple kann die Eintragung in das Register alleine beantragen. Er muss aber einen schriftlichen Antrag stellen, aus dem die Details des Rechtsübergangs hervorgehen.",
-                            "text_en": "Whipple may apply for entry in the register on his own. However, he must submit a written application setting out the details of the transfer.",
+                            "text_en": "Whipple may apply for entry in the register on his own. However, he must submit a written request setting out the details of the transfer.",
                             "text_fr": "Whipple peut demander l'inscription au registre par ses propres moyens. Toutefois, il doit présenter une demande écrite exposant les détails du transfert."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Die Übertragung auf Whipple und Minot kann während der Einspruchsfrist nach der Erteilung von EP-1 vorgenommen werden.",
-                            "text_en": "The transfer to Whipple and Minot can be made during the objection period after EP-1 has been issued.",
+                            "text_en": "The transfer to Whipple and Minot can be made during the opposition period after EP-1 has been granted.",
                             "text_fr": "Le transfert vers Whipple et Minot peut être effectué pendant la période d'objection après la délivrance de l'EP-1."
                         },
                         {
@@ -1720,7 +1720,7 @@
                     "normen": "Art 59 mehrere Anmelder, unterschiedliche Benennung, R. 22 Rechtsübergang, R. 85 während Einspruchsfrist",
                     "startdate": "MO",
                     "text_de": "#linkwiki#William_Parry_Murphy|William Parry Murphy#endlink#, #linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# und #linkwiki#George_Richards_Minot|George Richards Minot#endlink# haben ein Medikament gegen perniziöse Anämie entwickelt. Murphy hatte, um eine schnelle EInreichung zu bewerkstelligen, eine europäische Anmeldung EP-1 nur auf sich eingereicht. Von ihren Forschungen wissen Sie, dass sie den Vertrieb und die Rechte lieber aufteilen und eigenständig arbeiten wollen. Murphy soll für Nord- und Mitteleuropa, Whipple für Westeuropa und Minot für Südeuropa zuständig sein. Whipple und Minot sollen Mitanmelder werden. EP-1 soll grundsätzlich bei möglichst geringem Aufwand weiterverfolgt werden. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#William_Parry_Murphy|William Parry Murphy#endlink#, #linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# and #linkwiki#George_Richards_Minot|George Richards Minot#endlink# have developed a drug for pernicious anemia. Murphy, in order to manage a fast submission, had filed a European application EP-1 only for himself. From their research, you know they prefer to split the distribution and rights and work independently. Murphy is to be responsible for Northern and Central Europe, Whipple for Western Europe and Minot for Southern Europe. Whipple and Minot are to become co-announcers. EP-1 is to be pursued in principle at the lowest possible cost. Which of the following statements is correct?",
+                    "text_en": "#linkwiki#William_Parry_Murphy|William Parry Murphy#endlink#, #linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# and #linkwiki#George_Richards_Minot|George Richards Minot#endlink# have developed a drug for pernicious anemia. Murphy, in order to manage a fast submission, had filed a European application EP-1 only for himself. From their research, they know they prefer to split the sales and rights and work independently. Murphy is to be responsible for Northern and Central Europe, Whipple for Western Europe and Minot for Southern Europe. Whipple and Minot are to become co-announcers. EP-1 is to be pursued in principle at the lowest possible cost. Which of the following statements is correct?",
                     "text_fr": "#linkwiki#William_Parry_Murphy|William Parry Murphy#endlink#, #linkwiki#George_Hoyt_Whipple|George Hoyt Whipple#endlink# et #linkwiki#George_Richards_Minot|George Richards Minot#endlink# ont développé un médicament pour l'anémie pernicieuse. Murphy, afin d'obtenir une soumission rapide, avait déposé une demande européenne EP-1 uniquement pour lui-même. D'après leurs recherches, vous savez qu'ils préfèrent se partager la distribution et les droits et travailler indépendamment. Murphy sera responsable de l'Europe du Nord et centrale, Whipple de l'Europe de l'Ouest et Minot de l'Europe du Sud. Whipple et Minot deviendront co-annonciateurs. Le projet EP-1 doit être poursuivi en principe au coût le plus bas possible. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
@@ -1776,7 +1776,7 @@
                     "answers_false": [
                         {
                             "text_de": "Alexis Carrel und WerdeGesund müssen EP-1 als gemeinsame Anmelder einreichen, da beide partizipieren wollen.",
-                            "text_en": "Alexis Carrel and WerdeGesund need to file EP-1 as joint filers as they both want to participate.",
+                            "text_en": "Alexis Carrel and WerdeGesund need to file EP-1 as joint applicants as they both want to participate.",
                             "text_fr": "Alexis Carrel et WerdeGesund doivent déposer l'EP-1 en tant que déclarants conjoints car ils veulent tous deux participer."
                         },
                         {
@@ -1793,7 +1793,7 @@
                         },
                         {
                             "text_de": "WerdeGesund kann Alexis Carrel als Mitanmelder aufnehmen.",
-                            "text_en": "WerdeGesund can add Alexis Carrel as a co-announcer.",
+                            "text_en": "WerdeGesund can add Alexis Carrel as a co-applicant.",
                             "text_fr": "WerdeGesund peut ajouter Alexis Carrel comme co-annonciateur."
                         }
                     ],
@@ -1809,7 +1809,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Nach#linkepc#ar60|Artikel 60 (1) EPÜ#endlink# bestimmt sich bei Arbeitnehmern das Recht auf das europäische Patent nach dem Recht des Staates, in dem der Arbeitnehmer überwiegend beschäftigt ist. In Deutschland kann der Arbeitgeber Diensterfindungen in Anspruch nehmen und dann alleine anmelden. Es ist ihm aber auch nicht verwehrt, den Erfinder als Mitanmelder partizipieren zu lassen.",
-                    "explanation_en": "According to#linkepc#ar60|Article 60 (1) EPC#endlink# , the right to the European patent, in the case of employees, is determined by the law of the state in which the employee is predominantly employed.  In Germany, the employer can claim service inventions and then apply for them on his own. However, he is not prevented from allowing the inventor to participate as a co-applicant.",
+                    "explanation_en": "According to#linkepc#ar60|Article 60 (1) EPC#endlink# , the right to the European patent, in the case of employees, shall be determined in accordance with the law of the state in which the employee is mainly employed.  In Germany, the employer can claim employee's inventions and then apply for them on his own. However, he is not prevented from allowing the inventor to participate as a co-applicant.",
                     "explanation_fr": "Selon#linkepc#ar60|Article 60 (1) CBE#endlink# , le droit au brevet européen, dans le cas des employés, est déterminé par la loi de l'État dans lequel l'employé est principalement employé.  En Allemagne, l'employeur peut revendiquer des inventions de service et en faire la demande lui-même. Toutefois, rien ne l'empêche d'autoriser l'inventeur à participer en tant que codemandeur.",
                     "id": 36,
                     "id_old": 30,
@@ -1822,13 +1822,13 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Charles Richet kann sich nur als Mitanmelder bei EP-1 im Register eintragen lassen.",
-                            "text_en": "Charles Richet can only register as a co-applicant with EP-1 in the registry.",
-                            "text_fr": "Charles Richet ne peut s'inscrire dans le registre qu'en tant que codemandeur avec EP-1."
+                            "text_de": "Charles Richet kann sich nur als Mitanmelder bei EP-1 im Europäischen Patentregister eintragen lassen.",
+                            "text_en": "Charles Richet can only register as a co-applicant with EP-1 in the European Patent Register.",
+                            "text_fr": "Charles Richet ne peut s'inscrire dans le Registre européen des brevets qu'en tant que codemandeur avec EP-1."
                         },
                         {
                             "text_de": "Charles Richet kann als einzige Maßnahmen EP-1 als alleiniger Anmelder oder Mitanmelder weiterverfolgen.",
-                            "text_en": "Charles Richet is the only person who can pursue EP-1 as sole applicant or co-applicant.",
+                            "text_en": "Charles Richet can only pursue EP-1 as sole applicant or co-applicant.",
                             "text_fr": "Charles Richet est la seule personne qui peut poursuivre EP-1 en tant que demandeur unique ou co-demandeur."
                         }
                     ],
@@ -1870,7 +1870,7 @@
                     "answers_false": [
                         {
                             "text_de": "Wenn Gussenbauer eine Benennung verweigert kann auch Bárány nicht als Erfinder genannt werden.",
-                            "text_en": "If Gussenbauer refuses to be named, Bárány cannot be named as inventor either.",
+                            "text_en": "If Gussenbauer refuses to be mentioned, Bárány cannot be mentioned as inventor either.",
                             "text_fr": "Si Gussenbauer refuse d'être nommé, Bárány ne peut pas non plus être nommé inventeur."
                         },
                         {
@@ -1882,12 +1882,12 @@
                     "answers_true": [
                         {
                             "text_de": "Bárány hat das Recht auf Erfinderbenennung unabhängig von der Entscheidung Gussenbauers.",
-                            "text_en": "Bárány has the right to name inventors, regardless of Gussenbauer's decision.",
+                            "text_en": "Bárány has the right to be mentioned as inventor, regardless of Gussenbauer's decision.",
                             "text_fr": "Bárány a le droit de nommer les inventeurs, indépendamment de la décision de Gussenbauer."
                         },
                         {
                             "text_de": "Gussenbauer muss einer Benennung als Erfinder nicht zustimmen.",
-                            "text_en": "Gussenbauer does not have to agree to be named as an inventor.",
+                            "text_en": "Gussenbauer does not have to agree to be mentioned as an inventor.",
                             "text_fr": "Gussenbauer n'a pas à accepter d'être nommé comme inventeur."
                         }
                     ],
@@ -1903,7 +1903,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Nach #linkepc#ar62|Artikel 62 EPÜ#endlink# hat ein Erfinder das Recht, als Erfinder genannt zu werden. Bestimmungen zu Miterfindern sind nicht vorhanden, das Recht steht einem Erfinder also unabhängig von anderen Erfindern zu. Wenn ein Erfinder nicht benannt werden möchte schränkt dies das Recht der Miterfinder nicht ein.",
-                    "explanation_en": "According to #linkepc#ar62|Article 62 EPC#endlink# an inventor has the right to be named as inventor. Provisions on co-inventors are not present, so the right is available to an inventor independently of other inventors. If an inventor does not wish to be named, this does not restrict the right of co-inventors.",
+                    "explanation_en": "According to #linkepc#ar62|Article 62 EPC#endlink# an inventor has the right to be mentioned as inventor. Provisions on co-inventors are not present, so the right is available to an inventor independently of other inventors. If an inventor does not wish to be mentioned, this does not restrict the right of co-inventors.",
                     "explanation_fr": "Selon #linkepc#ar62|Article 62 CBE#endlink#, un inventeur a le droit d'être nommé comme inventeur. Les dispositions relatives aux co-inventeurs ne sont pas présentes, de sorte que le droit est disponible pour un inventeur indépendamment des autres inventeurs. Si un inventeur ne souhaite pas être nommé, cela ne restreint pas le droit des co-inventeurs.",
                     "id": 38,
                     "id_old": 32,
@@ -1955,7 +1955,7 @@
                     "normen": "Art. 63 1 Laufzeit",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# hat am #date#0#enddate# ein europäisches Patent angemeldet und am #date#1#enddate# ein Patent für die Vertragsstaaten Frankreich und Deutschland erteilt bekommen. Wie lange laufen die Patente maximal?",
-                    "text_en": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# filed a European patent application on #date#0#enddate# and was granted a patent for the Contracting States of France and Germany on #date#1#enddate#. What is the maximum duration of this patent?",
+                    "text_en": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# filed a European patent application on #date#0#enddate# and was granted a patent for the Contracting States of France and Germany on #date#1#enddate#. What is the maximum term of this patent?",
                     "text_fr": "#linkwiki#Jules_Bordet|Jules Bordet#endlink# a déposé une demande de brevet européen le #date#0#enddate# et a obtenu un brevet pour les Etats contractants de France et d'Allemagne le #date#1#enddate#. Quelle est la durée maximale de ce brevet ?"
                 },
                 {
@@ -1974,7 +1974,7 @@
                     "answers_true": [
                         {
                             "text_de": "Krogh kann den Verkauf der Gasaustauschautomaten in Frankreich untersagen lassen.",
-                            "text_en": "Krogh may have the sale of the gas exchange machines banned in France.",
+                            "text_en": "Krogh may have the sale of the gas exchange automats banned in France.",
                             "text_fr": "Krogh pourrait faire interdire la vente des machines à gaz en France."
                         },
                         {
@@ -2002,7 +2002,7 @@
                     "normen": "Art. 64 Rechte aus EP-Patent",
                     "startdate": "MO",
                     "text_de": "#linkwiki#August_Krogh|August Krogh#endlink# hat ein europäisches Patent für die Vertragsstaaten Frankreich, Italien und Dänemark erteilt bekommen. Er stellt nunmehr fest, dass ein Wetbbewerber Gasaustauschautomaten, die in den Schutzbereich des Patents fallen, in Griechenland herstellt und über Italien in den Norden transportiert. In Deutschland und Frankreich werden die Gasaustauschautomaten verkauft. Welche der nachfolgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#August_Krogh|August Krogh#endlink# has been granted a European patent for the Contracting States of France, Italy and Denmark. He has since learned that a competitor manufactures gas exchange automats, which fall within the scope of the patent, in Greece and transports them north via Italy. The gas exchange machines are sold in Germany and France. Which of the following statements is true?",
+                    "text_en": "#linkwiki#August_Krogh|August Krogh#endlink# has been granted a European patent for the Contracting States of France, Italy and Denmark. He now realizes that a competitor manufactures gas exchange automats, which fall within the scope of the patent, in Greece and transports them north via Italy. The gas exchange automats are sold in Germany and France. Which of the following statements is true?",
                     "text_fr": "#linkwiki#August_Krogh|August Krogh#endlink# s'est vu délivrer un brevet européen pour les Etats contractants que sont la France, l'Italie et le Danemark. Il a depuis appris qu'un concurrent fabrique en Grèce des automates d'échange de gaz, qui entrent dans le champ d'application du brevet, et les transporte vers le nord via l'Italie. Les automates d'échange de gaz sont vendus en Allemagne et en France. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
@@ -2014,7 +2014,7 @@
                         },
                         {
                             "text_de": "Mit EP-1 kann Hill sofort den Besitz des geschützen Gegenstandes in jedem Vertragsstaat untersagen lassen.",
-                            "text_en": "With EP-1, Hill can immediately have possession of the protected item prohibited in any Contracting State.",
+                            "text_en": "With EP-1, Hill can immediately have the posession of the protected object prohibited in any Contracting State.",
                             "text_fr": "Grâce à l'EP-1, Hill peut être immédiatement en possession de l'objet protégé interdit dans tout État contractant."
                         },
                         {
@@ -2042,21 +2042,21 @@
                     ],
                     "difficulty": "2",
                     "explanation_de": "#linkepc#ar66|Artikel 66 EPÜ#endlink# bestimmt die Gleichwirkung einer europäischen Anmeldung zu einer nationalen Anmeldung. Die sich daraus ergebenden Rechte sind sehr viel eingeschränkter als bei einem erteilten Patent und von Vertragsstaat zu Vertragsstaat unterschiedlich. Insbesondere existieren keine allgemeinen Verbietungsrechte. In Deutschland existiert ein Entschädigungsanspruch nach § 33 PatG. Dieser ist bspw. dahingehend eingeschränkt, dass für offensichtlich nicht patentfähige Gegenstände nicht gezahlt werden muss. Dieser Anspruch wird üblicherweise nicht alleine sondern nach Patenterteilung zusammen mit einer Patentverletzung geltend gemacht.",
-                    "explanation_en": "#linkepc#ar66|Article 66 EPC#endlink# determines the equal effect of a European application to a national application. The resulting rights are much more limited than for a granted patent and differ from Contracting State to Contracting State. In particular, there are no general prohibition rights. In Germany, there is a claim for compensation under Section 33 PatG. This is limited, for example, to the extent that no payment has to be made for obviously non-patentable objects. This claim is usually not asserted alone but together with a patent infringement after a patent has been granted.",
+                    "explanation_en": "#linkepc#ar66|Article 66 EPC#endlink# determines the equivalence of a European application to a regular national filing. The resulting rights are much more limited than for a granted patent and differ from Contracting State to Contracting State. In particular, there are no general prohibition rights. In Germany, there is a claim for compensation under Section 33 PatG. This is limited, for example, to the extent that no payment has to be made for obviously non-patentable objects. This claim is usually not asserted alone but together with a patent infringement after a patent has been granted.",
                     "explanation_fr": "#linkepc#ar66|Article 66 CBE#endlink# détermine l'égalité d'effet entre une demande européenne et une demande nationale. Les droits qui en résultent sont beaucoup plus limités que pour un brevet délivré et diffèrent d'un État contractant à l'autre. En particulier, il n'existe pas de droits d'interdiction générale. En Allemagne, il existe une demande d'indemnisation en vertu de l'article 33 de la PatG. Celle-ci est limitée, par exemple, dans la mesure où aucun paiement ne doit être effectué pour des objets manifestement non brevetables. Cette demande n'est généralement pas présentée seule, mais conjointement avec une violation de brevet après la délivrance d'un brevet.",
                     "id": 41,
                     "id_old": 34,
                     "normen": "Art. 66 Rechte wie nationale Anmeldung",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Er möchte mit dieser sofort Rechte in Frankreich, Deutschland und Spanien geltend machen.",
-                    "text_en": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# filed a European patent application EP-1 on #date#0#enddate#. He wants to use it to immediately assert rights in France, Germany and Spain.",
+                    "text_en": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# filed a European patent application EP-1 on #date#0#enddate#. He wants to use it to immediately maintain rights in France, Germany and Spain.",
                     "text_fr": "#linkwiki#Archibald_Vivian_Hill|Archibald Vivian Hill#endlink# a déposé une demande de brevet européen EP-1 le #date#0#enddate#. Il veut l'utiliser pour faire valoir immédiatement ses droits en France, en Allemagne et en Espagne."
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Die Energy Ltd. hat Schadensersatz für die Zeit zu zahlen, während der das noch nicht eingeschränkte Patent EP-1 genutzt wurde.",
-                            "text_en": "Energy Ltd. has to pay damages for the time during which the not yet restricted patent EP-1 was used.",
+                            "text_en": "Energy Ltd. has to pay damages for the time during which the not yet limited patent EP-1 was used.",
                             "text_fr": "Energy Ltd. doit payer des dommages et intérêts pour la période pendant laquelle le brevet EP-1, qui n'a pas encore fait l'objet de restrictions, a été utilisé."
                         },
                         {
@@ -2073,12 +2073,12 @@
                         },
                         {
                             "text_de": "Nach Abschluß des Einspruchsverfahrens wird EP-1 nicht mehr genutzt durch die Energy Ltd..",
-                            "text_en": "After the conclusion of the appeal process, EP-1 will no longer be used by Energy Ltd.",
+                            "text_en": "After the conclusion of the opposition proceedings, EP-1 will no longer be used by Energy Ltd.",
                             "text_fr": "Après la conclusion de la procédure d'appel, l'EP-1 ne sera plus utilisé par Energy Ltd."
                         },
                         {
                             "text_de": "Die Energy Ltd. durfte auch nach der Erteilung von EP-1 ihren Energietransformator vertreiben. Dies steht aber erst nach der Rechtskraft des Einspruchsverfahrens fest.",
-                            "text_en": "Energy Ltd. was allowed to distribute its energy transformer even after EP-1 was granted. However, this is only ascertained after the appeal proceedings have become final.",
+                            "text_en": "Energy Ltd. was allowed to distribute its energy transformer even after EP-1 was granted. However, this is only ascertained after the opposition proceedings have become final.",
                             "text_fr": "Energy Ltd. a été autorisée à distribuer son transformateur d'énergie même après l'octroi de l'EP-1. Toutefois, cela ne peut être vérifié qu'après que la procédure d'appel soit devenue définitive."
                         }
                     ],
@@ -2094,14 +2094,14 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Nach #linkepc#ar68|Artikel 68 EPÜ#endlink# gelten die Wirkungen einer Erteilung als von Anfang an nicht eingetreten, wenn das Patent später eingeschränkt wird. Dann ist auch kein Schadensersatz zu zahlen, da der Schutz im weiteren Umfang als dem eingeschränkten Umfang als nie vorhanden gewesen gilt.",
-                    "explanation_en": "According to #linkepc#ar68|Article 68 EPC#endlink#, the effects of a grant are deemed not to have occurred from the beginning if the patent is later restricted. In which case, no damages are payable, since the protection is deemed never to have existed in the wider scope than the restricted scope.",
+                    "explanation_en": "According to #linkepc#ar68|Article 68 EPC#endlink#, the effects of a grant are deemed not to have had from the outset if the patent is later limited. In this case, no damages are payable, since the protection is deemed never to have existed in the wider scope than the limited scope.",
                     "explanation_fr": "Selon #linkepc#ar68|Article 68 CBE#endlink#, les effets d'une délivrance sont réputés ne pas avoir eu lieu dès le départ si le brevet est ultérieurement restreint. Dans ce cas, aucun dommage n'est dû, puisque la protection est réputée n'avoir jamais existé dans le champ d'application plus large que le champ d'application restreint.",
                     "id": 42,
                     "id_old": 35,
                     "normen": "Art. 68 Wirkung einer Beschränkung",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Otto_Meyerhof|Otto Meyerhof#endlink# hat ein europäisches Patent EP-1 auf einen Energietransformator erteilt bekommen. Ein Konkurrent, die Energy Ltd.,  stellt einen Energietransformator her, der in den Schutzbereich von EP-1 fällt und legt daher Einspruch gegen EP-1 ein. Nach dem Ende des Einspruchsverfahrens ist EP-1 so eingeschränkt, dass der Energietransformator der Energy Ltd. nicht mehr in den Schutzbereich von EP-1 fällt. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Otto_Meyerhof|Otto Meyerhof#endlink# has been granted a European patent EP-1 on an energy transformer. A competitor, Energy Ltd, manufactures an energy transformer that falls within the scope of protection of EP-1, and therefore files an opposition to EP-1. At the end of the opposition process, EP-1 is limited so that Energy Ltd's energy transformer no longer falls within the scope of protection of EP-1. Which of the following statements is true?",
+                    "text_en": "#linkwiki#Otto_Meyerhof|Otto Meyerhof#endlink# has been granted a European patent EP-1 on an energy transformer. A competitor, Energy Ltd, manufactures an energy transformer that falls within the scope of protection of EP-1, and therefore files an opposition to EP-1. At the end of the opposition proceedings, EP-1 is limited so that Energy Ltd's energy transformer no longer falls within the scope of protection of EP-1. Which of the following statements is true?",
                     "text_fr": "#linkwiki#Otto_Meyerhof|Otto Meyerhof#endlink# a obtenu un brevet européen EP-1 sur un transformateur d'énergie. Un concurrent, Energy Ltd, fabrique un transformateur d'énergie qui entre dans le champ de protection du brevet EP-1, et forme donc une opposition au brevet EP-1. À la fin de la procédure d'opposition, EP-1 est limité de sorte que le transformateur d'énergie d'Energy Ltd n'entre plus dans l'étendue de la protection d'EP-1. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
@@ -2118,14 +2118,14 @@
                         },
                         {
                             "text_de": "Wenn Banting aus dem Schutzbereich von EP-1 herauskommen möchte kann er in einem Einspruchsverfahren die kritischen Figuren löschen lassen.",
-                            "text_en": "If Banting wants to get out of the scope of protection of EP-1 he can have the critical figures deleted in an opposition procedure.",
+                            "text_en": "If Banting wants to get out of the scope of protection of EP-1 he can have the critical figures deleted in opposition proceedings.",
                             "text_fr": "Si Banting veut sortir du champ de protection de l'EP-1, il peut faire supprimer les chiffres critiques dans une procédure d'opposition."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Da der durch die Ansprüche von EP-1 definierte Gegenstand den Insulininjektor von Banting nicht betrifft kann Banting diesen - in Bezug auf EP-1 -  herstellen und vertreiben.",
-                            "text_en": "Since the subject matter defined by the claims of EP-1 does not concern Banting's insulin injector, Banting can manufacture and distribute it - with respect to EP-1.",
+                            "text_en": "Since the subject matter defined by the claims of EP-1 does not concern Banting's insulin injector, Banting can manufacture and distribute it with respect to EP-1.",
                             "text_fr": "Puisque l'objet défini par les revendications de EP-1 ne concerne pas l'injecteur d'insuline de Banting, Banting peut le fabriquer et le distribuer - en ce qui concerne EP-1."
                         }
                     ],
@@ -2141,43 +2141,43 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Gemäß #linkepc#ar69|Artikel 69 EPÜ#endlink# wird der Schutzbereich des europäischen Patents [...] durch die Patentansprüche bestimmt. Figuren dienen nur der Auslegung. Bantings Insulininjektor fällt nicht unter die Patentansprüche und damit nicht in den Schutzbereich von EP-1.",
-                    "explanation_en": "According to #linkepc#ar69|Article 69 EPC#endlink# the scope of protection of the European patent [...] is determined by the patent claims. Figures are for interpretation only. Banting's insulin injector does not fall under the patent claims and thus does not fall within the scope of protection of EP-1.",
+                    "explanation_en": "According to #linkepc#ar69|Article 69 EPC#endlink# the extent of the protection conferred by a European patent or a European patent application shall be determined by the claims. Figures are for interpretation only. Banting's insulin injector does not fall under the patent claims and thus does not fall within the extent of protection of EP-1.",
                     "explanation_fr": "Selon #linkepc#ar69|Article 69 CBE#endlink#, l'étendue de la protection du brevet européen [...] est déterminée par les revendications du brevet. Les chiffres ne sont donnés qu'à titre d'interprétation. L'injecteur d'insuline de Banting ne relève pas des revendications du brevet et n'entre donc pas dans l'étendue de la protection du EP-1.",
                     "id": 43,
                     "id_old": 36,
                     "normen": "Art. 69 EPÜ Schutzbereich",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Frederick_Banting|Frederick Banting#endlink# hat einen Insulininjektor geschaffen. Voller Schreck stellt er fest, dass ein europäisches Patent EP-1 existiert, das in den Figuren genau seinen Insulininjektor zeigt. Die in den Ansprüchen beanspruchte elektrische Steuerung weicht von seinem Aufbau allerdings ab und trifft diese nicht. In einem Teil der Figuren ist diese aber nicht abgebildet und in Bezug auf diese Figuren herrscht Übereinstimmung zwischen EP-1 und seinem Aufbau. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Frederick_Banting|Frederick Banting#endlink# has created an insulin injector. Filled with shock, he discovers that there is a European patent EP-1 which shows the exact same insulin injector in the figures. However, the electrical control claimed differs from his design and does not match it. Nevertheless, it is not fully shown in part of the figures, and with respect to these figures therein lies an agreement between EP-1 and its construction. Which of the following statements is true?",
+                    "text_en": "#linkwiki#Frederick_Banting|Frederick Banting#endlink# has created an insulin injector. Filled with shock, he discovers that there is a European patent EP-1 which shows the exact same insulin injector in the figures. However, the electrical control claimed differs from his design and does not match it. Nevertheless, it is not shown in part of the figures, and with respect to these figures therein lies an accordance between EP-1 and its construction. Which of the following statements is true?",
                     "text_fr": "#linkwiki#Frederick_Banting|Frederick Banting#endlink# a créé un injecteur d'insuline. Sous le choc, il découvre qu'il existe un brevet européen EP-1 qui présente exactement le même injecteur d'insuline dans les figures. Toutefois, la commande électrique revendiquée diffère de son modèle et ne lui correspond pas. Néanmoins, elle n'est pas entièrement montrée dans une partie des figures, et en ce qui concerne ces figures, il existe un accord entre EP-1 et sa construction. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
                         {
-                            "text_de": "Macleod muss gegen die Fassung die Einspruchsbegründung einreichen, die die meisten Merkmale hat, also die Ansprüche auf französisch.",
-                            "text_en": "Macleod must file the opposition statement against the version that has the most features, i.e., the claims in French.",
+                            "text_de": "Macleod muss gegen die Fassung den Einspruch einreichen, die die meisten Merkmale hat, also die Ansprüche auf französisch.",
+                            "text_en": "Macleod must file the notice of opposition against the version that has the most features, i.e., the claims in French.",
                             "text_fr": "Macleod doit déposer la déclaration d'opposition contre la version qui présente le plus de caractéristiques, c'est-à-dire les revendications en français."
                         },
                         {
-                            "text_de": "Macleod muss gegen die Fassung die Einspruchsbegründung einreichen, die die wenigsten Merkmale hat, also die Ansprüche auf deutsch.",
-                            "text_en": "Macleod must file the objection to the version that has the fewest features, i.e., the claims in German.",
+                            "text_de": "Macleod muss gegen die Fassung den Einspruch einreichen, die die wenigsten Merkmale hat, also die Ansprüche auf deutsch.",
+                            "text_en": "Macleod must file the notice of opposition to the version that has the fewest features, i.e., the claims in German.",
                             "text_fr": "Macleod doit déposer l'objection sur la version qui comporte le moins de caractéristiques, c'est-à-dire les revendications en allemand."
                         },
                         {
-                            "text_de": "Macleod muss gegen die Fassung die Einspruchsbegründung einreichen, die als erstes eingereicht wurde.",
+                            "text_de": "Macleod muss gegen die Fassung den Einspruch einreichen, die als erstes eingereicht wurde.",
                             "text_en": "Macleod must file the notice of opposition to the version that was filed first.",
                             "text_fr": "Macleod doit déposer l'avis d'opposition à la version qui a été déposée en premier."
                         },
                         {
-                            "text_de": "Macleod kann gegen jede Fassung die Einspruchsbegründung einreichen, da alle Teil des erteilten Patentes EP-1 sind.",
-                            "text_en": "Macleod can file the opposition statement against each version, as all are part of the issued patent EP-1.",
+                            "text_de": "Macleod kann gegen jede Fassung den Einspruch einreichen, da alle Teil des erteilten Patentes EP-1 sind.",
+                            "text_en": "Macleod can file the notice of opposition against each version, as all are part of the issued patent EP-1.",
                             "text_fr": "Macleod peut déposer la déclaration d'opposition contre chaque version, car toutes font partie du brevet EP-1 délivré."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Macleod muss gegen die Fassung die Einspruchsbegründung einreichen, die in der Verfahrenssprache vorliegen, also die Ansprüche auf englisch.",
-                            "text_en": "Macleod must file the grounds of opposition to the version that are in the language of the proceedings, i.e., the claims in English.",
+                            "text_de": "Macleod muss gegen die Fassung den Einspruch einreichen, die in der Verfahrenssprache vorliegen, also die Ansprüche auf englisch.",
+                            "text_en": "Macleod must file the notice of opposition to the version that are in the language of the proceedings, i.e., the claims in English.",
                             "text_fr": "Macleod doit déposer les motifs d'opposition à la version qui sont dans la langue de la procédure, c'est-à-dire les revendications en anglais."
                         }
                     ],
@@ -2193,26 +2193,26 @@
                     ],
                     "difficulty": "2",
                     "explanation_de": "Der Wortlaut einer europäischen Patentanmeldung oder eines europäischen Patents in der Verfahrenssprache stellt nach #linkepc#ar70|Artikel 70 (1) EPÜ#endlink# in Verfahren vor dem Europäischen Patentamt sowie in jedem Vertragsstaat die verbindliche Fassung dar. Da die Beschreibung auf Englisch ist, ist die Verfahrenssprache Englisch. Maßgeblich sind also die englischsprachigen Ansprüche.",
-                    "explanation_en": "According to #linkepc#ar70|Article 70 (1) EPC#endlink#, the wording of a European patent application or a European patent in the language of the proceedings constitutes the binding version in proceedings before the European Patent Office, as well as in any Contracting State. Since the description has been written in English, the language of the proceedings is English. Therefore, the English language claims are authoritative.",
+                    "explanation_en": "According to #linkepc#ar70|Article 70 (1) EPC#endlink#, the text of a European patent application or a European patent in the language of the proceedings shall be the authentic text in any proceedings before the European Patent Office and in any Contracting State. Since the description has been written in English, the language of the proceedings is English. Therefore, the English language claims are authoritative.",
                     "explanation_fr": "Selon #linkepc#ar70|Article 70 (1) CBE#endlink#, le libellé d'une demande de brevet européen ou d'un brevet européen dans la langue de la procédure constitue la version contraignante dans les procédures devant l'Office européen des brevets, ainsi que dans tout État contractant. Comme la description a été rédigée en anglais, la langue de la procédure est l'anglais. Par conséquent, les revendications en langue anglaise font autorité.",
                     "id": 44,
                     "id_old": 334,
                     "normen": "Art. 70 EPÜ verbindliche Fassung",
                     "startdate": "MO",
                     "text_de": "#linkwiki#John_James_Rickard_Macleod|John Macleod#endlink# hat ein Verfahren zur Verarbeitung von Kohlehydraten erdacht. Bei einer FtO-Recherche findet er ein erteiltes Europäisches Patent EP-1, dessen Beschreibung auf Englisch ist. Er übersetzt die französischen und deutschen Ansprüche mit einem Online-Übersetzungstool und sieht, dass diese von den englischen Ansprüchen abweichen. Die deutschen Ansprüche haben ein Merkmal weniger und die französischen Ansprüche ein Merkmal mehr. Da er Einspruch gegen EP-1 einlegen möchte kommt er zu Ihnen und möchte wissen, gegen welche Fassung der Ansprüche er Stand der Technik besorgen und den Einspruch begründen muss.  Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#John_James_Rickard_Macleod|John Macleod#endlink# has devised a method for processing carbohydrates. In a Freedom-to-Operate (FtO) search he finds a granted European Patent EP-1, the description of which is in English. He translates the French and German claims with an online translation tool and sees that they differ from the English claims. The German claims have one feature less and the French claims have one feature more. Since he wants to object to EP-1, he has come to you to learn against which version of the claims he has to get prior art in order to justify the objection.  Which of the following statements is true?",
+                    "text_en": "#linkwiki#John_James_Rickard_Macleod|John Macleod#endlink# has devised a method for processing carbohydrates. In a Freedom-to-Operate (FtO) search he finds a granted European Patent EP-1, the description of which is in English. He translates the French and German claims with an online translation tool and sees that they differ from the English claims. The German claims have one feature less and the French claims have one feature more. Since he wants to file an opposition to EP-1, he has come to you to learn against which version of the claims he has to get prior art in order to justify the objection.  Which of the following statements is true?",
                     "text_fr": "#linkwiki#John_James_Rickard_Macleod|John Macleod#endlink# a mis au point une méthode de traitement des hydrates de carbone. Lors d'une recherche sur la liberté d'exploitation (FtO), il trouve un brevet européen EP-1 accordé, dont la description est en anglais. Il traduit les revendications françaises et allemandes à l'aide d'un outil de traduction en ligne et constate qu'elles diffèrent des revendications anglaises. Les revendications allemandes ont une caractéristique en moins et les revendications françaises ont une caractéristique en plus. Comme il veut faire une objection à EP-1, il est venu vous voir pour savoir contre quelle version des revendications il doit obtenir l'état de la technique afin de justifier l'objection.  Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Das Erteilungsverfahren wird fortgeführt bis eine rechtskräftige Entscheidung über den Anspruch auf Erteilung des Patentes EP-1 ergangen ist.",
-                            "text_en": "The grant procedure will be continued until a final decision on the claim for grant of patent EP-1 has been issued.",
+                            "text_en": "The grant procedure will be continued until a final decision on the right to the patent application EP-1 has been issued.",
                             "text_fr": "La procédure de délivrance sera poursuivie jusqu'à ce qu'une décision finale soit rendue sur la demande de délivrance du brevet EP-1."
                         },
                         {
-                            "text_de": "Das Verfahren wird zwingend unterbrochen bis eine rechtskräftige Entscheidung über den Anspruch auf Erteilung des Patentes EP-1 ergangen ist.",
-                            "text_en": "The proceedings shall be mandatorily interrupted until a final decision on the claim for grant of patent EP-1 has been rendered.",
+                            "text_de": "Das Verfahren wird zwingend unterbrochen bis eine rechtskräftige Entscheidung über den Anspruch auf die Patentanmeldung EP-1 ergangen ist.",
+                            "text_en": "The proceedings shall be mandatorily interrupted until a final decision on the right to the patent application EP-1 has been rendered.",
                             "text_fr": "La procédure est obligatoirement interrompue jusqu'à ce qu'une décision définitive soit rendue sur la demande de délivrance du brevet EP-1."
                         }
                     ],
@@ -2264,7 +2264,7 @@
                         },
                         {
                             "text_de": "Johannes Fibiger kann die Anmeldung fallenlassen, da er der alleinige Anmelder ist.",
-                            "text_en": "Johannes Fibiger can drop the application since he is the sole applicant.",
+                            "text_en": "Johannes Fibiger can abandon the application since he is the sole applicant.",
                             "text_fr": "Johannes Fibiger peut abandonner la demande puisqu'il est le seul demandeur."
                         }
                     ],
@@ -2276,12 +2276,12 @@
                         },
                         {
                             "text_de": "Das Verfahren wird nicht vor Veröffentlichung der europäischen Patentanmeldung ausgesetzt.",
-                            "text_en": "The procedure is not suspended before publication of the European patent application.",
+                            "text_en": "The procedure is not stayed before publication of the European patent application.",
                             "text_fr": "La procédure n'est pas suspendue avant la publication de la demande de brevet européen."
                         },
                         {
                             "text_de": "Bis zur Fortsetzung des Erteilungsverfahrens darf weder die europäische Patentanmeldung noch die Benennung eines Vertragsstaats zurückgenommen werden.",
-                            "text_en": "Pending the continuation of the grant procedure, neither the European patent application nor the designation of a Contracting State may be withdrawn.",
+                            "text_en": "Pending the continuation of the grant procedure, neither the European patent application nor the designation of any Contracting State may be withdrawn.",
                             "text_fr": "Pendant la poursuite de la procédure de délivrance, ni la demande de brevet européen ni la désignation d'un État contractant ne peuvent être retirées."
                         }
                     ],
@@ -2297,14 +2297,14 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Nach #linkepc#r15|Regel 15 EPÜ#endlink# darf von dem Tag an, an dem die Ideenklau Inc. nachweist, dass sie ein nationales Verfahren nach Regel 14 Absatz 1 eingeleitet hat, bis zu dem Tag, an dem das Erteilungsverfahren fortgesetzt wird, weder die europäische Patentanmeldung noch die Benennung eines Vertragsstaats zurückgenommen werden. Die Aussetzung erfolgt nach #linkepc#r14|Regel 14 (1) EPÜ#endlink# nicht vor Veröffentlichung der europäischen Patentanmeldung.",
-                    "explanation_en": "According to #linkepc#r15|Rule 15 EPC#endlink#, neither the European patent application nor the designation of a Contracting State may be withdrawn from the date on which Ideenklau Inc. proves that it has initiated national proceedings under Rule 14(1) until the date on which the grant proceedings are continued. According to #linkepc#r14|Rule 14 (1) EPC#endlink#, the suspension shall not take place before publication of the European patent application.",
+                    "explanation_en": "According to #linkepc#r15|Rule 15 EPC#endlink#, neither the European patent application nor the designation of any Contracting State may be withdrawn from the date on which Ideenklau Inc. proves that it has instituted national proceedings under Rule 14(1) EPC until the date on which the grant proceedings are continued. According to #linkepc#r14|Rule 14 (1) EPC#endlink#, proceedings for grant shall not be stayed before publication of the European patent application.",
                     "explanation_fr": "Selon la #linkepc#r15|Règle 15 CBE#endlink#, ni la demande de brevet européen ni la désignation d'un État contractant ne peuvent être retirées à partir de la date à laquelle Ideenklau Inc. prouve qu'elle a engagé une procédure nationale en vertu de la règle 14 (1) jusqu'à la date à laquelle la procédure de délivrance est poursuivie. Selon la #linkepc#r14|Règle 14 (1) CBE#endlink#, la suspension ne doit pas intervenir avant la publication de la demande de brevet européen.",
                     "id": 46,
                     "id_old": 38,
                     "normen": "R 15 Keine Rücknahme",
                     "startdate": "MO",
                     "text_de": "Nach mehreren Entwicklungsschleifen hat #linkwiki#Johannes_Fibiger|Johannes Fibiger#endlink# einen Feldlazarett entwickelt und diesbezüglich eine europäische Patentanmeldung EP-1 eingereicht. Gleich danach stellt er den Gegenstand der EP-1 der Ideenklau Inc. vor. Diese erkennt das Potential der Erfindung und möchte partiziperen, ohne allerdings an Fibiger Geld zu zahlen. Daher strengt sie ungefähr ein halbes Jahr nach Einreichung der EP-1 ein Verfahren im Sinne des #linkepc#ar61|Artikels 61 (1) EPÜ#endlink# an, weist dies sofort beim Europäischen Patentamt nach und stellt, um den Druck weiter zu erhöhen, Antrag, das Verfahren auszusetzen. Fibiger überlegt, die Anmeldung EP-1 lieber fallenzulassen als dass sie die Ideenklau Inc. irgendwie zugesprochen bekommt. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "After several development loops, #linkwiki#Johannes_Fibiger|Johannes Fibiger#endlink# has created a field hospital and filed a European patent application EP-1 in this regard. Immediately thereafter, he presents the subject matter of the EP-1 to Ideenklau Inc. The latter recognizes the potential of the invention and wants to participate, but without paying money to Fibiger. Therefore, about half a year after filing the EP-1, Ideenklau Inc. initiates proceedings in the sense of #linkepc#ar61|Article 61 (1) EPC#endlink#, immediately proving this to the European Patent Office. To further increase the pressure, he files a request to suspend the proceedings. Fibiger considers dropping the EP-1 application rather than having Ideenklau Inc. somehow awarded it. Which of the following statements is true?",
+                    "text_en": "After several development loops, #linkwiki#Johannes_Fibiger|Johannes Fibiger#endlink# has created a field hospital and filed a European patent application EP-1 in this regard. Immediately thereafter, he presents the subject matter of the EP-1 to Ideenklau Inc. The latter recognizes the potential of the invention and wants to participate, but without paying money to Fibiger. Therefore, about half a year after filing the EP-1, Ideenklau Inc. initiates proceedings according to #linkepc#ar61|Article 61 (1) EPC#endlink#, immediately proving this to the European Patent Office. To further increase the pressure, he files a request to suspend the proceedings. Fibiger considers dropping the EP-1 application rather than having Ideenklau Inc. somehow awarded it. Which of the following statements is true?",
                     "text_fr": "Après plusieurs boucles de développement, #linkwiki#Johannes_Fibiger|Johannes Fibiger#endlink# a créé un hôpital de campagne et déposé une demande de brevet européen EP-1 à cet égard. Immédiatement après, il présente l'objet de la demande EP-1 à Ideenklau Inc. Cette dernière reconnaît le potentiel de l'invention et souhaite y participer, mais sans verser d'argent à Fibiger. Par conséquent, environ six mois après le dépôt de l'EP-1, Ideenklau Inc. entame une procédure au sens de l'#linkepc#ar61|Article 61 (1) CBE#endlink#, en le prouvant immédiatement à l'Office européen des brevets. Pour augmenter encore la pression, il dépose une demande de suspension de la procédure. M. Fibiger envisage d'abandonner la demande EP-1 plutôt que de voir Ideenklau Inc. se la voir attribuer d'une manière ou d'une autre. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
@@ -2316,7 +2316,7 @@
                         },
                         {
                             "text_de": "Nicolle kann die Rechtsbehelfe zur Durchsetzung seiner Rechte bis zum nächsten Prüfungsbescheid geltend machen.",
-                            "text_en": "Nicolle may pursue remedies to enforce his rights until the next audit notice.",
+                            "text_en": "Nicolle may pursue remedies to enforce his rights until the next communication persuant to Art. 94 (3) EPC.",
                             "text_fr": "Nicolle peut exercer des recours pour faire valoir ses droits jusqu'au prochain avis de vérification."
                         },
                         {
@@ -2396,39 +2396,39 @@
                         "+2MM"
                     ],
                     "difficulty": "1",
-                    "explanation_de": "Nach #linkepc#r19|Regel 19 (3) EPÜ#endlink# werden einem Erfinder, der nicht Anmelder ist, Informationen über die Anmeldung wie Anmeldenummer und Anmeldetag übermittelt. Aus dem Fehlen des Schreibens können gemäß #linkepc#r19|Regel 19 (4) EPÜ#endlink# keine Rechte hergeleitet werden.",
-                    "explanation_en": "According to #linkepc#r19|Rule 19 (3) EPC#endlink#, information about the application such as application number and filing date is communicated to an inventor who is not an applicant. According to #linkepc#r19|Rule 19 (4) EPC#endlink# no rights can be derived from the absence of the letter.",
+                    "explanation_de": "#linkepc#r19|Regel 19 (3) und (4) EPÜ#endlink# wurden zwar gelöscht. Trotzdem kann Eijkman als Erfinder identifiziert werden.",
+                    "explanation_en": "Even if #linkepc#r19|Rules 19 (3) and (4) EPC#endlink# have been deleted, Eijkman can be identified as inventor.",
                     "explanation_fr": "Selon la #linkepc#r19|Règle 19 (3) CBE#endlink#, les informations relatives à la demande telles que le numéro de la demande et la date de dépôt sont communiquées à un inventeur qui n'est pas demandeur. Selon la #linkepc#r19|Règle 19 (4) CBE#endlink#, aucun droit ne peut être dérivé de l'absence de la lettre.",
                     "id": 48,
                     "id_old": 40,
                     "normen": "R 19 (3) Anschreiben, R 19 (4) keine Rechte",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Christiaan_Eijkman|Christiaan Eijkman#endlink# ist bei der Quantica AG in Deutschland  angestellt. Eine Diensterfindung über ein Verfahren zur Herstellung eines Vitamins hat die Quantica in Anspruch genommen und als europäische Patentanmeldung EP-1 eingereicht, wobei er als alleiniger Erfinder benannt ist. EP-1 wird auch als Patent erteilt und von der Quantica genutzt. Nachdem es zum Streit mit der Quantica kommt verlässt Eijkman die Firma. Nach einiger Zeit fragt er wegen einer Vergütung seiner Erfindung an. Quantica verlangt, dass er zum Nachweis seiner Erfinderschaft ein Schreiben des europäischen Patentamts vorlegt, in dem ihm die Anmeldenummer und der Anmeldetag mitgeteilt wurden. Ein derartiges Schreiben hat Eijkman nie erhalten. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Christiaan_Eijkman|Christiaan Eijkman#endlink# is employed by Quantica AG in Germany. A service invention on a process for the production of a vitamin has been claimed by Quantica and filed as European patent application EP-1, naming him as the sole inventor. EP-1 is also granted as a patent and used by Quantica. After a dispute with Quantica arises, Eijkman leaves the company. After some time, he enquires about compensation for his invention. Quantica demands that he submit a letter from the European Patent Office informing him of the application number and filing date as proof of his invention. Eijkman never received such a letter. What is the legal situation?",
+                    "text_en": "#linkwiki#Christiaan_Eijkman|Christiaan Eijkman#endlink# is employed by Quantica AG in Germany. An emplyee's invention on a process for the production of a vitamin has been claimed by Quantica and filed as European patent application EP-1, mentioning him as the sole inventor. EP-1 is also granted as a patent and used by Quantica. After a dispute with Quantica arises, Eijkman leaves the company. After some time, he enquires about remuneration for his invention. Quantica demands that he submit a letter from the European Patent Office informing him of the application number and filing date as proof of his invention. Eijkman never received such a letter. What is the legal situation?",
                     "text_fr": "#linkwiki#Christiaan_Eijkman|Christiaan Eijkman#endlink# est employé par Quantica AG en Allemagne. Une invention de service sur un procédé de production d'une vitamine a été revendiquée par Quantica et déposée comme demande de brevet européen EP-1, le désignant comme seul inventeur. EP-1 est également accordé en tant que brevet et utilisé par Quantica. Après un différend avec Quantica, Eijkman quitte l'entreprise. Après quelque temps, il s'enquiert de la rémunération de son invention. Quantica lui demande de présenter une lettre de l'Office européen des brevets l'informant du numéro de la demande et de la date de dépôt comme preuve de son invention. Eijkman n'a jamais reçu une telle lettre. Quelle est la situation juridique ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Gernot Genau ist nicht am Erteilungsverfahren beteiligt und kann daher keine Anträge stellen.",
-                            "text_en": "Gernot Genau is not involved in the granting procedure and therefore cannot submit any applications.",
+                            "text_en": "Gernot Genau is not involved in the granting procedure and therefore cannot submit any requests.",
                             "text_fr": "Gernot Genau n'est pas impliqué dans la procédure d'octroi et ne peut donc pas soumettre de demande."
                         },
                         {
                             "text_de": "Wenn Hopkins dem Antrag zustimmt wird die Erfinderbenennung berichtigt.",
-                            "text_en": "If Hopkins approves the motion, the inventor designation will be corrected.",
+                            "text_en": "If Hopkins gives consent to the request, the inventor designation will be rectified.",
                             "text_fr": "Si Hopkins approuve la motion, la désignation de l'inventeur sera corrigée."
                         },
                         {
                             "text_de": "Wenn die Genial GmbH dem Antrag zustimmt wird die Erfinderbenennung berichtigt.",
-                            "text_en": "If Genial GmbH approves the request, the inventor designation will be corrected.",
+                            "text_en": "If Genial GmbH gives consent to the request, the inventor designation will be rectified.",
                             "text_fr": "Si Genial GmbH approuve la demande, la désignation de l'inventeur sera corrigée."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Wenn Hopkins und die Genial GmbH dem Antrag zustimmen wird die Erfinderbenennung berichtigt.",
-                            "text_en": "If Hopkins and Genial GmbH agree to the request, the inventor designation will be corrected.",
+                            "text_en": "If Hopkins and Genial GmbH agree to the request, the inventor designation will be rectified.",
                             "text_fr": "Si Hopkins et Genial GmbH acceptent cette demande, la désignation de l'inventeur sera corrigée."
                         }
                     ],
@@ -2444,7 +2444,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Nach #linkepc#r21|Regel 21 EPÜ#endlink# wird auf Antrag eine unrichtige Erfinderbenennung berichtigt. Reicht ein Dritter den Antrag ein müssen Erfinder und Anmelder/Patentinhaber zustimmern.",
-                    "explanation_en": "According to #linkepc#r21|Rule 21 EPC#endlink# an incorrect designation of inventor is corrected upon request. If a third party files the request, inventor and applicant/patentee must agree.",
+                    "explanation_en": "According to #linkepc#r21|Rule 21 EPC#endlink# an incorrect designation of an inventor shall be rectified upon request. If a third party files the request, inventor and applicant/patentee must agree.",
                     "explanation_fr": "Selon la #linkepc#r21|Règle 21 CBE#endlink#, une désignation incorrecte de l'inventeur est corrigée sur requête. Si un tiers dépose la requête, l'inventeur et le demandeur/breveté doivent se mettre d'accord.",
                     "id": 49,
                     "id_old": 41,
@@ -2457,25 +2457,25 @@
                 {
                     "answers_false": [
                         {
-                            "text_de": "Nur Landsteiner kann den Antrag auf EIntragung des Rechtspübergangs in das Europäische Patentregister stellen. Nachweis erfolgt bspw. über einen Kaufvertrag.",
-                            "text_en": "Only Landsteiner can file a request for registration of the transfer in the European Patent Register. Proof is provided, for example, by means of a purchase agreement.",
+                            "text_de": "Nur Landsteiner kann den Antrag auf Eintragung des Rechtspübergangs in das Europäische Patentregister stellen. Nachweis erfolgt bspw. über einen Kaufvertrag.",
+                            "text_en": "Only Landsteiner can file a request to record the transfer in the European Patent Register. Proof is provided, for example, by means of a purchase agreement.",
                             "text_fr": "Seul Landsteiner peut déposer une demande d'inscription du transfert au registre européen des brevets. La preuve est apportée, par exemple, au moyen d'un contrat d'achat."
                         },
                         {
-                            "text_de": "Nur Wichtig kann den Antrag auf EIntragung des Rechtspübergangs in das Europäische Patentregister stellen. Nachweis erfolgt bspw. über einen Kaufvertrag.",
-                            "text_en": "Only Wichtig can file the request for registration of the transfer in the European Patent Register. Proof is provided, for example, by means of a purchase contract.",
+                            "text_de": "Nur Wichtig kann den Antrag auf Eintragung des Rechtspübergangs in das Europäische Patentregister stellen. Nachweis erfolgt bspw. über einen Kaufvertrag.",
+                            "text_en": "Only Wichtig can file the request to record the transfer in the European Patent Register. Proof is provided, for example, by means of a purchase contract.",
                             "text_fr": "Seul Wichtig peut déposer la demande d'inscription du transfert au registre européen des brevets. La preuve est apportée, par exemple, au moyen d'un contrat d'achat."
                         },
                         {
-                            "text_de": "Nur Landsteiner und Wichtig gemeinsam können den Antrag auf EIntragung des Rechtspübergangs in das Europäische Patentregister stellen. Nachweis erfolgt bspw. über einen Kaufvertrag.",
-                            "text_en": "Only Landsteiner and Wichtig can jointly file the request for registration of the transfer in the European Patent Register. Proof can be provided, for example, by means of a purchase agreement.",
+                            "text_de": "Nur Landsteiner und Wichtig gemeinsam können den Antrag auf Eintragung des Rechtspübergangs in das Europäische Patentregister stellen. Nachweis erfolgt bspw. über einen Kaufvertrag.",
+                            "text_en": "Only Landsteiner and Wichtig can jointly file the request to record the transfer in the European Patent Register. Proof can be provided, for example, by means of a purchase agreement.",
                             "text_fr": "Seuls Landsteiner et Wichtig peuvent déposer conjointement la demande d'inscription du transfert au registre européen des brevets. La preuve peut être apportée, par exemple, au moyen d'un contrat d'achat."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Landsteiner oder Wichtig können den Antrag auf EIntragung des Rechtspübergangs in das Europäische Patentregister stellen, wenn der Rechtsübergang nachgewiesen wird.",
-                            "text_en": "Landsteiner or Wichtig may file a request for entry of the transfer in the European Patent Register once the transfer  has been proven.",
+                            "text_de": "Landsteiner oder Wichtig können den Antrag auf Eintragung des Rechtspübergangs in das Europäische Patentregister stellen, wenn der Rechtsübergang nachgewiesen wird.",
+                            "text_en": "Landsteiner or Wichtig may file a request to record the transfer in the European Patent Register once the transfer  has been proven.",
                             "text_fr": "Landsteiner ou Wichtig peuvent déposer une requête d'inscription du transfert au registre européen des brevets une fois que le transfert a été prouvé."
                         }
                     ],
@@ -2517,12 +2517,12 @@
                     "answers_true": [
                         {
                             "text_de": "Warburg kann den Antrag auf Eintragung der Lizenz im Register stellen. Als Nachweis ist der Lizenzvertrag ausreichend.",
-                            "text_en": "Warburg may submit the application for registering the license. The license agreement is sufficient as proof.",
+                            "text_en": "Warburg may file the request to record the license. The license agreement is sufficient as proof.",
                             "text_fr": "Warburg peut soumettre la demande d'enregistrement de la licence. Le contrat de licence est suffisant comme preuve."
                         },
                         {
                             "text_de": "Onco kann den Antrag auf Eintragung der Lizenz im Register stellen. Als Nachweis ist der Lizenzvertrag ausreichend.",
-                            "text_en": "Onco may submit the application for entry of the license in the Register. The license agreement is sufficient as proof.",
+                            "text_en": "Onco may file the request to record the entry of a license in the Register. The license agreement is sufficient as proof.",
                             "text_fr": "Onco peut soumettre la demande d'inscription de la licence au registre. Le contrat de licence est suffisant comme preuve."
                         }
                     ],
@@ -2599,24 +2599,24 @@
                     "answers_false": [
                         {
                             "text_de": "Die Erfindernennung kann nur bis zur Veröffentlichung der Patentanmeldung berichtigt werden.",
-                            "text_en": "The designation of the inventor can be corrected only after the publication of the patent application.",
+                            "text_en": "The designation of the inventor can be rectified only after the publication of the patent application.",
                             "text_fr": "La désignation de l'inventeur ne peut être corrigée qu'après la publication de la demande de brevet."
                         },
                         {
                             "text_de": "Wenn das Cancer Institute die Berichtigung der Erfindernennung beantragt müssen Carl Cori und Gerty Cori der Berichtigung zustimmen.",
-                            "text_en": "If the Cancer Institute requests correction of the inventor designation, Carl Cori and Gerty Cori must agree to the correction.",
+                            "text_en": "If the Cancer Institute requests rectification of the inventor designation, Carl Cori and Gerty Cori must agree to the rectification.",
                             "text_fr": "Si l'Institut du Cancer demande la correction de la désignation de l'inventeur, Carl Cori et Gerty Cori doivent accepter la correction."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Wenn das Cancer Institute die Berichtigung der Erfindernennung beantragt muss Carl Cori der Berichtigung zustimmen.",
-                            "text_en": "If the Cancer Institute requests correction of the inventor designation, Carl Cori must agree to the correction.",
+                            "text_en": "If the Cancer Institute requests rectification of the inventor designation, Carl Cori must agree to the rectification.",
                             "text_fr": "Si l'Institut du Cancer demande la correction de la désignation de l'inventeur, Carl Cori doit accepter la correction."
                         },
                         {
                             "text_de": "Wenn Gerty Cori die Berichtigung der Erfindernennung beantragt müssen sowohl  das Cancer Institute als auch Carl Cori der Berichtigung zustimmen.",
-                            "text_en": "If Gerty Cori requests correction of the inventor designation, both the Cancer Institute and Carl Cori must agree to the correction.",
+                            "text_en": "If Gerty Cori requests rectification of the inventor designation, both the Cancer Institute and Carl Cori must agree to the rectification.",
                             "text_fr": "Si Gerty Cori demande la correction de la désignation de l'inventeur, l'Institut du cancer et Carl Cori doivent tous deux accepter la correction."
                         }
                     ],
@@ -2646,7 +2646,7 @@
                     "answers_false": [
                         {
                             "text_de": "Damit Houssay einen Anmeldetag für EP-1 erhält muss er die Anmeldegebühr bezahlen.",
-                            "text_en": "In order for Houssay to receive a filing date for EP-1, he must pay the filing fee.",
+                            "text_en": "In order for Houssay to receive a date of filing for EP-1, he must pay the filing fee.",
                             "text_fr": "Pour que Houssay puisse recevoir une date de dépôt pour EP-1, il doit payer la taxe de dépôt."
                         },
                         {
@@ -2656,14 +2656,14 @@
                         },
                         {
                             "text_de": "Houssay muss wenigstens einen Anspruch hinzufügen, um einen Anmeldetag für EP-1 zu erhalten.",
-                            "text_en": "Houssay must add at least one claim to receive a filing date for EP-1.",
+                            "text_en": "Houssay must add at least one claim to receive a date of filing for EP-1.",
                             "text_fr": "Houssay doit ajouter au moins une demande pour recevoir une date de dépôt pour EP-1."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Houssay kann den Vortrag als Patentanmeldung einreichen und einen Anmeldetag zuerkannt bekommen.",
-                            "text_en": "Houssay may file the presentation as a patent application and be granted a filing date.",
+                            "text_en": "Houssay may file the presentation as a patent application and be granted a date of filing.",
                             "text_fr": "Houssay peut déposer la présentation comme une demande de brevet et se voir accorder une date de dépôt."
                         }
                     ],
