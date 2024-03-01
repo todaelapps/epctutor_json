@@ -3630,8 +3630,8 @@
                     "id_old": 79,
                     "normen": "Artikel 98 Veröffentlichung der Patentschrift",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Johann_Adam_Hasenstab|Johann Adam Hasenstab#endlink# ist Wilderer im Spessart. Als er seine Freundin Anna Margaretha kennenlernt, die überzeugte Veganerin ist, muss er ihr versprechen, ebenfalls kein Fleich mehr zu essen. So ganz kann er darauf aber nicht verzichten, wobei er seine Jagderfolge gleich vor Ort zubereitet und verzehrt. Dabei erfindet er einen Einweggrill, den er in einer europäischen Patentanmeldung EP-1 anmeldet. Die Prüfungsabteilung ist sofort überzeugt und sendet ihm einen Erteilungsbeschluss. Beim Durchlesen des Beschlusses erkennt er, dass mit der Patenterteilug auch eine Veröffentlichung der Patentschrift erfolgt. Diese könnte seinem Schwager, der bei einem Grillhersteller arbeitet, auffallen. Hasenstab möchte auf keine Fall seine Freundin verlieren, die ihm die heimliche Jagd nicht verzeihen würde. Was kann er tun?",
-                    "text_en": "#linkwiki#Johann_Adam_Hasenstab|Johann Adam Hasenstab#endlink# is a poacher in the region of Spessart in Germany. After meeting his girlfriend Anna Margaretha, who is a convinced vegan, he has made a promise to her not to eat meat anymore. At the same time, he can't quite do without it, so he secretly prepares and eats his meaty entrees during the hunt. In the process, he invents a disposable grill, which he registers in a European patent application EP-1. The examining division is immediately convinced and sends him a grant decision. When reading the decision, he realizes that the patent specification is also published with the patent grant. This could come to the attention of his brother-in-law, who works for a grill manufacturer. Hasenstab does not want to lose his girlfriend, who would not forgive him for his secret indulgences. What can he do?",
+                    "text_de": "#linkwiki#Johann_Adam_Hasenstab|Johann Adam Hasenstab#endlink# ist Wilderer im Spessart. Als er seine Freundin Anna Margaretha kennenlernt, die überzeugte Veganerin ist, muss er ihr versprechen, ebenfalls kein Fleich mehr zu essen. So ganz kann er darauf aber nicht verzichten, wobei er seine Jagderfolge gleich vor Ort zubereitet und verzehrt. Dabei erfindet er einen Einweggrill, den er in einer europäischen Patentanmeldung EP-1 anmeldet. Die Prüfungsabteilung ist sofort überzeugt und sendet ihm einen Erteilungsbeschluss. Beim Durchlesen des Beschlusses erkennt er, dass mit der Patenterteilung auch eine Veröffentlichung der Patentschrift erfolgt. Diese könnte seinem Schwager, der bei einem Grillhersteller arbeitet, auffallen. Hasenstab möchte auf keine Fall seine Freundin verlieren, die ihm die heimliche Jagd nicht verzeihen würde. Was kann er tun?",
+                    "text_en": "#linkwiki#Johann_Adam_Hasenstab|Johann Adam Hasenstab#endlink# is a poacher in the region of Spessart in Germany. After meeting his girlfriend Anna Margaretha, who is a convinced vegan, he has made a promise to her not to eat meat anymore. At the same time, he can't quite do without it, so he secretly prepares and eats his meaty entrees during the hunt. In the process, he invents a disposable grill, which he registers in a European patent application EP-1. The examining division is immediately convinced and sends him a decision to grant a patent. When reading the decision, he realizes that the patent specification is also published with the patent grant. This could come to the attention of his brother-in-law, who works for a grill manufacturer. Hasenstab does not want to lose his girlfriend, who would not forgive him for his secret indulgences. What can he do?",
                     "text_fr": "#linkwiki#Johann_Adam_Hasenstab|Johann Adam Hasenstab#endlink# est un braconnier de la région de Spessart en Allemagne. Après avoir rencontré sa petite amie Anna Margaretha, qui est une végétalienne convaincue, il lui a fait la promesse de ne plus manger de viande. En même temps, il ne peut pas s'en passer, alors il prépare et mange secrètement ses entrées charnues pendant la chasse. Ce faisant, il invente un gril jetable qu'il dépose dans une demande de brevet européen EP-1. La division d'examen est immédiatement convaincue et lui envoie une décision de délivrance. En lisant la décision, il se rend compte que le fascicule de brevet est également publié avec la délivrance du brevet. Cela pourrait attirer l'attention de son beau-frère, qui travaille pour un fabricant de grils. Hasenstab ne veut pas perdre sa petite amie, qui ne lui pardonnerait pas ses indulgences secrètes. Que peut-il faire ?"
                 },
                 {
@@ -4275,7 +4275,7 @@
                     "answers_false": [
                         {
                             "text_de": "Nein, weil das Europäische Patentamt nicht an Umweltschutz interessiert ist und bei entsprechenden Versuchen mit Mängelbescheiden reagiert.",
-                            "text_en": "No, because the European Patent Office is not interested in environmental protection and reacts with deficiency letters in corresponding tests.",
+                            "text_en": "No, because the European Patent Office is not interested in environmental protection and reacts with communication pointing out deficiencies.",
                             "text_fr": "Non, car l'Office européen des brevets ne s'intéresse pas à la protection de l'environnement et réagit par des lettres d'insuffisance dans les tests correspondants."
                         },
                         {
@@ -4292,7 +4292,7 @@
                     "answers_true": [
                         {
                             "text_de": "Nein, weil Patentanmeldungen nur einseitig beschrieben sein dürfen.",
-                            "text_en": "No, because patent applications may only be described on one side.",
+                            "text_en": "No, because in patent applications only one side shall be used.",
                             "text_fr": "Non, car les demandes de brevet ne peuvent être décrites que sur une seule face."
                         },
                         {
@@ -4313,7 +4313,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "#linkepc#r49|Regel 49 EPÜ#endlink# gibt u.a. vor, die Blätter einer Patenanmeldung einseitig zu beschriften. Weiterhin sind auch Mindest- und Höchstmaße für Ränder vorgegeben. Ob EP-1 Seitenzahlen aufweist ist unbekannt, es ist also möglich. Eine Mängelrüge wird also im Hinblick auf die Zweiseitigkeit und den Rand erfolgen.",
-                    "explanation_en": "#linkepc#r49|Rule 49 EPC#endlink# specifies, among other things, that the sheets of a patent application must be inscribed on one side. Furthermore, minimum and maximum dimensions for margins are also specified. Whether EP-1 has page numbers is unknown, so it is possible. A deficiency claim will therefore be made with regard to the two-sidedness and the margin.",
+                    "explanation_en": "#linkepc#r49|Rule 49 EPC#endlink# in combination with OJ EPO 2022, A113 specifies, among other things, that the sheets of a patent application shall use only one side. Furthermore, minimum and maximum dimensions for margins are also specified. Whether EP-1 has page numbers is unknown, so it is possible. A deficiency claim will therefore be made with regard to the two-sidedness and the margin.",
                     "explanation_fr": "#linkepc#r49|Règle 49 CBE#endlink# précise, entre autres, que les feuilles d'une demande de brevet doivent être inscrites sur un seul côté. En outre, des dimensions minimales et maximales pour les marges sont également spécifiées. On ne sait pas si le document EP-1 comporte des numéros de page, ce qui est donc possible. Une réclamation pour insuffisance sera donc faite en ce qui concerne le recto-verso et la marge.",
                     "id": 86,
                     "id_old": 349,
@@ -4327,24 +4327,24 @@
                     "answers_false": [
                         {
                             "text_de": "Die Prioritätserklärung hätte vor oder spätestens mit EP-2 eingereicht werden müssen. EP-2 kann daher die Priorität von IR-1 nicht in Anspruch nehmen.",
-                            "text_en": "The priority declaration should have been filed before or at the latest with EP-2. EP-2 can therefore not claim the priority of IR-1.",
+                            "text_en": "The declaration of priority should have been filed before or at the latest with EP-2. EP-2 can therefore not claim the priority of IR-1.",
                             "text_fr": "La déclaration de priorité aurait dû être déposée avant ou au plus tard auprès de EP-2. EP-2 ne peut donc pas revendiquer la priorité de IR-1."
                         },
                         {
                             "text_de": "Die Prioritätserklärung wird vom Europäischen Patentamt nur angefordert, wenn die Priorität bspw. in einem Einspruchsverfahren angegriffen wird. Hamilton muss die Prioritätserklärung also nur aufheben und sonst nichts unternehmen.",
-                            "text_en": "The priority declaration is only requested by the European Patent Office if the priority is challenged, for example, in opposition proceedings. Hamilton, therefore, only has to revoke the declaration of priority and need take no other action.",
+                            "text_en": "The declaration of priority is only requested by the European Patent Office if the priority is challenged, for example, in opposition proceedings. Hamilton, therefore, only has to keep the declaration of priority and need take no other action.",
                             "text_fr": "La déclaration de priorité n'est demandée par l'Office européen des brevets que si la priorité est contestée, par exemple, dans une procédure d'opposition. Hamilton doit donc uniquement révoquer la déclaration de priorité et ne doit prendre aucune autre mesure."
                         },
                         {
                             "text_de": "Die Prioritätserklärung muss innerhalb eines Monats nach EInreichung von EP-2 beim Europäischen Patentamt nachgereicht werden. Hamilton hat also noch etwas Zeit zur Einreichung.",
-                            "text_en": "The priority declaration must be filed within one month after EP-2 has been filed with the European Patent Office. Hamilton, therefore, still has some time to file.",
+                            "text_en": "The declaration of priority must be filed within one month after EP-2 has been filed with the European Patent Office. Hamilton, therefore, still has some time to file.",
                             "text_fr": "La déclaration de priorité doit être déposée dans un délai d'un mois après le dépôt de l'EP-2 auprès de l'Office européen des brevets. Hamilton a donc encore un peu de temps pour déposer sa déclaration."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Die Prioritätserklärung muss innerhalb von 16 Monaten nach dem Anmeldetag von IR-1 beim Europäischen Patentamt nachgereicht werden. Hamilton hat also mindestens noch über drei Monate Zeit zur Einreichung.",
-                            "text_en": "The priority declaration must be subsequently filed with the European Patent Office within 16 months of the filing date of IR-1. Hamilton, therefore, still has at least more than three months to file.",
+                            "text_en": "The declaration of priority must be subsequently filed with the European Patent Office within 16 months of the filing date of IR-1. Hamilton, therefore, still has at least more than three months to file.",
                             "text_fr": "La déclaration de priorité doit être ensuite déposée auprès de l'Office européen des brevets dans un délai de 16 mois à compter de la date de dépôt de l'IR-1. Hamilton a donc encore au moins plus de trois mois pour déposer."
                         }
                     ],
@@ -4360,14 +4360,14 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Die Prioritätserklärung kann innerhalb von sechzehn Monaten nach dem frühesten beanspruchten Prioritätstag abgegeben werden, siehe #linkepc#r52|Regel 52 (2) EPÜ#endlink#. Dies ist hier der Anmeldetag von IR-1. Da EP-2 spätestens 12 Monate nach diesem Tag eingereicht worden sein muss und 16 Monate zu Verfügung stehen ist die Verbleibende Zeit wenigstens dreieinhalb Monate. Die Prioritätserklärung kann also auch nach der korrespondierenden Anmeldung eingereicht werden.",
-                    "explanation_en": "The priority declaration can be filed within sixteen months after the earliest claimed priority date, see #linkepc#r52|Rule 52 (2) EPC#endlink#. This is here the filing date of IR-1. Since EP-2 must have been filed at the latest 12 months after this date and 16 months are available, the remaining time is at least three and a half months. The declaration of priority can therefore be filed after the corresponding application.",
+                    "explanation_en": "The declaration of priority can be filed within sixteen months from the earliest priority date claimed, see #linkepc#r52|Rule 52 (2) EPC#endlink#. This is here the filing date of IR-1. Since EP-2 must have been filed at the latest 12 months after this date and 16 months are available, the remaining time is at least three and a half months. The declaration of priority can therefore be filed after the corresponding application.",
                     "explanation_fr": "La déclaration de priorité peut être déposée dans les seize mois suivant la première date de priorité revendiquée, voir #linkepc#r52|Règle 52 (2) CBE#endlink#. Il s'agit ici de la date de dépôt de l'IR-1. Comme l'EP-2 doit avoir été déposé au plus tard 12 mois après cette date et que 16 mois sont disponibles, le temps restant est d'au moins trois mois et demi. La déclaration de priorité peut donc être déposée après la demande correspondante.",
                     "id": 87,
                     "id_old": 350,
                     "normen": "Regel 52 Prioerklärung",
                     "startdate": "MO",
                     "text_de": "#linkwiki#William_Rowan_Hamilton|William Rowan Hamilton#endlink# hat einen Mechanikoperator entwickelt. Darauf hat er eine irische Patentanmeldung IR-1 gerichtet. Unter Inanspruchnahme der Priorität von IR-1 hat er vor zwei Wochen fristgerecht eine europäische Patentanmeldung EP-2 nachangemeldet. Nun stellt er voller Schreck fest, dass er vergessen hat, die Prioritätserklärung mit einzureichen. Wie ist der Status von EP-2?\t ",
-                    "text_en": "#linkwiki#William_Rowan_Hamilton|William Rowan Hamilton#endlink# has developed a mechanics operator. He directed an Irish patent application IR-1 to it. Two weeks ago, after claiming the priority of IR-1, he filed a European patent application EP-2 in due time. Now he is shocked to discover that he forgot to file the priority declaration. What is the status of EP-2?",
+                    "text_en": "#linkwiki#William_Rowan_Hamilton|William Rowan Hamilton#endlink# has developed a mechanics operator. He directed an Irish patent application IR-1 to it. Two weeks ago, after claiming the priority of IR-1, he filed a European patent application EP-2 in due time. Now he is shocked to discover that he forgot to file the declaration of priority. What is the status of EP-2?",
                     "text_fr": "#linkwiki#William_Rowan_Hamilton|William Rowan Hamilton#endlink# a développé un opérateur mécanique. Il lui a adressé une demande de brevet irlandais IR-1. Il y a deux semaines, après avoir revendiqué la priorité de l'IR-1, il a déposé en temps voulu une demande de brevet européen EP-2. Maintenant, il est choqué de découvrir qu'il a oublié de déposer la déclaration de priorité. Quel est le statut de la demande EP-2 ?"
                 },
                 {
@@ -4417,9 +4417,9 @@
                         "+8MM"
                     ],
                     "difficulty": "2",
-                    "explanation_de": "Die Ansprüche 1 und 2 haben einen Zeitrang vom #beginning#0#enddate#, Anspruch 3 vom #startdate##enddate#. F-1 vom #deadline#0#enddate# ist damit nur für Anspruch 3 Stand der Technik nach #linkepc#ar54|Artikel 54 (2) EPÜ#endlink#. Da dessen Gegenstand aus F-1 nicht hervorgeht ist Anspruch 3 neu gegenüber F-1. Bei den anderen Ansprüchen wird nicht von Neuheit gegenüber F-1 gesprochen, weil F-1 gar kein Stand der Technik ist.",
-                    "explanation_en": "Claims 1 and 2 have seniority from #beginning#0#enddate#, claim 3 from #startdate##enddate#. F-1 from #deadline#0#enddate# is thus prior art only for claim 3 according to #linkepc#ar54|Article 54 (2) EPC#endlink#. Since its subject matter is not apparent from F-1, claim 3 is new over F-1.",
-                    "explanation_fr": "Les revendications 1 et 2 ont une ancienneté à partir de #beginning#0#enddate#, la revendication 3 à partir de #startdate##enddate#. F-1 de #deadline#0#enddate# n'est donc de l'art antérieur que pour la revendication 3 selon #linkepc#ar54|Article 54 (2) CBE#endlink#. Comme son objet n'est pas apparent dans F-1, la revendication 3 est nouvelle par rapport à F-1.",
+                    "explanation_de": "Die Ansprüche 1 und 2 haben einen Zeitrang vom #date#0#enddate#, Anspruch 3 vom #date#2#enddate#. F-1 vom #date#1#enddate# ist damit nur für Anspruch 3 Stand der Technik nach #linkepc#ar54|Artikel 54 (2) EPÜ#endlink#. Da dessen Gegenstand aus F-1 nicht hervorgeht ist Anspruch 3 neu gegenüber F-1. Bei den anderen Ansprüchen wird nicht von Neuheit gegenüber F-1 gesprochen, weil F-1 gar kein Stand der Technik ist.",
+                    "explanation_en": "Claims 1 and 2 have seniority from #date#0#enddate#, claim 3 from #date#2#enddate#. F-1 from #date#1#enddate# is thus prior art only for claim 3 according to #linkepc#ar54|Article 54 (2) EPC#endlink#. Since its subject matter is not apparent from F-1, claim 3 is new over F-1.",
+                    "explanation_fr": "Les revendications 1 et 2 ont une ancienneté à partir de #date#0#enddate#, la revendication 3 à partir de #date#2#enddate#. F-1 de #date#1#enddate# n'est donc de l'art antérieur que pour la revendication 3 selon #linkepc#ar54|Article 54 (2) CBE#endlink#. Comme son objet n'est pas apparent dans F-1, la revendication 3 est nouvelle par rapport à F-1.",
                     "id": 88,
                     "id_old": 351,
                     "normen": "Artikel 87 einfache Prio, Zwischen-SdT, neue Merkmale",
@@ -4432,34 +4432,34 @@
                     "answers_false": [
                         {
                             "text_de": "Anspruch 1 von EP-1 hat einen Zeitrang vom #date#1#enddate#.",
-                            "text_en": "Claim 1 of EP-1 has a time rank of #date#1#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 1 of EP-1 is the date of\nfiling of EP-1, which is #date#1#enddate#.",
                             "text_fr": "La revendication 1 de EP-1 a un rang temporel de #date#1#enddate#."
                         },
                         {
                             "text_de": "Anspruch 2 von EP-1 hat einen Zeitrang vom #date#0#enddate#.",
-                            "text_en": "Claim 2 of EP-1 has a time rank of #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 2 of EP-1 is the date of\nfiling of GB-1, which is #date#0#enddate#.",
                             "text_fr": "La revendication 2 de EP-1 a un rang temporel de #date#0#enddate#."
                         },
                         {
                             "text_de": "Anspruch 3 von EP-1 hat einen Zeitrang vom #date#1#enddate#.",
-                            "text_en": "Claim 3 of EP-1 has a time rank of #date#1#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 3 of EP-1 is the date of\nfiling of EP-1, which is #date#1#enddate#.",
                             "text_fr": "La revendication 3 de EP-1 a un rang temporel de #date#1#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Anspruch 1 von EP-1 hat einen Zeitrang vom #date#0#enddate#.",
-                            "text_en": "Claim 1 of EP-1 has a time rank of #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 1 of EP-1 is the date of\nfiling of GB-1, which is #date#0#enddate#.",
                             "text_fr": "La revendication 1 de EP-1 a un rang temporel de #date#0#enddate#."
                         },
                         {
                             "text_de": "Anspruch 2 von EP-1 hat einen Zeitrang vom #date#1#enddate#.",
-                            "text_en": "Claim 2 of EP-1 has a time rank of #date#1#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 2 of EP-1 is the date of\nfiling of EP-1, which is #date#1#enddate#.",
                             "text_fr": "La revendication 2 de EP-1 a un rang temporel de #date#1#enddate#."
                         },
                         {
                             "text_de": "Anspruch 3 von EP-1 hat einen Zeitrang vom #date#0#enddate#.",
-                            "text_en": "Claim 3 of EP-1 has a time rank of #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 3 of EP-1 is the date of\nfiling of GB-1, which is #date#0#enddate#.",
                             "text_fr": "La revendication 3 de EP-1 a un rang temporel de #date#0#enddate#."
                         }
                     ],
@@ -4475,73 +4475,68 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Die Ansprüche 1 und 3 haben einen Zeitrang vom #date#0#enddate#, Anspruch 2 vom #date#1#enddate#. ",
-                    "explanation_en": "Claims 1 and 3 have seniority from #date#0#enddate#, claim 2 from #date#1#enddate#.",
+                    "explanation_en": "Claims 1 and 3 have an effective date being the date of\nfiling of GB-1 (#date#0#enddate#), claim 2 the date of\nfiling of EP-1 (#date#1#enddate#).",
                     "explanation_fr": "Les revendications 1 et 3 ont une ancienneté à partir de #date#0#enddate#, la revendication 2 à partir de #date#1#enddate#.",
                     "id": 89,
                     "id_old": 352,
                     "normen": "Artikel 87 Prio und Hinzufügung",
                     "startdate": "MO",
                     "text_de": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# hat am #date#0#enddate# eine britische Patentanmeldung GB-1 eingereicht. In dieser ist in Anspruch 1 eine Feldgenerator zur Erzeugung elektrischer Felder mit einem Wellendurchmesser von 5 cm beansprucht. In Anspruch 2, der von Anspruch 1 abhängt, ist eine Länge der Welle von wenigstens 20 cm gefordert. Am #date#1#enddate# reicht Maxwell eine europäische Patentanmeldung EP-1 ein, die die Priorität von GB-1 in Anspruch nimmt. Allerdings wird ein unabhängiger Anspruch 2 eingefügt, der alle Merkmale von Anspruch 1  und Anspruch 2 von GB-1 aufweist mit Ausnahme des Wellendurchmessers. Der neue Anspruch 3 enthält alle Merkmale der Ansprüche 1 und 2 von GB-1, insbesondere den Wellendurchmesser und die Länge. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# filed a British patent application GB-1 on #date#0#enddate#. Claim 1therein declares a field generator for producing electric fields with a shaft diameter of 5 cm. Claim 2, which is dependent on claim 1, illustrates a shaft length of at least 20 cm. On #date#1#enddate# Maxwell files a European patent application EP-1 claiming priority to GB-1. However, an independent claim 2 is added, which has all the features of claim 1 and claim 2 of GB-1 except for the shaft diameter. The new claim 3 includes all of the features of claims 1 and 2 of GB-1, especially the shaft diameter and length. Which of the following statements is true?",
+                    "text_en": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# filed a British patent application GB-1 on #date#0#enddate#. Claim 1 therein declares a field generator for producing electric fields with a shaft diameter of 5 cm. Claim 2, which is dependent on claim 1, illustrates a shaft length of at least 20 cm. On #date#1#enddate# Maxwell files a European patent application EP-1 claiming priority to GB-1. However, an independent claim 2 is added, which has all the features of claim 1 and claim 2 of GB-1 except for the shaft diameter. The new claim 3 includes all of the features of claims 1 and 2 of GB-1, especially the shaft diameter and length. Which of the following statements is true?",
                     "text_fr": "#linkwiki#James_Clerk_Maxwell|James Clerk Maxwell#endlink# a déposé une demande de brevet britannique GB-1 le #date#0#enddate#. La revendication 1 déclare un générateur de champ pour produire des champs électriques avec un diamètre d'arbre de 5 cm. La revendication 2, qui dépend de la revendication 1, illustre une longueur d'arbre d'au moins 20 cm. Le #date#1#enddate# Maxwell dépose une demande de brevet européen EP-1 revendiquant la priorité sur GB-1. Toutefois, une revendication indépendante 2 est ajoutée, qui présente toutes les caractéristiques de la revendication 1 et de la revendication 2 de GB-1, à l'exception du diamètre de l'arbre. La nouvelle revendication 3 reprend toutes les caractéristiques des revendications 1 et 2 de GB-1, notamment le diamètre et la longueur de l'arbre. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #date#1#enddate#.",
-                            "text_en": "Claim A1 of EP-3 has a time rank of #date#1#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A1 of EP-3 is the date of\nfiling of GB-1 (#date#1#enddate#).",
                             "text_fr": "La revendication A1 de EP-3 a un rang temporel de #date#1#enddate#."
                         },
                         {
                             "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #date#1#enddate#.",
-                            "text_en": "Claim A3 of EP-3 has a time rank of #date#1#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A3 of EP-3 is the date of\nfiling of GB-1 (#date#1#enddate#).",
                             "text_fr": "La revendication A3 de EP-3 a un rang temporel de #date#1#enddate#."
                         },
                         {
                             "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
-                            "text_en": "Claim A1 of EP-3 has a time rank of #date#2#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A1 of EP-3 is the date of\nfiling of EP-3 (#date#2#enddate#).",
                             "text_fr": "La revendication A1 de EP-3 a un rang temporel de #date#2#enddate#."
                         },
                         {
                             "text_de": "Gibbs kann nur eine Priorität in Anspruch nehmen. Anspruch A1 und A2 haben einen Zeitrang vom #date#1#enddate#.",
-                            "text_en": "Gibbs can only claim one priority. Claim A1 and A2 have a time rank from #date#1#enddate#.",
+                            "text_en": "Gibbs can only claim one priority. Claim A1 and A2 have an effective date of #date#1#enddate#.",
                             "text_fr": "Gibbs ne peut revendiquer qu'une seule priorité. Les revendications A1 et A2 ont un rang temporel de #date#1#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
-                            "text_en": "Claim A1 of EP-3 has a time rank of #date#2#enddate#.",
+                            "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A2 of EP-3 is the date of\nfiling of EP-3 (#date#2#enddate#).",
                             "text_fr": "La revendication A1 de EP-3 a un rang temporel de #date#2#enddate#."
                         },
                         {
-                            "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
-                            "text_en": "Claim A2 of EP-3 has a time rank of #date#2#enddate#.",
-                            "text_fr": "La revendication A2 de EP-3 a un rang temporel de #date#2#enddate#."
-                        },
-                        {
                             "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #date#0#enddate#.",
-                            "text_en": "Claim A2 of EP-3 has a time rank of #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A2 is the date of\nfiling of US-1 (#date#0#enddate#).",
                             "text_fr": "La revendication A2 de EP-3 a un rang temporel de #date#0#enddate#."
                         },
                         {
                             "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #date#0#enddate#.",
-                            "text_en": "Claim A3 of EP-3 has a time rank of #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A3 is the date of\nfiling of US-1 (#date#0#enddate#).",
                             "text_fr": "La revendication A3 de EP-3 a un rang temporel de #date#0#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
-                            "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #deadline#0#enddate#.",
-                            "text_en": "Claim A2 of EP-3 has a time rank of #deadline#0#enddate#.",
-                            "text_fr": "La revendication A2 de EP-3 a un rang temporel de #deadline#0#enddate#."
+                            "text_de": "Anspruch A2 von EP-3 hat einen Zeitrang vom #date#1#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A2 of EP-3 is the date of\nfiling of GB-1 (#date#1#enddate#).",
+                            "text_fr": "La revendication A2 de EP-3 a un rang temporel de #date#1#enddate#."
                         },
                         {
                             "text_de": "Anspruch A3 von EP-3 hat einen Zeitrang vom #date#2#enddate#.",
-                            "text_en": "Claim A3 of EP-3 has a time rank of #date#2#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A3 of EP-3 is the date of\nfiling of EP-3 (#date#2#enddate#).",
                             "text_fr": "La revendication A3 de EP-3 a un rang temporel de #date#2#enddate#."
                         },
                         {
                             "text_de": "Anspruch A1 von EP-3 hat einen Zeitrang vom #date#0#enddate#.",
-                            "text_en": "Claim A1 of EP-3 has seniority from #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim A1 is the date of\nfiling of US-1 (#date#0#enddate#).",
                             "text_fr": "La revendication A1 de EP-3 a une ancienneté de #date#0#enddate#."
                         }
                     ],
@@ -4557,9 +4552,9 @@
                         "+8MM|+6DD"
                     ],
                     "difficulty": "2",
-                    "explanation_de": "Anspruch A1 hat einen Zeitrang vom #beginning#0#enddate#, Anspruch A2 einen Zeitrang vom #deadline#0#enddate# und Anspruch 3 vom #startdate##enddate#. Jeder Anspruch hat den Zeitrang, an dem er in diesem Umfang eingereicht wurde. Dabei ist auch die Inanspruchnahme mehrerer Prioritäten möglich.",
-                    "explanation_en": "Claim A1 shall have a seniority from #beginning#0#enddate#; claim A2 shall have a seniority from #deadline#0#enddate#; and claim 3 shall have a seniority from #startdate##enddate#. Each claim shall have the time rank on which it was filed to that extent. It is also possible to claim more than one priority.",
-                    "explanation_fr": "La revendication A1 a une ancienneté de #beginning#0#enddate# ; la revendication A2 a une ancienneté de #deadline#0#enddate# ; et la revendication 3 a une ancienneté de #startdate##enddate#. Chaque réclamation a l'ancienneté à laquelle elle a été déposée dans cette mesure. Il est également possible de revendiquer plus d'une priorité.",
+                    "explanation_de": "Anspruch A1 hat einen Zeitrang vom #date#0#enddate#, Anspruch A2 einen Zeitrang vom #date#1#enddate# und Anspruch 3 vom #date#2#enddate#. Jeder Anspruch hat den Zeitrang, an dem er in diesem Umfang eingereicht wurde. Dabei ist auch die Inanspruchnahme mehrerer Prioritäten möglich.",
+                    "explanation_en": "Claim A1 shall have an effective date of #date#0#enddate#; claim A2 shall have an effective date of #date#1#enddate#; and claim 3 shall have an effective date of #date#2#enddate#. Each claim shall have the effective date on which it was filed to that extent. It is also possible to claim more than one priority.",
+                    "explanation_fr": "La revendication A1 a une ancienneté de #date#0#enddate# ; la revendication A2 a une ancienneté de #date#1#enddate# ; et la revendication 3 a une ancienneté de #startdate##enddate#. Chaque réclamation a l'ancienneté à laquelle elle a été déposée dans cette mesure. Il est également possible de revendiquer plus d'une priorité.",
                     "id": 90,
                     "id_old": 353,
                     "normen": "Artikel 87 Mehrfachprio",
@@ -4572,7 +4567,7 @@
                     "answers_false": [
                         {
                             "text_de": "Nein, da die Übertragungserklärung erst nach EP-2 eingereicht wurde.",
-                            "text_en": "No, because the transfer declaration was filed after EP-2.",
+                            "text_en": "No, because the declaration of assignment was filed after EP-2.",
                             "text_fr": "Non, car la déclaration de transfert a été déposée après EP-2."
                         },
                         {
@@ -4589,7 +4584,7 @@
                     "answers_true": [
                         {
                             "text_de": "Ja, die spätere Einreichung der Übertragung war rechtzeitig.",
-                            "text_en": "Yes, the later submission of the transfer was timely.",
+                            "text_en": "Yes, the later submission of the assignment was timely.",
                             "text_fr": "Oui, la soumission tardive du transfert était opportune."
                         }
                     ],
@@ -4631,12 +4626,12 @@
                         },
                         {
                             "text_de": "Der Zeitrang von Anspruch A2 ist der Anmeldetag von EP-2.",
-                            "text_en": "The seniority of claim A2 is the filing date of EP-2.",
+                            "text_en": "The effective date of the subject-matter of claim A2 is the filing date of EP-2.",
                             "text_fr": "L'ancienneté de la revendication A2 est la date de dépôt de EP-2."
                         },
                         {
                             "text_de": "Der Zeitrang von Anspruch A1 ist der Anmeldetag von DE-1.",
-                            "text_en": "The seniority of claim A1 is the filing date of DE-1.",
+                            "text_en": "The effective date of the subject-matter of claim A1 is the filing date of DE-1.",
                             "text_fr": "L'ancienneté de la revendication A1 est la date de dépôt du DE-1."
                         }
                     ],
@@ -4648,12 +4643,12 @@
                         },
                         {
                             "text_de": "Der Zeitrang von Anspruch A3 ist der Anmeldetag von EP-2.",
-                            "text_en": "The seniority of claim A3 is the filing date of EP-2.",
+                            "text_en": "The effective date of the subject-matter of claim A3 is the filing date of EP-2.",
                             "text_fr": "L'ancienneté de la revendication A3 est la date de dépôt de EP-2."
                         },
                         {
                             "text_de": "EP-2 ist die Erstanmeldung eines Autos mit oval gebogener Antenne.",
-                            "text_en": "EP-2 is the first registration of a car with oval bent antenna.",
+                            "text_en": "EP-2 is the first filing of a car with oval curved antenna.",
                             "text_fr": "EP-2 est la première immatriculation d'une voiture avec une antenne ovale courbée."
                         }
                     ],
@@ -4671,7 +4666,7 @@
                     ],
                     "difficulty": "2",
                     "explanation_de": "Nach #linkepc#ar87|Artikel 87 EPÜ#endlink# genießt man für die Anmeldung derselben Erfindung zum europäischen Patent ein Prioritätsrecht. Dieselbe Erfindung heißt, dass Gegenstände, die in der prioritätsbegründenden Anmeldung nicht enthalten waren, keinen älteren Zeitrang bekommen sondern den Anmeldetag der neuen Anmeldung haben. Anspruch A1 von EP-2 ist gegenüber Anspruch A1 von DE-1 erweitert, da das Merkmal „kreisförmig“ fehlt. Er hat also den Zeitrang des Anmeldetages von EP-2. Anspruch A2 von EP-2 entspricht Anspruch A1 von DE-1 und hat daher den Zeitrang von DE-1. Anspruch A3 ist erstmals in EP-2 enthalten und hat als Zeitrang daher den Anmeldetag von EP-2. EP-2 kann die Priorität von Gebrauchsmustern, also auch von DE-1, in Anspruch nehmen.",
-                    "explanation_en": "According to #linkepc#ar87|Article 87 EPC#endlink# one enjoys a right of priority for the application of the same invention for the European patent. The same invention means the subject matter that was not included in the priority-granting application does not receive seniority but has the filing date of the new application. Claim A1 of EP-2 is broadened compared to claim A1 of DE-1 because the feature \"circular\" is missing. Claim A2 of EP-2 corresponds to claim A1 of DE-1 and therefore has the seniority of DE-1. Claim A3 is contained in EP-2 for the first time and therefore has the filing date of EP-2 as seniority. EP-2 can claim the priority of utility models, thus also of DE-1.",
+                    "explanation_en": "According to #linkepc#ar87|Article 87 EPC#endlink# any person who has duly filed an application [...] enjoys a right of priority for the purpose of filing a European patent application in respect of the same invention. The same invention means the subject matter that was not included in the priority-granting application does not receive effective date of the earlier application but has a date of filing of the new application. Claim A1 of EP-2 is broadened compared to claim A1 of DE-1 because the feature \"circular\" is missing. Claim A2 of EP-2 corresponds to claim A1 of DE-1 and therefore has the efective date of DE-1. Claim A3 is contained in EP-2 for the first time and therefore has the filing date of EP-2 as efective date. EP-2 can claim the priority of utility models, thus also of DE-1.",
                     "explanation_fr": "Selon #linkepc#ar87|Article 87 CBE#endlink# on bénéficie d'un droit de priorité pour la demande de la même invention pour le brevet européen. La même invention signifie que l'objet qui n'était pas inclus dans la demande de délivrance de la priorité ne bénéficie pas de l'ancienneté mais a la date de dépôt de la nouvelle demande. La revendication A1 de EP-2 est élargie par rapport à la revendication A1 de DE-1 car la caractéristique \"circulaire\" est absente. La revendication A2 de EP-2 correspond à la revendication A1 de DE-1 et a donc l'ancienneté de DE-1. La revendication A3 est contenue dans EP-2 pour la première fois et a donc la date de dépôt de EP-2 comme ancienneté. EP-2 peut revendiquer la priorité des modèles d'utilité, donc aussi de DE-1.",
                     "id": 92,
                     "id_old": 355,
@@ -4685,24 +4680,24 @@
                     "answers_false": [
                         {
                             "text_de": "Abbe kann die Figuren bis zum #date#2#enddate# nachreichen. Der Anmeldetag bleibt erhalten.",
-                            "text_en": "Abbe  has until #date#2#enddate# to submit the figures. The filing date will be kept.",
+                            "text_en": "Abbe has until #date#2#enddate# to file the figures sunsequently. The date of filing will be kept.",
                             "text_fr": "Abbe a jusqu'au #date#2#enddate# pour soumettre les chiffres. La date de dépôt sera conservée."
                         },
                         {
                             "text_de": "Wenn Abbe keine Figuren nachreicht gilt die Anmeldung als nicht eingereicht.",
-                            "text_en": "If Abbe does not submit figures subsequently, the application will be deemed not to have been filed.",
+                            "text_en": "If Abbe does not file figures subsequently, the application will be deemed not to have been filed.",
                             "text_fr": "Si Abbe ne soumet pas de chiffres par la suite, la demande sera réputée ne pas avoir été déposée."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Abbe kann die Figuren bis zum #date#3#enddate# nachreichen. Allerdings verschiebt sich der Anmeldetag auf den Tag der Nachreichung.",
-                            "text_en": "Abbe can resubmit the figures by #date#3#enddate#. However, the filing date will be postponed to the day of the late submission.",
+                            "text_en": "Abbe can file the figures subsequently by #date#3#enddate#. However, the date of filing will be postponed to the day of the subsequent filing.",
                             "text_fr": "Abbe peut soumettre à nouveau les chiffres avant le #date#3#enddate#. Toutefois, la date de dépôt sera reportée au jour de la soumission tardive."
                         },
                         {
                             "text_de": "Abbe muss einen Antrag auf Weiterbehandlung stellen und kann dann die Figuren nachreichen.",
-                            "text_en": "Abbe must submit a request for further treatment and can then submit the figures later.",
+                            "text_en": "Abbe must submit a request for further processing and can then submit the figures later.",
                             "text_fr": "Abbe doit soumettre une demande de traitement supplémentaire et peut ensuite soumettre les chiffres plus tard."
                         }
                     ],
@@ -4728,15 +4723,15 @@
                     "id_old": 404,
                     "normen": "Regel 56 fehlende Beschreibung",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Er erhält eine Mitteilung des EPA mit Datum vom #date#1#enddate#, in der ihm mitgeteilt wird, dass in der Beschreibung Figuren erwähnt seien, diese aber nicht in der Anmeldung enthalten waren. Wie ist die Rechtslage? (Markieren Sie die richtigen Aussagen)",
-                    "text_en": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# filed a European patent application EP-1 on #date#0#enddate#. He receives correspondence from the EPO dated #date#1#enddate#, informing him that figures were mentioned in the description but were not included in the application. What is the legal position? (Mark the correct statements)",
+                    "text_de": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# hat am #date#0#enddate# eine europäische Patentanmeldung EP-1 eingereicht. Er erhält eine Mitteilung des EPA mit Datum vom #date#1#enddate#, in der ihm mitgeteilt wird, dass in der Beschreibung Figuren erwähnt seien, diese aber nicht in der Anmeldung enthalten waren. Wie ist die Rechtslage?",
+                    "text_en": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# filed a European patent application EP-1 on #date#0#enddate#. He receives correspondence from the EPO dated #date#1#enddate#, informing him that figures were mentioned in the description but were not included in the application. What is the legal position?",
                     "text_fr": "#linkwiki#Ernst_Abbe|Ernst Abbe#endlink# a déposé une demande de brevet européen EP-1 le #date#0#enddate#. Il reçoit une correspondance de l'OEB datée du #date#1#enddate#, l'informant que des figures étaient mentionnées dans la description mais n'ont pas été incluses dans la demande. Quelle est la situation juridique ? (Cochez les affirmations correctes)"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Robinson kann bei Änderungswünschen nach Erhalt des Erteilungsbeschlusses Beschwerde einlegen.",
-                            "text_en": "Robinson may appeal requests for changes after receipt of the decision to grant.",
+                            "text_en": "Robinson may appeal the decision to grant to have made amendments.",
                             "text_fr": "Robinson peut faire appel des demandes de modification après réception de la décision d'octroi."
                         },
                         {
@@ -4753,7 +4748,7 @@
                     "answers_true": [
                         {
                             "text_de": "Wenn Robinson Änderungswünsche hat, muss er diese bis zum #date#1#enddate# begründen.",
-                            "text_en": "If Robinson has change requests, he must justify them by the #date#1#enddate#.",
+                            "text_en": "If Robinson wants file file a request for amendment, he must justify them by the #date#1#enddate#.",
                             "text_fr": "Si Robinson a des demandes de changement, il doit les justifier par la #date#1#enddate#."
                         }
                     ],
@@ -4771,14 +4766,14 @@
                     ],
                     "difficulty": "3",
                     "explanation_de": "Wenn Robinso eine Mitteilung nach #linkepc#r71|Regel 71 (3) EPÜ#endlink# erhält muss er innerhalb von vier Monaten (#linkepc#r71|Regel 71 (3) EPÜ#endlink#) + 10 Tagen #linkepc#r126|Regel 126 (2) EPÜ#endlink# die Erteilungs- und Veröffentlichungsgebühr entrichten sowie eine Übersetzung der Patentansprüche in den beiden Amtssprachen des Europäischen Patentamts einzureichen. Ist der Anmelder mit der vorgeschlagenen Fassung nicht einverstanden muss er dies gemäß #linkepc#r71|Regel 71 (6) EPÜ#endlink# in der gesetzten Frist begründen. Zahlt er dagegen die Gebühren gilt das Einverständnis als gegeben, siehe #linkepc#r71|Regel 71 (5) EPÜ#endlink#. Der Anmelder kann dann keine zulässige Beschwerde einlegen, da ihm die Beschwer fehlt. In diesem Stadium führt die Nichtzahlung der Anspruchsgebühren allerdings nicht zu einer Streichung von Ansprüchen. Vielmehr gilt die Anmeldung als zurückgenommen, siehe #linkepc#r71|Regel 71 (7) EPÜ#endlink#.",
-                    "explanation_en": "When Robinson receives correspondence based on #linkepc#r71|Rule 71 (3) EPC#endlink#, he must pay the grant and publication fee within four months (#linkepc#r71|Rule 71 (3) EPC#endlink#) + 10 days #linkepc#r126|Rule 126 (2) EPC#endlink# and file a translation of the claims in the two official languages of the European Patent Office. If the applicant does not agree to the proposed version, he must justify this in accordance with #linkepc#r71|Rule 71 (6) EPC#endlink# within the time limit set. If, on the other hand, the applicant pays the fees, he is deemed to have given his consent, see #linkepc#r71|Rule 71 (5) EPC#endlink#. The applicant cannot then file an admissible appeal, since he lacks the right to appeal. At this stage, however, non-payment of claim fees does not result in cancellation of claims. Rather, the application is considered withdrawn, see #linkepc#r71|Rule 71 (7) EPC#endlink#.",
+                    "explanation_en": "When Robinson receives correspondence pursuant to #linkepc#r71|Rule 71 (3) EPC#endlink#, he must pay the grant and publication fee within four months (#linkepc#r71|Rule 71 (3) EPC#endlink#) + 10 days #linkepc#r126|Rule 126 (2) EPC#endlink# and file a translation of the claims in the two official languages of the European Patent Office. If the applicant does not agree to the proposed version, he must give reasons in accordance with #linkepc#r71|Rule 71 (6) EPC#endlink# within the time limit set. If, on the other hand, the applicant pays the fees, he is deemed to have given his consent, see #linkepc#r71|Rule 71 (5) EPC#endlink#. The applicant cannot then file an admissible appeal, since he lacks the right to appeal. At this stage, however, non-payment of claim fees does not result in cancellation of claims. Rather, the application is deemed to be withdrawn, see #linkepc#r71|Rule 71 (7) EPC#endlink#.",
                     "explanation_fr": "Lorsque Robinson reçoit une correspondance basée sur la #linkepc#r71|Règle 71 (3) CBE#endlink#, il doit payer la taxe de délivrance et de publication dans un délai de quatre mois (#linkepc#r71|Règle 71 (3) CBE#endlink#) + 10 jours #linkepc#r126|Règle 126 (2) CBE#endlink# et déposer une traduction des revendications dans les deux langues officielles de l'Office européen des brevets. Si le demandeur n'accepte pas la version proposée, il doit le justifier conformément à la #linkepc#r71|Règle 71 (6) CBE#endlink# dans le délai imparti. Si, en revanche, le demandeur paie les taxes, il est réputé avoir donné son consentement, voir #linkepc#r71|Règle 71 (5) CBE#endlink#. Le requérant ne peut alors pas déposer un recours recevable, puisqu'il n'a pas le droit de faire appel. À ce stade, cependant, le non-paiement des taxes de revendication n'entraîne pas l'annulation des revendications. Au contraire, la demande est considérée comme retirée, voir #linkepc#r71|Règle 71 (7) CBE#endlink#.",
                     "id": 94,
                     "id_old": 406,
                     "normen": "Regel 71 (3), (4), (5) EPÜ",
                     "startdate": "",
                     "text_de": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# hat eine Europäische Patentanmeldung EP-1 eingereicht. Am #date#0#enddate# hat er vom Europäischen Patentamt die Fassung, in der sie das europäische Patent zu erteilen beabsichtigt, und die zugehörigen bibliografischen Daten mitgeteilt bekommen. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# has filed a European patent application EP-1. On #date#0#enddate# he has been notified by the European Patent Office of the version in which itintends to grant the European patent and the associated bibliographic data. Which of the following statements is true?",
+                    "text_en": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# has filed a European patent application EP-1. On #date#0#enddate# he has been notified by the European Patent Office of the version in which it intends to grant the European patent and the associated bibliographic data. Which of the following statements is true?",
                     "text_fr": "#linkwiki#Robert_Robinson|Robert Robinson#endlink# a déposé une demande de brevet européen EP-1. Le #date#0#enddate#, l'Office européen des brevets lui a notifié la version dans laquelle il envisage de délivrer le brevet européen et les données bibliographiques associées. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
@@ -4801,8 +4796,8 @@
                             "text_fr": "Humboldt n'exige pas qu'un représentant professionnel dépose le formulaire EP-1."
                         },
                         {
-                            "text_de": "Wenn sie EP-1 heute einreichen bekommt EP-1 mit Humboldt als Anmelder den heutigen Tag als Anmeldetag zuerkannt, sofern die weiteren Erfordernisse erfüllt sind.",
-                            "text_en": "If you file EP-1 today, EP-1 with Humboldt as the applicant will be accorded today as the filing date, provided the other requirements have been met.",
+                            "text_de": "Wenn Sie EP-1 heute einreichen bekommt EP-1 mit Humboldt als Anmelder den heutigen Tag als Anmeldetag zuerkannt, sofern die weiteren Erfordernisse erfüllt sind.",
+                            "text_en": "If you file EP-1 today, EP-1 with Humboldt as the applicant will be accorded today as the date of filing, provided the other requirements have been met.",
                             "text_fr": "Si vous déposez EP-1 aujourd'hui, EP-1 avec Humboldt comme demandeur se verra accorder aujourd'hui comme date de dépôt, à condition que les autres conditions soient remplies."
                         }
                     ],
@@ -4842,14 +4837,14 @@
                         },
                         {
                             "text_de": "Die mündliche Verhandlung findet ohne Prontschischtschewa statt. Da sie ihr Nichterscheinen angekündigt hat reicht ein Prüfer, der dies überprüft. ",
-                            "text_en": "The hearing will take place without Pronchishcheva. Since she has announced her non-appearance, one examiner is sufficient to verify this.",
+                            "text_en": "Oral proceedings will take place without Pronchishcheva. Since she has announced her non-appearance, one examiner is sufficient to verify this.",
                             "text_fr": "L'audience aura lieu sans Pronchishcheva. Comme elle a annoncé sa non-comparution, un seul examinateur suffit pour le vérifier."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Die mündliche Verhandlung findet ohne Prontschischtschewa statt.",
-                            "text_en": "The hearing will be held without Pronchishcheva.",
+                            "text_en": "Oral proceedings will be held without Pronchishcheva.",
                             "text_fr": "L'audience aura lieu sans Pronchishcheva."
                         }
                     ],
@@ -4865,21 +4860,21 @@
                     ],
                     "difficulty": "3",
                     "explanation_de": "Ist eine mündliche Verhandlung anberaumt, kann sie auch ohne den oder die Beteiligten statt finden, siehe #linkepc#r115|Regel 115 (2) EPÜ#endlink#. Ob das Nichterscheinen angekündigt war oder nicht ist erst einmal ohne Belang. Mündliche Verhandlungen finden nur vor der Prüfungsabteilung bestehend aus drei technischen Prüfern statt, vgl. #linkepc#ar18|Artikel 18 (2) EPÜ#endlink#. ",
-                    "explanation_en": "If oral proceedings are scheduled, they may also take place without the party or parties involved, see #linkepc#r115|Rule 115 (2) EPC#endlink#. Whether the non-appearance was announced or not is irrelevant for the time being. Oral proceedings take place only before the examining division, consisting of three technical examiners, see #linkepc#ar18|Article 18 (2) EPC#endlink#.",
+                    "explanation_en": "If oral proceedings are scheduled, they may also take place without the party or parties involved, see #linkepc#r115|Rule 115 (2) EPC#endlink#. Whether the non-appearance was announced or not is irrelevant. Oral proceedings take place only before the examining division, consisting of three technical examiners, see #linkepc#ar18|Article 18 (2) EPC#endlink#.",
                     "explanation_fr": "Si une procédure orale est prévue, elle peut également avoir lieu sans la ou les parties concernées, voir #linkepc#r115|Règle 115 (2) CBE#endlink#. Le fait que la non-comparution ait été annoncée ou non est sans importance pour le moment. La procédure orale a lieu uniquement devant la division d'examen, composée de trois examinateurs techniques, voir #linkepc#ar18|Article 18 (2) CBE#endlink#.",
                     "id": 96,
                     "id_old": 408,
-                    "normen": "Artikel 87 Priorität Anmelderidentität, Anmeldetag, Priorität, Vertretung",
+                    "normen": "Regel 115",
                     "startdate": "",
                     "text_de": "#linkwiki#Tatjana_Fjodorowna_Prontschischtschewa|Tatjana Fjodorowna Prontschischtschewa#endlink# hat eine europäische Patentanmeldung EP-1 eingereicht und ist zu einer mündlichen Verhandlung geladen worden. Sie ist sehr beschäftigt, eine Arktis-Forschungsreise zu planen und reicht daher am letzten Tag der Frist einen neuen Satz Ansprüche ein. Dieser beseitigt zwar das Problem der fehlenden Neuheit gegenüber dem im Verfahren befindlichen Stand der Technik, wirft allerdings Fragen bezüglich einer unzulässigen Erweiterung auf. Auch teilt sie der Prüfungsabteilung mit, dass sie nicht zur mündlichen Verhandlung erscheint, weil sie dann schon auf dem Weg in die Arktis ist. Welche der folgenden Antworten beschreibt Handlungen der Prüfungsabteilung, die konform mit dem EPÜ sind?",
-                    "text_en": "#linkwiki#Tatyana_Fyodorovna_Prontschishcheva|Tatyana Fyodorovna Prontschishcheva#endlink# has filed a European patent application EP-1 and has been summoned to oral proceedings. She is very busy planning an Arctic research trip and therefore files a new set of claims on the last day of the deadline. While this eliminates the problem of lack of novelty over the prior art in suit, it raises questions about improper broadening. She also informs the examining division that she will not appear at oral argument because she will be on her way to the Arctic by then. Which of the following answers describes actions of the examining division that are in conformity with the EPC?",
+                    "text_en": "#linkwiki#Tatyana_Fyodorovna_Prontschishcheva|Tatyana Fyodorovna Prontschishcheva#endlink# has filed a European patent application EP-1 and has been summoned to oral proceedings. She is very busy planning an Arctic research trip and therefore files a new set of claims on the last day of the deadline. While this eliminates the problem of lack of novelty over the prior art in suit, it raises questions if the amendments introduce added subject-matter. She also informs the examining division that she will not appear at oral argument because she will be on her way to the Arctic by then. Which of the following answers describes actions of the examining division that are in conformity with the EPC?",
                     "text_fr": "#linkwiki#Tatyana_Fyodorovna_Prontschishcheva|Tatyana Fyodorovna Prontschishcheva#endlink# a déposé une demande de brevet européen EP-1 et a été convoquée à une procédure orale. Elle est très occupée à planifier un voyage de recherche dans l'Arctique et dépose donc un nouveau jeu de revendications le dernier jour du délai. Si cela élimine le problème de l'absence de nouveauté par rapport à l'art antérieur en cause, cela soulève des questions quant à un élargissement abusif. Elle informe également la division d'examen qu'elle ne se présentera pas à la plaidoirie parce qu'elle sera en route pour l'Arctique à ce moment-là. Laquelle des réponses suivantes décrit des actions de la division d'examen qui sont conformes à la CBE ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Straton hat keine Optionen mehr, da die Frist zur Beantwortung der Mitteilung abgelaufen ist.",
-                            "text_en": "Straton is out of options, as the deadline to respond to the notice has passed.",
+                            "text_en": "Straton is out of options, as the deadline to respond to the communication has passed.",
                             "text_fr": "Straton est à court d'options, le délai de réponse à l'avis étant dépassé."
                         },
                         {
@@ -4895,8 +4890,8 @@
                             "text_fr": "Straton peut ajouter de nouvelles demandes sans payer de frais de demande dès aujourd'hui."
                         },
                         {
-                            "text_de": "Straton kann eine (Rück-)Änderung von Ansprüch 5 begründen. Die die Erteilungs- und Veröffentlichungsgebühr muss dann nicht entrichtet werden.",
-                            "text_en": "Straton can justify a (re)amendment of claims 5. In this case, the issuance and publication fee does not have to be paid.",
+                            "text_de": "Straton kann eine (Rück-)Änderung von Ansprüch 5 begründen. Die Erteilungs- und Veröffentlichungsgebühr muss dann nicht entrichtet werden.",
+                            "text_en": "Straton can justify a (re)amendment of claims 5. In this case, the fees for grant and publishing do not have to be paid.",
                             "text_fr": "Straton peut justifier une (re)modification des revendications 5. Dans ce cas, la taxe de délivrance et de publication ne doit pas être payée."
                         }
                     ],
@@ -4926,7 +4921,7 @@
                     "answers_false": [
                         {
                             "text_de": "Die Mitteilung gilt als am #date#4#enddate# zugestellt.",
-                            "text_en": "The notice shall be deemed delivered on #date#4#enddate#.",
+                            "text_en": "The communication shall be deemed delivered on #date#4#enddate#.",
                             "text_fr": "L'avis est réputé remis le #date#4#enddate#."
                         },
                         {
@@ -4943,7 +4938,7 @@
                         },
                         {
                             "text_de": "Wird die Frist von Witelo versäumt kann er am #date#2#enddate# sicher noch eine Weiterbehandlung beantragen.",
-                            "text_en": "If Witelo's deadline is missed, he can certainly still request further treatment on the #date#2#enddate#.",
+                            "text_en": "If Witelo's deadline is missed, he can certainly still request further processing on the #date#2#enddate#.",
                             "text_fr": "Si le délai de Witelo n'est pas respecté, il peut certainement encore demander un traitement supplémentaire le #date#2#enddate#."
                         }
                     ],
@@ -4969,7 +4964,7 @@
                     "normen": "Artikel 94 EPÜ Regel 126, 131 (4) EPÜ",
                     "startdate": "",
                     "text_de": "#linkwiki#Witelo|Witelo#endlink# hat einen Hohlspiegel entwickelt und darauf eine europäische Patentanmeldung EP-1 eingereicht. Am #date#0#enddate# erhält er eine Mitteilung nach #linkepc#ar94|Artikel 94 (3) EPÜ#endlink# mit Datum vom #date#0#enddate#. Er hat vier Monate Frist zur Beantwortung. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Witelo|Witelo#endlink# has developed a concave mirror and filed a European patent application EP-1 on it. On #date#0#enddate# he receives a notice under #linkepc#ar94|Article 94 (3) EPC#endlink# dated #date#0#enddate#. He has four months to respond. Which of the following statements is true?",
+                    "text_en": "#linkwiki#Witelo|Witelo#endlink# has developed a concave mirror and filed a European patent application EP-1 on it. On #date#0#enddate# he receives a communication pursuant to #linkepc#ar94|Article 94 (3) EPC#endlink# dated #date#0#enddate#. He has four months to respond. Which of the following statements is true?",
                     "text_fr": "#linkwiki#Witelo|Witelo#endlink# a développé un miroir concave et a déposé une demande de brevet européen EP-1 à son sujet. Le #date#0#enddate#, il reçoit une notification au titre de l'#linkepc#ar94|Article 94 (3) CBE#endlink# datée du #date#0#enddate#. Il a quatre mois pour répondre. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
@@ -4993,7 +4988,7 @@
                         },
                         {
                             "text_de": "Die Übertragung des Prioritätsrechts musste vor der Einreichung von EP-1 erfolgen.",
-                            "text_en": "The transfer of the priority right had to take place before EP-1 had been filed.",
+                            "text_en": "The assignment of the priority right had to take place before EP-1 had been filed.",
                             "text_fr": "Le transfert du droit de priorité devait avoir lieu avant le dépôt de l'EP-1."
                         }
                     ],
@@ -5025,7 +5020,7 @@
                     "answers_false": [
                         {
                             "text_de": "Die Mitteilung gilt als am #date#1#enddate# zugestellt.",
-                            "text_en": "The notice shall be deemed delivered on #date#1#enddate#.",
+                            "text_en": "The communication shall be deemed delivered on #date#1#enddate#.",
                             "text_fr": "L'avis est réputé remis le #date#1#enddate#enddate#."
                         },
                         {
@@ -5037,12 +5032,12 @@
                     "answers_true": [
                         {
                             "text_de": "Die Mitteilung gilt als am #date#5#enddate# zugestellt.",
-                            "text_en": "The notice shall be deemed delivered on #date#5#enddate#.",
+                            "text_en": "The communication shall be deemed delivered on #date#5#enddate#.",
                             "text_fr": "L'avis est réputé remis le #date#5#enddate#."
                         },
                         {
                             "text_de": "Die Weiterbehandlung bei Fristversäumnis kann mindestens bis zum #date#4#enddate# beantragt werden.\n",
-                            "text_en": "Continued treatment in case of missed deadline can be requested at least until #date#4#enddate#.",
+                            "text_en": "Further processing  in case of missed deadline can be requested at least until #date#4#enddate#.",
                             "text_fr": "La poursuite du traitement en cas de dépassement du délai peut être demandée au moins jusqu'à la #date#4#enddate#."
                         }
                     ],
@@ -5062,7 +5057,7 @@
                     ],
                     "difficulty": "2",
                     "explanation_de": "Eine Mitteilung nach #linkepc#ar94|Artikel 94 (3) EPÜ#endlink# gilt als nach 10 Tagen zugestellt, siehe  #linkepc#r126|Regel 126 (2) EPÜ#endlink#. Dies ist der #beginning#0|+10DD#enddate#. \n\nEine Fristverlängerung nur bis zum Fristende beantragt werden, dieses liegt am #deadline#0#enddate#.\n\nEine Weiterbehandlung hat zwar nur eine Frist von zwei Monaten, siehe #linkepc#r135|Regel 135 (1) EPÜ#endlink#. Da bei der Zustellung aber immer wenigsten 10 Tage hinzukommen, s.o., ist die Frist zum angegebenen Zeitpunkt noch nicht abgelaufen. ",
-                    "explanation_en": "A notice under #linkepc#ar94|Article 94 (3) EPC#endlink# is considered served after 10 days, see #linkepc#r126|Rule 126 (2) EPC#endlink#. This is the #beginning#0|+10DD#enddate#. \r\n\r\nAn extension of time limit can only be requested until the end of the time limit, which is the #deadline#0#enddate#.\r\n\r\nAny further processing has indeed only a time limit of two months, see #linkepc#r135|Rule 135 (1) EPC#endlink#. However, since at least 10 days are always added to the delivery, see above, the time limit has not yet expired at the indicated time.",
+                    "explanation_en": "A communication under #linkepc#ar94|Article 94 (3) EPC#endlink# is considered served after 10 days, see #linkepc#r126|Rule 126 (2) EPC#endlink#. This is the #beginning#0|+10DD#enddate#. \n\nAn extension of time limit can only be requested until the end of the time limit, which is the #deadline#0#enddate#.\n\nAny further processing has indeed only a time limit of two months, see #linkepc#r135|Rule 135 (1) EPC#endlink#. However, since at least 10 days are always added to the delivery, see above, the time limit has not yet expired at the indicated time.",
                     "explanation_fr": "Une notification au titre de #linkepc#ar94|Article 94 (3) CBE#endlink# est considérée comme signifiée après 10 jours, voir #linkepc#r126|Règle 126 (2) CBE#endlink#. Il s'agit de la #beginning#0|+10DD#enddate#.\n\nUne prolongation du délai ne peut être demandée que jusqu'à la fin du délai, qui est le #deadline#0#enddate#.\n\nTout traitement ultérieur ne dispose en effet que d'un délai de deux mois, voir #linkepc#r135|Règle 135 (1) CBE#endlink#. Cependant, étant donné qu'au moins 10 jours sont toujours ajoutés à la livraison, voir ci-dessus, le délai n'a pas encore expiré au moment indiqué.\n",
                     "id": 100,
                     "id_old": 414,
