@@ -5071,24 +5071,24 @@
                     "answers_false": [
                         {
                             "text_de": "Der Zeitrang von Anspruch 1 von EP-1 ist der #date#0#enddate#.",
-                            "text_en": "The time rank of claim 1 of EP-1 is the #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 1 of EP-1 is #date#0#enddate#.",
                             "text_fr": "Le rang temporel de la revendication 1 de EP-1 est le #date#0#enddate#."
                         },
                         {
                             "text_de": "Der Zeitrang von Anspruch 3 von EP-1 ist der #date#0#enddate#.",
-                            "text_en": "The seniority of claim 3 of EP-1 is the #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 3 of EP-1 is #date#0#enddate#.",
                             "text_fr": "L'ancienneté de la revendication 3 de l'EP-1 est le #date#0#enddate#."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Der Zeitrang von Anspruch 2 von EP-1 ist der #date#0#enddate#.",
-                            "text_en": "The seniority of claim 2 of EP-1 is the #date#0#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 2 of EP-1 is #date#0#enddate#.",
                             "text_fr": "L'ancienneté de la revendication 2 de l'EP-1 est le #date#0#enddate#."
                         },
                         {
                             "text_de": "Der Zeitrang von Anspruch 1 von EP-1 ist der #date#2#enddate#.",
-                            "text_en": "The time rank of claim 1 of EP-1 is the #date#2#enddate#.",
+                            "text_en": "The effective date of the subject-matter of claim 1 of EP-1 is #date#2#enddate#.",
                             "text_fr": "Le rang temporel de la revendication 1 de EP-1 est le #date#2#enddate#."
                         }
                     ],
@@ -5105,7 +5105,7 @@
                     ],
                     "difficulty": "2",
                     "explanation_de": "Ausgehend von einer ersten Anmeldung kann für die Anmeldung derselben Erfindung zum europäischen Patent während einer Frist von zwölf Monaten nach dem Anmeldetag der ersten Anmeldung ein Prioritätsrecht in Anspruch genommen werden, siehe #linkepc#ar87|Artikel 87 (1) EPÜ#endlink#. Die erste Anmeldung ist US-1.\n\nAnspruch 1 von EP-1 ist gegenüber US-1 erweitert und daher nicht dieselbe Erfindung. Anspruch 3 zeigt einen Gegenstand, der aus US-1 nicht bekannt ist. Anspruch 2 von EP-1 ist dagegen aus US-1 bekannt. Daher hat Anspruch 2 den Zeitrang von US-1. Der Zeitrang der Ansprüche 1 und 3 von EP-1 ist dagegen der Anmeldetag von EP-1.",
-                    "explanation_en": "Claim 1 of EP-1 is broadened over US-1 and therefore is not the same invention. Claim 3 shows subject matter that has not been made known in US-1. Claim 2 of EP-1, on the other hand, has been acknowledged US-1. Therefore, claim 2 has the seniority of US-1. In contrast, the seniority of claims 1 and 3 of EP-1 is the filing date of EP-1.",
+                    "explanation_en": "Claim 1 of EP-1 is broadened over US-1 and therefore is not the same invention. Claim 3 shows subject matter that has not been made known in US-1. Claim 2 of EP-1, on the other hand, has been disclosed in US-1. Therefore, claim 2 has an effective date of the date of filing of US-1. In contrast, the effective date of claims 1 and 3 of EP-1 is the date of filing of EP-1.",
                     "explanation_fr": "La revendication 1 de EP-1 est élargie par rapport à US-1 et n'est donc pas la même invention. La revendication 3 montre un sujet qui n'a pas été rendu connu dans US-1. La revendication 2 de EP-1, d'autre part, a été reconnue dans US-1. Par conséquent, la revendication 2 a l'ancienneté de US-1. En revanche, l'ancienneté des revendications 1 et 3 de EP-1 est la date de dépôt de EP-1.",
                     "id": 101,
                     "id_old": 415,
@@ -5119,12 +5119,12 @@
                     "answers_false": [
                         {
                             "text_de": "Anspruch 2 von EP-1 ist nicht neu gegenüber dem Konferenzbeitrag.",
-                            "text_en": "Claim 2 of EP-1 is not new to the conference proceedings.",
+                            "text_en": "Claim 2 of EP-1 is not novel over the conference proceedings.",
                             "text_fr": "La revendication 2 de l'EP-1 n'est pas nouvelle dans les actes de la conférence."
                         },
                         {
                             "text_de": "Anspruch 1 von EP-1 ist neu gegenüber dem Konferenzbeitrag.",
-                            "text_en": "Claim 1 of EP-1 is new from the conference paper.",
+                            "text_en": "Claim 1 of EP-1 is new compared to the conference paper.",
                             "text_fr": "La revendication 1 de EP-1 est nouvelle par rapport au document de la conférence."
                         }
                     ],
@@ -5169,7 +5169,7 @@
                     "answers_false": [
                         {
                             "text_de": "EP-1 ist in jedem Fall bei der Beurteilung der Ausführbarkeit von EP-2 zu berücksichtigen.",
-                            "text_en": "EP-1 must be considered in any case when assessing the feasibility of EP-2.",
+                            "text_en": "EP-1 must be considered in any case when assessing the sufficiency of disclosure of EP-2.",
                             "text_fr": "L'EP-1 doit être pris en compte dans tous les cas lors de l'évaluation de la faisabilité de l'EP-2."
                         },
                         {
@@ -5181,12 +5181,12 @@
                     "answers_true": [
                         {
                             "text_de": "Der Fachmann hat bei der Beurteilung von erfinderischer Tätigkeit und Ausführbarkeit unterschiedlichen Stand der Technik zu Grunde zu legen.",
-                            "text_en": "The person skilled in the art has to take different prior art as a basis when assessing inventive step and practicability.",
+                            "text_en": "The person skilled in the art has to take different prior art as a basis when assessing inventive step and sufficiency of disclosure.",
                             "text_fr": "L'homme du métier doit se baser sur les différentes antériorités pour évaluer l'activité inventive et la praticabilité."
                         },
                         {
                             "text_de": "Der Fachmann berücksichtigt bei der Frage der Ausführbarkeit allgemeines Fachwissen.",
-                            "text_en": "The expert takes into account general expertise in the question of feasibility.",
+                            "text_en": "The skilled person takes into account general expertise with regard to the sufficiency of disclosure.",
                             "text_fr": "L'expert tient compte de l'expertise générale dans la question de la faisabilité."
                         }
                     ],
@@ -5202,14 +5202,14 @@
                     ],
                     "difficulty": "3",
                     "explanation_de": "Bei der Beurteilung der erfinderischen Tätigkeit kann nur vorveröffentlichter Stand der Technik verwendet werden. Im Hinblick auf die Ausführbarkeit können dagegen auch nachveröffentlichte Druckschriften angezogen werden, wenn sie zum Zeitpunkt der Veröffentlichung, hier von EP-2, veröffentlicht sind. EP-1 muss also veröffentlicht werden und kann dann zur Begründung der Ausführbarkeit herangezogen werden. Der Prüfer kann EP-1 aber nicht im Hinblick auf eine erfinderische Tätigkeit von EP-2 anziehen. Allgemeines Fachwissen wird in allen Fällen berücksichtigt.\n\nDer Beurteilung der Prüfungsabteilung kann bei der Beantwortung eines Prüfungsbescheids entgegengetreten werden. Auch kann diesbezüglich eine Beschwerde eingereicht werden, wenn dieser Grund in einem Zurückweisungsbeschluss aufgeführt ist.\n\n\n\n",
-                    "explanation_en": "The Examining Division's assessment can be countered when replying to an examination communication. Also, an appeal may be filed in this regard if this ground is stated in a rejection decision.",
+                    "explanation_en": "The Examining Division's assessment can be countered when replying to a communication. Also, an appeal may be filed in this regard if this ground is stated in a rejection decision.",
                     "explanation_fr": "L'évaluation de la division d'examen peut être contrée lors de la réponse à une communication d'examen. Un recours peut également être déposé à cet égard si ce motif est mentionné dans une décision de rejet.",
                     "id": 103,
                     "id_old": 417,
                     "normen": "Artikel 83 EPÜ ",
                     "startdate": "SA",
                     "text_de": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# hat ein Verfahren zur Auswertung von Sonnenflecken entwickelt und am #date#0#enddate# eine Europäische Patentanmeldung EP-1 eingereicht. EP-1 hat sie sehr viel Geld gekostet. Bei der Fortführung der Idee beauftragt sie den ausarbeitenden zugelassenen Verteter daher, nur die Neuerungen darzustellen und auf die Grundlagen zu verzichten, um etwas Kosten zu sparen. Prompt erhält sie vom EPA im Hinblick auf EP-2 einen Bescheid, der die Ausführbarkeit in Frage stellt. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# developed a method for evaluating sunspots and filed a European patent application EP-1 on #date#0#enddate#. EP-1 has cost her a lot of money. In continuation of the idea, she instructs the elaborating authorized representative to present only the innovations and to dispense with the fundamentals in order to save some costs. Promptly, she receives a notice from the EPO with regard to EP-2, questioning the feasibility. Which of the following statements is true?",
+                    "text_en": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# developed a method for evaluating sunspots and filed a European patent application EP-1 on #date#0#enddate#. EP-1 has cost her a lot of money. In continuation of the idea, she instructs the elaborating professional representative to present only the innovations and to dispense with the fundamentals in order to save some costs. Promptly, she receives a notice from the EPO with regard to EP-2, questioning the sufficiency of disclosure. Which of the following statements is true?",
                     "text_fr": "#linkwiki#Margaret_Lindsay_Huggins|Margaret Lindsay Huggins#endlink# a développé une méthode d'évaluation des taches solaires et a déposé une demande de brevet européen EP-1 le #date#0#enddate#. EP-1 lui a coûté beaucoup d'argent. Dans le prolongement de l'idée, elle donne instruction au mandataire chargé de l'élaboration de ne présenter que les innovations et de se passer des éléments fondamentaux afin d'économiser quelques frais. Rapidement, elle reçoit un avis de l'OEB concernant EP-2, mettant en doute la faisabilité. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
@@ -5265,7 +5265,7 @@
                     "answers_false": [
                         {
                             "text_de": "Wenn Germain einen der neu eingebrachten Gegenstände in einen Hauptanspruch von EP-2 aufnimmt ist der Zeitrang von EP-2 der #date#0#enddate#.",
-                            "text_en": "If Germain includes any of the newly contributed items in a main EP-2 claim, the seniority of EP-2 will be effective as of the #date#0#enddate#.",
+                            "text_en": "If Germain includes any of the newly added items in a main claim of EP-2, the effective date of EP-2 will be the filing date of EP-2 as of the #date#0#enddate#.",
                             "text_fr": "Si Germain inclut l'un des éléments nouvellement apportés dans une réclamation principale EP-2, l'ancienneté d'EP-2 sera effective à partir de la #date#0#enddate#."
                         },
                         {
@@ -5306,14 +5306,14 @@
                     "normen": "Artikel 76 EPÜ ",
                     "startdate": "",
                     "text_de": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# hat am #date#0#enddate# eine auf ein Analyseverfahren  gerichtete Europäische Patentanmeldung EP-1 eingereicht. Am #date#2#enddate# hat sie eine Teilanmeldung EP-2 eingereicht. Um neue Ideen einzubringen hat sie in Unteransprüchen Gegenstände eingebracht, die in EP-1 nicht enthalten waren. EP-1 befindet sich noch im Prüfungsverfahren. Welche der folgenden Aussagen ist korrekt?",
-                    "text_en": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# filed a European patent application EP-1 directed to an analytical method on #date#0#enddate#. On #date#2#enddate# she filed a divisional application EP-2. In order to introduce new ideas, she has added subject matter to sub-claims that has not been included in EP-1. EP-1 is still in the examination process. Which of the following statements is correct?",
+                    "text_en": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# filed a European patent application EP-1 directed to an analytical method on #date#0#enddate#. On #date#2#enddate# she filed a divisional application EP-2. In order to introduce new ideas, she has added subject matter to dependent claims that has not been included in EP-1. EP-1 is still in the examination procedure. Which of the following statements is correct?",
                     "text_fr": "#linkwiki#Sophie_Germain|Sophie Germain#endlink# a déposé une demande de brevet européen EP-1 portant sur une méthode d'analyse le #date#0#enddate#. Le #date#2#enddate#, elle a déposé une demande divisionnaire EP-2. Afin d'introduire de nouvelles idées, elle a ajouté des sujets aux sous-créances qui n'ont pas été inclus dans EP-1. EP-1 est toujours en cours d'examen. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Wenn Mitchell einen der neu eingebrachten Gegenstände in einen Hauptanspruch von EP-2 aufnimmt ist der Zeitrang von EP-2 der #date#0#enddate#.",
-                            "text_en": "If Mitchell incorporates any of the newly introduced items into a main EP-2 claim, the seniority of EP-2 will be the #date#0#enddate#.",
+                            "text_en": "If Mitchell incorporates any of the newly introduced subjects into a main claim of EP-2, the effective date of EP-2 will be the #date#0#enddate#.",
                             "text_fr": "Si Mitchell incorpore l'un des éléments nouvellement introduits dans une revendication principale EP-2, l'ancienneté de l'EP-2 sera le #date#0#enddate#."
                         },
                         {
@@ -5354,7 +5354,7 @@
                     "normen": "Artikel 76 EPÜ ",
                     "startdate": "",
                     "text_de": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# hat am #date#0#enddate# eine auf einen Sextanten gerichtete Europäische Patentanmeldung EP-1 eingereicht. Am #date#2#enddate# hat sie eine europäische Teilanmeldung EP-2 eingereicht. Um neue Ideen einzubringen hat sie in Unteransprüchen Gegenstände eingebracht, die in EP-1 nicht enthalten waren. EP-1 befindet sich noch im Prüfungsverfahren. Welche der folgenden Aussagen ist korrekt?",
-                    "text_en": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# filed a European patent application EP-1 directed to a sextant on #date#0#enddate#. On #date#2#enddate# she filed a European divisional application EP-2. In order to introduce new ideas, she has added subject matter to sub-claims that  has not been included in EP-1. EP-1 is still in the examination process. Which of the following statements is correct?",
+                    "text_en": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# filed a European patent application EP-1 directed to a sextant on #date#0#enddate#. On #date#2#enddate# she filed a European divisional application EP-2. In order to introduce new ideas, she has added subject matter to dependent claims that  has not been included in EP-1. EP-1 is still in the examination procedure. Which of the following statements is correct?",
                     "text_fr": "#linkwiki#Maria_Mitchell|Maria Mitchell#endlink# a déposé une demande de brevet européen EP-1 portant sur un sextant le #date#0#enddate#. Le #date#2#enddate#, elle a déposé une demande de division européenne EP-2. Afin d'introduire de nouvelles idées, elle a ajouté des sujets aux sous-créances qui n'ont pas été inclus dans EP-1. EP-1 est toujours en cours d'examen. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
@@ -5366,19 +5366,19 @@
                         },
                         {
                             "text_de": "Agnesi muss die genannten Mängel beseitigen.",
-                            "text_en": "Agnesi must eliminate the above deficiencies.",
+                            "text_en": "Agnesi must eliminate the mentioined deficiencies.",
                             "text_fr": "Agnesi doit éliminer les déficiences susmentionnées."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Agnesi muss Benennungsgebühren entrichten.",
-                            "text_en": "Agnesi must pay designation fees.",
+                            "text_en": "Agnesi must pay the designation fee.",
                             "text_fr": "Agnesi doit payer les taxes de désignation."
                         },
                         {
                             "text_de": "Agnesi muss einen Prüfungsantrag stellen.",
-                            "text_en": "Agnesi needs to submit a request for review.",
+                            "text_en": "Agnesi needs to submit a request for examination.",
                             "text_fr": "Agnesi doit soumettre une demande de révision."
                         }
                     ],
@@ -5401,26 +5401,26 @@
                     "normen": "Artikel 76 EPÜ ",
                     "startdate": "",
                     "text_de": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# hat eine Europäische Patentanmeldung EP-1 eingereicht. Am #date#0#enddate# wurde der erweiterte europäische Recherchenbericht veröffentlicht. In diesem wurden mehrere der 17 Ansprüche bemängelt. Was muss Agnesi bis zum Ablauf der Frist nach #linkepc#r70|Regel 70 (1) EPÜ#endlink# unternehmen?",
-                    "text_en": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# has filed a European patent application EP-1. On #date#0#enddate# the extended European search report was published. In it, several of the 17 claims were found wanting. What must Agnesi do before the deadline under #linkepc#r70|Rule 70 (1) EPC#endlink# expires?",
+                    "text_en": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# has filed a European patent application EP-1. On #date#0#enddate# the extended European search report was published. In it, several of the 17 claims were objected. What must Agnesi do before the deadline under #linkepc#r70|Rule 70 (1) EPC#endlink# expires?",
                     "text_fr": "#linkwiki#Maria_Gaetana_Agnesi|Maria Gaetana Agnesi#endlink# a déposé une demande de brevet européen EP-1. Le #date#0#enddate#, le rapport de recherche européenne étendue a été publié. Dans ce rapport, plusieurs des 17 revendications ont été jugées insuffisantes. Que doit faire Agnesi avant l'expiration du délai prévu par la #linkepc#r70|Règle 70 (1) CBE#endlink# ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Cunitz kann die Beschreibung von EP-1 soweit ergänzen, dass die Ausführbarkeit hergestellt wird.",
-                            "text_en": "Cunitz can add to the description of EP-1 to the extent that feasibility is established.",
+                            "text_en": "Cunitz can add to the description of EP-1 to the extent that sufficiency of disclosure is established.",
                             "text_fr": "Cunitz peut compléter la description de l'EP-1 dans la mesure où la faisabilité est établie."
                         },
                         {
                             "text_de": "Wenn eine mangelnde Ausführbarkeit nicht im Prüfungsverfahren gerügt wurde kann sie auch nicht im Einspruchsverfahren vorgebracht werden.",
-                            "text_en": "If a lack of practicability was not raised in the examination procedure, it cannot be raised in the opposition procedure.",
+                            "text_en": "If a lack of sufficiency of disclosure was not raised in the examination procedure, it cannot be raised in the opposition procedure.",
                             "text_fr": "Si le défaut de praticabilité n'a pas été soulevé dans la procédure d'examen, il ne peut pas l'être dans la procédure d'opposition."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Cunitz muss die Ausführbarkeit aller Ausführungsformen anhand der ursprünglich eingereichten Unterlagen belegen, wenn kein anderes allgemeines Fachwissen vorhanden ist auf das verwiesen werden kann.",
-                            "text_en": "Cunitz must prove the feasibility of all embodiments on the basis of the originally submitted documents if no other general expertise is available to which reference can be made.",
+                            "text_en": "Cunitz must prove the sufficiency of disclosure of all embodiments on the basis of the originally submitted documents if no other general expertise is available to which reference can be made.",
                             "text_fr": "Cunitz doit prouver la faisabilité de toutes les réalisations sur la base des documents soumis à l'origine, s'il n'existe pas d'autre expertise générale à laquelle il est possible de se référer."
                         },
                         {
@@ -5448,7 +5448,7 @@
                     "normen": "Artikel 83 EPÜ , Art 100 EPÜ",
                     "startdate": "",
                     "text_de": "#linkwiki#Maria_Cunitz|Maria Cunitz#endlink# hat eine Europäische Patentanmeldung EP-1 auf ein Verfahren zur Ermittlung von Planetenbahnen eingereicht. Sie hat mehrere Ausführungsformen des Grundverfahrens beschrieben. Nach der Einreichung bemerkt sie allerdings, dass die Ausführungsform, die auf Ellipsenkrümmungen basiert, nicht ausreichend offenbart ist. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Maria_Cunitz|Maria Cunitz#endlink# has filed a European patent application EP-1 on a method for determining planetary orbits. Several embodiments of the basic method have been described. However, after filing, It was noted in EP-1 that the embodiment based on elliptical curvatures is not sufficiently disclosed. Which of the following statements is correct?",
+                    "text_en": "#linkwiki#Maria_Cunitz|Maria Cunitz#endlink# has filed a European patent application EP-1 on a method for determining planetary orbits. Several embodiments of the basic method have been described. However, after filing, she noted in EP-1 that the embodiment based on elliptical curvatures is not sufficiently disclosed. Which of the following statements is correct?",
                     "text_fr": "#linkwiki#Maria_Cunitz|Maria Cunitz#endlink# a déposé une demande de brevet européen EP-1 sur une méthode de détermination d'orbites planétaires. Plusieurs variantes de la méthode de base ont été décrites. Cependant, après le dépôt de la demande, il a été noté dans EP-1 que le mode de réalisation basé sur les courbures elliptiques n'est pas suffisamment divulgué. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
@@ -5521,7 +5521,7 @@
                     "answers_true": [
                         {
                             "text_de": "Die Frist zur Einreichung der Prioritätserklärung für EP-1 endet am #date#3#enddate#.",
-                            "text_en": "The deadline for filing the priority declaration for EP-1 is #date#3#enddate#.",
+                            "text_en": "The deadline for filing the declaration of priority for EP-1 is #date#3#enddate#.",
                             "text_fr": "La date limite pour le dépôt de la déclaration de priorité pour EP-1 est #date#3#enddate#."
                         }
                     ],
@@ -5556,7 +5556,7 @@
                     "answers_false": [
                         {
                             "text_de": "Kirch kann eine Teilanmeldung ET-1 zu EP-1 bis zum #date#6#enddate# einreichen. An diesem Tag gilt der Zurückweisungsbeschluss als zugestellt.",
-                            "text_en": "Kirch may file a divisional application ET-1 to EP-1 by #date#6#enddate#. On that date, the rejection order is deemed to be served.",
+                            "text_en": "Kirch may file a divisional application ET-1 to EP-1 by #date#6#enddate#. On that date, the decision is to refuse the applicationis deemed to be served.",
                             "text_fr": "Kirch peut déposer une demande divisionnaire ET-1 à EP-1 au plus tard le #date#6#enddate#. À cette date, l'ordonnance de rejet est réputée signifiée."
                         },
                         {
@@ -5566,7 +5566,7 @@
                         },
                         {
                             "text_de": "Kirch muss gegen den Zurückweisungsbeschluss Beschwerde einlegen, bevor sie ET-1 einreichen kann.",
-                            "text_en": "Kirch must appeal the rejection order before ET-1 can be filed.",
+                            "text_en": "Kirch must appeal the decision to refuse the application before ET-1 can be filed.",
                             "text_fr": "Kirch doit faire appel de l'ordre de rejet avant que l'ET-1 puisse être déposé."
                         }
                     ],
