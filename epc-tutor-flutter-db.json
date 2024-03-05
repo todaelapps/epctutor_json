@@ -5772,14 +5772,14 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Die Laufzeit des europäischen Patents beträgt zwanzig Jahre, gerechnet vom Anmeldetag an, siehe #linkepc#ar63|Artikel 63 EPÜ#endlink#. Der Anmeldetag ist der #date#0#enddate#.",
-                    "explanation_en": "The term of the European patent is twenty years, calculated from the filing date, see #linkepc#ar63|Article 63 EPC#endlink#. The filing date is the #date#0#enddate#.",
+                    "explanation_en": "The term of the European patent shall be twenty years from the date of filing of the application, see #linkepc#ar63|Article 63 EPC#endlink#. The filing date is the #date#0#enddate#.",
                     "explanation_fr": "La durée du brevet européen est de vingt ans, calculée à partir de la date de dépôt, voir #linkepc#ar63|Article 63 CBE#endlink#. La date de dépôt est la #date#0#enddate#.",
                     "id": 114,
                     "id_old": 356,
                     "normen": "Artikel 63 Laufzeit",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Mary_Anderson_(Erfinderin)|Mary Anderson#endlink# hat am #date#0#enddate# wirksam eine europäische Patentanmeldung EP-1 auf einen Scheibenwischer eingereicht und am #date#3#enddate# wurde die Erteilung veröffentlicht. EP-1 wurde in Großbritannien und Deutschland validiert, in Großbritannien erfolgte die Antwort des Patentamts mit Nennung des Aktenzeichen des britischen Patentes GB-2 erst am #date#6#enddate#, während in Deutschland das DPMA bereits #date#7#enddate# antwortete und das Aktenzeichen des entsprechenden deutschen Patents DE-3 mitteilte. Bis wann laufen GB-2 und DE-3? ",
-                    "text_en": "#linkwiki#Mary_Anderson_(inventor)|Mary Anderson#endlink# effectively filed a European patent application EP-1 on a windshield wiper on #date#0#enddate#,of the grant was published whichon #date#3#enddate#. EP-1 was validated in the UK and Germany.  In the UK the response from the Patent Office mentioning the file number of the UK patent GB-2 was not received until #date#6#enddate#, while in Germany the DPMA already responded #date#7#enddate# and communicated the file number of the corresponding German patent DE-3. When do GB-2 and DE-3 expire exactly?",
+                    "text_en": "#linkwiki#Mary_Anderson_(inventor)|Mary Anderson#endlink# effectively filed a European patent application EP-1 on a windshield wiper on #date#0#enddate#, of the grant was published whichon #date#3#enddate#. EP-1 was validated in the UK and Germany.  In the UK the response from the Patent Office mentioning the file number of the UK patent GB-2 was not received until #date#6#enddate#, while in Germany the DPMA already responded #date#7#enddate# and communicated the file number of the corresponding German patent DE-3. When do GB-2 and DE-3 expire exactly?",
                     "text_fr": "#linkwiki#Mary_Anderson_(inventeur)|Mary Anderson#endlink# a effectivement déposé une demande de brevet européen EP-1 sur un essuie-glace le #date#0#enddate#,de la délivrance a été publiée qui le #date#3#enddate#. EP-1 a été validée au Royaume-Uni et en Allemagne.  Au Royaume-Uni, la réponse de l'Office des brevets mentionnant le numéro de dossier du brevet britannique GB-2 n'a été reçue qu'à la #date#6#enddate#, tandis qu'en Allemagne, l'Office allemand des brevets a déjà répondu à la #date#7#enddate# et a communiqué le numéro de dossier du brevet allemand correspondant DE-3. Quand les brevets GB-2 et DE-3 expirent-ils exactement ?"
                 },
                 {
@@ -5913,7 +5913,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Zur Vereinfachung der Übersetzungserfordernisse regelt das Londoner Übereinkommen, dass Vertragsstaaten des Londoner Übereinkommens, die eine der Amssprachen des Europäischen Patentamtes als Amtssprache haben, keine Übersetzungen verlangen. Diese Länder sind:  Deutschland, Lichetenstein, Luxemburg und Schweiz (mit Deutsch als Amtssprache), Großbritannien und Irland (mit Englisch als Amtssprache sowie Frankreich, Luxemburg und Monaco (mit Französisch als Amtssprache). Italien ist nicht dem Londoner Übereinkommen beigetreten.",
-                    "explanation_en": "To simplify translation requirements, the London Agreement validates that undertaking Contracting States with one of the official languages recognized by and in common with the European Patent Office do not require translations. These countries include:  Germany, Lichtenstein, Luxembourg and Switzerland (with German as an official language), the United Kingdom and Ireland (with English as an official language, and France, Luxembourg and Monaco (with French as an official language). Italy is not a party to the London Agreement.",
+                    "explanation_en": "To simplify translation requirements, the London Agreement validates that undertaking Contracting States with one of the official languages recognized by and in common with the European Patent Office do not require translations. These countries include:  Germany, Lichtenstein, Luxembourg and Switzerland (with German as an official language), the United Kingdom and Ireland (with English as an official language), and France, Luxembourg and Monaco (with French as an official language). Italy is not a party to the London Agreement.",
                     "explanation_fr": "Pour simplifier les exigences en matière de traduction, l'accord de Londres valide le fait que les États contractants entreprenants ayant une des langues officielles reconnues par et en commun avec l'Office européen des brevets n'exigent pas de traductions. Ces pays comprennent :  L'Allemagne, le Lichtenstein, le Luxembourg et la Suisse (avec l'allemand comme langue officielle), le Royaume-Uni et l'Irlande (avec l'anglais comme langue officielle, et la France, le Luxembourg et Monaco (avec le français comme langue officielle). L'Italie n'est pas partie à l'accord de Londres.",
                     "id": 117,
                     "id_old": 359,
@@ -6101,7 +6101,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Nach dem Londoner Übereinkommen machen Lettland, Litauen, Nordmazedonien und Slowenien keine Vorgaben hinsichtlich der Sprache. Dänemark, Island, Finnland, Kroatien, Niederlande, Norwegen, Schweden und Ungarn geben bezüglich der Beschreibung Englisch vor, akzeptieren aber auch die Landessprache. Hier müssen also lediglich jeweils die Ansprüche in die Landessprache übersetzt werden. Österreich verlangt dagegen eine Übersetzung der Beschreibung ins Deutsche, womit die Kosten im Verhältnis höher ansteigen.",
-                    "explanation_en": "According to the London Agreement, Latvia, Lithuania, Northern Macedonia and Slovenia do not specify the language. Denmark, Iceland, Finland, Croatia, the Netherlands, Norway, Sweden and Hungary specify English with regard to the description, but also accept the national language. Here only do claims have to be translated into the national language. Austria, on the other hand, requires a translation of the description into German, which raises the costs proportionally higher.",
+                    "explanation_en": "According to the London Agreement, Latvia, Lithuania, Northern Macedonia and Slovenia do not specify the language. Denmark, Iceland, Finland, Croatia, the Netherlands, Norway, Sweden and Hungary specify English with regard to the description, but also accept the national language. Here only the claims have to be translated into the national language. Austria, on the other hand, requires a translation of the description into German, which raises the costs proportionally higher.",
                     "explanation_fr": "Selon l'accord de Londres, la Lettonie, la Lituanie, la Macédoine du Nord et la Slovénie ne précisent pas la langue. Le Danemark, l'Islande, la Finlande, la Croatie, les Pays-Bas, la Norvège, la Suède et la Hongrie précisent l'anglais en ce qui concerne la description, mais acceptent également la langue nationale. Ici seulement, les demandes doivent être traduites dans la langue nationale. L'Autriche, par contre, exige une traduction de la description en allemand, ce qui augmente proportionnellement les coûts.",
                     "id": 121,
                     "id_old": 363,
@@ -6211,7 +6211,7 @@
                     "answers_false": [
                         {
                             "text_de": "Eichler muss eine Rechtsmittelerstreckung für Frankreich beantragen. Dann kann sie mit einer einstweiligen Verfügung gegen die Handprothesen vorgehen.",
-                            "text_en": "Eichler must apply for an extension of rights of appeal for France. She can then take action against the hand prostheses with an injunction.",
+                            "text_en": "Eichler must apply for an extension of rights for France. She can then take action against the hand prostheses with an injunction.",
                             "text_fr": "Eichler doit demander une extension des droits de recours pour la France. Elle pourra ensuite agir contre les prothèses de main par voie d'injonction."
                         },
                         {
@@ -6244,7 +6244,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Gemäß #linkepc#ar64|Artikel 64 (3) EPÜ#endlink# wird eine Verletzung eines europäischen Patents nach nationalem Recht behandelt. Ob es in Frankreich das Rechtsmittel einer einstweiligen Verfügung gibt ist bei einem französischen Anwalt zu erfragen. Eine Rechtsmittelerstreckung gibt es hier nicht.",
-                    "explanation_en": "According to #linkepc#ar64|Article 64 (3) EPC#endlink# an infringement of a European patent is handled according to national law. Whether there is a remedy of an injunction in France is to be inquired with a French attorney. There is no extension of the right of appeal here.",
+                    "explanation_en": "According to #linkepc#ar64|Article 64 (3) EPC#endlink# an infringement of a European patent is handled according to national law. Whether there is a remedy of an injunction in France is to be inquired with a French attorney. There is no extension of the right here.",
                     "explanation_fr": "Selon #linkepc#ar64|Article 64 (3) CBE#endlink#, la contrefaçon d'un brevet européen est traitée selon le droit national. Il faut se renseigner auprès d'un avocat français pour savoir s'il existe un recours en injonction en France. Il n'y a pas d'extension du droit de recours ici.",
                     "id": 124,
                     "id_old": 365,
@@ -6305,7 +6305,7 @@
                     "answers_false": [
                         {
                             "text_de": "Die Jahresgebühr für EP-1 für das fünfte Jahr kann beim EPA wirksam entrichtet werden. ",
-                            "text_en": "The EP-1 annual fee for the fifth year can be effectively paid at the EPO.",
+                            "text_en": "The EP-1 renewal fee for the fifth year can be effectively paid at the EPO.",
                             "text_fr": "La taxe annuelle EP-1 pour la cinquième année peut être effectivement payée à l'OEB."
                         },
                         {
@@ -6322,7 +6322,7 @@
                     "answers_true": [
                         {
                             "text_de": "Ein Einspruch gegen EP-1 muss beim EPA verhandelt werden.",
-                            "text_en": "An appeal of EP-1 must be heard by the EPA.",
+                            "text_en": "An opposition to EP-1 must be heard by the EPA.",
                             "text_fr": "Un appel de l'EP-1 doit être entendu par l'EPA."
                         }
                     ],
@@ -6353,29 +6353,29 @@
                     "answers_false": [
                         {
                             "text_de": "Eine Umschreibung ist nach der Veröffentlichung des Hinweises auf die Erteilung nicht mehr möglich.",
-                            "text_en": "Rewriting is not possible after the publication of the notice of issuance.",
+                            "text_en": "A transfer is not possible after the publication of the notice of grant.",
                             "text_fr": "La réécriture n'est pas possible après la publication de l'avis de délivrance."
                         },
                         {
                             "text_de": "DIe Umschreibung muss innerhalb eines Monats nach der Erteilung vorgenommen werden.",
-                            "text_en": "The transcription must be made within one month after issuance.",
+                            "text_en": "The transfer must be recorded within one month after grant.",
                             "text_fr": "La transcription doit être effectuée dans un délai d'un mois après la délivrance."
                         },
                         {
                             "text_de": "Benz kann die Umschreibung nach der Erteilung nur vornehmen, wenn gegen EP-1 Einspruch eingelegt worden ist.",
-                            "text_en": "Benz can make the transcription after issuance only if EP-1 has been appealed.",
+                            "text_en": "Benz can make the transfer after grant only if EP-1 has been appealed.",
                             "text_fr": "Benz ne peut effectuer la transcription après la délivrance que si EP-1 a fait l'objet d'un appel."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Eine Umschreibung kann mindestens bis zum #date#1#enddate# vorgenommen werden.\n",
-                            "text_en": "A rewrite can be made prior to #date#1#enddate#.",
+                            "text_en": "A transfer can be recorded prior to #date#1#enddate#.",
                             "text_fr": "Une réécriture peut être faite avant la #date#1#enddate#."
                         },
                         {
                             "text_de": "Eine Umschreibung kann während der Dauer eines Einspruchsverfahrens gegen EP-1 eingetragen werden.\n",
-                            "text_en": "A transcription may be registered during the period of opposition proceedings against EP-1.",
+                            "text_en": "A transfer may be registered during the period of opposition proceedings against EP-1.",
                             "text_fr": "Une transcription peut être enregistrée pendant la période de la procédure d'opposition contre EP-1."
                         }
                     ],
@@ -6399,14 +6399,14 @@
                     "normen": "Regel 22, 85",
                     "startdate": "MO|-2YY|-15DD",
                     "text_de": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# hat auf eine Straßenlaterne am #date#2#enddate# eine Euroäische Patentanmeldung EP-1 eingereicht. Der Hinweis auf die Erteilung von EP-1 wurde am #date#0#enddate# bekanntgemacht. Perryman hat EP-1 zwei Wochen danach an #linkwiki#Bertha_Benz|Bertha Benz#endlink# verkauft, um Geld für weitere Entwicklungen zu erhalten. Bis wann kann Benz die Umschreibung beim EPA vornehmen lassen?",
-                    "text_en": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# filed a European patent application EP-1 on a streetlight on #date#2#enddate#. The notice of grant of EP-1 was published on #date#0#enddate#. Perryman sold EP-1 to #linkwiki#Bertha_Benz|Bertha Benz#endlink# two weeks after that, in orderto raise money for further development. What is the deadline for Benz to have the rewrite done at the EPA?",
+                    "text_en": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# filed a European patent application EP-1 on a streetlight on #date#2#enddate#. The notice of grant of EP-1 was published on #date#0#enddate#. Perryman sold EP-1 to #linkwiki#Bertha_Benz|Bertha Benz#endlink# two weeks after that, in orderto raise money for further development. What is the deadline for Benz to have the transfer recorded at the EPA?",
                     "text_fr": "#linkwiki#Elisabeth_Perryman|Elisabeth Perryman#endlink# a déposé une demande de brevet européen EP-1 sur un lampadaire le #date#2#enddate#. L'avis de délivrance du EP-1 a été publié le #date#0#enddate#. Perryman a vendu EP-1 à #linkwiki#Bertha_Benz|Bertha Benz#endlink# deux semaines plus tard, afin de réunir des fonds pour poursuivre le développement. Quelle est la date limite pour que Benz fasse faire la réécriture à l'EPA ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Nein, weil bei Übersetzungserfordernissen oder Gebühren die Wirkung des Europäischen Patentes nicht eintritt bis die Erfordernisse erfüllt sind.",
-                            "text_en": "No, because in case of translation requirements or fees, the protection of the European patent does not come into effect until the requirements have been fulfilled.",
+                            "text_en": "No, because in case of translation requirements or fees, the protection of the European patent does not come into force until the requirements have been fulfilled.",
                             "text_fr": "Non, car en cas d'exigences ou de taxes de traduction, la protection du brevet européen ne prend effet que lorsque les exigences sont remplies."
                         },
                         {
@@ -6416,7 +6416,7 @@
                         },
                         {
                             "text_de": "Ja, ein europäisches Patent wird für alle Länder erteilt, für die es benannt ist. Nach dem Hinweis auf die Erteilung kann daraus sofort vorgegangen werden.",
-                            "text_en": "Yes, a European patent is granted for all countries for which it is designated. Afterwards, the notice of grant can be proceeded from it immediately.",
+                            "text_en": "Yes, a European patent is granted for all countries for which it is designated. Afterwards, after the publication of grant one can proceed from it immediately.",
                             "text_fr": "Oui, un brevet européen est délivré pour tous les pays pour lesquels il est désigné. Ensuite, il est possible de procéder immédiatement à la notification de la délivrance."
                         }
                     ],
