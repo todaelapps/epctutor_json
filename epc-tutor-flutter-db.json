@@ -6596,14 +6596,14 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Dem Wortlaut von #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# nach kann jedermann Einspruch gegen ein Patent einlegen. Als Ausnahme ist aber der Patentinhaber anzusehen. Dafür gibt es zwei Gründe. Einerseits ist das Einspruchsverfahren ein zweiseitiges Verfahren, bei dem nicht eine Partei beide Rollen übernehmen kann. Andererseits steht dem Patentinhaber daher exklusiv ein Beschränkungs- und Widerrufsverfahren zur Verfügung. Jedermann in #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# ist also jedermann außer dem Patentinhaber. ",
-                    "explanation_en": "According to the wording of #linkepc#ar99|Article 99 (1) EPC#endlink# anyone can file an opposition against a patent. However, the patentee is to be regarded as an exception. There are two reasons for this. On the one hand, the opposition procedure is a two-sided procedure in which one party cannot take both roles. On the other hand, the patent owner has exclusive access to limitation and revocation proceedings. Everyone in #linkepc#ar99|Article 99 (1) EPC#endlink# means everyone except the patentee.",
+                    "explanation_en": "According to the wording of #linkepc#ar99|Article 99 (1) EPC#endlink# anyone can file an opposition against a patent. However, the patentee is to be regarded as an exception. There are two reasons for this. On the one hand, the opposition procedure is a two-sided procedure in which one party cannot take both roles. On the other hand, the patent owner has exclusive access to limitation and revocation procedures. Everyone in #linkepc#ar99|Article 99 (1) EPC#endlink# means everyone except the patentee.",
                     "explanation_fr": "Selon le libellé de #linkepc#ar99|Article 99 (1) CBE#endlink#, toute personne peut former une opposition contre un brevet. Toutefois, le titulaire du brevet doit être considéré comme une exception. Il y a deux raisons à cela. D'une part, la procédure d'opposition est une procédure bilatérale dans laquelle une partie ne peut pas jouer les deux rôles. D'autre part, le titulaire du brevet a un accès exclusif aux procédures de limitation et de révocation. Tout le monde dans #linkepc#ar99|Article 99 (1) CBE#endlink# signifie tout le monde sauf le breveté.",
                     "id": 131,
                     "id_old": 83,
                     "normen": "Artikel 99 TM jedermann ",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Marie_Curie|Marie Curie#endlink# hat einen Strahlenerzeuger entwickelt. Ihr Ehemann #linkwiki#Pierre_Curie|Pierre Curie#endlink# hat die Idee mit ihrer Zustimmung auf sich als europäische Patentanmeldung angemeldet, sie ist als Erfinderin genannt. Im Nachgang wurde dafür das europäische Patent EP-1 erteilt. Die Curies haben neuen Stand der Technik gefunden und meinen, dass der zugesprochene Schutz zu weitreichend ist. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# hat bei der Entwicklung mitgearbeitet und kennt den technischen Hintergrund. Zum patentierten Gegenstand hat er allerdings nicht beigetragen. Auch er meint, dass der erteilt Schutz zu weitreichend ist. Eugène Cariot ist ein Angestellter von Pierre Curie. Er mag generell keine Patente. Wer kann gegen EP-1 Einspruch einlegen?",
-                    "text_en": "#linkwiki#Marie_Curie|Marie Curie#endlink# developed a radiation generator. Her husband #linkwiki#Pierre_Curie|Pierre Curie#endlink#, took it upon himself to file her idea as a European patent application with her consent, naming her the inventor. Subsequently, the European patent EP-1 was granted for it. The Curies have found new prior art and feel that the protection awarded is too broad. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# has participated in the development and knows the technical background; however, he did not contribute to the patented subject matter. He also thinks that the protection granted is too far-reaching. Eugène Cariot is an employee of Pierre Curie. He does not like patents in general. Who can file an opposition against EP-1?",
+                    "text_en": "#linkwiki#Marie_Curie|Marie Curie#endlink# developed a radiation generator. Her husband #linkwiki#Pierre_Curie|Pierre Curie#endlink#, took it upon himself to file her idea as a European patent application with her consent, naming her as inventor. Subsequently, the European patent EP-1 was granted. The Curies have found new prior art and feel that the protection awarded is too broad. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# has participated in the development and knows the technical background; however, he did not contribute to the patented subject matter. He also thinks that the protection granted is too far-reaching. Eugène Cariot is an employee of Pierre Curie. He does not like patents in general. Who can file an opposition against EP-1?",
                     "text_fr": "#linkwiki#Marie_Curie|Marie Curie#endlink# a mis au point un générateur de rayonnement. Son mari, #linkwiki#Pierre_Curie|Pierre Curie#endlink#, a pris l'initiative de déposer son idée sous forme de demande de brevet européen avec son consentement, en la nommant inventrice. Par la suite, le brevet européen EP-1 lui a été accordé. Les Curie ont trouvé de nouvelles antériorités et estiment que la protection accordée est trop large. #linkwiki#Henri_Becquerel|Henri Becquerel#endlink# a participé au développement et connaît le contexte technique ; cependant, il n'a pas contribué à l'objet breveté. Il estime également que la protection accordée est trop étendue. Eugène Cariot est un employé de Pierre Curie. Il n'aime pas les brevets en général. Qui peut former une opposition contre EP-1 ?"
                 },
                 {
@@ -6660,24 +6660,24 @@
                     "answers_false": [
                         {
                             "text_de": "Bei einem der nationalen Patentämter eines Vertragsstaates.",
-                            "text_en": "At one of the national patent offices of a Contracting State.",
+                            "text_en": "With one of the national patent offices of a Contracting State.",
                             "text_fr": "auprès de l'un des offices nationaux des brevets d'un État contractant."
                         },
                         {
                             "text_de": "Bei jeder Zweigstelle des europäischen Patentamtes.",
-                            "text_en": "At any branch of the European Patent Office.",
+                            "text_en": "With any branch of the European Patent Office.",
                             "text_fr": "Dans n'importe quelle agence de l'Office européen des brevets."
                         },
                         {
                             "text_de": "Beim europäischen Patentamt in Brüssel.",
-                            "text_en": "At the European Patent Office in Brussels.",
+                            "text_en": "With the European Patent Office in Brussels.",
                             "text_fr": "A l'Office européen des brevets à Bruxelles."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Beim europäischen Patentamt in Berlin.",
-                            "text_en": "At the European Patent Office in Berlin.",
+                            "text_en": "With the European Patent Office in Berlin.",
                             "text_fr": "A l'Office européen des brevets à Berlin."
                         }
                     ],
@@ -6692,39 +6692,39 @@
                         "+2MM"
                     ],
                     "difficulty": "2",
-                    "explanation_de": "Die Möglichkeiten werden in der nächsten Aufgabe aufgelöst.",
-                    "explanation_en": "The possibilities will be resolved in the next task.",
-                    "explanation_fr": "Les possibilités seront résolues dans la tâche suivante.",
+                    "explanation_de": "Der Einspruch ist nach #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# beim europäischen Patentamt einzureichen.  #linkepc#r2|Regel 2 EPÜ#endlink# legt dabei i.V.m. dem Amtsblatt 2017, A11 als zulässige Stelle u.a. Berlin fest.",
+                    "explanation_en": "The opposition shall be filed with the European Patent Office in accordance with #linkepc#ar99|Article 99 (1) EPC#endlink#. #linkepc#r2|Rule 2 EPC#endlink# specifies, in conjunction with the Official Journal 2017, A11 as admissible location amongst othersBerlin.",
+                    "explanation_fr": "L'opposition est déposé auprès de l'Office européen des brevets conformément à #linkepc#ar99|Article 99 (1) CBE#endlink#.  #linkepc#r2|Règle 2 CBE#endlink# précise, en liaison avec le Journal officiel 2017, A11 comme lieux admissibles Munich (bâtiment Isar et Pschorrhöfe), La Haye et Berlin.",
                     "id": 133,
                     "id_old": 85,
                     "normen": "Artikel 99 TM EPA, Regel 2, ",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# ist hat ein Verfahren zum Lösen von Salzen in Wasser gefunden. Bei Recherchen stößt er auf ein europäisches Patent EP-1, das ein Verfahren zur Konservierung von Schmetterlingen schützt. Arrhenius möchte das Verfahren nutzen und daher Einspruch gegen EP-1 einlegen. Wo kann der Einspruch unter anderem wirksam eingelegt werden? ",
-                    "text_en": "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# has found a process for dissolving salts in water. While researching this, he comes across a European patent EP-1 that protects a process for preserving butterflies. Arrhenius wants to use this process and therefore files an opposition to EP-1. Where can the opposition be effectively filed, among other places?",
+                    "text_en": "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# has found a process for dissolving salts in water. While researching this, he comes across a European patent EP-1 that protects a process for preserving butterflies. Arrhenius wants to use this process and therefore file an opposition to EP-1. Where can the opposition be effectively filed, among other places?",
                     "text_fr": "#linkwiki#Svante_Arrhenius|Svante Arrhenius#endlink# a trouvé un procédé pour dissoudre les sels dans l'eau. Au cours de ses recherches, il tombe sur un brevet européen EP-1 qui protège un procédé de conservation des papillons. Arrhenius veut utiliser ce procédé et forme donc une opposition à EP-1. Où l'opposition peut-elle être effectivement déposée, entre autres ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Ausschließlich beim europäischen Patentamt in München.",
-                            "text_en": "Exclusively at the European Patent Office in Munich.",
+                            "text_en": "Exclusively with the European Patent Office in Munich.",
                             "text_fr": "En exclusivité à l'Office européen des brevets à Munich."
                         },
                         {
                             "text_de": "Beim europäischen Patentamt in Wien.",
-                            "text_en": "At the European Patent Office in Vienna.",
+                            "text_en": "With the European Patent Office in Vienna.",
                             "text_fr": "A l'Office européen des brevets à Vienne."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Beim europäischen Patentamt in München.",
-                            "text_en": "At the European Patent Office in Munich.",
+                            "text_en": "With the European Patent Office in Munich.",
                             "text_fr": "A l'Office européen des brevets à Munich."
                         },
                         {
                             "text_de": "Beim europäischen Patentamt in Den Haag.",
-                            "text_en": "At the European Patent Office in The Hague.",
+                            "text_en": "With the European Patent Office in The Hague.",
                             "text_fr": "A l'Office européen des brevets à La Haye."
                         }
                     ],
@@ -6739,9 +6739,9 @@
                         "+2MM"
                     ],
                     "difficulty": "2",
-                    "explanation_de": "Der Einspruchsschriftssatz ist nach #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# beim europäischen Patentamt einzureichen.  #linkepc#r2|Regel 2 EPÜ#endlink# legt dabei i.V.m. dem Amtsblatt 2017, A11 als zulässige Stellen München (Isargebäude und Pschorrhöfe), Den Haag und Berlin fest.",
-                    "explanation_en": "The opposition brief shall be filed with the European Patent Office in accordance with #linkepc#ar99|Article 99 (1) EPC#endlink#.  #linkepc#r2|Rule 2 EPC#endlink# specifies, in conjunction with the Official Journal 2017, A11 as admissible locations Munich (Isar building and Pschorrhöfe), The Hague and Berlin.",
-                    "explanation_fr": "Le mémoire d'opposition est déposé auprès de l'Office européen des brevets conformément à #linkepc#ar99|Article 99 (1) CBE#endlink#.  #linkepc#r2|Règle 2 CBE#endlink# précise, en liaison avec le Journal officiel 2017, A11 comme lieux admissibles Munich (bâtiment Isar et Pschorrhöfe), La Haye et Berlin.",
+                    "explanation_de": "Der Einspruch ist nach #linkepc#ar99|Artikel 99 (1) EPÜ#endlink# beim europäischen Patentamt einzureichen.  #linkepc#r2|Regel 2 EPÜ#endlink# legt dabei i.V.m. dem Amtsblatt 2017, A11 als zulässige Stellen München (Isargebäude und Pschorrhöfe), Den Haag und Berlin fest.",
+                    "explanation_en": "The opposition shall be filed with the European Patent Office in accordance with #linkepc#ar99|Article 99 (1) EPC#endlink#.  #linkepc#r2|Rule 2 EPC#endlink# specifies, in conjunction with the Official Journal 2017, A11 as admissible locations Munich (Isar building and Pschorrhöfe), The Hague and Berlin.",
+                    "explanation_fr": "L'opposition est déposé auprès de l'Office européen des brevets conformément à #linkepc#ar99|Article 99 (1) CBE#endlink#.  #linkepc#r2|Règle 2 CBE#endlink# précise, en liaison avec le Journal officiel 2017, A11 comme lieux admissibles Munich (bâtiment Isar et Pschorrhöfe), La Haye et Berlin.",
                     "id": 134,
                     "id_old": 85,
                     "normen": "Artikel 99 TM EPA, Regel 2, ",
@@ -6754,7 +6754,7 @@
                     "answers_false": [
                         {
                             "text_de": "Wenn Ramsay die Einspruchsgebühr erst in einer Woche bezahlt wird ein Zuschlag von 50% fällig.",
-                            "text_en": "If Ramsay does not pay the appeal fee for another week, a 50% surcharge will be applied.",
+                            "text_en": "If Ramsay only pays the opposition fee in a week, a 50% surcharge will be applied.",
                             "text_fr": "Si Ramsay ne paie pas la taxe d'appel avant une semaine, une surtaxe de 50 % sera appliquée."
                         },
                         {
@@ -6771,7 +6771,7 @@
                     "answers_true": [
                         {
                             "text_de": "Wenn die Einspruchsgebühr erst in einer Woche bezahlt wird, gilt der Einspruch als nicht eingelegt.",
-                            "text_en": "If the objection fee is paid by the end of next week, the objection will be considered not filed.",
+                            "text_en": "If the opposition fee is paid by the end of next week, the opposition will not be deemed to have been filed.",
                             "text_fr": "Si la taxe d'opposition est payée avant la fin de la semaine prochaine, l'opposition sera considérée comme non déposée."
                         }
                     ],
