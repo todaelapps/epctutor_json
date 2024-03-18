@@ -6952,7 +6952,7 @@
                         },
                         {
                             "text_de": "Mangelnde Ausführbarkeit.",
-                            "text_en": "Lack of feasibility.",
+                            "text_en": "Lack of sufficient disclosure.",
                             "text_fr": "Manque de faisabilité."
                         }
                     ],
@@ -7027,33 +7027,33 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "#linkepc#ar100|Artikel 100 a) EPÜ#endlink# umfasst mehrere Einspruchsgründe. Therapeutische Verfahren können nicht-technische Merkmale umfassen, weswegen bei vorhandener Neuheit diese im Rahmen einer erfinderischen Tätigkeit behandelt werden. Sie werden dann als nicht erfinderisch beurteilt. Weiterhin wird bei der vorliegenden Ausgestaltung kein technisches Problem gelöst und keine technischen Mittel angewandt. Weiterhin existiert ein Patentierungsausschluss für therapeutscihe Verfahren am menschlichen und tierischen Körper. Für andere Einspruchsgründe liefert der Sachverhalt keine Grundlage.",
-                    "explanation_en": "#linkepc#ar100|Article 100(a) EPC#endlink# includes several grounds for opposition. Therapeutic methods may comprise non-technical features, which is why, if novelty is present, they are dealt with in the context of an inventive step. They are then judged to be non-inventive. Furthermore, in the present embodiment, no technical problem is solved and no technical means are applied. There is also a patent exclusion for therapeutic methods on the human and animal body. The facts of the case do not provide any basis for other grounds for opposition.",
+                    "explanation_en": "#linkepc#ar100|Article 100(a) EPC#endlink# includes several grounds for opposition. Therapeutic methods may comprise non-technical features, which is why, if novelty is present, they are dealt with in the context of an inventive step. They are then judged to be non-inventive. Therefore, lack of techicality is not a ground of opposition per se, it is seen as lack of novelty or inventive step. Furthermore, in the present embodiment, no technical problem is solved and no technical means are applied. There is also a patent exclusion for therapeutic methods on the human and animal body. The facts of the case do not provide any basis for other grounds for opposition.",
                     "explanation_fr": "#linkepc#ar100|Article 100(a) CBE#endlink# comprend plusieurs motifs d'opposition. Les méthodes thérapeutiques peuvent comporter des caractéristiques non techniques, c'est pourquoi, en cas de nouveauté, elles sont traitées dans le cadre d'une activité inventive. Elles sont alors jugées comme étant non inventives. En outre, dans le présent mode de réalisation, aucun problème technique n'est résolu et aucun moyen technique n'est appliqué. Il existe également une exclusion de brevet pour les méthodes thérapeutiques sur le corps humain et animal. Les faits de l'espèce ne permettent pas d'invoquer d'autres motifs d'opposition.",
                     "id": 140,
                     "id_old": 92,
                     "normen": "Artikel 100 a med Verfahren",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# hat ein Verfahren zur Therapierung von Infektionen entwickelt und ein europäisches Patent EP-1 erteilt bekommen. Dabei müssen über den Tag verteilt mehrere Bäder genommen werden. Diese sollen zu bestimmten Uhrzeiten eingenommen werden und vorgegebene Temperaturen aufweisen. Er ist auch der einzige Anmelder und genannte Erfinder. Das Verfahren ist auch neu. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# hat das Verfahren mitentwickelt, möchte es aber für alle Menschen frei halten. Er würde das Patent daher gerne widerrufen sehen. Welche Einspruchsgründe kann er bei einem Einspruch gegen EP-1 anführen? ",
-                    "text_en": "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# has developed a method for the treatment of infections and has been granted a European patent EP-1. This involves taking several baths spread throughout the day. These are to be taken at specific times and have predetermined temperatures. He is also the sole applicant and named inventor. The process is also new. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# co-developed the procedure but would like to keep it free to use for all people. Based on this reasoning, he would like to see the patent revoked. What grounds of opposition can he cite in an opposition to EP-1?",
+                    "text_en": "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# has developed a method for the treatment of infections and has been granted a European patent EP-1. This involves taking several baths spread throughout the day. These are to be taken at specific times and have predetermined temperatures. He is also the sole applicant and named inventor. This method is new with regard to prior art. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# co-developed the method but would like to keep it free to use for all people. Based on this reasoning, he would like to see the patent revoked. What grounds of opposition can he cite in an opposition to EP-1?",
                     "text_fr": "#linkwiki#Alexander_Fleming|Alexander Fleming#endlink# a mis au point une méthode pour le traitement des infections et a obtenu un brevet européen EP-1. Cette méthode consiste à prendre plusieurs bains répartis dans la journée. Ceux-ci doivent être pris à des heures précises et à des températures prédéterminées. Il est également le seul demandeur et l'inventeur désigné. Le procédé est également nouveau. #linkwiki#Howard_Walter_Florey|Howard Walter Florey#endlink# a co-développé le procédé mais souhaite que son utilisation reste gratuite pour tous. Sur la base de ce raisonnement, il souhaiterait que le brevet soit révoqué. Quels motifs d'opposition peut-il invoquer dans une opposition à EP-1 ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Der Patentinhaber muss zur Vermeidung eines Widerrufs Merkmale aus der Beschreibung aufnehmen, um eine Nacharbeitbarkeit von Anspruch 1 zu erhalten.",
-                            "text_en": "The patentee must include features from the description to avoid revocation in order to maintain reworkability of claim 1.",
+                            "text_en": "The patentee must include features from the description to avoid revocation in order to maintain sufficient disclosure of claim 1.",
                             "text_fr": "Le breveté doit inclure des caractéristiques de la description pour éviter la révocation afin de maintenir la possibilité de retravailler la revendication 1."
                         },
                         {
                             "text_de": "Der Patentinhaber muss einen Disclaimer aufnehmen, in dem er nicht nacharbeitbare Gegenstände, die Anspruch 1 umfasst, vom Schutzumfang ausnimmt.",
-                            "text_en": "The patentee must include a disclaimer excluding non-reworkable subject matter from the scope of protection that claim 1 covers.",
+                            "text_en": "The patentee must include a disclaimer excluding non-sufficiently disclosed subject matter from the scope of protection that claim 1 covers.",
                             "text_fr": "Le breveté doit inclure une clause de non-responsabilité excluant l'objet non retravaillable de l'étendue de la protection couverte par la revendication 1."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Der Patentinhaber muss auf diesen Einspruchsgrund nicht reagieren.",
-                            "text_en": "The patent owner does not have to respond to this ground of opposition.",
+                            "text_en": "The patentee does not have to respond to this ground of opposition.",
                             "text_fr": "Le titulaire du brevet ne doit pas répondre à ce motif d'opposition."
                         },
                         {
@@ -7074,7 +7074,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "#linkepc#ar100|Artikel 100 b) EPÜ#endlink# fordert, dass das Patent, und dazu zählen auch die Beschreibung und die Figuren, die Erfindung so deutlich und vollständig offenbaren muss, dass ein Fachmann sie ausführen kann. Die Ansprüche alleine müssen also keine Ausführbarkeit vermitteln. Dementsprechend muss bei der beschriebenen Ausgangslage keine Einschränkung der Ansprüche vorgenommen werden, da die Beschreibung für eine ausreichende Offenbarung sorgt. Insbesondere ist es bei diesem Einspruchsgrund gar nicht möglich, diesen durch Änderungen an den Ansprüchen zu überwinden, da er sich auf die gesamte Offenbarung bezieht. ",
-                    "explanation_en": "#linkepc#ar100|Article 100(b) EPC#endlink# requires that the patent, and this includes the description and figures, must disclose the invention sufficiently clearly and completely to enable a person skilled in the art to carry it out. Thus, the claims alone need not convey practicability. Accordingly, in the current situation being described, there is no need to limit the claims because the description provides sufficient disclosure. In particular, with this ground of objection, it is not even possible to overcome it by amendments to the claims, since it relates to the entire disclosure.",
+                    "explanation_en": "#linkepc#ar100|Article 100(b) EPC#endlink# requires that the patent, and this includes the description and figures, must disclose the invention sufficiently clearly and completely to enable a person skilled in the art to carry it out. Thus, the claims alone need not convey sufficient disclosure. Accordingly, in the current situation being described, there is no need to limit the claims because the description provides sufficient disclosure. In particular, with this ground of objection, it is not even possible to overcome it by amendments to the claims, since it relates to the entire disclosure.",
                     "explanation_fr": "#L'article 100(b) de la CBE exige que le brevet, y compris la description et les figures, divulgue l'invention de manière suffisamment claire et complète pour permettre à un homme du métier de l'exécuter. Ainsi, les revendications seules ne doivent pas nécessairement transmettre la praticabilité. En conséquence, dans la situation actuelle décrite, il n'est pas nécessaire de limiter les revendications car la description fournit une divulgation suffisante. En particulier, avec ce motif d'objection, il n'est même pas possible de le surmonter par des modifications des revendications, puisqu'il concerne l'ensemble de la divulgation.",
                     "id": 141,
                     "id_old": 93,
