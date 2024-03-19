@@ -7088,14 +7088,14 @@
                     "answers_false": [
                         {
                             "text_de": "Die Einspruchsabteilung entscheidet nur über einen Antrag. Ostwald muss sich entscheiden, welcher der Anträge die meisten Erfolgsaussichten bietet.",
-                            "text_en": "The opposition division only decides on one application. Ostwald must decide which of the applications has the best chance of success.",
+                            "text_en": "The opposition division only decides on one request. Ostwald must decide which of the requests has the best chance of success.",
                             "text_fr": "La division d'opposition ne se prononce que sur une seule demande. Ostwald doit décider laquelle des demandes a le plus de chances de succès."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Ist die Einspruchsabteilung der Auffassung, dass wenigstens ein Einspruchsgrund der Aufrechterhaltung des europäischen Patents entgegensteht, so widerruft sie das Patent im erteilten Umfang. Die Hilfsanträge werden gesondert betrachtet. ",
-                            "text_en": "If the Opposition Division is of the opinion that at least one ground of opposition prevents the maintenance of the European patent, it shall revoke the patent to the extent granted. The auxiliary requests are considered separately.",
+                            "text_en": "If the opposition division is of the opinion that at least one ground of opposition prevents the maintenance of the European patent, it shall revoke the patent to the extent granted. The auxiliary requests are considered separately.",
                             "text_fr": "Si la division d'opposition est d'avis qu'au moins un motif d'opposition empêche le maintien du brevet européen, elle révoque le brevet dans la mesure où il est accordé. Les requêtes auxiliaires sont examinées séparément."
                         },
                         {
@@ -7105,7 +7105,7 @@
                         },
                         {
                             "text_de": "Greift einer der Einspruchsgründe gegen EP-1 und ist einer der Hilfsanträge gewährbar, beschließt die Einspruchsabteilung die Aufrechterhaltung des Patents in geänderter Fassung, sofern die in der Ausführungsordnung genannten Voraussetzungen erfüllt sind.",
-                            "text_en": "If one of the grounds for opposition to EP-1 applies and if one of the auxiliary requests is allowable, the Opposition Division decides to maintain the patent as amended, provided that the requirements set out in the Implementing Regulations are met.",
+                            "text_en": "If one of the grounds for opposition to EP-1 applies and if one of the auxiliary requests is allowable, the opposition division decides to maintain the patent as amended, provided that the requirements set out in the Implementing Regulations are met.",
                             "text_fr": "Si l'un des motifs d'opposition à EP-1 s'applique et si l'une des requêtes auxiliaires est recevable, la division d'opposition décide de maintenir le brevet tel que modifié, pour autant que les conditions énoncées dans le règlement d'exécution soient remplies."
                         }
                     ],
@@ -7121,21 +7121,21 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "#linkepc#ar101|Artikel 101 EPÜ#endlink# zeigt drei mögliche Ausgänge des Einspruchsverfahrens: greift keiner der Einspruchsgründe bleibt EP-1 unverändert aufrecht erhalten. Greift einer der Einspruchsgründe, kann der Patentinhaber durch Einschränkungen eine Aufrechterhaltung in geändertem Umfang erreichen. Dabei können grundsätzlich beliebig viele Hilfsanträge eingereicht werden. Ob ein gewährbarer Anspruchssatz im Hauptantrag oder einem Hilfsantrag vorliegt, entscheidet sich üblicherweise in einer mündlichen Verhandlung. Wird ein durchgreifender Einspruchsgrund nicht beseitigt ist EP-1 zu widerrufen.",
-                    "explanation_en": "#linkepc#ar101|Article 101 EPC#endlink# shows three possible outcomes of the opposition proceedings: if none of the grounds for opposition apply, EP-1 remains unchanged. If one of the grounds for opposition applies, the patentee can obtain maintenance in amended scope by means of limitations. In principle, any number of auxiliary requests can be filed. Whether there is an allowable set of claims in the main request or in an auxiliary request is usually decided in oral proceedings. If a substantial ground for opposition is not eliminated, EP-1 must be revoked.",
+                    "explanation_en": "#linkepc#ar101|Article 101 EPC#endlink# shows three possible outcomes of the opposition proceedings: if none of the grounds for opposition applies, EP-1 remains unchanged. If one of the grounds for opposition applies, the patentee can obtain maintenance in amended scope by means of limitations. In principle, any number of auxiliary requests can be filed. Whether there is an allowable set of claims in the main request or in an auxiliary request is usually decided in oral proceedings. If a substantial ground for opposition is not eliminated, EP-1 must be revoked.",
                     "explanation_fr": "#linkepc#ar101|Article 101 CBE#endlink# montre trois issues possibles de la procédure d'opposition : si aucun des motifs d'opposition ne s'applique, EP-1 reste inchangé. Si l'un des motifs d'opposition est applicable, le breveté peut obtenir le maintien dans un champ d'application modifié par le biais de limitations. En principe, un nombre illimité de requêtes auxiliaires peut être déposé. La question de savoir si un ensemble de revendications est admissible dans la requête principale ou dans une requête auxiliaire est généralement tranchée lors d'une procédure orale. Si un motif substantiel d'opposition n'est pas éliminé, la demande EP-1 doit être révoquée.",
                     "id": 142,
                     "id_old": 94,
                     "normen": "Artikel 101",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Wilhelm_Ostwald|Wilhelm Ostwald#endlink# hat in einem europäischen Patent EP-1 einen Katalysator patentiert bekommen. Die kanadische Firma Ahorn Inc., die die Erfindung benutzen aber nicht dafür bezahlen möchte, hat gegen EP-1 Einspruch eingelegt. Ostwald hat, da er nicht sicher ist, ob sein Hauptanspruch A1 bestand hat, mehrere Hilfsanträge eingereicht. Ahorn Inc. moniert, dass ein erteilungsfähiger Satz Patentansprüche nur im Erteilungsverfahren eingereicht werden könne. Falls überhaupt Einschränkungen vorgenommen würden könne auch nur ein Antrag verhandelt werden, Hilfsanträge seien nicht zu akzeptieren, da der angestrebte Schutzumfang nicht klar werde. Welche Beschlüsse kann die Einspruchsabteilung fassen?",
-                    "text_en": "#linkwiki#Wilhelm_Ostwald|Wilhelm Ostwald#endlink# has patented a catalyst in a European patent EP-1. The Canadian company Maple Inc., which wants to use the invention but not pay for it, has filed an opposition to EP-1. Ostwald, being unsure whether his main claim A1 will pass, has filed several auxiliary claims. Maple Inc. complains that a grantable set of claims can only be filed in grant proceedings. If any limitations were made at all, only one claim could be heard, auxiliary claims were not to be accepted because the scope of protection sought was not clear. What decisions can the opposition division take?",
+                    "text_en": "#linkwiki#Wilhelm_Ostwald|Wilhelm Ostwald#endlink# has patented a catalyst in a European patent EP-1. The Canadian company Maple Inc., which wants to use the invention but not pay for it, has filed an opposition to EP-1. Ostwald, being unsure whether his indepnedent claim A1 will pass, has filed several auxiliary claims. Maple Inc. complains that a grantable set of claims can only be filed in grant proceedings. If any limitations were made at all, only one set of claims could be heard, auxiliary claims were not to be accepted because the scope of protection sought was not clear. What decisions can the opposition division take?",
                     "text_fr": "#linkwiki#Wilhelm_Ostwald|Wilhelm Ostwald#endlink# a breveté un catalyseur dans un brevet européen EP-1. La société canadienne Maple Inc, qui souhaite utiliser l'invention mais ne pas la payer, a déposé une opposition à EP-1. Ostwald, n'étant pas sûr que sa revendication principale A1 soit acceptée, a déposé plusieurs revendications auxiliaires. Maple Inc. se plaint du fait qu'un ensemble de revendications pouvant être accordées ne peut être déposé que dans le cadre d'une procédure d'octroi. En cas de limitation, une seule revendication peut être entendue, les revendications auxiliaires ne doivent pas être acceptées car l'étendue de la protection recherchée n'est pas claire. Quelles décisions la division d'opposition peut-elle prendre ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Die Wettbewerber müssen sich über das Register des EPA informiert halten.",
-                            "text_en": "Competitors must keep themselves informed about the EPO's register.",
+                            "text_en": "Competitors must keep themselves informed using the EPO's register.",
                             "text_fr": "Les concurrents doivent se tenir informés du registre de l'OEB."
                         },
                         {
@@ -7145,7 +7145,7 @@
                         },
                         {
                             "text_de": "Die Patentinhaberin muss für eine Veröffentlichung der neuen Patentschrift innerhalb von zwei Monaten in wenigstens einem kommerziellen Patentregister sorgen.",
-                            "text_en": "The patent owner must ensure publication of the new patent specification within two months in at least one commercial patent register.",
+                            "text_en": "The patentee must ensure publication of the new patent specification within two months in at least one commercial patent register.",
                             "text_fr": "Le titulaire du brevet doit assurer la publication du nouveau fascicule de brevet dans un délai de deux mois dans au moins un registre commercial des brevets."
                         }
                     ],
@@ -7187,7 +7187,7 @@
                         },
                         {
                             "text_de": "Der Patentinhaber muss sämtliche Kosten tragen, weil der Einspruch zulässig war.",
-                            "text_en": "The patent proprietor must bear all costs because the opposition was admissible.",
+                            "text_en": "The patentee must bear all costs because the opposition was admissible.",
                             "text_fr": "Le titulaire du brevet doit supporter tous les frais car l'opposition était recevable."
                         },
                         {
@@ -7215,7 +7215,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "#linkepc#ar104|Artikel 104 (1) EPÜ#endlink# legt fest, dass grundsätzlich jede Partei ihre eigenen Kosten trägt. Aus Billigkeitsgründen kann davon aber abgewichen werden. Der Patentinhaber hatte offensichtlich keine Veranlassung, die mündliche Verhandlung zu besuchen, wenn Wallach nicht erscheint. Daher sind Kosten in diesem Zusammenhang aus Billigkeitsgründen Wallach aufzuerlegen.",
-                    "explanation_en": "#linkepc#ar104|Article 104 (1) EPC#endlink# states that in principle each party shall bear its own costs. However, this may be deviated from for reasons of equity. The patentee obviously had no reason to attend the oral proceedings if Wallach did not appear. Therefore, costs in this connection are to be imposed on Wallach for reasons of equity.",
+                    "explanation_en": "#linkepc#ar104|Article 104 (1) EPC#endlink# states that in principle each party shall bear its own costs. However, this may be deviated from for reasons of equity. The patentee obviously had no reason to attend the oral proceedings if Wallach did not appear. Therefore, costs in this context are to be imposed on Wallach for reasons of equity.",
                     "explanation_fr": "#linkepc#ar104|L'article 104 (1) CBE#endlink# stipule qu'en principe, chaque partie supporte ses propres frais. Il peut toutefois être dérogé à cette règle pour des raisons d'équité. Le breveté n'avait manifestement aucune raison d'assister à la procédure orale si Wallach ne comparaissait pas. Par conséquent, les frais à cet égard doivent être imposés à Wallach pour des raisons d'équité.",
                     "id": 144,
                     "id_old": 96,
