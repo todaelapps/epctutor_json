@@ -7229,17 +7229,17 @@
                     "answers_false": [
                         {
                             "text_de": "Grignard kann beitreten, da bereits ein Einspruchsverfahren gegen EP-1 anhängig ist.",
-                            "text_en": "Grignard can join because there is already an opposition case pending against EP-1.",
+                            "text_en": "Grignard can intervene because there is already an opposition to EP-1 pending.",
                             "text_fr": "Grignard peut s'y joindre car il y a déjà un cas d'opposition en cours contre EP-1."
                         },
                         {
                             "text_de": "Grignard jederzeit einem anhängigen Einspruchsverfahren beitreten, solange er nicht Patentinhaber ist.",
-                            "text_en": "Grignard can join a pending opposition proceeding at any time so long as he is not the patent owner.",
+                            "text_en": "Grignard can intervene in a pending opposition proceeding at any time so long as he is not the patent proprietor.",
                             "text_fr": "Grignard peut se joindre à tout moment à une procédure d'opposition en cours, tant qu'il n'est pas le titulaire du brevet."
                         },
                         {
                             "text_de": "Grignard kann beitreten, wenn er nachweist, dass er EP-1 verletzt.",
-                            "text_en": "Grignard can join if he proves he is in violation of EP-1.",
+                            "text_en": "Grignard can intervene if he proves he is in violation of EP-1.",
                             "text_fr": "Grignard peut adhérer s'il prouve qu'il est en violation de l'EP-1."
                         }
                     ],
@@ -7262,38 +7262,38 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "#linkepc#ar105|Artikel 105 (1) EPÜ#endlink# listet die Voraussetzungen auf, zu denen man einem Einspruchsverfahren beitreten kann. Zu diesen gehören eine anhängige Verletzungsklage oder negative Feststellungsklage wegen des Patentes im Einspruchsverfahren. Da keinerlei Klage vorliegt kann Grignard nicht beitreten.",
-                    "explanation_en": "#linkepc#ar105|Article 105 (1) EPC#endlink# lists the requirements for joining opposition proceedings. These include a pending infringement action or negative declaratory action on the patent in opposition proceedings. Since no action is pending, Grignard cannot intervene.",
+                    "explanation_en": "#linkepc#ar105|Article 105 (1) EPC#endlink# lists the requirements for intervening in opposition proceedings. These include a pending infringement action or negative declaratory action on the patent in opposition proceedings. Since no action is pending, Grignard cannot intervene.",
                     "explanation_fr": "#linkepc#ar105|L'article 105 (1) de la CBE énumère les conditions requises pour engager une procédure d'opposition. Celles-ci comprennent une action en contrefaçon en cours ou une action déclaratoire négative sur le brevet faisant l'objet de la procédure d'opposition. Comme aucune action n'est en cours, Grignard ne peut pas intervenir.",
                     "id": 145,
                     "id_old": 97,
                     "normen": "Artikel 105 (1) Beitritt bei Klage",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Victor_Grignard|Victor Grignard#endlink# hat eine Einspruchsfrist gegen ein europäisches Patent EP-1 von #linkwiki#Paul_Sabatier_(Chemiker)|Paul Sabatier#endlink# verpasst. Er hat aber gelesen, dass der Betritt zu einem Einspruch wie ein Einspruch gewertet wird. Zu seiner Freude stellt er fest, dass auch bereits ein Einspruch gegen EP-1 läuft. Kann Grignard dem Einspruchsverfahren beitreten?",
-                    "text_en": "#linkwiki#Victor_Grignard|Victor Grignard#endlink# has missed an opposition deadline against a European patent EP-1 by #linkwiki#Paul_Sabatier_(chemist)|Paul Sabatier#endlink#. However, he has read that intervening an opposition is treated as an opposition. To his delight, he finds that an EP-1 appeal is also already underway. Can Grignard join the appeal?",
+                    "text_en": "#linkwiki#Victor_Grignard|Victor Grignard#endlink# has missed an opposition deadline against a European patent EP-1 by #linkwiki#Paul_Sabatier_(chemist)|Paul Sabatier#endlink#. However, he has read that intervening an opposition is treated as an opposition. To his delight, he finds that an EP-1 opposition is also already underway. Can Grignard intervene in the opposition proceedings?",
                     "text_fr": "#linkwiki#Victor_Grignard|Victor Grignard#endlink# a manqué un délai d'opposition contre un brevet européen EP-1 de #linkwiki#Paul_Sabatier_(chimiste)|Paul Sabatier#endlink#. Cependant, il a lu que l'intervention dans une opposition est traitée comme une opposition. À sa grande joie, il découvre qu'un recours EP-1 est également en cours. Grignard peut-il se joindre à l'appel ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Grignard kann beitreten, da bereits ein Einspruchsverfahren gegen EP-2 anhängig ist.",
-                            "text_en": "Grignard can join because there is already an opposition case pending against EP-2.",
+                            "text_en": "Grignard can intervene because there is already an opposition case pending against EP-2.",
                             "text_fr": "Grignard peut s'y joindre car il y a déjà un cas d'opposition en cours contre EP-2."
                         },
                         {
                             "text_de": "Grignard kann dem Einspruchsverfahren beitreten, sobald er eine Klage auf Feststellung erhoben hat, dass er das Patent EP-1 nicht verletze.",
-                            "text_en": "Grignard may join the opposition proceedings once he has filed an action for a declaratory judgment that does not infringe upon patent EP-1.",
+                            "text_en": "Grignard may intervene in the opposition proceedings once he has filed an action for a declaratory judgment that he does not infringe upon patent EP-1.",
                             "text_fr": "Grignard peut se joindre à la procédure d'opposition dès lors qu'il a introduit une action en jugement déclaratif de non-contrefaçon du brevet EP-1."
                         },
                         {
                             "text_de": "Grignard kann dem Einspruchsverfahren nicht beitreten, da Sabatier nicht aus EP-2 gegen ihn vorgeht.",
-                            "text_en": "Grignard cannot join the opposition proceedings because Sabatier does not oppose him from EP-2.",
+                            "text_en": "Grignard cannot intervene in the opposition proceedings because Sabatier does not challenge him from EP-2.",
                             "text_fr": "Grignard ne peut se joindre à la procédure d'opposition car Sabatier ne lui oppose pas EP-2."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Grignard kann dem Einspruchsverfahren beitreten. Er muss vorher Klage auf Feststellung erhoben haben, dass er das Patent EP-2 nicht verletze. Dies geht auch ohne Abmahnung aus EP-2 durch Sabatier.",
-                            "text_en": "Grignard can join the opposition proceedings. He must have previously filed suit for a declaration that he does not infringe patent EP-2. This is also possible without a warning from EP-2 by Sabatier.",
+                            "text_en": "Grignard can intervene in the opposition proceedings. He must have previously filed suit for a declaration that he does not infringe patent EP-2. This is also possible without a warning letter from EP-2 by Sabatier.",
                             "text_fr": "Grignard peut se joindre à la procédure d'opposition. Il doit avoir préalablement intenté une action en justice pour faire constater qu'il ne viole pas le brevet EP-2. Ceci est également possible sans un avertissement d'EP-2 par Sabatier."
                         }
                     ],
@@ -7316,7 +7316,7 @@
                     "normen": "Artikel 105 (1) dieses Patentes",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Paul_Sabatier_(Chemiker)|Paul Sabatier#endlink# hat #linkwiki#Victor_Grignard|Victor Grignard#endlink# eine Abmahnung aus dem europäischen Patent EP-1 gesendet. Beim Blick in das Register fällt Grignard auf, dass gegen das europäische Patent EP-2, das eine Teilanmeldung zu EP-1 ist, bereits ein Einspruch eingereicht wurde. EP-1 stört Grignard nicht, aber EP-2 würde seine Produktion von Organomagnesiumverbindungen behindern. Kann Grignard dem Einspruchsverfahren beitreten?",
-                    "text_en": "#linkwiki#Paul_Sabatier_(chemist)|Paul Sabatier#endlink# has sent #linkwiki#Victor_Grignard|Victor Grignard#endlink# a warning regarding the European patent EP-1. Looking at the register, Grignard notices that an opposition has already been filed against European patent EP-2, which is a divisional application of EP-1. EP-1 does not bother Grignard, but EP-2 would hinder his production of organomagnesium compounds. Can Grignard join the opposition proceedings?",
+                    "text_en": "#linkwiki#Paul_Sabatier_(chemist)|Paul Sabatier#endlink# has sent #linkwiki#Victor_Grignard|Victor Grignard#endlink# a warning letter regarding the European patent EP-1. Looking at the register, Grignard notices that an opposition has already been filed to European patent EP-2, which is a divisional application of EP-1. EP-1 does not bother Grignard, but EP-2 would hinder his production of organomagnesium compounds. Can Grignard intervene in the opposition proceedings?",
                     "text_fr": "#linkwiki#Paul_Sabatier_(chimiste)|Paul Sabatier#endlink# a envoyé à #linkwiki#Victor_Grignard|Victor Grignard#endlink# un avertissement concernant le brevet européen EP-1. En consultant le registre, Grignard constate qu'une opposition a déjà été déposée contre le brevet européen EP-2, qui est une application divisionnaire de EP-1. Le brevet EP-1 ne dérange pas Grignard, mais le brevet EP-2 le gênerait dans sa production de composés organomagnésiens. Grignard peut-il se joindre à la procédure d'opposition ?"
                 },
                 {
@@ -7371,7 +7371,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Gemäß #linkepc#ar105a|Artikel 105a EPÜ#endlink# kann der Patentinhaber einen Antrag auf Beschränkung oder Widerruf stellen. Bei mehreren Inhabern ist dies die Inhabergemeinschaft, hier also Henri Becquerel, Marie Curie und Pierre Curie.",
-                    "explanation_en": "According to #linkepc#ar105a|Article 105a EPC#endlink#, the patent owner can file a request for limitation or revocation. In case of several owners, this is considered the community of owners, herein Henri Becquerel, Marie Curie and Pierre Curie.",
+                    "explanation_en": "According to #linkepc#ar105a|Article 105a EPC#endlink#, the proprietor can file a request for limitation or revocation. In case of several proprietors, this is the community of proprietors, herein Henri Becquerel, Marie Curie and Pierre Curie.",
                     "explanation_fr": "Selon #linkepc#ar105a|Article 105a CBE#endlink#, le titulaire du brevet peut déposer une requête en limitation ou en révocation. En cas de plusieurs propriétaires, on parle de communauté de propriétaires, en l'occurrence Henri Becquerel, Marie Curie et Pierre Curie.",
                     "id": 147,
                     "id_old": 99,
