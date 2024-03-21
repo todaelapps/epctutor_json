@@ -7390,12 +7390,12 @@
                         },
                         {
                             "text_de": "Außer für die Patentinhaberin hat die Beschränkung für niemanden Relevanz, es muss also niemand informiert werden.",
-                            "text_en": "Except for the patent owner, the restriction has no relevance for anyone, so no one needs to be informed.",
+                            "text_en": "Except for the patent proprietor, the restriction has no relevance for anyone, so no one needs to be informed.",
                             "text_fr": "À l'exception du titulaire du brevet, la restriction n'a aucune importance pour quiconque, et personne ne doit donc être informé."
                         },
                         {
                             "text_de": "Die Patentinhaberin muss für eine Veröffentlichung der neuen Patentschrift innerhalb von zwei Monaten in wenigstens einem kommerziellen Patentregister sorgen.",
-                            "text_en": "The patent owner must ensure publication of the new patent specification within two months in at least one commercial patent register.",
+                            "text_en": "The patent proprietor must ensure publication of the new patent specification within two months in at least one commercial patent register.",
                             "text_fr": "Le titulaire du brevet doit assurer la publication du nouveau fascicule de brevet dans un délai de deux mois dans au moins un registre commercial des brevets."
                         }
                     ],
@@ -7418,7 +7418,7 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Nach #linkepc#ar105c|Artikel 105c EPÜ#endlink# veröffentlicht das Europäische Patentamt die geänderte europäische Patentschrift so bald wie möglich nach Bekanntmachung des Hinweises auf die Beschränkung im Europäischen Patentblatt. Kommerzielle Register sind eine völlig unnütze Geldausgabe.",
-                    "explanation_en": "According to #linkepc#ar105c|Article 105c EPC#endlink#, the European Patent Office publishes the amended European patent specification as soon as possible after publication of the mention of the limitation in the European Patent Bulletin. Commercial registers are a completely useless expenditure of money.",
+                    "explanation_en": "According to #linkepc#ar105c|Article 105c EPC#endlink#, the European Patent Office publishes the amended specification of the European patent as soon as possible after publication of the mention of the limitation in the European Patent Bulletin. Commercial registers are a completely useless expenditure of money.",
                     "explanation_fr": "Selon #linkepc#ar105c|Article 105c CBE#endlink#, l'Office européen des brevets publie le fascicule de brevet européen modifié dès que possible après la publication de la mention de la limitation dans le Bulletin européen des brevets. Les registres du commerce sont une dépense d'argent totalement inutile.",
                     "id": 148,
                     "id_old": 100,
@@ -7432,7 +7432,7 @@
                     "answers_false": [
                         {
                             "text_de": "Das Einspruchsverfahren ist beendet.",
-                            "text_en": "The objection procedure has ended.",
+                            "text_en": "The opposition proceedings have ended.",
                             "text_fr": "La procédure d'objection est terminée."
                         },
                         {
@@ -7465,14 +7465,14 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Gemäß #linkepc#r75|Regel 75 EPÜ#endlink# kann auch dann Einspruch eingelegt werden, wenn in allen benannten Vertragsstaaten auf das europäische Patent verzichtet worden ist oder das Patent in allen diesen Staaten erloschen ist. Bis zum Verzicht hat das Patent nämlich Rechtskraft, die mit dem Einspruch angegriffen werden kann. Ein Verzicht ex tunc, also von Anfang an, war nicht ausgesprochen worden. Dieser könnte das Rechtsschutzbedürfnis Jørgensens entfallen lassen.",
-                    "explanation_en": "According to #linkepc#r75|Rule 75 EPC#endlink#, opposition can be filed even if the European patent has been surrendered in all designated Contracting States or the patent has lapsed in all these states. This is due to the fact that until the patent is surrendered, it has the force of law, which can be attacked by the opposition. A waiver ex tunc, i.e. from the outset, had not been pronounced. This could eliminate Jørgensen's need for legal protection.",
+                    "explanation_en": "According to #linkepc#r75|Rule 75 EPC#endlink#, an opposition can be filed even if the European patent has been surrendered in all designated Contracting States or the patent has lapsed in all these states. This is due to the fact that until the patent is surrendered, it has the force of law, which can be challanged by the opposition. A waiver ex tunc, i.e. from the outset, had not been pronounced. This could eliminate Jørgensen's need for legal protection.",
                     "explanation_fr": "Selon #linkepc#r75|Règle 75 CBE#endlink#, une opposition peut être formée même si le brevet européen a fait l'objet d'une renonciation dans tous les États contractants désignés ou si le brevet est tombé en déchéance dans tous ces États. Cela est dû au fait que tant que le brevet n'a pas fait l'objet d'une renonciation, il a force de loi, ce qui peut être attaqué par l'opposition. Une renonciation ex tunc, c'est-à-dire dès le départ, n'avait pas été prononcée. Cela pouvait éliminer le besoin de protection juridique de Jørgensen.",
                     "id": 149,
                     "id_old": 101,
                     "normen": "Regel 75 Einspruch nach Verzicht",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Alfred_Werner_(Chemiker)|Alfred Werner#endlink# hat für Metallamine ein europäisches Patent EP-1 erteilt bekommen. #linkwiki#Sophus_Mads_Jørgensen|Sophus Mads Jørgensen#endlink#möchte diese ebenfalls nutzen und legt daher Einspruch gegen EP-1 ein. Werner mag aber keine Auseinandersetzung mit seinem ehemaligen Mitarbeiter und verzichtet daher direkt nach der Kenntnis über den Einspruch auf EP-1. Welche der folgenden Aussagen ist wahr?",
-                    "text_en": "#linkwiki#Alfred_Werner_(chemist)|Alfred Werner#endlink# has been granted a European patent EP-1 for metallamines. #linkwiki#Sophus_Mads_Jørgensen|Sophus Mads Jørgensen#endlink#wants to use it, as well, and therefore files an opposition to EP-1. Werner, however, would not like a dispute with his former co-worker and, therefore, renounces EP-1 immediately after learning about the objection. Which of the following statements is true?",
+                    "text_en": "#linkwiki#Alfred_Werner_(chemist)|Alfred Werner#endlink# has been granted a European patent EP-1 for metallamines. #linkwiki#Sophus_Mads_Jørgensen|Sophus Mads Jørgensen#endlink#wants to use it, as well, and therefore files an opposition to EP-1. Werner, however, would not like a dispute with his former co-worker and, therefore, renounces EP-1 immediately after learning about the opposition. Which of the following statements is true?",
                     "text_fr": "#linkwiki#Alfred_Werner_(chimiste)|Alfred Werner#endlink# a obtenu un brevet européen EP-1 pour des métallamines. #linkwiki#Sophus_Mads_Jørgensen|Sophus Mads Jørgensen#endlink#veut également l'utiliser, et dépose donc une opposition à EP-1. Werner, quant à lui, n'aimerait pas avoir un différend avec son ancien collègue et, par conséquent, renonce à EP-1 immédiatement après avoir pris connaissance de l'opposition. Laquelle des affirmations suivantes est vraie ?"
                 },
                 {
@@ -7519,7 +7519,7 @@
                     "normen": "Regel 76 (1) Einspruch schriftlich",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# hat viele Tätigkeitsschwerpunkte und daher wenig Zeit. Als er ein europäisches Patent EP-1 auf ein Photosyntheseverfahren entdeckt, möchte er dagegen Einspruch einlegen. Er ruft daher innerhalb der Einspruchsfrist beim Europäischen Patentamt an, bringt alle relevanten Tatsachen vor und gibt auch die Einspruchsgebühren frei. Am letzten Tag der Einspruchsfrist schickt er noch eine kurze schriftliche Notiz an das europäische Patentamt, in dem er angibt, alle telefonisch vorgebrachten Äußerungen hiermit schriftlich zu bestätigen und gibt auch den Namen des Sachbearbeiters an,  mit dem er telefoniert hat. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# preoccupies himself with many activities and therefore has little time. When he discovers a European patent EP-1 on a photosynthesis process, he wants to file an opposition against it. To this end, he calls the European Patent Office within the opposition period, presents all relevant facts and releases the opposition fees. On the last day of the opposition period, he sends a short written note to the European Patent Office in which he states that he hereby confirms in writing all the statements made on the phone and also gives the name of the person with whom he spoke on the phone. What is the legal situation?",
+                    "text_en": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# preoccupies himself with many activities and therefore has little time. When he discovers a European patent EP-1 on a photosynthesis process, he wants to file an opposition to it. To this end, he calls the European Patent Office within the opposition period, presents all relevant facts and releases the opposition fees. On the last day of the opposition period, he sends a short written note to the European Patent Office in which he states that he hereby confirms in writing all the statements made on the phone and also gives the name of the person with whom he spoke on the phone. What is the legal situation?",
                     "text_fr": "#linkwiki#Richard_Willstätter|Richard Willstätter#endlink# se préoccupe de nombreuses activités et dispose donc de peu de temps. Lorsqu'il découvre un brevet européen EP-1 sur un procédé de photosynthèse, il veut former une opposition contre celui-ci. À cette fin, il appelle l'Office européen des brevets dans le délai d'opposition, présente tous les faits pertinents et acquitte les taxes d'opposition. Le dernier jour du délai d'opposition, il envoie une courte note écrite à l'Office européen des brevets dans laquelle il indique qu'il confirme par écrit toutes les déclarations faites au téléphone et donne également le nom de la personne avec laquelle il a parlé au téléphone. Quelle est la situation juridique ?"
                 },
                 {
