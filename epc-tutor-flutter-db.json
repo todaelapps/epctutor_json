@@ -7526,7 +7526,7 @@
                     "answers_false": [
                         {
                             "text_de": "Die Erfinder.",
-                            "text_en": "Inventors.",
+                            "text_en": "The inventors.",
                             "text_fr": "Inventeurs."
                         },
                         {
@@ -7543,17 +7543,17 @@
                         },
                         {
                             "text_de": "Tatsachen und Beweismittel zur Begründung des Einspruchs.",
-                            "text_en": "Facts and evidence in support of the objection.",
+                            "text_en": "Facts and evidence in support of the opposition.",
                             "text_fr": "Faits et preuves à l'appui de l'objection."
                         },
                         {
                             "text_de": "Der Umfang, in dem gegen das europäische Patent Einspruch eingelegt wird (z.B. Angabe der Ansprüche) ",
-                            "text_en": "The extent to which opposition is filed against the European patent (e.g. specification of claims)",
+                            "text_en": "The extent to which opposition the European patent is opposed (e.g. specification of claims)",
                             "text_fr": "La mesure dans laquelle une opposition est formée contre le brevet européen (par exemple, la spécification des revendications)."
                         },
                         {
                             "text_de": "Die Bezeichnung der Erfindung.  ",
-                            "text_en": "The name of the invention.",
+                            "text_en": "The title of the invention.",
                             "text_fr": "Le nom de l'invention."
                         },
                         {
@@ -7563,7 +7563,7 @@
                         },
                         {
                             "text_de": "Angaben zur Person der Einsprechenden und den Namen des Patentinhabers.",
-                            "text_en": "Information on the person of the opponents and the name of the patent owner.",
+                            "text_en": "Particulars of the opponent and the name of the patent proprietor.",
                             "text_fr": "Informations sur la personne des opposants et le nom du titulaire du brevet."
                         }
                     ],
@@ -7585,8 +7585,8 @@
                     "id_old": 103,
                     "normen": "Regel 76 (2)",
                     "startdate": "MO",
-                    "text_de": "Welche Angaben muss ein Einspruch enthalten?",
-                    "text_en": "What information must an objection contain?",
+                    "text_de": "Welche Angaben muss eine Einspruchsschrift enthalten?",
+                    "text_en": "What information must a notice of opposition contain?",
                     "text_fr": "Quelles informations doit contenir une objection ?"
                 },
                 {
@@ -7613,7 +7613,7 @@
                         },
                         {
                             "text_de": "Die Erfinder.",
-                            "text_en": "Inventors.",
+                            "text_en": "The inventors.",
                             "text_fr": "Inventeurs."
                         },
                         {
@@ -7623,7 +7623,7 @@
                         },
                         {
                             "text_de": "Die Bezeichnung der Erfindung.",
-                            "text_en": "The name of the invention.",
+                            "text_en": "The title of the invention.",
                             "text_fr": "Le nom de l'invention."
                         }
                     ],
@@ -7650,7 +7650,7 @@
                         },
                         {
                             "text_de": "Angaben zur Person der Einsprechenden.",
-                            "text_en": "Personal data of the opponents.",
+                            "text_en": "Particulars of the opponent.",
                             "text_fr": "Données personnelles des adversaires."
                         }
                     ],
@@ -7673,7 +7673,7 @@
                     "normen": "Regel 77 iVm 76 (2)",
                     "startdate": "MO",
                     "text_de": "Welche Angaben muss ein Einspruch bis zum Ablauf der Einspruchsfrist enthalten, damit er nicht unzulässig ist?",
-                    "text_en": "What information must an objection contain by the expiration of the objection period so that it is not inadmissible?",
+                    "text_en": "What information must an opposition contain by the expiration of the opposition period so that it is not inadmissible?",
                     "text_fr": "Quelles informations une objection doit-elle contenir avant l'expiration du délai d'objection pour ne pas être irrecevable ?"
                 },
                 {
@@ -7685,7 +7685,7 @@
                         },
                         {
                             "text_de": "Meyer bleibt Partei bis zum Ende des Einspruchsverfahrens.",
-                            "text_en": "Meyer remains a party until the end of the appeal proceedings.",
+                            "text_en": "Meyer remains a party until the end of the opposition proceedings.",
                             "text_fr": "Meyer reste partie jusqu'à la fin de la procédure d'appel."
                         },
                         {
