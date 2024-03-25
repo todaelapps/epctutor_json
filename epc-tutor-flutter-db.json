@@ -7732,19 +7732,19 @@
                         },
                         {
                             "text_de": "Wenn Zsigmondy als Erster Einspruch eingelegt hat wird Siedentopf bei der Einreichung seines Einspruchs über den bereits eingelegten Einspruch informiert.",
-                            "text_en": "If Zsigmondy was the first to file an objection, Siedentopf will be informed about the already filed objection when filing his objection.",
+                            "text_en": "If Zsigmondy was the first to file an opposition, Siedentopf will be informed about the already filed opposition when filing his opposition.",
                             "text_fr": "Si Zsigmondy a été le premier à déposer une objection, Siedentopf sera informé de l'objection déjà déposée lors du dépôt de son objection."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Die Einspruchsabteilung teilt dem Patentinhaber und den Einsprechenden gleichzeitig die Einlegung der Einsprüche mit.",
-                            "text_en": "The opposition division simultaneously notifies the patent proprietor and the opponents of the filing of the oppositions.",
+                            "text_en": "The opposition division at the same time  notifies the patent proprietor and the opponents of the filing of the oppositions.",
                             "text_fr": "La division d'opposition notifie simultanément au titulaire du brevet et aux opposants le dépôt des oppositions."
                         },
                         {
-                            "text_de": "Wenn Siedentopf als Erster Einspruch eingelegt hat wird er über spätere EInsprüche informiert.",
-                            "text_en": "If Siedentopf is the first to file an objection, he will be informed of any subsequent objections.",
+                            "text_de": "Wenn Siedentopf als Erster Einspruch eingelegt hat wird er über spätere Einsprüche informiert.",
+                            "text_en": "If Siedentopf is the first to file an opposition, he will be informed of any subsequent oppositions.",
                             "text_fr": "Si Siedentopf est le premier à déposer une objection, il sera informé de toute objection ultérieure."
                         }
                     ],
@@ -7766,7 +7766,7 @@
                     "id_old": 106,
                     "normen": "Regel 79",
                     "startdate": "MO",
-                    "text_de": "#linkwiki#Richard_Zsigmondy|Richard Zsigmondy#endlink# und #linkwiki#Henry_Siedentopf|Henry Siedentopf#endlink# haben sich länger nicht gesehen und unabhängig voneinander Einspruch gegen das europäische Patent EP-1 eingelegt. Wenn sie sich absprechen könnten wäre ihre Ausgangslage verbessert. Was müssen sie unternehmen, um von den Einsprüchen der anderen Kenntnis zu erlangen? ",
+                    "text_de": "#linkwiki#Richard_Zsigmondy|Richard Zsigmondy#endlink# und #linkwiki#Henry_Siedentopf|Henry Siedentopf#endlink# haben sich länger nicht gesehen und unabhängig voneinander Einspruch gegen das europäische Patent EP-1 eingelegt. Wenn sie sich absprechen könnten wäre ihre Ausgangslage verbessert. Was müssen sie unternehmen, um von den Einsprüchen des anderen Kenntnis zu erlangen? ",
                     "text_en": "#linkwiki#Richard_Zsigmondy|Richard Zsigmondy#endlink# and #linkwiki#Henry_Siedentopf|Henry Siedentopf#endlink# have not seen each other for a long time and have independently filed an opposition against the European patent EP-1. If they could collude, their starting position would be improved. What do they have to do to become aware of each other's oppositions?",
                     "text_fr": "#linkwiki#Richard_Zsigmondy|Richard Zsigmondy#endlink# et #linkwiki#Henry_Siedentopf|Henry Siedentopf#endlink# ne se sont pas vus depuis longtemps et ont déposé indépendamment une opposition contre le brevet européen EP-1. S'ils pouvaient s'entendre, leur position de départ serait améliorée. Que doivent-ils faire pour prendre connaissance de leurs oppositions respectives ?"
                 },
@@ -7774,12 +7774,12 @@
                     "answers_false": [
                         {
                             "text_de": "Thomson kann Anspruch 1 zur Beseitigung der unzulässigen Erweiterung einschränken, allerdings müssen auch Einschränkungen in Bezug auf Neuheit vorgenommen werden, da nur Art. 100a EPÜ als Einspruchsgrund geltend gemacht wurde.",
-                            "text_en": "Thomson may limit claim 1 to remove the inadmissible broadening, but limitations must also be made with respect to novelty, since only Art. 100a EPC has been invoked as a ground for opposition.",
+                            "text_en": "Thomson may limit claim 1 to remove the added subject-matter, but limitations must also be made with respect to novelty, since only Art. 100a EPC has been invoked as a ground for opposition.",
                             "text_fr": "Thomson peut limiter la revendication 1 pour supprimer l'élargissement inadmissible, mais des limitations doivent également être faites en ce qui concerne la nouveauté, puisque seul l'art. 100a CBE a été invoqué comme motif d'opposition."
                         },
                         {
                             "text_de": "Thomson kann Anspruch 1 nur einschränken, um mangelnde Neuheit zu beseitigen. Wenn er damit gleichzeitig die unzulässige Erweiterung beseitigen kann hat er Glück gehabt.",
-                            "text_en": "Thomson can only limit claim 1 to eliminate lack of novelty. If he can eliminate the inadmissible broadening at the same time, he is lucky.",
+                            "text_en": "Thomson can only limit claim 1 to eliminate lack of novelty. If he can eliminate the added subject-matter at the same time, he is lucky.",
                             "text_fr": "Thomson ne peut limiter la revendication 1 que pour éliminer le manque de nouveauté. S'il peut éliminer l'élargissement inadmissible en même temps, il a de la chance."
                         },
                         {
@@ -7791,7 +7791,7 @@
                     "answers_true": [
                         {
                             "text_de": "Thomson kann Anspruch 1 einschränken, um ausschließlich die unzulässige Erweiterung zu beseitigen.",
-                            "text_en": "Thomson may limit claim 1 to eliminate only the improper extension.",
+                            "text_en": "Thomson may limit claim 1 to eliminate only the added subject-matter.",
                             "text_fr": "Thomson peut limiter la revendication 1 pour éliminer seulement l'extension impropre."
                         }
                     ],
@@ -7814,7 +7814,7 @@
                     "normen": "Regel 80",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Francis_William_Aston|Francis William Aston#endlink# hat gegen ein europäisches Patent EP-1 von #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink# Einspruch eingelegt. Als Einspruchsgründe hat er mangelnde Neuheit und mangelnde erfinderische Tätigkeit geltend gemacht. Thomson entdeckt beim Studiums des Einspruchs, dass er Anspruch 1 unzulässig erweitert hat und diesen Mangel aber beheben kann. Im Hinblick auf mangelnde Neuheit oder erfinderische Tätigkeit sieht er keine Notwendigkeit für Einschränkungen. Welche der folgenden Aussagen ist richtig?",
-                    "text_en": "#linkwiki#Francis_William_Aston|Francis William Aston#endlink# has filed an opposition against a European patent EP-1 belonging to #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink#. He asserted lack of novelty and lack of inventive step as grounds for opposition. Thomson, upon studying the opposition, discovers that he has improperly broadened claim 1, but can cure this deficiency. With respect to lack of novelty or inventive step, he sees no need for limitations. Which of the following statements is correct?",
+                    "text_en": "#linkwiki#Francis_William_Aston|Francis William Aston#endlink# has filed an opposition to a European patent EP-1 belonging to #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink#. He asserted lack of novelty and lack of inventive step as grounds for opposition. Thomson, upon studying the opposition, discovers that he has improperly broadened claim 1, but can cure this deficiency. With respect to lack of novelty or inventive step, he sees no need for limitations. Which of the following statements is correct?",
                     "text_fr": "#linkwiki#Francis_William_Aston|Francis William Aston#endlink# a formé une opposition contre un brevet européen EP-1 appartenant à #linkwiki#Joseph_John_Thomson|Joseph John Thomson#endlink#. Il a fait valoir le manque de nouveauté et le manque d'activité inventive comme motifs d'opposition. Thomson, en étudiant l'opposition, découvre qu'il a indûment élargi la revendication 1, mais il peut remédier à cette déficience. En ce qui concerne le manque de nouveauté ou d'activité inventive, il ne voit pas la nécessité de limitations. Laquelle des affirmations suivantes est correcte ?"
                 },
                 {
@@ -7854,14 +7854,14 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Gemäß #linkepc#r81|Regel 81 EPÜ#endlink# kann die Einspruchsabteilung von Amts wegen auch vom Einsprechenden nicht geltend gemachte Einspruchsgründe prüfen, wenn diese der Aufrechterhaltung des europäischen Patents entgegenstehen würden. Weder eine prima facie Relevanz noch sontige Hürden bestehen.",
-                    "explanation_en": "According to #linkepc#r81|Rule 81 EPC#endlink#, the opposition division may also examine ex officio grounds for opposition not asserted by the opponent if these would prevent the European patent from being maintained. Neither prima facie relevance nor any other hurdles exist.",
+                    "explanation_en": "According to #linkepc#r81|Rule 81 EPC#endlink#, the opposition division may also examine ex officio grounds for opposition not asserted by the opponent if these would prejudice the maintenance of the European patent. Neither prima facie relevance nor any other hurdles exist.",
                     "explanation_fr": "Selon la #linkepc#r81|Règle 81 CBE#endlink#, la division d'opposition peut également examiner d'office des motifs d'opposition non invoqués par l'opposant si ceux-ci empêchent le maintien du brevet européen. Il n'existe ni pertinence prima facie, ni aucun autre obstacle.",
                     "id": 156,
                     "id_old": 108,
                     "normen": "Regel 81 neue Einspruchsgründe",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Fritz_Pregl|Fritz Pregl#endlink# hat ein europäisches Patent EP-1 für ein Verfahren zur Untersuchung von chemischen Substanzen erhalten. Gegen das Patent wurde Einspruch eingelegt. Als Einspruchsgründe wurden mangelnde Neuheit und mangelnde erfinderische Tätigkeit geltend gemacht. In der Mitteilung, die über den Einspruch mitteilt, weist die Einspruchsabteilung auch auf eine unzulässige Erweiterung hin. Schlußendlich wird EP-1 ausschließlich aufgrund einer unzulässigen Erweiterung widerrufen. Pregl ist außer sich und möchte in die Beschwerde gehen. Wie ist die Rechtslage?",
-                    "text_en": "#linkwiki#Fritz_Pregl|Fritz Pregl#endlink# has been granted a European patent EP-1 for a method for the examination of chemical substances. An opposition was filed against the patent. Lack of novelty and lack of inventive step were asserted as grounds for opposition. In the communication notifying the opposition, the opposition division also points out an inadmissible extension. In the end, EP-1 is revoked solely on the basis of inadmissible broadening. Pregl is beside himself and wants to appeal. What is the legal situation?",
+                    "text_en": "#linkwiki#Fritz_Pregl|Fritz Pregl#endlink# has been granted a European patent EP-1 for a method for the examination of chemical substances. An opposition was filed against the patent. Lack of novelty and lack of inventive step were asserted as grounds for opposition. In the communication notifying the opposition, the opposition division also points out that the the subject-matter extends beyond the content of the application as filed. In the end, EP-1 is revoked solely on the basis of the extension. Pregl is beside himself and wants to appeal. What is the legal situation?",
                     "text_fr": "#linkwiki#Fritz_Pregl|Fritz Pregl#endlink# a obtenu un brevet européen EP-1 pour une méthode d'examen de substances chimiques. Une opposition a été déposée contre le brevet. Le manque de nouveauté et l'absence d'activité inventive ont été invoqués comme motifs d'opposition. Dans la communication notifiant l'opposition, la division d'opposition signale également une extension inadmissible. Finalement, le brevet EP-1 est révoqué uniquement sur la base d'un élargissement inadmissible. Pregl est hors de lui et veut faire appel. Quelle est la situation juridique ?"
                 },
                 {
