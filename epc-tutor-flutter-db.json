@@ -8029,24 +8029,24 @@
                     "answers_false": [
                         {
                             "text_de": "Harden kann auch nach Ablauf der Einspruchsfrist Einspruch gegen EP-1 einlegen, da bereits ein Einspruchsverfahren anhängig ist.",
-                            "text_en": "Harden may also appeal EP-1 after the deadline for appeals, as there is already an appeal pending.",
+                            "text_en": "Harden may also file an opposition to EP-1 after the deadline for opposition, as there is already an opposition pending.",
                             "text_fr": "Harden peut également faire appel de EP-1 après le délai d'appel, car il y a déjà un appel en cours."
                         },
                         {
-                            "text_de": "Harden kann Young ansprechen. Wenn dieser bereits ist können sie den Einspruch gemeinsam durchführen.",
-                            "text_en": "Harden can speak to Young. If this is willing they can do the appeal together.",
+                            "text_de": "Harden kann Young ansprechen. Wenn dieser bereit ist können sie den Einspruch gemeinsam durchführen.",
+                            "text_en": "Harden can speak to Young. If he is willing they can do the appeal together.",
                             "text_fr": "Harden peut parler à Young. Si celui-ci est d'accord, ils peuvent faire l'appel ensemble."
                         },
                         {
                             "text_de": "Harden kann einen Anwalt als Vertreter bestellen und dann Einspruch einlegen. Vertreter müssen die Einspruchsfrist nicht beachten.",
-                            "text_en": "Harden may appoint an attorney as a representative and then file an objection. Representatives do not have to observe the objection period.",
+                            "text_en": "Harden may appoint an attorney as a representative and then file an opposition. Representatives do not have to observe the opposition period.",
                             "text_fr": "Harden peut désigner un avocat comme représentant et ensuite déposer une objection. Les représentants n'ont pas à respecter la période d'objection."
                         }
                     ],
                     "answers_true": [
                         {
                             "text_de": "Harden kann dem Einspruch gegen EP-1 beitreten.",
-                            "text_en": "Harden may join the opposition to EP-1.",
+                            "text_en": "Harden may intervene in opposition to EP-1.",
                             "text_fr": "Harden pourrait rejoindre l'opposition à EP-1."
                         }
                     ],
@@ -8063,31 +8063,31 @@
                     ],
                     "difficulty": "1",
                     "explanation_de": "Nach einer abgelaufenen Einspruchsfrist kann niemand mehr Einspruch einlegen, um so Partei im Verfahren zu werden. Die Beitrittsfrist beträgt nach #linkepc#r89|Regel 89 EPÜ#endlink# 3 Monate nach Klageerhebung und ist daher noch offen. Harden kann also dem Einspruch von Young beitreten.",
-                    "explanation_en": "Once the opposition period has expired, no one can file an opposition to become a party to the proceedings. According to #linkepc#r89|Rule 89 EPC#endlink#, the time limit for joining is 3 months after filing the action and is therefore still open. Thus, Harden can intervene in Young's opposition.",
+                    "explanation_en": "Once the opposition period has expired, no one can file an opposition to become a party to the proceedings. According to #linkepc#r89|Rule 89 EPC#endlink#, the time limit for intervening is 3 months after filing the action and is therefore still open. Thus, Harden can intervene in Young's opposition.",
                     "explanation_fr": "Une fois le délai d'opposition expiré, personne ne peut faire opposition pour devenir partie à la procédure. Selon la #linkepc#r89|Règle 89 CBE#endlink#, le délai de jonction est de 3 mois après l'introduction du recours et est donc toujours ouvert. Ainsi, Harden peut intervenir dans l'opposition de Young.",
                     "id": 160,
                     "id_old": 113,
                     "normen": "Regel 89 Beitrittsfrist",
                     "startdate": "MO|-2MM",
                     "text_de": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# ist von #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# aus dem europäischen Patent EP-1 wegen der Verwendung einer zellfreien Hefelösung am #date#2#enddate# verklagt worden. Er erkundigt sich und findet heraus, dass die Einspruchsfrist abgelaufen ist. Auch findet er heraus, dass #linkwiki#William_John_Young|William John Young#endlink# bereits Einspruch gegen EP-1 eingelegt hat. Was kann er unternehmen, um seine Aussichten bei der Verletzungsklage zu verbessern?",
-                    "text_en": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# has been sued by #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# out of European patent EP-1 for using a cell-free yeast solution on #date#2#enddate#. He inquires and finds out that the opposition period has already expired. He also finds out that #linkwiki#William_John_Young|William John Young#endlink# has filed an objection to EP-1. What can he do to improve his prospects in the infringement suit?",
+                    "text_en": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# has been sued by #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# out of European patent EP-1 for using a cell-free yeast solution on #date#2#enddate#. He inquires and finds out that the opposition period has already expired. He also finds out that #linkwiki#William_John_Young|William John Young#endlink# has filed an opposition to EP-1. What can he do to improve his prospects in the infringement suit?",
                     "text_fr": "#linkwiki#Arthur_Harden|Arthur Harden#endlink# a été poursuivi par #linkwiki#Eduard_Buchner|Eduard Buchner#endlink# en vertu du brevet européen EP-1 pour avoir utilisé une solution de levure sans cellules le #date#2#enddate#. Il se renseigne et découvre que le délai d'opposition a déjà expiré. Il découvre également que #linkwiki#William_John_Young|William John Young#endlink# a déposé une objection à EP-1. Que peut-il faire pour améliorer ses chances dans le procès en contrefaçon ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Ja, da die Aufnahme von \"aus venezianischem Glas\" zu keiner unzulässigen Erweiterung führt.",
-                            "text_en": "Yes, as the inclusion of \"made of Venetian glass\" does not result in an improper expansion.",
+                            "text_en": "Yes, as the inclusion of \"made of Venetian glass\" does not introduce added subject-matter.",
                             "text_fr": "Oui, car l'inclusion de \"en verre vénitien\" n'entraîne pas une expansion inappropriée."
                         },
                         {
                             "text_de": "Ja, da Aston als Patentinhaber das Beschränkungsverfahren  aufnehmen kann.",
-                            "text_en": "Yes, because Aston, as the patent holder, can take up the restriction proceeding.",
+                            "text_en": "Yes, because Aston, as the patent proprietor, can take up the limitation proceeding.",
                             "text_fr": "Oui, car Aston, en tant que titulaire du brevet, peut engager une procédure de restriction."
                         },
                         {
                             "text_de": "Nein, da ein Beschränkungsverfahren nur bei neuem Stand der Technik beantragt werden kann.",
-                            "text_en": "No, because a restriction procedure can only be requested for new prior art.",
+                            "text_en": "No, because a limitation procedure can only be requested for new prior art.",
                             "text_fr": "Non, car une procédure de restriction ne peut être demandée que pour de nouvelles antériorités."
                         }
                     ],
@@ -8117,24 +8117,24 @@
                     "normen": "Regel 90 Gegenstand des Beschränkungsverfahrens",
                     "startdate": "MO",
                     "text_de": "#linkwiki#Francis_William_Aston|Francis William Aston#endlink# hat eine Gasentladungsröhre entwickelt und im europäischen Patent EP-1 patentiert bekommen. Im Laufe des Erteilungserfahrens hat er das Merkmal \"runde Gläser\" in den erteilten Anspruch 1 aufgenommen. Da in neuester Zeit auch rechteckige Gläser in Mode gekommen sind möchte er ein Beschränkungsverfahren einleiten, um ein Patent EP-2 mit einer anderen Einschränkung zu erhalten. Statt des Merkmals \"runde Gläser\" schwebt ihm das Merkmal \"aus venezianischem Glas\" vor. Das Merkmal \"aus venezianischem Glas\" ist hinreichend offenbart. Die Aufnahme führt also nicht zu einer unzulässigen Erweiterung. Kann Pappos den anvisierten Schutzumfang, also die Aufnahme des Merkmals \"aus venezianischem Glas\" statt \"runde Gläser\" in Anspruch 1, erhalten?",
-                    "text_en": "#linkwiki#Francis_William_Aston|Francis William Aston#endlink# developed a gas discharge tube and got it patented in European patent EP-1. During the granting procedure, he included the feature \"round glasses\" in the granted claim 1. Since rectangular glasses have also become fashionable in recent times, he would like to initiate limitation proceedings to obtain a patent EP-2 with a different limitation. Instead of the feature \"round glasses\" he has in mind the feature \"made of Venetian glass\". The feature \"made of Venetian glass\" is sufficiently disclosed. Thus, the inclusion does not result in an impermissible broadening. Can Aston obtain the envisaged scope of protection, i.e. the inclusion of the feature \"made of Venetian glass\" instead of \"round glasses\" in claim 1?",
+                    "text_en": "#linkwiki#Francis_William_Aston|Francis William Aston#endlink# developed a gas discharge tube and got it patented in European patent EP-1. During the granting procedure, he included the feature \"round glasses\" in the granted claim 1. Since rectangular glasses have also become fashionable in recent times, he would like to initiate limitation proceedings to obtain a patent EP-2 with a different limitation. Instead of the feature \"round glasses\" he has in mind the feature \"made of Venetian glass\". The feature \"made of Venetian glass\" is sufficiently disclosed. Thus, the inclusion does not introduce introduce added subject-matter. Can Aston obtain the envisaged scope of protection, i.e. the inclusion of the feature \"made of Venetian glass\" instead of \"round glasses\" in claim 1?",
                     "text_fr": "#linkwiki#Francis_William_Aston|Francis William Aston#endlink# a mis au point un tube à décharge gazeuse et l'a fait breveter dans le brevet européen EP-1. Au cours de la procédure de délivrance, il a inclus la caractéristique \"lunettes rondes\" dans la revendication 1. Comme les lunettes rectangulaires sont également devenues à la mode ces derniers temps, il souhaite engager une procédure de limitation pour obtenir un brevet EP-2 avec une limitation différente. Au lieu de la caractéristique \"verres ronds\", il a à l'esprit la caractéristique \"en verre vénitien\". La caractéristique \"en verre vénitien\" est suffisamment divulguée. Ainsi, l'inclusion n'entraîne pas un élargissement inadmissible. Aston peut-il obtenir l'étendue de la protection envisagée, c'est-à-dire l'inclusion de la caractéristique \"en verre vénitien\" au lieu de \"verres ronds\" dans la revendication 1 ?"
                 },
                 {
                     "answers_false": [
                         {
                             "text_de": "Von Euler-Chelpin kann Einspruch gegen EP-1 einlegen.",
-                            "text_en": "Von Euler-Chelpin may appeal EP-1.",
+                            "text_en": "Von Euler-Chelpin may file an opposition to EP-1.",
                             "text_fr": "Von Euler-Chelpin peut faire appel de EP-1."
                         },
                         {
                             "text_de": "Von Euler-Chelpin kann eine Nichtigkeitsklage gegen EP-1 einreichen.",
-                            "text_en": "Von Euler-Chelpin may file an action for annulment of EP-1.",
+                            "text_en": "Von Euler-Chelpin may file an action for invalidity of EP-1.",
                             "text_fr": "Von Euler-Chelpin peut déposer un recours en annulation de l'EP-1."
                         },
                         {
                             "text_de": "Von Euler-Chelpin kann dem Einspruch gegen EP-1 beitreten.",
-                            "text_en": "Von Euler-Chelpin may join the opposition to EP-1.",
+                            "text_en": "Von Euler-Chelpin may intervene in the opposition to EP-1.",
                             "text_fr": "Von Euler-Chelpin pourrait rejoindre l'opposition à EP-1."
                         }
                     ],
@@ -8158,7 +8158,7 @@
                     ],
                     "difficulty": "2",
                     "explanation_de": "Die Einspruchsfrist beträgt nach #linkepc#ar99|Artikel 99 EPÜ#endlink# 9 Monate nach Bekanntmachung des Hinweises auf die Erteilung und ist daher abgelaufen. Die Beitrittsfrist beträgt nach #linkepc#r89|Regel 89 EPÜ#endlink# 3 Monate nach Klageerhebung und ist daher abgelaufen. Die Beantragung einer Aussetzung bei einer Verletzungsklage (in Deutschland) ist jederzeit möglich. Ob der Aussetzung statt gegeben wird hängt von den Erfolgsaussichten des Einspruchs statt. Auch muss das Gericht den Einspruch nicht berücksichtigen, da Euler-Chelpin nicht Partei im Einspruchsverfahren ist. Die Nichtigkeitsklage ist nicht zulässig, solange das Einspruchsverfahren läuft. Durch die Reise hat Euler-Chelpin seine Möglichkeiten stark verringert.",
-                    "explanation_en": "The opposition period is deemed to be 9 months after publication of the notice of grant, according to #linkepc#ar99|Article 99 EPC#endlink#, and has therefore expired. In accordance with #linkepc#r89|Rule 89 EPC#endlink#, the time limit for filing an opposition is deemed to be 3 months after the filing of the action and has therefore expired. Requesting a suspension of an infringement action (in Germany) is possible at any time. Whether the suspension is granted depends on the chances of success of the opposition. Also, the court does not have to consider the opposition, as Euler-Chelpin is not a party to the opposition proceedings. The action for annulment is not admissible while the opposition proceedings are pending. By traveling, Euler-Chelpin has greatly reduced his options.",
+                    "explanation_en": "The opposition period is deemed to be 9 months after publication of the notice of grant, according to #linkepc#ar99|Article 99 EPC#endlink#, and has therefore expired. In accordance with #linkepc#r89|Rule 89 EPC#endlink#, the time limit for intervening in an opposition is deemed to be 3 months after the filing of the action and has therefore expired. Requesting a suspension of an infringement action (in Germany) is possible at any time. Whether the suspension is granted depends on the chances of success of the opposition. Also, the court does not have to consider the opposition, as Euler-Chelpin is not a party to the opposition proceedings. The action for invalidity is not admissible while the opposition proceedings are pending. By traveling, Euler-Chelpin has greatly reduced his options.",
                     "explanation_fr": "Le délai d'opposition est réputé être de 9 mois après la publication de l'avis de délivrance, conformément à #linkepc#ar99|Article 99 CBE#endlink#, et a donc expiré. Conformément à #linkepc#r89|Règle 89 CBE#endlink#, le délai pour former une opposition est réputé être de 3 mois après l'introduction du recours et est donc expiré. La demande de suspension d'une action en contrefaçon (en Allemagne) est possible à tout moment. L'octroi de la suspension dépend des chances de succès de l'opposition. De plus, le tribunal n'est pas obligé d'examiner l'opposition, car Euler-Chelpin n'est pas partie à la procédure d'opposition. Le recours en annulation n'est pas recevable tant que la procédure d'opposition est en cours. En voyageant, Euler-Chelpin a considérablement réduit ses options.",
                     "id": 162,
                     "id_old": 116,
